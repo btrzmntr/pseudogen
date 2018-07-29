@@ -4,6 +4,7 @@ RUN apt update && \
 	apt install -y git libboost-all-dev autoconf automake autotools-dev libtool zlib1g-dev cmake build-essential python3 python3-pip wget && \
 	pip3 install nltk
 
+ARG CACHE_DATE=2016-01-01
 RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	cd pseudogen && \
 	./tool_setup.sh && \
@@ -11,3 +12,6 @@ RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	cd data && \
 	wget -O- http://ahclab.naist.jp/pseudogen/en-django.tar.gz | tar zxvf - && \
 	mv en-django/all.* . 
+
+ARG CACHE_DATE=2016-01-01
+RUN git pull

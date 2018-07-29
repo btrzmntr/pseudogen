@@ -14,4 +14,5 @@ RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	mv en-django/all.* . 
 
 ARG CACHE_DATE=2016-01-01
-RUN git pull
+RUN cd pseudogen && \
+    git pull

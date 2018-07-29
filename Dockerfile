@@ -10,4 +10,4 @@ RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	mkdir data && \
 	cd data && \
 	wget -O- http://ahclab.naist.jp/pseudogen/en-django.tar.gz | tar zxvf - && \
-	mv en-django/all.* . && \
+	mv en-django/all.* . 

@@ -19,7 +19,7 @@ if [ "$P_CHECK" != "TRUE" ] || [ "$E_CHECK" != "TRUE" ]; then
     exit 1
 fi
 
-echo "tokenizing python ... " 1>&2
+echo " TESTE tokenizing python ... " 1>&2
 python3 $BASE_DIR/scripts/tokenize-py.py < $PYTHON_FILE > $PYTHON_FILE.pytok
 echo "tokenizing english ... " 1>&2
 python3 $BASE_DIR/scripts/tokenize-en.py < $ENG_FILE > $ENG_FILE.entok

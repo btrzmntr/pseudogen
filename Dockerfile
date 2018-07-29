@@ -11,4 +11,3 @@ RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	cd data && \
 	wget -O- http://ahclab.naist.jp/pseudogen/en-django.tar.gz | tar zxvf - && \
 	mv en-django/all.* . && \
-	../train-pseudogen.sh -p all.code -e all.anno

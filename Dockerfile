@@ -13,6 +13,6 @@ RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	wget -O- http://ahclab.naist.jp/pseudogen/en-django.tar.gz | tar zxvf - && \
 	mv en-django/all.* . 
 
-ARG CACHE_DATE=2016-01-01
+ARG CACHE_DATE=2016-01-02
 RUN cd pseudogen && \
     git pull

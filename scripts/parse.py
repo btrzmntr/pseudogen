@@ -72,8 +72,8 @@ def main():
         parse = parse[0]
         parse = parse.tokens
         dump = makestr(parse)
-	    dump = dump.replace("(Token  )","")
-	    dump = dump.replace("(Token    )","")
+        dump = dump.replace("(Token  )","")
+        dump = dump.replace("(Token    )","" )
         print(dump)
         sys.stdout.flush()
 

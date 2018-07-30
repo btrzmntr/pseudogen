@@ -3,9 +3,9 @@ FROM ubuntu:16.04
 RUN apt update && \
 	apt install -y git libboost-all-dev autoconf automake autotools-dev libtool zlib1g-dev cmake build-essential python3 python3-pip wget && \
 	pip3 install nltk && \
-    pip3 install sqlparse
-
-ARG CACHE_DATE=2016-01-02
+    pip3 install sqlparse && \
+    sysctl vm.swappiness=5
+ARG CACHE_DATE=2016-01-03
 RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	cd pseudogen && \
 	./tool_setup.sh && \

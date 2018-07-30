@@ -47,9 +47,9 @@ for d in train dev test; do
     python3 $BASE_DIR/scripts/extract_words.py word < $d.reducedtree > $d.reducedsurf
 done
 
-echo "making alignment ... " 1>&2
-mkdir align
-$BASE_DIR/tools/pialign/src/bin/pialign train.reducedsurf train.entok align/align.
+#echo "making alignment ... " 1>&2
+#mkdir align
+#$BASE_DIR/tools/pialign/src/bin/pialign train.reducedsurf train.entok align/align.
 
 echo "making language model ... " 1>&2
 mkdir lm

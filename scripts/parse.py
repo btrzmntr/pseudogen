@@ -1,9 +1,11 @@
 #!/usr/bin/python3
 
+import sqlparse
 import ast
 import sys
 import re
 import inspect
+import logging
 
 def typename(x):
     return type(x).__name__

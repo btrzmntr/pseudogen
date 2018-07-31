@@ -9,11 +9,11 @@ ARG CACHE_DATE=2016-01-04
 RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	cd pseudogen && \
 	./tool_setup.sh && \
-	mkdir data && \
+	#mkdir data && \
 	cd data && \
 	wget -O- http://ahclab.naist.jp/pseudogen/en-django.tar.gz | tar zxvf - && \
 	mv en-django/all.* . 
 
-ARG CACHE_DATE=2016-01-05
+ARG CACHE_DATE=2016-01-07
 RUN cd pseudogen && \
     git pull

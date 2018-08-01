@@ -16,5 +16,7 @@ RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 
 ARG CACHE_DATE=2016-01-09
 RUN cd pseudogen && \
+    git config --global user.email "btrzmntr@gmail.com" && \
+    git config --global user.name "Beatriz" && \
     git stash && \
     git pull

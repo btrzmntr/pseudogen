@@ -1,1 +1,1 @@
-select ten rows from table table1 where nro_con is equal 1000
+select ten rows from table table1 where nro_con is equal 100

@@ -1,15 +1,16 @@
+where con_nro_con is equal 1
+one hundred rows from table
+from table table1
+select all data from table
+one row from table
+from table emt002
+select twenty rows from table
 ten rows from table
 from table table1
-select from table
+select two rows from table
 ten rows from table
 from table table1
-select from table
-ten rows from table
-from table table1
-select from table
-ten rows from table
-from table table1
-select from table
+select all data from table
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
 select ten rows from table table3 where nro_con is equal 1002
@@ -30,17 +31,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -62,17 +63,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -94,17 +95,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -126,17 +127,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -158,17 +159,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -190,17 +191,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -222,17 +223,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -254,17 +255,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -286,17 +287,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -318,17 +319,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -350,17 +351,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -382,17 +383,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -414,17 +415,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -446,17 +447,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -478,17 +479,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -510,17 +511,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -542,17 +543,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -574,17 +575,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -606,17 +607,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -638,17 +639,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -670,17 +671,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -702,17 +703,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -734,17 +735,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -766,17 +767,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -798,17 +799,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -830,17 +831,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -862,17 +863,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -894,17 +895,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -926,17 +927,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -958,17 +959,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -990,17 +991,17 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers
 select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
@@ -1022,15 +1023,15 @@ select em_sts from table emt007 where em_con is equal 16
 select em_sts from table emt008 where em_con is equal 17
 select em_sts from table emt009 where em_con is equal 18
 select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
+select all data from table pnt001 where com is equal 2000
+select all data from table pnt002 where com is equal 3000
+select all data from table pnt003 where com is equal 4000
+select all data from table pnt004 where com is equal 5000
+select all data from table pnt005 where com is equal 6000
+select all data from table pnt006 where com is equal 7000
+select all data from table pnt007 where com is equal 8000
+select all data from table pnt008 where com is equal 9000
+select all data from table pnt009 where com is equal 10000
+select all data from table pnt010 where com is equal 11000
+select all data from table pnt011 where com is equal 12000
 select customer, city from table customers

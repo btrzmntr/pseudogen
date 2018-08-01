@@ -1,5 +1,6 @@
+select ten rows from table table1 where nro_con is equal 1000
 select
-select one
+select one row
 where con_nro
 where
 ten rows from table
@@ -14,7 +15,6 @@ select from table
 ten rows from table
 from table table1
 select from table
-select ten rows from table table1 where nro_con is equal 1000
 select ten rows from table table2 where nro_con is equal 1001
 select ten rows from table table3 where nro_con is equal 1002
 select ten rows from table table4 where nro_con is equal 1003

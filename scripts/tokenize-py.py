@@ -14,7 +14,8 @@ def escape(text):
         .replace('(', '-LRB-') \
         .replace(')', '-RRB-') \
         .replace('|', '-BAR-') \
-        .replace('=', '-EQUALS-')
+        .replace('=', '-EQUALS-') \
+        .replace('_', '-')
     return repr(text)[1:-1] if text else '-NONE-'
 
 class Readable:

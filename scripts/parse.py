@@ -76,6 +76,7 @@ def main():
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )
         dump = dump.replace("="," -EQUALS- " )
+        dump = dump.replace("_","-" )
         print(dump)
         sys.stdout.flush()
 

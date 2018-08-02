@@ -19,7 +19,8 @@ def escape(text):
         .replace('\n', '-NL-') \
         .replace('(', '-LRB-') \
         .replace(')', '-RRB-') \
-        .replace('|', '-BAR-')
+        .replace('|', '-BAR-') \
+        .replace('=', '-EQUALS-')
     return repr(text)[1:-1] if text else '-NONE-'
 
 def makestr(node):

@@ -75,7 +75,7 @@ def main():
         dump = makestr(parse)
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )
-        dump = dump.replace("=","-EQUALS-" )
+        dump = dump.replace("="," -EQUALS- " )
         print(dump)
         sys.stdout.flush()
 

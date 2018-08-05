@@ -20,7 +20,8 @@ def escape(text):
         .replace('(', '-LRB-') \
         .replace(')', '-RRB-') \
         .replace('|', '-BAR-') \
-        .replace('=', '-EQUALS-')
+        .replace('=', '-EQUALS-') \
+        .replace('*', '-ALL-')
     return repr(text)[1:-1] if text else '-NONE-'
 
 def makestr(node):
@@ -76,8 +77,8 @@ def main():
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )
         dump = dump.replace("="," -EQUALS- " )
-        dump = dump.replace("_","" )
-        dump = dump.replace("Where where","Where" )
+        dump = dump.replace("_","")
+        dump = dump.replace("*", "-ALL-")
         print(dump)
         sys.stdout.flush()
 

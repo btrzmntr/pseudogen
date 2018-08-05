@@ -1,1040 +1,160 @@
-select ten rows from table table1 where nro_con is equal 1000
+select all rows
+select all rows from
+from table called cars
+from table called table
+all rows from table called table
 select
-select one row
-where con_nro
-where
-ten rows from table
-from table table1
-select from table
-ten rows from table
-from table table1
-select from table
-ten rows from table
-from table table1
-select from table
-ten rows from table
-from table table1
-select from table
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
-select ten rows from table table1 where nro_con is equal 1000
-select ten rows from table table2 where nro_con is equal 1001
-select ten rows from table table3 where nro_con is equal 1002
-select ten rows from table table4 where nro_con is equal 1003
-select ten rows from table table5 where nro_con is equal 1004
-select ten rows from table table6 where nro_con is equal 1005
-select ten rows from table table7 where nro_con is equal 1006
-select ten rows from table table8 where nro_con is equal 1007
-select ten rows from table table9 where nro_con is equal 1008
-select ten rows from table table10 where nro_con is equal 1009
-select em_sts from table emt001 where em_con is equal 10
-select em_sts from table emt002 where em_con is equal 11
-select em_sts from table emt003 where em_con is equal 12
-select em_sts from table emt004 where em_con is equal 13
-select em_sts from table emt005 where em_con is equal 14
-select em_sts from table emt006 where em_con is equal 15
-select em_sts from table emt007 where em_con is equal 16
-select em_sts from table emt008 where em_con is equal 17
-select em_sts from table emt009 where em_con is equal 18
-select em_sts from table emt010 where em_con is equal 19
-select from table pnt001 where com is equal 2000
-select from table pnt002 where com is equal 3000
-select from table pnt003 where com is equal 4000
-select from table pnt004 where com is equal 5000
-select from table pnt005 where com is equal 6000
-select from table pnt006 where com is equal 7000
-select from table pnt007 where com is equal 8000
-select from table pnt008 where com is equal 9000
-select from table pnt009 where com is equal 10000
-select from table pnt010 where com is equal 11000
-select from table pnt011 where com is equal 12000
-select customer, city from table customers
+select all rows from table called series
+from table called series
+from
+all rows
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called cars
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called costumers
+select all rows from table called city
+select all rows from table called city
+select all rows from table called city
+select all rows from table called city
+select all rows from table called city
+select all rows from table called city
+select all rows from table called city
+select all rows from table called city
+select all rows from table called city
+select all rows from table called city
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called stores
+select all rows from table called products
+select all rows from table called products
+select all rows from table called products
+select all rows from table called products
+select all rows from table called products
+select all rows from table called products
+select all rows from table called products
+select all rows from table called products
+select all rows from table called products
+select all rows from table called products
+select all rows from table called films
+select all rows from table called films
+select all rows from table called films
+select all rows from table called films
+select all rows from table called films
+select all rows from table called films
+select all rows from table called films
+select all rows from table called films
+select all rows from table called films
+select all rows from table called films
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called settings
+select all rows from table called info
+select all rows from table called info
+select all rows from table called info
+select all rows from table called info
+select all rows from table called info
+select all rows from table called info
+select all rows from table called info
+select all rows from table called info
+select all rows from table called info
+select all rows from table called info
+select all rows from table called users
+select all rows from table called users
+select all rows from table called users
+select all rows from table called users
+select all rows from table called users
+select all rows from table called users
+select all rows from table called users
+select all rows from table called users
+select all rows from table called users
+select all rows from table called users
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called pieces
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called preferences
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called drinks
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called gifts
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called shopping
+select all rows from table called table
+select all rows from table called table 
+select all rows from table called table
+select all rows from table called table 
+select all rows from table called table
+select all rows from table called table 
+select all rows from table called table
+select all rows from table called table 
+select all rows from table called table
+select all rows from table called table

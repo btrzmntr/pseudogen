@@ -70,7 +70,7 @@ def main():
             print()
             sys.stdout.flush()
             continue
-        parse = sqlparse.parse(l)
+        parse = sqlparse.parse(l)[0]
         #parse = parse[0] 
         #parse = parse.tokens
         parse = list(parse.flatten()) #teste flatten

@@ -1208,3 +1208,4 @@ select * from fantastic
 select * from nose
 select * from look
 select * from tearful
+select * from help

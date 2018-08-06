@@ -71,8 +71,9 @@ def main():
             sys.stdout.flush()
             continue
         parse = sqlparse.parse(l)
-        parse = parse[0]
-        parse = parse.tokens
+        #parse = parse[0] 
+        #parse = parse.tokens
+        parse = list(parse.flatten()) #teste flatten
         dump = makestr(parse)
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )

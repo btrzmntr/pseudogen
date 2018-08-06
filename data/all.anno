@@ -1209,7 +1209,6 @@ select all rows from table called nose
 select all rows from table called look
 select all rows from table called tearful
 select all rows from table called help
-
 select all rows from table called ignorant where useless is equal 1 
 select all rows from table called mom where husky is equal 1 
 select all rows from table called automatic where disagreeable is equal 1 

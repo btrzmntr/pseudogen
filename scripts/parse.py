@@ -73,15 +73,15 @@ def main():
         parse = sqlparse.parse(l)
         parse = parse[0]
         parse = parse.tokens
-        #dump = makestr(parse)
-        #dump = dump.replace("(Token  )","")
-        #dump = dump.replace("(Token    )","" )
-        #dump = dump.replace("="," -EQUALS- " )
-        #dump = dump.replace("_","")
-        #dump = dump.replace("*", "-ALL-")
-        #dump = dump.replace("Where where", "Where")
-        #print(dump)
-        print(parse) #teste para avaliar o parse
+        dump = makestr(parse)
+        dump = dump.replace("(Token  )","")
+        dump = dump.replace("(Token    )","" )
+        dump = dump.replace("="," -EQUALS- " )
+        dump = dump.replace("_","")
+        dump = dump.replace("*", "-ALL-")
+        dump = dump.replace("Where where", "Where")
+        print(dump)
+        #print(parse) #teste para avaliar o parse
         sys.stdout.flush()
 
 if __name__ == '__main__':

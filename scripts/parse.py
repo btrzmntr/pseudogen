@@ -79,6 +79,7 @@ def main():
         dump = dump.replace("="," -EQUALS- " )
         dump = dump.replace("_","")
         dump = dump.replace("*", "-ALL-")
+        dump = dump.replace("Where where", "Where")
         print(dump)
         sys.stdout.flush()
 

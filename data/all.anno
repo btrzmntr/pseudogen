@@ -1290,3 +1290,4 @@ select all rows from table called cherry where compare is equal 77 and a is equa
 select all rows from table called evanescent where move is equal 78 and b is equal 19
 select all rows from table called worthless where offend is equal 79 and a is equal 20
 select all rows from table called throat where dramatic is equal 80 and b is equal 20
+status is equal open

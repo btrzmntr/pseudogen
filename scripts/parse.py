@@ -79,7 +79,7 @@ def main():
         dump = dump.replace("(Token    )","" )
         dump = dump.replace("="," -EQUALS- " )
         dump = dump.replace("_","")
-        dump = dump.replace("*", "-ALL-")
+        dump = dump.replace("*", " -ALL- ")
         #dump = dump.replace("Where where", "Where")
         #dump = dump.replace("(Where fanatical -EQUALS- '1')", "(Token where) (Identifier fanatical) (Token -EQUALS-) (Identifier '1')")
         print(dump)

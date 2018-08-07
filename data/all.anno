@@ -1250,3 +1250,43 @@ select all rows from table called kindhearted where leg is equal 37
 select all rows from table called ducks where wave is equal 38
 select all rows from table called smelly where blood is equal 39
 select all rows from table called birds where shocking is equal 40
+select all rows from table called bright where satisfying is equal 41 and a is equal 1
+select all rows from table called maid where grey is equal 42 and b is equal 1
+select all rows from table called connection where aftermath is equal 43 and a is equal 2
+select all rows from table called please where own is equal 44 and b is equal 2
+select all rows from table called disagreeable where fly is equal 45 and a is equal 3
+select all rows from table called dynamic where quilt is equal 46 and b is equal 3
+select all rows from table called scrape where confuse is equal 47 and a is equal 4
+select all rows from table called free where light is equal 48 and b is equal 4
+select all rows from table called cute where thick is equal 49 and a is equal 5
+select all rows from table called cultured where clean is equal 50 and b is equal 5
+select all rows from table called deadpan where steer is equal 51 and a is equal 6
+select all rows from table called regular where hall is equal 52 and b is equal 6
+select all rows from table called love where excite is equal 53 and a is equal 7
+select all rows from table called strengthen where earthquake is equal 54 and b is equal 7
+select all rows from table called match where nosy is equal 55 and a is equal 8
+select all rows from table called imperfect where control is equal 56 and b is equal 8
+select all rows from table called rate where billowy is equal 57 and a is equal 9
+select all rows from table called absent where great is equal 58 and b is equal 9
+select all rows from table called squirrel where resonant is equal 59 and a is equal 10
+select all rows from table called book where open is equal 60 and b is equal 10
+select all rows from table called taste where vessel is equal 61 and a is equal 11
+select all rows from table called itch where spiky is equal 62 and b is equal 11
+select all rows from table called amused where oatmeal is equal 63 and a is equal 12
+select all rows from table called test where grin is equal 64 and b is equal 12
+select all rows from table called courageous where mere is equal 65 and a is equal 13
+select all rows from table called damaging where tranquil is equal 66 and b is equal 13
+select all rows from table called shock where sneeze is equal 67 and a is equal 14
+select all rows from table called competition where flavor is equal 68 and b is equal 14
+select all rows from table called average where receive is equal 69 and a is equal 15
+select all rows from table called annoying where bloody is equal 70 and b is equal 15
+select all rows from table called science where seal is equal 71 and a is equal 16
+select all rows from table called wistful where energetic is equal 72 and b is equal 16
+select all rows from table called exclusive where adorable is equal 73 and a is equal 17
+select all rows from table called hate where fasten is equal 74 and b is equal 17
+select all rows from table called mug where hulking is equal 75 and a is equal 18
+select all rows from table called daily where determined is equal 76 and b is equal 18
+select all rows from table called cherry where compare is equal 77 and a is equal 19
+select all rows from table called evanescent where move is equal 78 and b is equal 19
+select all rows from table called worthless where offend is equal 79 and a is equal 20
+select all rows from table called throat where dramatic is equal 80 and b is equal 20

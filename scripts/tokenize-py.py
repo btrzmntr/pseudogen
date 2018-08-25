@@ -15,6 +15,8 @@ def escape(text):
         .replace(')', '-RRB-') \
         .replace('|', '-BAR-') \
         .replace('=', '-EQUALS-') \
+        .replace('<', '-LESS-') \
+        .replace('>', '-GREATER-') \
         .replace('_', '-')
     return repr(text)[1:-1] if text else '-NONE-'
 

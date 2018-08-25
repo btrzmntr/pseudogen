@@ -1,1293 +1,1493 @@
-select all rows
-select all rows from
+select all columns
+select all columns from
 from table called cars
 from table called table
-all rows from table called table
+all columns from table called table
 select
-select all rows from table called series
+select all columns from table called series
 from table called series
 from
-all rows
-select all rows from table called ignorant
-select all rows from table called mom
-select all rows from table called automatic
-select all rows from table called hand
-select all rows from table called industrious
-select all rows from table called eggnog
-select all rows from table called foolish
-select all rows from table called badge
-select all rows from table called art
-select all rows from table called milky
-select all rows from table called occur
-select all rows from table called sweater
-select all rows from table called elated
-select all rows from table called stomach
-select all rows from table called mushy
-select all rows from table called deliver
-select all rows from table called dizzy
-select all rows from table called buzz
-select all rows from table called encourage
-select all rows from table called ignore
-select all rows from table called design
-select all rows from table called cub
-select all rows from table called versed
-select all rows from table called tawdry
-select all rows from table called victorious
-select all rows from table called parallel
-select all rows from table called picayune
-select all rows from table called super
-select all rows from table called camp
-select all rows from table called crooked
-select all rows from table called bleach
-select all rows from table called decision
-select all rows from table called trade
-select all rows from table called jittery
-select all rows from table called try
-select all rows from table called structure
-select all rows from table called kindhearted
-select all rows from table called ducks
-select all rows from table called smelly
-select all rows from table called birds
-select all rows from table called bright
-select all rows from table called maid
-select all rows from table called connection
-select all rows from table called please
-select all rows from table called disagreeable
-select all rows from table called dynamic
-select all rows from table called scrape
-select all rows from table called free
-select all rows from table called cute
-select all rows from table called cultured
-select all rows from table called deadpan
-select all rows from table called regular
-select all rows from table called love
-select all rows from table called strengthen
-select all rows from table called match
-select all rows from table called imperfect
-select all rows from table called rate
-select all rows from table called absent
-select all rows from table called squirrel
-select all rows from table called book
-select all rows from table called taste
-select all rows from table called itch
-select all rows from table called amused
-select all rows from table called test
-select all rows from table called courageous
-select all rows from table called damaging
-select all rows from table called shock
-select all rows from table called competition
-select all rows from table called average
-select all rows from table called annoying
-select all rows from table called science
-select all rows from table called wistful
-select all rows from table called exclusive
-select all rows from table called hate
-select all rows from table called mug
-select all rows from table called daily
-select all rows from table called cherry
-select all rows from table called evanescent
-select all rows from table called worthless
-select all rows from table called throat
-select all rows from table called disapprove
-select all rows from table called camera
-select all rows from table called needless
-select all rows from table called cloth
-select all rows from table called rice
-select all rows from table called fluffy
-select all rows from table called possessive
-select all rows from table called chicken
-select all rows from table called unit
-select all rows from table called probable
-select all rows from table called mate
-select all rows from table called circle
-select all rows from table called scarce
-select all rows from table called island
-select all rows from table called shaggy
-select all rows from table called giddy
-select all rows from table called juice
-select all rows from table called punishment
-select all rows from table called wax
-select all rows from table called fit
-select all rows from table called skip
-select all rows from table called ritzy
-select all rows from table called promise
-select all rows from table called safe
-select all rows from table called help
-select all rows from table called substance
-select all rows from table called distinct
-select all rows from table called marry
-select all rows from table called save
-select all rows from table called panicky
-select all rows from table called bee
-select all rows from table called afterthought
-select all rows from table called impulse
-select all rows from table called aloof
-select all rows from table called visit
-select all rows from table called memory
-select all rows from table called careful
-select all rows from table called dark
-select all rows from table called fragile
-select all rows from table called rose
-select all rows from table called health
-select all rows from table called raise
-select all rows from table called disappear
-select all rows from table called turn
-select all rows from table called tick
-select all rows from table called grape
-select all rows from table called tiny
-select all rows from table called name
-select all rows from table called silver
-select all rows from table called six
-select all rows from table called sweet
-select all rows from table called striped
-select all rows from table called outgoing
-select all rows from table called warm
-select all rows from table called practise
-select all rows from table called swanky
-select all rows from table called wood
-select all rows from table called toy
-select all rows from table called lively
-select all rows from table called plough
-select all rows from table called decorate
-select all rows from table called sleepy
-select all rows from table called wrestle
-select all rows from table called perpetual
-select all rows from table called agreeable
-select all rows from table called impress
-select all rows from table called settle
-select all rows from table called kick
-select all rows from table called describe
-select all rows from table called cowardly
-select all rows from table called arrest
-select all rows from table called manage
-select all rows from table called trite
-select all rows from table called army
-select all rows from table called chief
-select all rows from table called knee
-select all rows from table called useful
-select all rows from table called true
-select all rows from table called north
-select all rows from table called stretch
-select all rows from table called damaged
-select all rows from table called absurd
-select all rows from table called juggle
-select all rows from table called servant
-select all rows from table called slow
-select all rows from table called jail
-select all rows from table called wide
-select all rows from table called unhealthy
-select all rows from table called superficial
-select all rows from table called risk
-select all rows from table called annoyed
-select all rows from table called recognise
-select all rows from table called macho
-select all rows from table called tray
-select all rows from table called tacky
-select all rows from table called remind
-select all rows from table called unused
-select all rows from table called scrub
-select all rows from table called quarrelsome
-select all rows from table called fearless
-select all rows from table called ablaze
-select all rows from table called sort
-select all rows from table called high
-select all rows from table called flame
-select all rows from table called statement
-select all rows from table called lush
-select all rows from table called add
-select all rows from table called level
-select all rows from table called grease
-select all rows from table called channel
-select all rows from table called wish
-select all rows from table called luxuriant
-select all rows from table called resonant
-select all rows from table called burst
-select all rows from table called curtain
-select all rows from table called value
-select all rows from table called remain
-select all rows from table called tall
-select all rows from table called healthy
-select all rows from table called jumbled
-select all rows from table called waste
-select all rows from table called boast
-select all rows from table called ceaseless
-select all rows from table called iron
-select all rows from table called jaded
-select all rows from table called respect
-select all rows from table called examine
-select all rows from table called impartial
-select all rows from table called float
-select all rows from table called naughty
-select all rows from table called boiling
-select all rows from table called destroy
-select all rows from table called auspicious
-select all rows from table called comparison
-select all rows from table called tax
-select all rows from table called rare
-select all rows from table called abiding
-select all rows from table called writing
-select all rows from table called glamorous
-select all rows from table called eight
-select all rows from table called repulsive
-select all rows from table called weight
-select all rows from table called male
-select all rows from table called toys
-select all rows from table called monkey
-select all rows from table called leg
-select all rows from table called thread
-select all rows from table called zipper
-select all rows from table called summer
-select all rows from table called knowledge
-select all rows from table called wild
-select all rows from table called meeting
-select all rows from table called protect
-select all rows from table called term
-select all rows from table called fork
-select all rows from table called river
-select all rows from table called dolls
-select all rows from table called flawless
-select all rows from table called busy
-select all rows from table called flowery
-select all rows from table called pump
-select all rows from table called thick
-select all rows from table called cattle
-select all rows from table called accidental
-select all rows from table called befitting
-select all rows from table called imported
-select all rows from table called grey
-select all rows from table called penitent
-select all rows from table called rhetorical
-select all rows from table called better
-select all rows from table called suck
-select all rows from table called embarrass
-select all rows from table called worry
-select all rows from table called cheer
-select all rows from table called fall
-select all rows from table called adventurous
-select all rows from table called obscene
-select all rows from table called crush
-select all rows from table called imaginary
-select all rows from table called fretful
-select all rows from table called miscreant
-select all rows from table called premium
-select all rows from table called five
-select all rows from table called plan
-select all rows from table called line
-select all rows from table called alike
-select all rows from table called crazy
-select all rows from table called sloppy
-select all rows from table called aftermath
-select all rows from table called sprout
-select all rows from table called religion
-select all rows from table called cause
-select all rows from table called smoke
-select all rows from table called lean
-select all rows from table called month
-select all rows from table called questionable
-select all rows from table called scream
-select all rows from table called chase
-select all rows from table called cool
-select all rows from table called wound
-select all rows from table called bumpy
-select all rows from table called capable
-select all rows from table called chew
-select all rows from table called kill
-select all rows from table called scientific
-select all rows from table called cagey
-select all rows from table called stitch
-select all rows from table called approve
-select all rows from table called agreement
-select all rows from table called mine
-select all rows from table called poised
-select all rows from table called steep
-select all rows from table called tense
-select all rows from table called educate
-select all rows from table called happen
-select all rows from table called madly
-select all rows from table called ring
-select all rows from table called plant
-select all rows from table called gun
-select all rows from table called crabby
-select all rows from table called signal
-select all rows from table called alcoholic
-select all rows from table called cast
-select all rows from table called pink
-select all rows from table called threatening
-select all rows from table called expensive
-select all rows from table called yawn
-select all rows from table called unique
-select all rows from table called nerve
-select all rows from table called spotless
-select all rows from table called front
-select all rows from table called workable
-select all rows from table called foregoing
-select all rows from table called utter
-select all rows from table called little
-select all rows from table called yarn
-select all rows from table called scintillating
-select all rows from table called nimble
-select all rows from table called close
-select all rows from table called cheese
-select all rows from table called flimsy
-select all rows from table called craven
-select all rows from table called wind
-select all rows from table called cellar
-select all rows from table called imagine
-select all rows from table called spoil
-select all rows from table called suppose
-select all rows from table called meal
-select all rows from table called lame
-select all rows from table called adjoining
-select all rows from table called watch
-select all rows from table called oatmeal
-select all rows from table called ear
-select all rows from table called roll
-select all rows from table called food
-select all rows from table called whirl
-select all rows from table called kiss
-select all rows from table called sisters
-select all rows from table called battle
-select all rows from table called common
-select all rows from table called remember
-select all rows from table called exciting
-select all rows from table called robust
-select all rows from table called activity
-select all rows from table called judge
-select all rows from table called spotted
-select all rows from table called huge
-select all rows from table called back
-select all rows from table called corn
-select all rows from table called tour
-select all rows from table called chubby
-select all rows from table called jolly
-select all rows from table called guarded
-select all rows from table called obtainable
-select all rows from table called claim
-select all rows from table called acoustic
-select all rows from table called whip
-select all rows from table called early
-select all rows from table called hall
-select all rows from table called fire
-select all rows from table called root
-select all rows from table called expect
-select all rows from table called tasty
-select all rows from table called toothsome
-select all rows from table called question
-select all rows from table called toothpaste
-select all rows from table called elegant
-select all rows from table called graceful
-select all rows from table called amount
-select all rows from table called illegal
-select all rows from table called rampant
-select all rows from table called serious
-select all rows from table called warm
-select all rows from table called jump
-select all rows from table called internal
-select all rows from table called fruit
-select all rows from table called old
-select all rows from table called kneel
-select all rows from table called clever
-select all rows from table called join
-select all rows from table called fierce
-select all rows from table called pleasant
-select all rows from table called reading
-select all rows from table called outstanding
-select all rows from table called spare
-select all rows from table called allow
-select all rows from table called ajar
-select all rows from table called teaching
-select all rows from table called interesting
-select all rows from table called peaceful
-select all rows from table called produce
-select all rows from table called tendency
-select all rows from table called meat
-select all rows from table called laugh
-select all rows from table called breath
-select all rows from table called turn
-select all rows from table called festive
-select all rows from table called acoustics
-select all rows from table called flower
-select all rows from table called receptive
-select all rows from table called gigantic
-select all rows from table called separate
-select all rows from table called temper
-select all rows from table called gentle
-select all rows from table called stretch
-select all rows from table called overwrought
-select all rows from table called sneaky
-select all rows from table called sturdy
-select all rows from table called vivacious
-select all rows from table called dreary
-select all rows from table called drown
-select all rows from table called earth
-select all rows from table called calculator
-select all rows from table called soothe
-select all rows from table called vast
-select all rows from table called cake
-select all rows from table called frog
-select all rows from table called found
-select all rows from table called start
-select all rows from table called aggressive
-select all rows from table called ice
-select all rows from table called pricey
-select all rows from table called disarm
-select all rows from table called houses
-select all rows from table called finger
-select all rows from table called tree
-select all rows from table called race
-select all rows from table called spotty
-select all rows from table called old
-select all rows from table called paltry
-select all rows from table called fowl
-select all rows from table called gleaming
-select all rows from table called tiger
-select all rows from table called educated
-select all rows from table called entertaining
-select all rows from table called lumpy
-select all rows from table called calculating
-select all rows from table called creature
-select all rows from table called disillusioned
-select all rows from table called discussion
-select all rows from table called spiteful
-select all rows from table called general
-select all rows from table called partner
-select all rows from table called bear
-select all rows from table called attract
-select all rows from table called bike
-select all rows from table called beneficial
-select all rows from table called bucket
-select all rows from table called nervous
-select all rows from table called relax
-select all rows from table called word
-select all rows from table called sheep
-select all rows from table called dramatic
-select all rows from table called instruct
-select all rows from table called oval
-select all rows from table called bright
-select all rows from table called mailbox
-select all rows from table called unnatural
-select all rows from table called fail
-select all rows from table called order
-select all rows from table called slip
-select all rows from table called trace
-select all rows from table called brown
-select all rows from table called green
-select all rows from table called refuse
-select all rows from table called futuristic
-select all rows from table called planes
-select all rows from table called puncture
-select all rows from table called delicate
-select all rows from table called complain
-select all rows from table called miss
-select all rows from table called rude
-select all rows from table called prick
-select all rows from table called wicked
-select all rows from table called type
-select all rows from table called hot
-select all rows from table called home
-select all rows from table called blue
-select all rows from table called bubble
-select all rows from table called society
-select all rows from table called press
-select all rows from table called reason
-select all rows from table called boorish
-select all rows from table called flock
-select all rows from table called therapeutic
-select all rows from table called naive
-select all rows from table called rainy
-select all rows from table called heat
-select all rows from table called grotesque
-select all rows from table called shocking
-select all rows from table called terrify
-select all rows from table called cakes
-select all rows from table called wall
-select all rows from table called racial
-select all rows from table called watery
-select all rows from table called distribution
-select all rows from table called zephyr
-select all rows from table called yoke
-select all rows from table called wise
-select all rows from table called tow
-select all rows from table called famous
-select all rows from table called maddening
-select all rows from table called tent
-select all rows from table called duck
-select all rows from table called invent
-select all rows from table called taste
-select all rows from table called glib
-select all rows from table called dare
-select all rows from table called bang
-select all rows from table called son
-select all rows from table called thaw
-select all rows from table called round
-select all rows from table called abnormal
-select all rows from table called nation
-select all rows from table called mask
-select all rows from table called dream
-select all rows from table called force
-select all rows from table called chess
-select all rows from table called copper
-select all rows from table called hover
-select all rows from table called property
-select all rows from table called lace
-select all rows from table called fertile
-select all rows from table called direful
-select all rows from table called thought
-select all rows from table called ordinary
-select all rows from table called sudden
-select all rows from table called parcel
-select all rows from table called jazzy
-select all rows from table called size
-select all rows from table called sack
-select all rows from table called sky
-select all rows from table called judicious
-select all rows from table called rock
-select all rows from table called stingy
-select all rows from table called flow
-select all rows from table called unkempt
-select all rows from table called spill
-select all rows from table called amazing
-select all rows from table called inform
-select all rows from table called quirky
-select all rows from table called bead
-select all rows from table called grate
-select all rows from table called blue
-select all rows from table called decide
-select all rows from table called tail
-select all rows from table called cable
-select all rows from table called insect
-select all rows from table called aboard
-select all rows from table called suit
-select all rows from table called hydrant
-select all rows from table called yak
-select all rows from table called axiomatic
-select all rows from table called scent
-select all rows from table called pastoral
-select all rows from table called scale
-select all rows from table called hammer
-select all rows from table called fill
-select all rows from table called permissible
-select all rows from table called jobless
-select all rows from table called squeamish
-select all rows from table called rain
-select all rows from table called previous
-select all rows from table called hospital
-select all rows from table called prefer
-select all rows from table called taboo
-select all rows from table called bells
-select all rows from table called transport
-select all rows from table called subdued
-select all rows from table called pencil
-select all rows from table called ugly
-select all rows from table called overjoyed
-select all rows from table called shiver
-select all rows from table called quick
-select all rows from table called show
-select all rows from table called reflective
-select all rows from table called zany
-select all rows from table called grandiose
-select all rows from table called attack
-select all rows from table called suit
-select all rows from table called arithmetic
-select all rows from table called rinse
-select all rows from table called harbor
-select all rows from table called check
-select all rows from table called saw
-select all rows from table called underwear
-select all rows from table called frequent
-select all rows from table called current
-select all rows from table called ray
-select all rows from table called discover
-select all rows from table called waiting
-select all rows from table called authority
-select all rows from table called disgusting
-select all rows from table called flashy
-select all rows from table called pear
-select all rows from table called produce
-select all rows from table called defeated
-select all rows from table called tumble
-select all rows from table called aspiring
-select all rows from table called square
-select all rows from table called weak
-select all rows from table called bulb
-select all rows from table called communicate
-select all rows from table called massive
-select all rows from table called cheap
-select all rows from table called trip
-select all rows from table called curl
-select all rows from table called secretary
-select all rows from table called step
-select all rows from table called exuberant
-select all rows from table called vein
-select all rows from table called receive
-select all rows from table called rabid
-select all rows from table called strange
-select all rows from table called fence
-select all rows from table called gold
-select all rows from table called cough
-select all rows from table called wait
-select all rows from table called animated
-select all rows from table called hope
-select all rows from table called real
-select all rows from table called abortive
-select all rows from table called pine
-select all rows from table called plantation
-select all rows from table called overflow
-select all rows from table called functional
-select all rows from table called count
-select all rows from table called uneven
-select all rows from table called skirt
-select all rows from table called fascinated
-select all rows from table called fry
-select all rows from table called paint
-select all rows from table called eyes
-select all rows from table called friends
-select all rows from table called grade
-select all rows from table called nine
-select all rows from table called march
-select all rows from table called tiny
-select all rows from table called detect
-select all rows from table called resolute
-select all rows from table called stiff
-select all rows from table called hop
-select all rows from table called bitter
-select all rows from table called time
-select all rows from table called incredible
-select all rows from table called instrument
-select all rows from table called debonair
-select all rows from table called beginner
-select all rows from table called tiresome
-select all rows from table called false
-select all rows from table called jog
-select all rows from table called place
-select all rows from table called future
-select all rows from table called shut
-select all rows from table called boot
-select all rows from table called trousers
-select all rows from table called political
-select all rows from table called drag
-select all rows from table called paste
-select all rows from table called own
-select all rows from table called mess up
-select all rows from table called number
-select all rows from table called rule
-select all rows from table called abandoned
-select all rows from table called smooth
-select all rows from table called cactus
-select all rows from table called erect
-select all rows from table called broad
-select all rows from table called chickens
-select all rows from table called camp
-select all rows from table called obese
-select all rows from table called trees
-select all rows from table called treatment
-select all rows from table called inject
-select all rows from table called carriage
-select all rows from table called raspy
-select all rows from table called trade
-select all rows from table called delightful
-select all rows from table called development
-select all rows from table called tomatoes
-select all rows from table called record
-select all rows from table called empty
-select all rows from table called annoy
-select all rows from table called bump
-select all rows from table called battle
-select all rows from table called ambiguous
-select all rows from table called breathe
-select all rows from table called yielding
-select all rows from table called look
-select all rows from table called sleet
-select all rows from table called hanging
-select all rows from table called trail
-select all rows from table called earn
-select all rows from table called believe
-select all rows from table called melodic
-select all rows from table called hospitable
-select all rows from table called rhythm
-select all rows from table called pollution
-select all rows from table called fog
-select all rows from table called brake
-select all rows from table called appreciate
-select all rows from table called mean
-select all rows from table called death
-select all rows from table called mist
-select all rows from table called pull
-select all rows from table called use
-select all rows from table called tongue
-select all rows from table called children
-select all rows from table called trip
-select all rows from table called selfish
-select all rows from table called actor
-select all rows from table called bare
-select all rows from table called ship
-select all rows from table called spoon
-select all rows from table called enter
-select all rows from table called nappy
-select all rows from table called clip
-select all rows from table called boat
-select all rows from table called elderly
-select all rows from table called hungry
-select all rows from table called bake
-select all rows from table called unequal
-select all rows from table called observation
-select all rows from table called interrupt
-select all rows from table called slope
-select all rows from table called black
-select all rows from table called phobic
-select all rows from table called snow
-select all rows from table called dust
-select all rows from table called long
-select all rows from table called willing
-select all rows from table called valuable
-select all rows from table called curved
-select all rows from table called print
-select all rows from table called coordinated
-select all rows from table called brass
-select all rows from table called ruddy
-select all rows from table called porter
-select all rows from table called bikes
-select all rows from table called wren
-select all rows from table called position
-select all rows from table called placid
-select all rows from table called guess
-select all rows from table called detailed
-select all rows from table called market
-select all rows from table called equal
-select all rows from table called pancake
-select all rows from table called shirt
-select all rows from table called scene
-select all rows from table called tough
-select all rows from table called bolt
-select all rows from table called whip
-select all rows from table called quickest
-select all rows from table called hum
-select all rows from table called fetch
-select all rows from table called entertain
-select all rows from table called barbarous
-select all rows from table called psychedelic
-select all rows from table called argue
-select all rows from table called faint
-select all rows from table called motionless
-select all rows from table called ten
-select all rows from table called changeable
-select all rows from table called bewildered
-select all rows from table called labored
-select all rows from table called expand
-select all rows from table called mint
-select all rows from table called reject
-select all rows from table called milk
-select all rows from table called lie
-select all rows from table called wary
-select all rows from table called punch
-select all rows from table called invincible
-select all rows from table called wandering
-select all rows from table called stage
-select all rows from table called habitual
-select all rows from table called telling
-select all rows from table called cough
-select all rows from table called pig
-select all rows from table called mend
-select all rows from table called accurate
-select all rows from table called unadvised
-select all rows from table called tremble
-select all rows from table called ambitious
-select all rows from table called untidy
-select all rows from table called fixed
-select all rows from table called gullible
-select all rows from table called nasty
-select all rows from table called condemned
-select all rows from table called scratch
-select all rows from table called account
-select all rows from table called pies
-select all rows from table called fair
-select all rows from table called shoes
-select all rows from table called eminent
-select all rows from table called owe
-select all rows from table called vest
-select all rows from table called sail
-select all rows from table called sneeze
-select all rows from table called harsh
-select all rows from table called unequaled
-select all rows from table called satisfying
-select all rows from table called board
-select all rows from table called hesitant
-select all rows from table called dirty
-select all rows from table called vague
-select all rows from table called box
-select all rows from table called hammer
-select all rows from table called plane
-select all rows from table called fuzzy
-select all rows from table called pick
-select all rows from table called clammy
-select all rows from table called elite
-select all rows from table called lumber
-select all rows from table called same
-select all rows from table called witty
-select all rows from table called vigorous
-select all rows from table called enchanted
-select all rows from table called apologise
-select all rows from table called guide
-select all rows from table called infamous
-select all rows from table called license
-select all rows from table called play
-select all rows from table called telephone
-select all rows from table called icy
-select all rows from table called crook
-select all rows from table called stroke
-select all rows from table called wrist
-select all rows from table called shop
-select all rows from table called understood
-select all rows from table called soft
-select all rows from table called unaccountable
-select all rows from table called price
-select all rows from table called push
-select all rows from table called envious
-select all rows from table called measure
-select all rows from table called pickle
-select all rows from table called superb
-select all rows from table called sincere
-select all rows from table called adamant
-select all rows from table called excellent
-select all rows from table called tie
-select all rows from table called head
-select all rows from table called head
-select all rows from table called noiseless
-select all rows from table called bow
-select all rows from table called kitty
-select all rows from table called hollow
-select all rows from table called creator
-select all rows from table called hurt
-select all rows from table called increase
-select all rows from table called drink
-select all rows from table called grieving
-select all rows from table called flash
-select all rows from table called thankful
-select all rows from table called fairies
-select all rows from table called dapper
-select all rows from table called smash
-select all rows from table called guiltless
-select all rows from table called shave
-select all rows from table called friction
-select all rows from table called winter
-select all rows from table called powder
-select all rows from table called towering
-select all rows from table called rely
-select all rows from table called rabbits
-select all rows from table called available
-select all rows from table called thundering
-select all rows from table called past
-select all rows from table called longing
-select all rows from table called baseball
-select all rows from table called anger
-select all rows from table called like
-select all rows from table called sour
-select all rows from table called adhesive
-select all rows from table called momentous
-select all rows from table called yellow
-select all rows from table called miniature
-select all rows from table called uttermost
-select all rows from table called husky
-select all rows from table called street
-select all rows from table called unpack
-select all rows from table called oil
-select all rows from table called seemly
-select all rows from table called note
-select all rows from table called living
-select all rows from table called damp
-select all rows from table called gather
-select all rows from table called innate
-select all rows from table called attempt
-select all rows from table called request
-select all rows from table called boring
-select all rows from table called handle
-select all rows from table called wing
-select all rows from table called skillful
-select all rows from table called nutritious
-select all rows from table called simplistic
-select all rows from table called flap
-select all rows from table called engine
-select all rows from table called ripe
-select all rows from table called bury
-select all rows from table called sparkling
-select all rows from table called sharp
-select all rows from table called polite
-select all rows from table called paddle
-select all rows from table called coil
-select all rows from table called excited
-select all rows from table called eager
-select all rows from table called grandfather
-select all rows from table called key
-select all rows from table called messy
-select all rows from table called floor
-select all rows from table called recess
-select all rows from table called harass
-select all rows from table called expert
-select all rows from table called fat
-select all rows from table called chop
-select all rows from table called popcorn
-select all rows from table called introduce
-select all rows from table called discovery
-select all rows from table called company
-select all rows from table called hallowed
-select all rows from table called nonstop
-select all rows from table called roof
-select all rows from table called different
-select all rows from table called straw
-select all rows from table called flower
-select all rows from table called sweltering
-select all rows from table called enchanting
-select all rows from table called suspect
-select all rows from table called snobbish
-select all rows from table called open
-select all rows from table called tested
-select all rows from table called spy
-select all rows from table called remove
-select all rows from table called weigh
-select all rows from table called debt
-select all rows from table called coal
-select all rows from table called volleyball
-select all rows from table called adorable
-select all rows from table called confuse
-select all rows from table called eye
-select all rows from table called talk
-select all rows from table called hurry
-select all rows from table called next
-select all rows from table called succeed
-select all rows from table called inquisitive
-select all rows from table called cover
-select all rows from table called furtive
-select all rows from table called talented
-select all rows from table called unlock
-select all rows from table called wreck
-select all rows from table called maniacal
-select all rows from table called road
-select all rows from table called copy
-select all rows from table called inexpensive
-select all rows from table called haunt
-select all rows from table called abusive
-select all rows from table called vagabond
-select all rows from table called crack
-select all rows from table called level
-select all rows from table called middle
-select all rows from table called pretend
-select all rows from table called diligent
-select all rows from table called filthy
-select all rows from table called minute
-select all rows from table called attraction
-select all rows from table called jellyfish
-select all rows from table called ahead
-select all rows from table called wipe
-select all rows from table called zip
-select all rows from table called experience
-select all rows from table called sassy
-select all rows from table called kiss
-select all rows from table called contain
-select all rows from table called color
-select all rows from table called pour
-select all rows from table called peck
-select all rows from table called unknown
-select all rows from table called doctor
-select all rows from table called wonder
-select all rows from table called keen
-select all rows from table called uncle
-select all rows from table called dance
-select all rows from table called crowd
-select all rows from table called control
-select all rows from table called hapless
-select all rows from table called cart
-select all rows from table called offend
-select all rows from table called change
-select all rows from table called lunchroom
-select all rows from table called retire
-select all rows from table called peep
-select all rows from table called jump
-select all rows from table called macabre
-select all rows from table called abrasive
-select all rows from table called one
-select all rows from table called car
-select all rows from table called dock
-select all rows from table called overt
-select all rows from table called umbrella
-select all rows from table called theory
-select all rows from table called destruction
-select all rows from table called lewd
-select all rows from table called cut
-select all rows from table called smell
-select all rows from table called nutty
-select all rows from table called rod
-select all rows from table called growth
-select all rows from table called history
-select all rows from table called itchy
-select all rows from table called energetic
-select all rows from table called spell
-select all rows from table called users
-select all rows from table called chilly
-select all rows from table called air
-select all rows from table called phone
-select all rows from table called anxious
-select all rows from table called shrug
-select all rows from table called learn
-select all rows from table called kind
-select all rows from table called smiling
-select all rows from table called suggestion
-select all rows from table called grip
-select all rows from table called helpful
-select all rows from table called sun
-select all rows from table called water
-select all rows from table called fax
-select all rows from table called wobble
-select all rows from table called cow
-select all rows from table called bizarre
-select all rows from table called support
-select all rows from table called load
-select all rows from table called insurance
-select all rows from table called quixotic
-select all rows from table called goofy
-select all rows from table called consist
-select all rows from table called deep
-select all rows from table called spiffy
-select all rows from table called low
-select all rows from table called doubtful
-select all rows from table called flavor
-select all rows from table called grip
-select all rows from table called kindly
-select all rows from table called humorous
-select all rows from table called clear
-select all rows from table called tug
-select all rows from table called gruesome
-select all rows from table called seal
-select all rows from table called repeat
-select all rows from table called spot
-select all rows from table called embarrassed
-select all rows from table called ghost
-select all rows from table called mighty
-select all rows from table called skinny
-select all rows from table called cracker
-select all rows from table called verse
-select all rows from table called sparkle
-select all rows from table called purple
-select all rows from table called voiceless
-select all rows from table called tire
-select all rows from table called earsplitting
-select all rows from table called bawdy
-select all rows from table called silky
-select all rows from table called fade
-select all rows from table called guard
-select all rows from table called vanish
-select all rows from table called cloistered
-select all rows from table called stain
-select all rows from table called squealing
-select all rows from table called station
-select all rows from table called nifty
-select all rows from table called vessel
-select all rows from table called sip
-select all rows from table called stupendous
-select all rows from table called holistic
-select all rows from table called knit
-select all rows from table called stranger
-select all rows from table called neck
-select all rows from table called tempt
-select all rows from table called connect
-select all rows from table called undesirable
-select all rows from table called flippant
-select all rows from table called overconfident
-select all rows from table called greedy
-select all rows from table called grain
-select all rows from table called incompetent
-select all rows from table called abashed
-select all rows from table called pointless
-select all rows from table called black
-select all rows from table called cure
-select all rows from table called dusty
-select all rows from table called bat
-select all rows from table called puzzled
-select all rows from table called neighborly
-select all rows from table called fanatical
-select all rows from table called appear
-select all rows from table called crown
-select all rows from table called stocking
-select all rows from table called crack
-select all rows from table called kaput
-select all rows from table called desire
-select all rows from table called even
-select all rows from table called suggest
-select all rows from table called uppity
-select all rows from table called nonchalant
-select all rows from table called swift
-select all rows from table called obedient
-select all rows from table called bat
-select all rows from table called passenger
-select all rows from table called bite
-select all rows from table called alleged
-select all rows from table called pumped
-select all rows from table called wiggly
-select all rows from table called ants
-select all rows from table called cuddly
-select all rows from table called horse
-select all rows from table called spiky
-select all rows from table called white
-select all rows from table called new
-select all rows from table called thank
-select all rows from table called clients
-select all rows from table called twist
-select all rows from table called pass
-select all rows from table called coach
-select all rows from table called piquant
-select all rows from table called greasy
-select all rows from table called combative
-select all rows from table called complete
-select all rows from table called mountainous
-select all rows from table called snakes
-select all rows from table called file
-select all rows from table called jagged
-select all rows from table called supreme
-select all rows from table called cry
-select all rows from table called grateful
-select all rows from table called question
-select all rows from table called coach
-select all rows from table called slave
-select all rows from table called sound
-select all rows from table called languid
-select all rows from table called unfasten
-select all rows from table called scary
-select all rows from table called scissors
-select all rows from table called bore
-select all rows from table called rich
-select all rows from table called nod
-select all rows from table called dashing
-select all rows from table called store
-select all rows from table called cross
-select all rows from table called spade
-select all rows from table called zonked
-select all rows from table called gate
-select all rows from table called afraid
-select all rows from table called chin
-select all rows from table called care
-select all rows from table called stamp
-select all rows from table called guitar
-select all rows from table called modern
-select all rows from table called metal
-select all rows from table called wish
-select all rows from table called jealous
-select all rows from table called rightful
-select all rows from table called fold
-select all rows from table called tin
-select all rows from table called spectacular
-select all rows from table called scarecrow
-select all rows from table called sound
-select all rows from table called need
-select all rows from table called dime
-select all rows from table called point
-select all rows from table called beds
-select all rows from table called hook
-select all rows from table called wealthy
-select all rows from table called blot
-select all rows from table called alluring
-select all rows from table called certain
-select all rows from table called far
-select all rows from table called clumsy
-select all rows from table called call
-select all rows from table called righteous
-select all rows from table called faded
-select all rows from table called gainful
-select all rows from table called hand
-select all rows from table called knot
-select all rows from table called knife
-select all rows from table called treat
-select all rows from table called stop
-select all rows from table called private
-select all rows from table called rest
-select all rows from table called uncovered
-select all rows from table called likeable
-select all rows from table called post
-select all rows from table called honorable
-select all rows from table called flaky
-select all rows from table called enjoy
-select all rows from table called fantastic
-select all rows from table called nose
-select all rows from table called look
-select all rows from table called tearful
-select all rows from table called help
-select all rows from table called neck where fanatical is equal 1
-select all rows from table called ignorant where useless is equal 1
-select all rows from table called mom where husky is equal 2
-select all rows from table called automatic where disagreeable is equal 3
-select all rows from table called hand where airplane is equal 4
-select all rows from table called industrious where recess is equal 5
-select all rows from table called eggnog where play is equal 6
-select all rows from table called foolish where rock is equal 7
-select all rows from table called badge where belief is equal 8
-select all rows from table called art where secret is equal 9
-select all rows from table called milky where hunt is equal 10
-select all rows from table called occur where sin is equal 11
-select all rows from table called sweater where pine is equal 12
-select all rows from table called elated where previous is equal 13
-select all rows from table called stomach where gleaming is equal 14
-select all rows from table called mushy where greasy is equal 15
-select all rows from table called deliver where fine is equal 16
-select all rows from table called dizzy where hammer is equal 17
-select all rows from table called buzz where book is equal 18
-select all rows from table called encourage where distinct is equal 19
-select all rows from table called ignore where painful is equal 20
-select all rows from table called design where effect is equal 21
-select all rows from table called cub where travel is equal 22
-select all rows from table called versed where maddening is equal 23
-select all rows from table called tawdry where creature is equal 24
-select all rows from table called victorious where muddle is equal 25
-select all rows from table called parallel where bell is equal 26
-select all rows from table called picayune where whip is equal 27
-select all rows from table called super where cobweb is equal 28
-select all rows from table called camp where position is equal 29
-select all rows from table called crooked where brick is equal 30
-select all rows from table called bleach where advice is equal 31
-select all rows from table called decision where hushed is equal 32
-select all rows from table called trade where waves is equal 33
-select all rows from table called jittery where ready is equal 34
-select all rows from table called try where cautious is equal 35
-select all rows from table called structure where grandiose is equal 36
-select all rows from table called kindhearted where leg is equal 37
-select all rows from table called ducks where wave is equal 38
-select all rows from table called smelly where blood is equal 39
-select all rows from table called birds where shocking is equal 40
-select all rows from table called bright where satisfying is equal 41 and a is equal 1
-select all rows from table called maid where grey is equal 42 and b is equal 1
-select all rows from table called connection where aftermath is equal 43 and a is equal 2
-select all rows from table called please where own is equal 44 and b is equal 2
-select all rows from table called disagreeable where fly is equal 45 and a is equal 3
-select all rows from table called dynamic where quilt is equal 46 and b is equal 3
-select all rows from table called scrape where confuse is equal 47 and a is equal 4
-select all rows from table called free where light is equal 48 and b is equal 4
-select all rows from table called cute where thick is equal 49 and a is equal 5
-select all rows from table called cultured where clean is equal 50 and b is equal 5
-select all rows from table called deadpan where steer is equal 51 and a is equal 6
-select all rows from table called regular where hall is equal 52 and b is equal 6
-select all rows from table called love where excite is equal 53 and a is equal 7
-select all rows from table called strengthen where earthquake is equal 54 and b is equal 7
-select all rows from table called match where nosy is equal 55 and a is equal 8
-select all rows from table called imperfect where control is equal 56 and b is equal 8
-select all rows from table called rate where billowy is equal 57 and a is equal 9
-select all rows from table called absent where great is equal 58 and b is equal 9
-select all rows from table called squirrel where resonant is equal 59 and a is equal 10
-select all rows from table called book where open is equal 60 and b is equal 10
-select all rows from table called taste where vessel is equal 61 and a is equal 11
-select all rows from table called itch where spiky is equal 62 and b is equal 11
-select all rows from table called amused where oatmeal is equal 63 and a is equal 12
-select all rows from table called test where grin is equal 64 and b is equal 12
-select all rows from table called courageous where mere is equal 65 and a is equal 13
-select all rows from table called damaging where tranquil is equal 66 and b is equal 13
-select all rows from table called shock where sneeze is equal 67 and a is equal 14
-select all rows from table called competition where flavor is equal 68 and b is equal 14
-select all rows from table called average where receive is equal 69 and a is equal 15
-select all rows from table called annoying where bloody is equal 70 and b is equal 15
-select all rows from table called science where seal is equal 71 and a is equal 16
-select all rows from table called wistful where energetic is equal 72 and b is equal 16
-select all rows from table called exclusive where adorable is equal 73 and a is equal 17
-select all rows from table called hate where fasten is equal 74 and b is equal 17
-select all rows from table called mug where hulking is equal 75 and a is equal 18
-select all rows from table called daily where determined is equal 76 and b is equal 18
-select all rows from table called cherry where compare is equal 77 and a is equal 19
-select all rows from table called evanescent where move is equal 78 and b is equal 19
-select all rows from table called worthless where offend is equal 79 and a is equal 20
-select all rows from table called throat where dramatic is equal 80 and b is equal 20
+all columns
+select all columns from table called ignorant
+select all columns from table called mom
+select all columns from table called automatic
+select all columns from table called hand
+select all columns from table called industrious
+select all columns from table called eggnog
+select all columns from table called foolish
+select all columns from table called badge
+select all columns from table called art
+select all columns from table called milky
+select all columns from table called occur
+select all columns from table called sweater
+select all columns from table called elated
+select all columns from table called stomach
+select all columns from table called mushy
+select all columns from table called deliver
+select all columns from table called dizzy
+select all columns from table called buzz
+select all columns from table called encourage
+select all columns from table called ignore
+select all columns from table called design
+select all columns from table called cub
+select all columns from table called versed
+select all columns from table called tawdry
+select all columns from table called victorious
+select all columns from table called parallel
+select all columns from table called picayune
+select all columns from table called super
+select all columns from table called camp
+select all columns from table called crooked
+select all columns from table called bleach
+select all columns from table called decision
+select all columns from table called trade
+select all columns from table called jittery
+select all columns from table called try
+select all columns from table called structure
+select all columns from table called kindhearted
+select all columns from table called ducks
+select all columns from table called smelly
+select all columns from table called birds
+select all columns from table called bright
+select all columns from table called maid
+select all columns from table called connection
+select all columns from table called please
+select all columns from table called disagreeable
+select all columns from table called dynamic
+select all columns from table called scrape
+select all columns from table called free
+select all columns from table called cute
+select all columns from table called cultured
+select all columns from table called deadpan
+select all columns from table called regular
+select all columns from table called love
+select all columns from table called strengthen
+select all columns from table called match
+select all columns from table called imperfect
+select all columns from table called rate
+select all columns from table called absent
+select all columns from table called squirrel
+select all columns from table called book
+select all columns from table called taste
+select all columns from table called itch
+select all columns from table called amused
+select all columns from table called test
+select all columns from table called courageous
+select all columns from table called damaging
+select all columns from table called shock
+select all columns from table called competition
+select all columns from table called average
+select all columns from table called annoying
+select all columns from table called science
+select all columns from table called wistful
+select all columns from table called exclusive
+select all columns from table called hate
+select all columns from table called mug
+select all columns from table called daily
+select all columns from table called cherry
+select all columns from table called evanescent
+select all columns from table called worthless
+select all columns from table called throat
+select all columns from table called disapprove
+select all columns from table called camera
+select all columns from table called needless
+select all columns from table called cloth
+select all columns from table called rice
+select all columns from table called fluffy
+select all columns from table called possessive
+select all columns from table called chicken
+select all columns from table called unit
+select all columns from table called probable
+select all columns from table called mate
+select all columns from table called circle
+select all columns from table called scarce
+select all columns from table called island
+select all columns from table called shaggy
+select all columns from table called giddy
+select all columns from table called juice
+select all columns from table called punishment
+select all columns from table called wax
+select all columns from table called fit
+select all columns from table called skip
+select all columns from table called ritzy
+select all columns from table called promise
+select all columns from table called safe
+select all columns from table called help
+select all columns from table called substance
+select all columns from table called distinct
+select all columns from table called marry
+select all columns from table called save
+select all columns from table called panicky
+select all columns from table called bee
+select all columns from table called afterthought
+select all columns from table called impulse
+select all columns from table called aloof
+select all columns from table called visit
+select all columns from table called memory
+select all columns from table called careful
+select all columns from table called dark
+select all columns from table called fragile
+select all columns from table called rose
+select all columns from table called health
+select all columns from table called raise
+select all columns from table called disappear
+select all columns from table called turn
+select all columns from table called tick
+select all columns from table called grape
+select all columns from table called tiny
+select all columns from table called name
+select all columns from table called silver
+select all columns from table called six
+select all columns from table called sweet
+select all columns from table called striped
+select all columns from table called outgoing
+select all columns from table called warm
+select all columns from table called practise
+select all columns from table called swanky
+select all columns from table called wood
+select all columns from table called toy
+select all columns from table called lively
+select all columns from table called plough
+select all columns from table called decorate
+select all columns from table called sleepy
+select all columns from table called wrestle
+select all columns from table called perpetual
+select all columns from table called agreeable
+select all columns from table called impress
+select all columns from table called settle
+select all columns from table called kick
+select all columns from table called describe
+select all columns from table called cowardly
+select all columns from table called arrest
+select all columns from table called manage
+select all columns from table called trite
+select all columns from table called army
+select all columns from table called chief
+select all columns from table called knee
+select all columns from table called useful
+select all columns from table called true
+select all columns from table called north
+select all columns from table called stretch
+select all columns from table called damaged
+select all columns from table called absurd
+select all columns from table called juggle
+select all columns from table called servant
+select all columns from table called slow
+select all columns from table called jail
+select all columns from table called wide
+select all columns from table called unhealthy
+select all columns from table called superficial
+select all columns from table called risk
+select all columns from table called annoyed
+select all columns from table called recognise
+select all columns from table called macho
+select all columns from table called tray
+select all columns from table called tacky
+select all columns from table called remind
+select all columns from table called unused
+select all columns from table called scrub
+select all columns from table called quarrelsome
+select all columns from table called fearless
+select all columns from table called ablaze
+select all columns from table called sort
+select all columns from table called high
+select all columns from table called flame
+select all columns from table called statement
+select all columns from table called lush
+select all columns from table called add
+select all columns from table called level
+select all columns from table called grease
+select all columns from table called channel
+select all columns from table called wish
+select all columns from table called luxuriant
+select all columns from table called resonant
+select all columns from table called burst
+select all columns from table called curtain
+select all columns from table called value
+select all columns from table called remain
+select all columns from table called tall
+select all columns from table called healthy
+select all columns from table called jumbled
+select all columns from table called waste
+select all columns from table called boast
+select all columns from table called ceaseless
+select all columns from table called iron
+select all columns from table called jaded
+select all columns from table called respect
+select all columns from table called examine
+select all columns from table called impartial
+select all columns from table called float
+select all columns from table called naughty
+select all columns from table called boiling
+select all columns from table called destroy
+select all columns from table called auspicious
+select all columns from table called comparison
+select all columns from table called tax
+select all columns from table called rare
+select all columns from table called abiding
+select all columns from table called writing
+select all columns from table called glamorous
+select all columns from table called eight
+select all columns from table called repulsive
+select all columns from table called weight
+select all columns from table called male
+select all columns from table called toys
+select all columns from table called monkey
+select all columns from table called leg
+select all columns from table called thread
+select all columns from table called zipper
+select all columns from table called summer
+select all columns from table called knowledge
+select all columns from table called wild
+select all columns from table called meeting
+select all columns from table called protect
+select all columns from table called term
+select all columns from table called fork
+select all columns from table called river
+select all columns from table called dolls
+select all columns from table called flawless
+select all columns from table called busy
+select all columns from table called flowery
+select all columns from table called pump
+select all columns from table called thick
+select all columns from table called cattle
+select all columns from table called accidental
+select all columns from table called befitting
+select all columns from table called imported
+select all columns from table called grey
+select all columns from table called penitent
+select all columns from table called rhetorical
+select all columns from table called better
+select all columns from table called suck
+select all columns from table called embarrass
+select all columns from table called worry
+select all columns from table called cheer
+select all columns from table called fall
+select all columns from table called adventurous
+select all columns from table called obscene
+select all columns from table called crush
+select all columns from table called imaginary
+select all columns from table called fretful
+select all columns from table called miscreant
+select all columns from table called premium
+select all columns from table called five
+select all columns from table called plan
+select all columns from table called line
+select all columns from table called alike
+select all columns from table called crazy
+select all columns from table called sloppy
+select all columns from table called aftermath
+select all columns from table called sprout
+select all columns from table called religion
+select all columns from table called cause
+select all columns from table called smoke
+select all columns from table called lean
+select all columns from table called month
+select all columns from table called questionable
+select all columns from table called scream
+select all columns from table called chase
+select all columns from table called cool
+select all columns from table called wound
+select all columns from table called bumpy
+select all columns from table called capable
+select all columns from table called chew
+select all columns from table called kill
+select all columns from table called scientific
+select all columns from table called cagey
+select all columns from table called stitch
+select all columns from table called approve
+select all columns from table called agreement
+select all columns from table called mine
+select all columns from table called poised
+select all columns from table called steep
+select all columns from table called tense
+select all columns from table called educate
+select all columns from table called happen
+select all columns from table called madly
+select all columns from table called ring
+select all columns from table called plant
+select all columns from table called gun
+select all columns from table called crabby
+select all columns from table called signal
+select all columns from table called alcoholic
+select all columns from table called cast
+select all columns from table called pink
+select all columns from table called threatening
+select all columns from table called expensive
+select all columns from table called yawn
+select all columns from table called unique
+select all columns from table called nerve
+select all columns from table called spotless
+select all columns from table called front
+select all columns from table called workable
+select all columns from table called foregoing
+select all columns from table called utter
+select all columns from table called little
+select all columns from table called yarn
+select all columns from table called scintillating
+select all columns from table called nimble
+select all columns from table called close
+select all columns from table called cheese
+select all columns from table called flimsy
+select all columns from table called craven
+select all columns from table called wind
+select all columns from table called cellar
+select all columns from table called imagine
+select all columns from table called spoil
+select all columns from table called suppose
+select all columns from table called meal
+select all columns from table called lame
+select all columns from table called adjoining
+select all columns from table called watch
+select all columns from table called oatmeal
+select all columns from table called ear
+select all columns from table called roll
+select all columns from table called food
+select all columns from table called whirl
+select all columns from table called kiss
+select all columns from table called sisters
+select all columns from table called battle
+select all columns from table called common
+select all columns from table called remember
+select all columns from table called exciting
+select all columns from table called robust
+select all columns from table called activity
+select all columns from table called judge
+select all columns from table called spotted
+select all columns from table called huge
+select all columns from table called back
+select all columns from table called corn
+select all columns from table called tour
+select all columns from table called chubby
+select all columns from table called jolly
+select all columns from table called guarded
+select all columns from table called obtainable
+select all columns from table called claim
+select all columns from table called acoustic
+select all columns from table called whip
+select all columns from table called early
+select all columns from table called hall
+select all columns from table called fire
+select all columns from table called root
+select all columns from table called expect
+select all columns from table called tasty
+select all columns from table called toothsome
+select all columns from table called question
+select all columns from table called toothpaste
+select all columns from table called elegant
+select all columns from table called graceful
+select all columns from table called amount
+select all columns from table called illegal
+select all columns from table called rampant
+select all columns from table called serious
+select all columns from table called warm
+select all columns from table called jump
+select all columns from table called internal
+select all columns from table called fruit
+select all columns from table called old
+select all columns from table called kneel
+select all columns from table called clever
+select all columns from table called join
+select all columns from table called fierce
+select all columns from table called pleasant
+select all columns from table called reading
+select all columns from table called outstanding
+select all columns from table called spare
+select all columns from table called allow
+select all columns from table called ajar
+select all columns from table called teaching
+select all columns from table called interesting
+select all columns from table called peaceful
+select all columns from table called produce
+select all columns from table called tendency
+select all columns from table called meat
+select all columns from table called laugh
+select all columns from table called breath
+select all columns from table called turn
+select all columns from table called festive
+select all columns from table called acoustics
+select all columns from table called flower
+select all columns from table called receptive
+select all columns from table called gigantic
+select all columns from table called separate
+select all columns from table called temper
+select all columns from table called gentle
+select all columns from table called stretch
+select all columns from table called overwrought
+select all columns from table called sneaky
+select all columns from table called sturdy
+select all columns from table called vivacious
+select all columns from table called dreary
+select all columns from table called drown
+select all columns from table called earth
+select all columns from table called calculator
+select all columns from table called soothe
+select all columns from table called vast
+select all columns from table called cake
+select all columns from table called frog
+select all columns from table called found
+select all columns from table called start
+select all columns from table called aggressive
+select all columns from table called ice
+select all columns from table called pricey
+select all columns from table called disarm
+select all columns from table called houses
+select all columns from table called finger
+select all columns from table called tree
+select all columns from table called race
+select all columns from table called spotty
+select all columns from table called old
+select all columns from table called paltry
+select all columns from table called fowl
+select all columns from table called gleaming
+select all columns from table called tiger
+select all columns from table called educated
+select all columns from table called entertaining
+select all columns from table called lumpy
+select all columns from table called calculating
+select all columns from table called creature
+select all columns from table called disillusioned
+select all columns from table called discussion
+select all columns from table called spiteful
+select all columns from table called general
+select all columns from table called partner
+select all columns from table called bear
+select all columns from table called attract
+select all columns from table called bike
+select all columns from table called beneficial
+select all columns from table called bucket
+select all columns from table called nervous
+select all columns from table called relax
+select all columns from table called word
+select all columns from table called sheep
+select all columns from table called dramatic
+select all columns from table called instruct
+select all columns from table called oval
+select all columns from table called bright
+select all columns from table called mailbox
+select all columns from table called unnatural
+select all columns from table called fail
+select all columns from table called order
+select all columns from table called slip
+select all columns from table called trace
+select all columns from table called brown
+select all columns from table called green
+select all columns from table called refuse
+select all columns from table called futuristic
+select all columns from table called planes
+select all columns from table called puncture
+select all columns from table called delicate
+select all columns from table called complain
+select all columns from table called miss
+select all columns from table called rude
+select all columns from table called prick
+select all columns from table called wicked
+select all columns from table called type
+select all columns from table called hot
+select all columns from table called home
+select all columns from table called blue
+select all columns from table called bubble
+select all columns from table called society
+select all columns from table called press
+select all columns from table called reason
+select all columns from table called boorish
+select all columns from table called flock
+select all columns from table called therapeutic
+select all columns from table called naive
+select all columns from table called rainy
+select all columns from table called heat
+select all columns from table called grotesque
+select all columns from table called shocking
+select all columns from table called terrify
+select all columns from table called cakes
+select all columns from table called wall
+select all columns from table called racial
+select all columns from table called watery
+select all columns from table called distribution
+select all columns from table called zephyr
+select all columns from table called yoke
+select all columns from table called wise
+select all columns from table called tow
+select all columns from table called famous
+select all columns from table called maddening
+select all columns from table called tent
+select all columns from table called duck
+select all columns from table called invent
+select all columns from table called taste
+select all columns from table called glib
+select all columns from table called dare
+select all columns from table called bang
+select all columns from table called son
+select all columns from table called thaw
+select all columns from table called round
+select all columns from table called abnormal
+select all columns from table called nation
+select all columns from table called mask
+select all columns from table called dream
+select all columns from table called force
+select all columns from table called chess
+select all columns from table called copper
+select all columns from table called hover
+select all columns from table called property
+select all columns from table called lace
+select all columns from table called fertile
+select all columns from table called direful
+select all columns from table called thought
+select all columns from table called ordinary
+select all columns from table called sudden
+select all columns from table called parcel
+select all columns from table called jazzy
+select all columns from table called size
+select all columns from table called sack
+select all columns from table called sky
+select all columns from table called judicious
+select all columns from table called rock
+select all columns from table called stingy
+select all columns from table called flow
+select all columns from table called unkempt
+select all columns from table called spill
+select all columns from table called amazing
+select all columns from table called inform
+select all columns from table called quirky
+select all columns from table called bead
+select all columns from table called grate
+select all columns from table called blue
+select all columns from table called decide
+select all columns from table called tail
+select all columns from table called cable
+select all columns from table called insect
+select all columns from table called aboard
+select all columns from table called suit
+select all columns from table called hydrant
+select all columns from table called yak
+select all columns from table called axiomatic
+select all columns from table called scent
+select all columns from table called pastoral
+select all columns from table called scale
+select all columns from table called hammer
+select all columns from table called fill
+select all columns from table called permissible
+select all columns from table called jobless
+select all columns from table called squeamish
+select all columns from table called rain
+select all columns from table called previous
+select all columns from table called hospital
+select all columns from table called prefer
+select all columns from table called taboo
+select all columns from table called bells
+select all columns from table called transport
+select all columns from table called subdued
+select all columns from table called pencil
+select all columns from table called ugly
+select all columns from table called overjoyed
+select all columns from table called shiver
+select all columns from table called quick
+select all columns from table called show
+select all columns from table called reflective
+select all columns from table called zany
+select all columns from table called grandiose
+select all columns from table called attack
+select all columns from table called suit
+select all columns from table called arithmetic
+select all columns from table called rinse
+select all columns from table called harbor
+select all columns from table called check
+select all columns from table called saw
+select all columns from table called underwear
+select all columns from table called frequent
+select all columns from table called current
+select all columns from table called ray
+select all columns from table called discover
+select all columns from table called waiting
+select all columns from table called authority
+select all columns from table called disgusting
+select all columns from table called flashy
+select all columns from table called pear
+select all columns from table called produce
+select all columns from table called defeated
+select all columns from table called tumble
+select all columns from table called aspiring
+select all columns from table called square
+select all columns from table called weak
+select all columns from table called bulb
+select all columns from table called communicate
+select all columns from table called massive
+select all columns from table called cheap
+select all columns from table called trip
+select all columns from table called curl
+select all columns from table called secretary
+select all columns from table called step
+select all columns from table called exuberant
+select all columns from table called vein
+select all columns from table called receive
+select all columns from table called rabid
+select all columns from table called strange
+select all columns from table called fence
+select all columns from table called gold
+select all columns from table called cough
+select all columns from table called wait
+select all columns from table called animated
+select all columns from table called hope
+select all columns from table called real
+select all columns from table called abortive
+select all columns from table called pine
+select all columns from table called plantation
+select all columns from table called overflow
+select all columns from table called functional
+select all columns from table called count
+select all columns from table called uneven
+select all columns from table called skirt
+select all columns from table called fascinated
+select all columns from table called fry
+select all columns from table called paint
+select all columns from table called eyes
+select all columns from table called friends
+select all columns from table called grade
+select all columns from table called nine
+select all columns from table called march
+select all columns from table called tiny
+select all columns from table called detect
+select all columns from table called resolute
+select all columns from table called stiff
+select all columns from table called hop
+select all columns from table called bitter
+select all columns from table called time
+select all columns from table called incredible
+select all columns from table called instrument
+select all columns from table called debonair
+select all columns from table called beginner
+select all columns from table called tiresome
+select all columns from table called false
+select all columns from table called jog
+select all columns from table called place
+select all columns from table called future
+select all columns from table called shut
+select all columns from table called boot
+select all columns from table called trousers
+select all columns from table called political
+select all columns from table called drag
+select all columns from table called paste
+select all columns from table called own
+select all columns from table called mess up
+select all columns from table called number
+select all columns from table called rule
+select all columns from table called abandoned
+select all columns from table called smooth
+select all columns from table called cactus
+select all columns from table called erect
+select all columns from table called broad
+select all columns from table called chickens
+select all columns from table called camp
+select all columns from table called obese
+select all columns from table called trees
+select all columns from table called treatment
+select all columns from table called inject
+select all columns from table called carriage
+select all columns from table called raspy
+select all columns from table called trade
+select all columns from table called delightful
+select all columns from table called development
+select all columns from table called tomatoes
+select all columns from table called record
+select all columns from table called empty
+select all columns from table called annoy
+select all columns from table called bump
+select all columns from table called battle
+select all columns from table called ambiguous
+select all columns from table called breathe
+select all columns from table called yielding
+select all columns from table called look
+select all columns from table called sleet
+select all columns from table called hanging
+select all columns from table called trail
+select all columns from table called earn
+select all columns from table called believe
+select all columns from table called melodic
+select all columns from table called hospitable
+select all columns from table called rhythm
+select all columns from table called pollution
+select all columns from table called fog
+select all columns from table called brake
+select all columns from table called appreciate
+select all columns from table called mean
+select all columns from table called death
+select all columns from table called mist
+select all columns from table called pull
+select all columns from table called use
+select all columns from table called tongue
+select all columns from table called children
+select all columns from table called trip
+select all columns from table called selfish
+select all columns from table called actor
+select all columns from table called bare
+select all columns from table called ship
+select all columns from table called spoon
+select all columns from table called enter
+select all columns from table called nappy
+select all columns from table called clip
+select all columns from table called boat
+select all columns from table called elderly
+select all columns from table called hungry
+select all columns from table called bake
+select all columns from table called unequal
+select all columns from table called observation
+select all columns from table called interrupt
+select all columns from table called slope
+select all columns from table called black
+select all columns from table called phobic
+select all columns from table called snow
+select all columns from table called dust
+select all columns from table called long
+select all columns from table called willing
+select all columns from table called valuable
+select all columns from table called curved
+select all columns from table called print
+select all columns from table called coordinated
+select all columns from table called brass
+select all columns from table called ruddy
+select all columns from table called porter
+select all columns from table called bikes
+select all columns from table called wren
+select all columns from table called position
+select all columns from table called placid
+select all columns from table called guess
+select all columns from table called detailed
+select all columns from table called market
+select all columns from table called equal
+select all columns from table called pancake
+select all columns from table called shirt
+select all columns from table called scene
+select all columns from table called tough
+select all columns from table called bolt
+select all columns from table called whip
+select all columns from table called quickest
+select all columns from table called hum
+select all columns from table called fetch
+select all columns from table called entertain
+select all columns from table called barbarous
+select all columns from table called psychedelic
+select all columns from table called argue
+select all columns from table called faint
+select all columns from table called motionless
+select all columns from table called ten
+select all columns from table called changeable
+select all columns from table called bewildered
+select all columns from table called labored
+select all columns from table called expand
+select all columns from table called mint
+select all columns from table called reject
+select all columns from table called milk
+select all columns from table called lie
+select all columns from table called wary
+select all columns from table called punch
+select all columns from table called invincible
+select all columns from table called wandering
+select all columns from table called stage
+select all columns from table called habitual
+select all columns from table called telling
+select all columns from table called cough
+select all columns from table called pig
+select all columns from table called mend
+select all columns from table called accurate
+select all columns from table called unadvised
+select all columns from table called tremble
+select all columns from table called ambitious
+select all columns from table called untidy
+select all columns from table called fixed
+select all columns from table called gullible
+select all columns from table called nasty
+select all columns from table called condemned
+select all columns from table called scratch
+select all columns from table called account
+select all columns from table called pies
+select all columns from table called fair
+select all columns from table called shoes
+select all columns from table called eminent
+select all columns from table called owe
+select all columns from table called vest
+select all columns from table called sail
+select all columns from table called sneeze
+select all columns from table called harsh
+select all columns from table called unequaled
+select all columns from table called satisfying
+select all columns from table called board
+select all columns from table called hesitant
+select all columns from table called dirty
+select all columns from table called vague
+select all columns from table called box
+select all columns from table called hammer
+select all columns from table called plane
+select all columns from table called fuzzy
+select all columns from table called pick
+select all columns from table called clammy
+select all columns from table called elite
+select all columns from table called lumber
+select all columns from table called same
+select all columns from table called witty
+select all columns from table called vigorous
+select all columns from table called enchanted
+select all columns from table called apologise
+select all columns from table called guide
+select all columns from table called infamous
+select all columns from table called license
+select all columns from table called play
+select all columns from table called telephone
+select all columns from table called icy
+select all columns from table called crook
+select all columns from table called stroke
+select all columns from table called wrist
+select all columns from table called shop
+select all columns from table called understood
+select all columns from table called soft
+select all columns from table called unaccountable
+select all columns from table called price
+select all columns from table called push
+select all columns from table called envious
+select all columns from table called measure
+select all columns from table called pickle
+select all columns from table called superb
+select all columns from table called sincere
+select all columns from table called adamant
+select all columns from table called excellent
+select all columns from table called tie
+select all columns from table called head
+select all columns from table called head
+select all columns from table called noiseless
+select all columns from table called bow
+select all columns from table called kitty
+select all columns from table called hollow
+select all columns from table called creator
+select all columns from table called hurt
+select all columns from table called increase
+select all columns from table called drink
+select all columns from table called grieving
+select all columns from table called flash
+select all columns from table called thankful
+select all columns from table called fairies
+select all columns from table called dapper
+select all columns from table called smash
+select all columns from table called guiltless
+select all columns from table called shave
+select all columns from table called friction
+select all columns from table called winter
+select all columns from table called powder
+select all columns from table called towering
+select all columns from table called rely
+select all columns from table called rabbits
+select all columns from table called available
+select all columns from table called thundering
+select all columns from table called past
+select all columns from table called longing
+select all columns from table called baseball
+select all columns from table called anger
+select all columns from table called like
+select all columns from table called sour
+select all columns from table called adhesive
+select all columns from table called momentous
+select all columns from table called yellow
+select all columns from table called miniature
+select all columns from table called uttermost
+select all columns from table called husky
+select all columns from table called street
+select all columns from table called unpack
+select all columns from table called oil
+select all columns from table called seemly
+select all columns from table called note
+select all columns from table called living
+select all columns from table called damp
+select all columns from table called gather
+select all columns from table called innate
+select all columns from table called attempt
+select all columns from table called request
+select all columns from table called boring
+select all columns from table called handle
+select all columns from table called wing
+select all columns from table called skillful
+select all columns from table called nutritious
+select all columns from table called simplistic
+select all columns from table called flap
+select all columns from table called engine
+select all columns from table called ripe
+select all columns from table called bury
+select all columns from table called sparkling
+select all columns from table called sharp
+select all columns from table called polite
+select all columns from table called paddle
+select all columns from table called coil
+select all columns from table called excited
+select all columns from table called eager
+select all columns from table called grandfather
+select all columns from table called key
+select all columns from table called messy
+select all columns from table called floor
+select all columns from table called recess
+select all columns from table called harass
+select all columns from table called expert
+select all columns from table called fat
+select all columns from table called chop
+select all columns from table called popcorn
+select all columns from table called introduce
+select all columns from table called discovery
+select all columns from table called company
+select all columns from table called hallowed
+select all columns from table called nonstop
+select all columns from table called roof
+select all columns from table called different
+select all columns from table called straw
+select all columns from table called flower
+select all columns from table called sweltering
+select all columns from table called enchanting
+select all columns from table called suspect
+select all columns from table called snobbish
+select all columns from table called open
+select all columns from table called tested
+select all columns from table called spy
+select all columns from table called remove
+select all columns from table called weigh
+select all columns from table called debt
+select all columns from table called coal
+select all columns from table called volleyball
+select all columns from table called adorable
+select all columns from table called confuse
+select all columns from table called eye
+select all columns from table called talk
+select all columns from table called hurry
+select all columns from table called next
+select all columns from table called succeed
+select all columns from table called inquisitive
+select all columns from table called cover
+select all columns from table called furtive
+select all columns from table called talented
+select all columns from table called unlock
+select all columns from table called wreck
+select all columns from table called maniacal
+select all columns from table called road
+select all columns from table called copy
+select all columns from table called inexpensive
+select all columns from table called haunt
+select all columns from table called abusive
+select all columns from table called vagabond
+select all columns from table called crack
+select all columns from table called level
+select all columns from table called middle
+select all columns from table called pretend
+select all columns from table called diligent
+select all columns from table called filthy
+select all columns from table called minute
+select all columns from table called attraction
+select all columns from table called jellyfish
+select all columns from table called ahead
+select all columns from table called wipe
+select all columns from table called zip
+select all columns from table called experience
+select all columns from table called sassy
+select all columns from table called kiss
+select all columns from table called contain
+select all columns from table called color
+select all columns from table called pour
+select all columns from table called peck
+select all columns from table called unknown
+select all columns from table called doctor
+select all columns from table called wonder
+select all columns from table called keen
+select all columns from table called uncle
+select all columns from table called dance
+select all columns from table called crowd
+select all columns from table called control
+select all columns from table called hapless
+select all columns from table called cart
+select all columns from table called offend
+select all columns from table called change
+select all columns from table called lunchroom
+select all columns from table called retire
+select all columns from table called peep
+select all columns from table called jump
+select all columns from table called macabre
+select all columns from table called abrasive
+select all columns from table called one
+select all columns from table called car
+select all columns from table called dock
+select all columns from table called overt
+select all columns from table called umbrella
+select all columns from table called theory
+select all columns from table called destruction
+select all columns from table called lewd
+select all columns from table called cut
+select all columns from table called smell
+select all columns from table called nutty
+select all columns from table called rod
+select all columns from table called growth
+select all columns from table called history
+select all columns from table called itchy
+select all columns from table called energetic
+select all columns from table called spell
+select all columns from table called users
+select all columns from table called chilly
+select all columns from table called air
+select all columns from table called phone
+select all columns from table called anxious
+select all columns from table called shrug
+select all columns from table called learn
+select all columns from table called kind
+select all columns from table called smiling
+select all columns from table called suggestion
+select all columns from table called grip
+select all columns from table called helpful
+select all columns from table called sun
+select all columns from table called water
+select all columns from table called fax
+select all columns from table called wobble
+select all columns from table called cow
+select all columns from table called bizarre
+select all columns from table called support
+select all columns from table called load
+select all columns from table called insurance
+select all columns from table called quixotic
+select all columns from table called goofy
+select all columns from table called consist
+select all columns from table called deep
+select all columns from table called spiffy
+select all columns from table called low
+select all columns from table called doubtful
+select all columns from table called flavor
+select all columns from table called grip
+select all columns from table called kindly
+select all columns from table called humorous
+select all columns from table called clear
+select all columns from table called tug
+select all columns from table called gruesome
+select all columns from table called seal
+select all columns from table called repeat
+select all columns from table called spot
+select all columns from table called embarrassed
+select all columns from table called ghost
+select all columns from table called mighty
+select all columns from table called skinny
+select all columns from table called cracker
+select all columns from table called verse
+select all columns from table called sparkle
+select all columns from table called purple
+select all columns from table called voiceless
+select all columns from table called tire
+select all columns from table called earsplitting
+select all columns from table called bawdy
+select all columns from table called silky
+select all columns from table called fade
+select all columns from table called guard
+select all columns from table called vanish
+select all columns from table called cloistered
+select all columns from table called stain
+select all columns from table called squealing
+select all columns from table called station
+select all columns from table called nifty
+select all columns from table called vessel
+select all columns from table called sip
+select all columns from table called stupendous
+select all columns from table called holistic
+select all columns from table called knit
+select all columns from table called stranger
+select all columns from table called neck
+select all columns from table called tempt
+select all columns from table called connect
+select all columns from table called undesirable
+select all columns from table called flippant
+select all columns from table called overconfident
+select all columns from table called greedy
+select all columns from table called grain
+select all columns from table called incompetent
+select all columns from table called abashed
+select all columns from table called pointless
+select all columns from table called black
+select all columns from table called cure
+select all columns from table called dusty
+select all columns from table called bat
+select all columns from table called puzzled
+select all columns from table called neighborly
+select all columns from table called fanatical
+select all columns from table called appear
+select all columns from table called crown
+select all columns from table called stocking
+select all columns from table called crack
+select all columns from table called kaput
+select all columns from table called desire
+select all columns from table called even
+select all columns from table called suggest
+select all columns from table called uppity
+select all columns from table called nonchalant
+select all columns from table called swift
+select all columns from table called obedient
+select all columns from table called bat
+select all columns from table called passenger
+select all columns from table called bite
+select all columns from table called alleged
+select all columns from table called pumped
+select all columns from table called wiggly
+select all columns from table called ants
+select all columns from table called cuddly
+select all columns from table called horse
+select all columns from table called spiky
+select all columns from table called white
+select all columns from table called new
+select all columns from table called thank
+select all columns from table called clients
+select all columns from table called twist
+select all columns from table called pass
+select all columns from table called coach
+select all columns from table called piquant
+select all columns from table called greasy
+select all columns from table called combative
+select all columns from table called complete
+select all columns from table called mountainous
+select all columns from table called snakes
+select all columns from table called file
+select all columns from table called jagged
+select all columns from table called supreme
+select all columns from table called cry
+select all columns from table called grateful
+select all columns from table called question
+select all columns from table called coach
+select all columns from table called slave
+select all columns from table called sound
+select all columns from table called languid
+select all columns from table called unfasten
+select all columns from table called scary
+select all columns from table called scissors
+select all columns from table called bore
+select all columns from table called rich
+select all columns from table called nod
+select all columns from table called dashing
+select all columns from table called store
+select all columns from table called cross
+select all columns from table called spade
+select all columns from table called zonked
+select all columns from table called gate
+select all columns from table called afraid
+select all columns from table called chin
+select all columns from table called care
+select all columns from table called stamp
+select all columns from table called guitar
+select all columns from table called modern
+select all columns from table called metal
+select all columns from table called wish
+select all columns from table called jealous
+select all columns from table called rightful
+select all columns from table called fold
+select all columns from table called tin
+select all columns from table called spectacular
+select all columns from table called scarecrow
+select all columns from table called sound
+select all columns from table called need
+select all columns from table called dime
+select all columns from table called point
+select all columns from table called beds
+select all columns from table called hook
+select all columns from table called wealthy
+select all columns from table called blot
+select all columns from table called alluring
+select all columns from table called certain
+select all columns from table called far
+select all columns from table called clumsy
+select all columns from table called call
+select all columns from table called righteous
+select all columns from table called faded
+select all columns from table called gainful
+select all columns from table called hand
+select all columns from table called knot
+select all columns from table called knife
+select all columns from table called treat
+select all columns from table called stop
+select all columns from table called private
+select all columns from table called rest
+select all columns from table called uncovered
+select all columns from table called likeable
+select all columns from table called post
+select all columns from table called honorable
+select all columns from table called flaky
+select all columns from table called enjoy
+select all columns from table called fantastic
+select all columns from table called nose
+select all columns from table called look
+select all columns from table called tearful
+select all columns from table called help
+select all columns from table called neck where fanatical is equal 1
+select all columns from table called ignorant where useless is equal 1
+select all columns from table called mom where husky is equal 2
+select all columns from table called automatic where disagreeable is equal 3
+select all columns from table called hand where airplane is equal 4
+select all columns from table called industrious where recess is equal 5
+select all columns from table called eggnog where play is equal 6
+select all columns from table called foolish where rock is equal 7
+select all columns from table called badge where belief is equal 8
+select all columns from table called art where secret is equal 9
+select all columns from table called milky where hunt is equal 10
+select all columns from table called occur where sin is equal 11
+select all columns from table called sweater where pine is equal 12
+select all columns from table called elated where previous is equal 13
+select all columns from table called stomach where gleaming is equal 14
+select all columns from table called mushy where greasy is equal 15
+select all columns from table called deliver where fine is equal 16
+select all columns from table called dizzy where hammer is equal 17
+select all columns from table called buzz where book is equal 18
+select all columns from table called encourage where distinct is equal 19
+select all columns from table called ignore where painful is equal 20
+select all columns from table called design where effect is equal 21
+select all columns from table called cub where travel is equal 22
+select all columns from table called versed where maddening is equal 23
+select all columns from table called tawdry where creature is equal 24
+select all columns from table called victorious where muddle is equal 25
+select all columns from table called parallel where bell is equal 26
+select all columns from table called picayune where whip is equal 27
+select all columns from table called super where cobweb is equal 28
+select all columns from table called camp where position is equal 29
+select all columns from table called crooked where brick is equal 30
+select all columns from table called bleach where advice is equal 31
+select all columns from table called decision where hushed is equal 32
+select all columns from table called trade where waves is equal 33
+select all columns from table called jittery where ready is equal 34
+select all columns from table called try where cautious is equal 35
+select all columns from table called structure where grandiose is equal 36
+select all columns from table called kindhearted where leg is equal 37
+select all columns from table called ducks where wave is equal 38
+select all columns from table called smelly where blood is equal 39
+select all columns from table called birds where shocking is equal 40
+select all columns from table called bright where satisfying is equal 41 and a is equal 1
+select all columns from table called maid where grey is equal 42 and b is equal 1
+select all columns from table called connection where aftermath is equal 43 and a is equal 2
+select all columns from table called please where own is equal 44 and b is equal 2
+select all columns from table called disagreeable where fly is equal 45 and a is equal 3
+select all columns from table called dynamic where quilt is equal 46 and b is equal 3
+select all columns from table called scrape where confuse is equal 47 and a is equal 4
+select all columns from table called free where light is equal 48 and b is equal 4
+select all columns from table called cute where thick is equal 49 and a is equal 5
+select all columns from table called cultured where clean is equal 50 and b is equal 5
+select all columns from table called deadpan where steer is equal 51 and a is equal 6
+select all columns from table called regular where hall is equal 52 and b is equal 6
+select all columns from table called love where excite is equal 53 and a is equal 7
+select all columns from table called strengthen where earthquake is equal 54 and b is equal 7
+select all columns from table called match where nosy is equal 55 and a is equal 8
+select all columns from table called imperfect where control is equal 56 and b is equal 8
+select all columns from table called rate where billowy is equal 57 and a is equal 9
+select all columns from table called absent where great is equal 58 and b is equal 9
+select all columns from table called squirrel where resonant is equal 59 and a is equal 10
+select all columns from table called book where open is equal 60 and b is equal 10
+select all columns from table called taste where vessel is equal 61 and a is equal 11
+select all columns from table called itch where spiky is equal 62 and b is equal 11
+select all columns from table called amused where oatmeal is equal 63 and a is equal 12
+select all columns from table called test where grin is equal 64 and b is equal 12
+select all columns from table called courageous where mere is equal 65 and a is equal 13
+select all columns from table called damaging where tranquil is equal 66 and b is equal 13
+select all columns from table called shock where sneeze is equal 67 and a is equal 14
+select all columns from table called competition where flavor is equal 68 and b is equal 14
+select all columns from table called average where receive is equal 69 and a is equal 15
+select all columns from table called annoying where bloody is equal 70 and b is equal 15
+select all columns from table called science where seal is equal 71 and a is equal 16
+select all columns from table called wistful where energetic is equal 72 and b is equal 16
+select all columns from table called exclusive where adorable is equal 73 and a is equal 17
+select all columns from table called hate where fasten is equal 74 and b is equal 17
+select all columns from table called mug where hulking is equal 75 and a is equal 18
+select all columns from table called daily where determined is equal 76 and b is equal 18
+select all columns from table called cherry where compare is equal 77 and a is equal 19
+select all columns from table called evanescent where move is equal 78 and b is equal 19
+select all columns from table called worthless where offend is equal 79 and a is equal 20
+select all columns from table called throat where dramatic is equal 80 and b is equal 20
 status is equal open
+select all columns from table called ignorant where useless greater than 1
+select all columns from table called mom where husky greater than 2
+select all columns from table called automatic where disagreeable greater than 3
+select all columns from table called hand where airplane greater than 4
+select all columns from table called industrious where recess greater than 5
+select all columns from table called eggnog where play greater than 6
+select all columns from table called foolish where rock greater than 7
+select all columns from table called badge where belief greater than 8
+select all columns from table called art where secret greater than 9
+select all columns from table called milky where hunt greater than 10
+select all columns from table called occur where sin greater than 11
+select all columns from table called sweater where pine greater than 12
+select all columns from table called elated where previous greater than 13
+select all columns from table called stomach where gleaming greater than 14
+select all columns from table called mushy where greasy greater than 15
+select all columns from table called deliver where fine greater than 16
+select all columns from table called dizzy where hammer greater than 17
+select all columns from table called buzz where book greater than 18
+select all columns from table called encourage where distinct greater than 19
+select all columns from table called ignore where painful greater than 20
+select all columns from table called design where effect greater than 21
+select all columns from table called cub where travel greater than 22
+select all columns from table called versed where maddening greater than 23
+select all columns from table called tawdry where creature greater than 24
+select all columns from table called victorious where muddle greater than 25
+select all columns from table called parallel where bell greater than 26
+select all columns from table called picayune where whip greater than 27
+select all columns from table called super where cobweb greater than 28
+select all columns from table called camp where position greater than 29
+select all columns from table called crooked where brick greater than 30
+select all columns from table called bleach where advice greater than 31
+select all columns from table called decision where hushed greater than 32
+select all columns from table called trade where waves greater than 33
+select all columns from table called jittery where ready greater than 34
+select all columns from table called try where cautious greater than 35
+select all columns from table called structure where grandiose greater than 36
+select all columns from table called kindhearted where leg greater than 37
+select all columns from table called ducks where wave greater than 38
+select all columns from table called smelly where blood greater than 39
+select all columns from table called birds where shocking greater than 40
+select all columns from table called bright where satisfying greater than 41
+select all columns from table called maid where grey greater than 42
+select all columns from table called connection where aftermath greater than 43
+select all columns from table called please where own greater than 44
+select all columns from table called disagreeable where fly greater than 45
+select all columns from table called dynamic where quilt greater than 46
+select all columns from table called scrape where confuse greater than 47
+select all columns from table called free where light greater than 48
+select all columns from table called cute where thick greater than 49
+select all columns from table called cultured where clean greater than 50
+select all columns from table called deadpan where steer greater than 51
+select all columns from table called regular where hall greater than 52
+select all columns from table called love where excite greater than 53
+select all columns from table called strengthen where earthquake greater than 54
+select all columns from table called match where nosy greater than 55
+select all columns from table called imperfect where control greater than 56
+select all columns from table called rate where billowy greater than 57
+select all columns from table called absent where great greater than 58
+select all columns from table called squirrel where resonant greater than 59
+select all columns from table called book where open greater than 60
+select all columns from table called taste where vessel greater than 61
+select all columns from table called itch where spiky greater than 62
+select all columns from table called amused where oatmeal greater than 63
+select all columns from table called test where grin greater than 64
+select all columns from table called courageous where mere greater than 65
+select all columns from table called damaging where tranquil greater than 66
+select all columns from table called shock where sneeze greater than 67
+select all columns from table called competition where flavor greater than 68
+select all columns from table called average where receive greater than 69
+select all columns from table called annoying where bloody greater than 70
+select all columns from table called science where seal greater than 71
+select all columns from table called wistful where energetic greater than 72
+select all columns from table called exclusive where adorable greater than 73
+select all columns from table called hate where fasten greater than 74
+select all columns from table called mug where hulking greater than 75
+select all columns from table called daily where determined greater than 76
+select all columns from table called cherry where compare greater than 77
+select all columns from table called evanescent where move greater than 78
+select all columns from table called worthless where offend greater than 79
+select all columns from table called throat where dramatic greater than 80
+select all columns from table called disapprove where black-and-white greater than 81
+select all columns from table called camera where placid greater than 82
+select all columns from table called needless where pie greater than 83
+select all columns from table called cloth where whistle greater than 84
+select all columns from table called rice where society greater than 85
+select all columns from table called fluffy where pin greater than 86
+select all columns from table called possessive where cloudy greater than 87
+select all columns from table called chicken where piquant greater than 88
+select all columns from table called unit where impress greater than 89
+select all columns from table called probable where vanish greater than 90
+select all columns from table called mate where zoo greater than 91
+select all columns from table called circle where taste greater than 92
+select all columns from table called scarce where nut greater than 93
+select all columns from table called island where locket greater than 94
+select all columns from table called shaggy where educate greater than 95
+select all columns from table called giddy where afford greater than 96
+select all columns from table called juice where giddy greater than 97
+select all columns from table called punishment where cheer greater than 98
+select all columns from table called wax where remove greater than 99
+select all columns from table called fit where kindhearted greater than 100
+select all columns from table called skip where sordid greater than 101
+select all columns from table called ritzy where wide-eyed greater than 102
+select all columns from table called promise where oven greater than 103
+select all columns from table called safe where domineering greater than 104
+select all columns from table called help where talk greater than 105
+select all columns from table called substance where fear greater than 106
+select all columns from table called distinct where old-fashioned greater than 107
+select all columns from table called marry where fowl greater than 108
+select all columns from table called save where ashamed greater than 109
+select all columns from table called panicky where blue greater than 110
+select all columns from table called bee where deserted greater than 111
+select all columns from table called afterthought where curvy greater than 112
+select all columns from table called impulse where thunder greater than 113
+select all columns from table called aloof where range greater than 114
+select all columns from table called visit where escape greater than 115
+select all columns from table called memory where cook greater than 116
+select all columns from table called careful where different greater than 117
+select all columns from table called dark where soft greater than 118
+select all columns from table called fragile where ritzy greater than 119
+select all columns from table called rose where knee greater than 120
+select all columns from table called health where party greater than 121
+select all columns from table called raise where long greater than 122
+select all columns from table called disappear where airport greater than 123
+select all columns from table called turn where truck greater than 124
+select all columns from table called tick where early greater than 125
+select all columns from table called grape where sick greater than 126
+select all columns from table called tiny where sidewalk greater than 127
+select all columns from table called name where unbiased greater than 128
+select all columns from table called silver where complain greater than 129
+select all columns from table called six where lackadaisical greater than 130
+select all columns from table called sweet where average greater than 131
+select all columns from table called striped where north greater than 132
+select all columns from table called outgoing where last greater than 133
+select all columns from table called warm where insect greater than 134
+select all columns from table called practise where look greater than 135
+select all columns from table called swanky where station greater than 136
+select all columns from table called wood where polish greater than 137
+select all columns from table called toy where innate greater than 138
+select all columns from table called lively where apparel greater than 139
+select all columns from table called plough where arch greater than 140
+select all columns from table called decorate where grate greater than 141
+select all columns from table called sleepy where last greater than 142
+select all columns from table called wrestle where stretch greater than 143
+select all columns from table called perpetual where balance greater than 144
+select all columns from table called agreeable where scary greater than 145
+select all columns from table called impress where plane greater than 146
+select all columns from table called settle where subsequent greater than 147
+select all columns from table called kick where parallel greater than 148
+select all columns from table called describe where plastic greater than 149
+select all columns from table called cowardly where army greater than 150
+select all columns from table called arrest where silk greater than 151
+select all columns from table called manage where touch greater than 152
+select all columns from table called trite where mountain greater than 153
+select all columns from table called army where laugh greater than 154
+select all columns from table called chief where practise greater than 155
+select all columns from table called knee where knowing greater than 156
+select all columns from table called useful where hour greater than 157
+select all columns from table called true where toes greater than 158
+select all columns from table called north where chivalrous greater than 159
+select all columns from table called stretch where desert greater than 160
+select all columns from table called damaged where tricky greater than 161
+select all columns from table called absurd where water greater than 162
+select all columns from table called juggle where overrated greater than 163
+select all columns from table called servant where dolls greater than 164
+select all columns from table called slow where fumbling greater than 165
+select all columns from table called jail where terrible greater than 166
+select all columns from table called wide where elated greater than 167
+select all columns from table called unhealthy where plausible greater than 168
+select all columns from table called superficial where cold greater than 169
+select all columns from table called risk where satisfy greater than 170
+select all columns from table called annoyed where intelligent greater than 171
+select all columns from table called recognise where measure greater than 172
+select all columns from table called macho where amusement greater than 173
+select all columns from table called tray where identify greater than 174
+select all columns from table called tacky where pear greater than 175
+select all columns from table called remind where record greater than 176
+select all columns from table called unused where fearful greater than 177
+select all columns from table called scrub where children greater than 178
+select all columns from table called quarrelsome where drink greater than 179
+select all columns from table called fearless where recondite greater than 180
+select all columns from table called ablaze where scold greater than 181
+select all columns from table called sort where incompetent greater than 182
+select all columns from table called high where heavenly greater than 183
+select all columns from table called flame where lush greater than 184
+select all columns from table called statement where regret greater than 185
+select all columns from table called lush where mend greater than 186
+select all columns from table called add where elbow greater than 187
+select all columns from table called level where decorous greater than 188
+select all columns from table called grease where back greater than 189
+select all columns from table called channel where explain greater than 190
+select all columns from table called wish where makeshift greater than 191
+select all columns from table called luxuriant where odd greater than 192
+select all columns from table called resonant where chunky greater than 193
+select all columns from table called burst where iron greater than 194
+select all columns from table called curtain where allow greater than 195
+select all columns from table called value where pull greater than 196
+select all columns from table called remain where linen greater than 197
+select all columns from table called tall where face greater than 198
+select all columns from table called healthy where superficial greater than 199
+select all columns from table called jumbled where spoon greater than 200

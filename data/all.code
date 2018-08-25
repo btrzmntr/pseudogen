@@ -1371,7 +1371,7 @@ select * from cherry where compare > 77
 select * from evanescent where move > 78
 select * from worthless where offend > 79
 select * from throat where dramatic > 80
-select * from disapprove where black-and-white > 81
+select * from disapprove where computer > 81
 select * from camera where placid > 82
 select * from needless where pie > 83
 select * from cloth where whistle > 84
@@ -1392,12 +1392,12 @@ select * from punishment where cheer > 98
 select * from wax where remove > 99
 select * from fit where kindhearted > 100
 select * from skip where sordid > 101
-select * from ritzy where wide-eyed > 102
+select * from ritzy where wide > 102
 select * from promise where oven > 103
 select * from safe where domineering > 104
 select * from help where talk > 105
 select * from substance where fear > 106
-select * from distinct where old-fashioned > 107
+select * from distinct where old > 107
 select * from marry where fowl > 108
 select * from save where ashamed > 109
 select * from panicky where blue > 110
@@ -1565,7 +1565,7 @@ select * from religion where cool > 71
 select * from cause where detect > 72
 select * from smoke where pen > 73
 select * from lean where drunk > 74
-select * from month where far-flung > 75
+select * from month where far > 75
 select * from questionable where fancy > 76
 select * from scream where store > 77
 select * from chase where flat > 78
@@ -1776,7 +1776,7 @@ select * from reason where zipper > 82
 select * from boorish where terrify > 83
 select * from flock where love > 84
 select * from therapeutic where fat > 85
-select * from naive where well-groomed > 86
+select * from naive where groomed > 86
 select * from rainy where handy > 87
 select * from heat where defective > 88
 select * from grotesque where penitent > 89

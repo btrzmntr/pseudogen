@@ -1371,7 +1371,7 @@ select all columns from table called cherry where compare greater than 77
 select all columns from table called evanescent where move greater than 78
 select all columns from table called worthless where offend greater than 79
 select all columns from table called throat where dramatic greater than 80
-select all columns from table called disapprove where black-and-white greater than 81
+select all columns from table called disapprove where computer greater than 81
 select all columns from table called camera where placid greater than 82
 select all columns from table called needless where pie greater than 83
 select all columns from table called cloth where whistle greater than 84
@@ -1392,12 +1392,12 @@ select all columns from table called punishment where cheer greater than 98
 select all columns from table called wax where remove greater than 99
 select all columns from table called fit where kindhearted greater than 100
 select all columns from table called skip where sordid greater than 101
-select all columns from table called ritzy where wide-eyed greater than 102
+select all columns from table called ritzy where wide greater than 102
 select all columns from table called promise where oven greater than 103
 select all columns from table called safe where domineering greater than 104
 select all columns from table called help where talk greater than 105
 select all columns from table called substance where fear greater than 106
-select all columns from table called distinct where old-fashioned greater than 107
+select all columns from table called distinct where old greater than 107
 select all columns from table called marry where fowl greater than 108
 select all columns from table called save where ashamed greater than 109
 select all columns from table called panicky where blue greater than 110
@@ -1565,7 +1565,7 @@ select all columns from table called religion where cool greater than 71
 select all columns from table called cause where detect greater than 72
 select all columns from table called smoke where pen greater than 73
 select all columns from table called lean where drunk greater than 74
-select all columns from table called month where far-flung greater than 75
+select all columns from table called month where far greater than 75
 select all columns from table called questionable where fancy greater than 76
 select all columns from table called scream where store greater than 77
 select all columns from table called chase where flat greater than 78
@@ -1776,7 +1776,7 @@ select all columns from table called reason where zipper greater than 82
 select all columns from table called boorish where terrify greater than 83
 select all columns from table called flock where love greater than 84
 select all columns from table called therapeutic where fat greater than 85
-select all columns from table called naive where well-groomed greater than 86
+select all columns from table called naive where groomed greater than 86
 select all columns from table called rainy where handy greater than 87
 select all columns from table called heat where defective greater than 88
 select all columns from table called grotesque where penitent greater than 89

@@ -5,7 +5,7 @@ RUN apt update && \
 	pip3 install nltk && \
     pip3 install sqlparse && \
     sysctl vm.swappiness=1
-ARG CACHE_DATE=2016-01-04
+ARG CACHE_DATE=2016-01-02
 RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	cd pseudogen && \
 	./tool_setup.sh && \
@@ -14,7 +14,7 @@ RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	wget -O- http://ahclab.naist.jp/pseudogen/en-django.tar.gz | tar zxvf - && \
 	mv en-django/all.* . 
 
-ARG CACHE_DATE=2016-01-13
+ARG CACHE_DATE=2016-01-14
 RUN cd pseudogen && \
     git config --global user.email "btrzmntr@gmail.com" && \
     git config --global user.name "Beatriz" && \

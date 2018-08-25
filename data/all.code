@@ -1,3 +1,4 @@
+select * from clients where
 select *
 select * from
 from cars

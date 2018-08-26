@@ -20,6 +20,8 @@ def escape(text):
         .replace('(', '-LRB-') \
         .replace(')', '-RRB-') \
         .replace('|', '-BAR-') \
+        .replace('<=', '-LOE-') \
+        .replace('>=', '-GOE-') \
         .replace('=', '-EQUALS-') \
         .replace('<', '-LESS-') \
         .replace('>', '-GREATER-') \
@@ -79,11 +81,14 @@ def main():
         dump = makestr(parse)
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )
+        dump = dump.replace(">="," -GOE- " )
+        dump = dump.replace("<="," -LOE- " )
         dump = dump.replace("="," -EQUALS- " )
         dump = dump.replace("_","")
         dump = dump.replace("*", " -ALL- ")
         dump = dump.replace("<", " -LESS- " )
         dump = dump.replace(">", " -GREATER- ")
+        
         #dump = dump.replace("Where where", "Where")
         #dump = dump.replace("(Where fanatical -EQUALS- '1')", "(Token where) (Identifier fanatical) (Token -EQUALS-) (Identifier '1')")
         print(dump)

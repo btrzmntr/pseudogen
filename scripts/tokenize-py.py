@@ -14,6 +14,8 @@ def escape(text):
         .replace('(', '-LRB-') \
         .replace(')', '-RRB-') \
         .replace('|', '-BAR-') \
+        .replace('<=', '-LOE-') \
+        .replace('>=', '-GOE-') \
         .replace('=', '-EQUALS-') \
         .replace('<', '-LESS-') \
         .replace('>', '-GREATER-') \

@@ -2092,3 +2092,6 @@ select all columns from table called vest where legs is less than or equal to 19
 select all columns from table called sail where decisive is less than or equal to 198
 select all columns from table called sneeze where request is less than or equal to 199
 select all columns from table called harsh where shivering is less than or equal to 200
+is less than or equal to
+a is less than or equal to 10
+a is less than or equal to

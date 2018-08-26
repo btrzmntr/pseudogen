@@ -2092,3 +2092,6 @@ select * from vest where legs <= 197
 select * from sail where decisive <= 198
 select * from sneeze where request <= 199
 select * from harsh where shivering <= 200
+<=
+a <= 10
+a <=

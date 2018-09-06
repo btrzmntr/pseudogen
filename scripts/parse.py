@@ -13,6 +13,7 @@ def typename(x):
 def escape(text):
     text = text \
         .replace('"', '`') \
+        .replace("'", '`') \
         .replace('\'', '`') \
         .replace(' ', '-SP-') \
         .replace('\t', '-TAB-') \
@@ -35,13 +36,21 @@ def makestr(node):
 
     if isinstance(node, ast.AST):
         n = 0
+        teste = ''
         nodename = typename(node)
         s = '(' + nodename
         for chname, chval in ast.iter_fields(node):
             chstr = makestr(chval)
             if chstr:
-                s += ' (' + chname + ' ' + chstr + ')'
-                n += 1
+                    if chstr = '(':
+                        while chstr <> ')':
+                            teste += teste + chstr
+                            n +=1
+                        if chstr = ')'
+                            teste += teste + chstr
+                    if chstr <> '(':
+                        s += ' (' + chname + ' ' + chstr + ')'
+                        n += 1
         if not n:
             s += ' -' + nodename + '-' # (Foo) -> (Foo -Foo-)
         s += ')'

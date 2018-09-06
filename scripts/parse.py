@@ -63,7 +63,7 @@ def makestr(node):
         for ch in node:
             chstr = makestr(ch)
             if chstr:
-                s += ' ' + chstr
+                s += 'teste ' + chstr
                 n += 1
         s += ')'
         return s if n else ''
@@ -75,7 +75,7 @@ def makestr(node):
         return '(bytes ' + escape(str(node)) + ')'
 
     else:
-        return '(teste' + typename(node) + ' ' + str(node) + ')'
+        return '(' + typename(node) + ' ' + str(node) + ')'
 
 def main():
     for l in sys.stdin:

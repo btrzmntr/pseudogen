@@ -46,6 +46,7 @@ def makestr(node):
                         while chstr != ')':
                             teste += teste + chstr
                             n +=1
+                            continue
                         if chstr == ')':
                             teste += teste + chstr
                     if chstr != '(':

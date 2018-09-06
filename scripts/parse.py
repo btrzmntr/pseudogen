@@ -43,12 +43,12 @@ def makestr(node):
             chstr = makestr(chval)
             if chstr:
                     if chstr == '(':
-                        while chstr <> ')':
+                        while chstr != ')':
                             teste += teste + chstr
                             n +=1
                         if chstr == ')'
                             teste += teste + chstr
-                    if chstr <> '(':
+                    if chstr != '(':
                         s += ' (' + chname + ' ' + chstr + ')'
                         n += 1
         if not n:

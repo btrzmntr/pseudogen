@@ -38,18 +38,18 @@ def makestr(node):
         n = 0
         teste = ''
         nodename = typename(node)
-        s = '(' + nodename
+        s = '(testeste' + nodename
         for chname, chval in ast.iter_fields(node):
             chstr = makestr(chval)
             if chstr:
                     if chstr == 'Token (':
-                        while chstr != ')':
+                        while chstr != 'Token )':
                             teste += teste + chstr
                             n +=1
                             continue
                         if chstr == ')':
                             teste += teste + chstr
-                    if chstr != '(':
+                    if chstr != 'Token (':
                         s += ' (TESTEteste' + chname + ' ' + chstr + ')'
                         n += 1
         if not n:

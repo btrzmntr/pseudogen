@@ -42,11 +42,11 @@ def makestr(node):
         for chname, chval in ast.iter_fields(node):
             chstr = makestr(chval)
             if chstr:
-                    if chstr = '(':
+                    if chstr === '(':
                         while chstr <> ')':
                             teste += teste + chstr
                             n +=1
-                        if chstr = ')'
+                        if chstr == ')'
                             teste += teste + chstr
                     if chstr <> '(':
                         s += ' (' + chname + ' ' + chstr + ')'

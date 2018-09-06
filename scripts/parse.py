@@ -50,7 +50,7 @@ def makestr(node):
                         if chstr == ')':
                             teste += teste + chstr
                     if chstr != '(':
-                        s += ' (TESTE' + chname + ' ' + chstr + ')'
+                        s += ' (TESTEteste' + chname + ' ' + chstr + ')'
                         n += 1
         if not n:
             s += ' -' + nodename + '-' # (Foo) -> (Foo -Foo-)

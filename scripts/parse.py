@@ -77,10 +77,10 @@ def makestr(node):
 
     else:
         if str(node) == '(' or loop = 1:
-            str(teste) = str(teste) + str(node)
-            loop = 1
+            str(teste) += str(teste) + str(node)
+            loop == 1
             if str(node) == ')':
-                loop = 0
+                loop == 0
                 return '(' + typename(node) + ' ' + str(node)  + ')'
         else:
             return '(' + typename(node) + ' ' + str(node)  + ')'

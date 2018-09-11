@@ -90,7 +90,7 @@ def makestr(node):
             if loop >0 :
                 return str(node) 
             else:
-                return '04(' + typename(node) + ' ' + str(node)  + ')'
+                return str(loop)+ '(' + typename(node) + ' ' + str(node)  + ')'
 def main():
     for l in sys.stdin:
         l = l.strip()

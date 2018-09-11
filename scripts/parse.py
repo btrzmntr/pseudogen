@@ -33,7 +33,6 @@ def makestr(node):
 
     #if node is None or isinstance(node, ast.Pass):
     #    return ''
-    loop = 0
     teste = ''
     if isinstance(node, ast.AST):
         n = 0
@@ -81,8 +80,8 @@ def makestr(node):
             if loop == 1:
                 return typename(node) + str(teste) + '01teste' 
             else:
-                return  str(teste) + '02teste' 
                 loop == 2
+                return  str(teste) + '02teste' 
         if str(node) == ')':
                 loop == 0
                 return str(node)  + ')'
@@ -92,6 +91,7 @@ def makestr(node):
             else:
                 return str(loop)+ '(' + typename(node) + ' ' + str(node)  + ')'
 def main():
+    loop = 0
     for l in sys.stdin:
         l = l.strip()
         if not l:

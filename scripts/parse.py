@@ -79,11 +79,11 @@ def makestr(node):
             teste += teste + str(node)
             loop == 1
             if loop == 1:
-                return typename(node) + str(teste) + '01teste' 
+                 return typename(node) + str(teste) + '01teste' 
             else:
                 return  str(teste) + '02teste' 
                 loop == 2
-            if str(node) == ')':
+        if str(node) == ')':
                 loop == 0
                 return '03(' + typename(node) + ' ' + str(node)  + ')'
         else:

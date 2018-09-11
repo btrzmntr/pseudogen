@@ -75,19 +75,22 @@ def makestr(node):
         return '(bytes ' + escape(str(node)) + ')'
 
     else:
-        if str(node) == '(' or loop > 0:
+        if str(node) == '(' or loop > 1:
             teste += teste + str(node)
-            if loop == 0:
-                return typename(node) + str(teste) + 'teste' 
+            loop == 1
+            if loop == 1:
+                return typename(node) + str(teste) + '01teste' 
             else:
-                return  str(teste) + 'teste' 
-                loop == 1
+                return  str(teste) + '02teste' 
+                loop == 2
             if str(node) == ')':
                 loop == 0
-                return '(' + typename(node) + ' ' + str(node)  + ')'
+                return '03(' + typename(node) + ' ' + str(node)  + ')'
         else:
-            return '(' + typename(node) + ' ' + str(node)  + ')'
-
+            if loop >0 :
+                return str(node) 
+            else:
+                return '04(' + typename(node) + ' ' + str(node)  + ')'
 def main():
     for l in sys.stdin:
         l = l.strip()

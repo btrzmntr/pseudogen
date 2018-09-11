@@ -75,10 +75,13 @@ def makestr(node):
         return '(bytes ' + escape(str(node)) + ')'
 
     else:
-        if str(node) == '(' or loop == 1:
+        if str(node) == '(' or loop > 0:
             teste += teste + str(node)
-            loop == 1
-            return typename(node) + str(teste) + 'teste' 
+            if loop == 0:
+                return typename(node) + str(teste) + 'teste' 
+            else:
+                return  str(teste) + 'teste' 
+                loop == 1
             if str(node) == ')':
                 loop == 0
                 return '(' + typename(node) + ' ' + str(node)  + ')'

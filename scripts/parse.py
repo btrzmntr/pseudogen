@@ -82,7 +82,7 @@ def makestr(node):
                 loop == 0
                 return '(' + typename(node) + ' ' + str(node)  + ')'
         else:
-            return '(' + typename(node) + ' ' + str(node)  + ')'
+            return '(' + typename(node) + ' ' + str(node)  + 'entrou'+ ')'
 
 def main():
     for l in sys.stdin:

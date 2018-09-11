@@ -95,6 +95,8 @@ def makestr(node):
             else:
                 return str(loop)+ '(' + typename(node) + ' ' + str(node)  + ')'
 def main():
+    global teste
+    global loop
     for l in sys.stdin:
         l = l.strip()
         if not l:
@@ -106,8 +108,8 @@ def main():
         #parse = parse.tokens
         parse = list(parse.flatten()) #teste flatten
         dump = makestr(parse)
-        teste = ''
-        loop = 0
+        teste == ''
+        loop == 0
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )
         dump = dump.replace(">="," -GOE- " )

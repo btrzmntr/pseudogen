@@ -106,6 +106,8 @@ def main():
         #parse = parse.tokens
         parse = list(parse.flatten()) #teste flatten
         dump = makestr(parse)
+        teste = ''
+        loop = 0
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )
         dump = dump.replace(">="," -GOE- " )

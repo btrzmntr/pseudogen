@@ -7,6 +7,8 @@ import re
 import inspect
 import logging
 
+loop = 0
+
 def typename(x):
     return type(x).__name__
 
@@ -34,6 +36,7 @@ def makestr(node):
     #if node is None or isinstance(node, ast.Pass):
     #    return ''
     teste = ''
+    global loop
     if isinstance(node, ast.AST):
         n = 0
         nodename = typename(node)
@@ -91,7 +94,6 @@ def makestr(node):
             else:
                 return str(loop)+ '(' + typename(node) + ' ' + str(node)  + ')'
 def main():
-    loop = 0
     for l in sys.stdin:
         l = l.strip()
         if not l:

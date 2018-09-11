@@ -76,7 +76,7 @@ def makestr(node):
 
     else:
         if str(node) == '(' or loop == 1:
-            teste += teste + node
+            teste += teste + str(node)
             loop == 1
             if str(node) == ')':
                 loop == 0

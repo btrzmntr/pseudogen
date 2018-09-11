@@ -42,14 +42,14 @@ def makestr(node):
         for chname, chval in ast.iter_fields(node):
             chstr = makestr(chval)
             if chstr:
-                    if chstr == 'Token (':
-                        while chstr != 'Token )':
+                    if chstr == '01Token (':
+                        while chstr != '02Token )':
                             teste += teste + chstr
                             n +=1
                             continue
                         if chstr == ')':
                             teste += teste + chstr
-                    if chstr != 'Token (':
+                    if chstr != '03Token (':
                         s += ' (' + chname + ' ' + chstr + ')'
                         n += 1
         if not n:
@@ -81,9 +81,9 @@ def makestr(node):
             return str(teste) + 'teste' 
             if str(node) == ')':
                 loop == 0
-                return '(' + typename(node) + ' ' + str(node)  + ')'
+                return '04(' + typename(node) + ' ' + str(node)  + ')'
         else:
-            return '(' + typename(node) + ' ' + str(node)  + ')'
+            return '05(' + typename(node) + ' ' + str(node)  + ')'
 
 def main():
     for l in sys.stdin:
@@ -91,7 +91,7 @@ def main():
         if not l:
             print()
             sys.stdout.flush()
-            continue
+            continues
         parse = sqlparse.parse(l)[0]
         #parse = parse[0] 
         #parse = parse.tokens

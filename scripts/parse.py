@@ -8,6 +8,7 @@ import inspect
 import logging
 
 loop = 0
+teste = ''
 
 def typename(x):
     return type(x).__name__
@@ -35,7 +36,7 @@ def makestr(node):
 
     #if node is None or isinstance(node, ast.Pass):
     #    return ''
-    teste = ''
+    global teste
     global loop
     if isinstance(node, ast.AST):
         n = 0

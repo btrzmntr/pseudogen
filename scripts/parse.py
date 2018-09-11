@@ -36,6 +36,7 @@ def makestr(node):
 
     if isinstance(node, ast.AST):
         n = 0
+        loop = 0
         teste = ''
         nodename = typename(node)
         s = '( ' + nodename
@@ -75,10 +76,14 @@ def makestr(node):
         return '(bytes ' + escape(str(node)) + ')'
 
     else:
-        if str(node) == '(':
-            return '(' + typename(node) + ' ' + str(node) + 'entrou' + ')'
+        if str(node) == '(' or loop = 1:
+            str(teste) = str(teste) + str(node)
+            loop = 1
+            if str(node) == ')':
+                loop = 0
+                return '(' + typename(node) + ' ' + str(node)  + ')'
         else:
-            return '(' + typename(node) + ' ' + str(node) + 'entrou' + ')'
+            return '(' + typename(node) + ' ' + str(node)  + ')'
 
 def main():
     for l in sys.stdin:

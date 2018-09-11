@@ -33,11 +33,10 @@ def makestr(node):
 
     #if node is None or isinstance(node, ast.Pass):
     #    return ''
-
+    loop = 0
+    teste = ''
     if isinstance(node, ast.AST):
         n = 0
-        loop = 0
-        teste = ''
         nodename = typename(node)
         s = '( ' + nodename
         for chname, chval in ast.iter_fields(node):

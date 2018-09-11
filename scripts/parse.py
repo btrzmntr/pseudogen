@@ -75,7 +75,10 @@ def makestr(node):
         return '(bytes ' + escape(str(node)) + ')'
 
     else:
-        return '(' + typename(node) + ' ' + str(node) + ')'
+        if str(node) == '(':
+            return '(' + typename(node) + ' ' + str(node) + 'entrou' + ')'
+        else:
+            return '(' + typename(node) + ' ' + str(node) + 'entrou' + ')'
 
 def main():
     for l in sys.stdin:

@@ -65,7 +65,7 @@ def makestr(node):
         return '(bytes ' + escape(str(node)) + ')'
 
     else:
-        return '(' + typename(node) + ' ' + str(node) + ')'
+        return '(ehaqui' + typename(node) + ' ' + str(node) + ')'
 
 def main():
     for l in sys.stdin:
@@ -88,8 +88,6 @@ def main():
         dump = dump.replace("*", " -ALL- ")
         dump = dump.replace("<", " -LESS- " )
         dump = dump.replace(">", " -GREATER- ")
-        dump = dump.replace("(", "-LRB-")
-        dump = dump.replace(")", "-RRB-")
         
         #dump = dump.replace("Where where", "Where")
         #dump = dump.replace("(Where fanatical -EQUALS- '1')", "(Token where) (Identifier fanatical) (Token -EQUALS-) (Identifier '1')")

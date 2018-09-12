@@ -7,16 +7,12 @@ import re
 import inspect
 import logging
 
-loop = 0
-teste = ''
-
 def typename(x):
     return type(x).__name__
 
 def escape(text):
     text = text \
         .replace('"', '`') \
-        .replace("'", '`') \
         .replace('\'', '`') \
         .replace(' ', '-SP-') \
         .replace('\t', '-TAB-') \
@@ -36,25 +32,16 @@ def makestr(node):
 
     #if node is None or isinstance(node, ast.Pass):
     #    return ''
-    global teste
-    global loop
+
     if isinstance(node, ast.AST):
         n = 0
         nodename = typename(node)
-        s = '( ' + nodename
+        s = '(' + nodename
         for chname, chval in ast.iter_fields(node):
             chstr = makestr(chval)
             if chstr:
-                    if chstr == 'Token (':
-                        while chstr != 'Token )':
-                            teste += teste + chstr
-                            n +=1
-                            continue
-                        if chstr == ')':
-                            teste += teste + chstr
-                    if chstr != 'Token (':
-                        s += ' (' + chname + ' ' + chstr + ')'
-                        n += 1
+                s += ' (' + chname + ' ' + chstr + ')'
+                n += 1
         if not n:
             s += ' -' + nodename + '-' # (Foo) -> (Foo -Foo-)
         s += ')'
@@ -78,25 +65,9 @@ def makestr(node):
         return '(bytes ' + escape(str(node)) + ')'
 
     else:
-        if str(node) == '(' or loop > 1:
-            teste += teste + str(node)
-            loop == 1
-            if loop == 1:
-                return typename(node) + str(teste) + '01teste' 
-            else:
-                loop == 2
-                return  str(teste) + '02teste' 
-        if str(node) == ')':
-                loop == 0
-                return str(node)  + ')'
-        else:
-            if loop >0 :
-                return str(node) 
-            else:
-                return str(loop)+ '(' + typename(node) + ' ' + str(node)  + ')'
+        return '(' + typename(node) + ' ' + str(node) + ')'
+
 def main():
-    global teste
-    global loop
     for l in sys.stdin:
         l = l.strip()
         if not l:
@@ -108,8 +79,6 @@ def main():
         #parse = parse.tokens
         parse = list(parse.flatten()) #teste flatten
         dump = makestr(parse)
-        teste == ''
-        loop == 0
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )
         dump = dump.replace(">="," -GOE- " )
@@ -119,6 +88,8 @@ def main():
         dump = dump.replace("*", " -ALL- ")
         dump = dump.replace("<", " -LESS- " )
         dump = dump.replace(">", " -GREATER- ")
+        dump = dump.replace("(", "-LRB-")
+        dump = dump.replace(")", "-RRB-")
         
         #dump = dump.replace("Where where", "Where")
         #dump = dump.replace("(Where fanatical -EQUALS- '1')", "(Token where) (Identifier fanatical) (Token -EQUALS-) (Identifier '1')")
@@ -128,4 +99,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

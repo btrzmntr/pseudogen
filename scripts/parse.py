@@ -53,7 +53,7 @@ def makestr(node):
         for ch in node:
             chstr = makestr(ch)
             if chstr:
-                s += 'entrou aqui' + chstr
+                s += ' ' + chstr
                 n += 1
         s += ')'
         return s if n else ''

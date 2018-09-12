@@ -53,7 +53,7 @@ def makestr(node):
         for ch in node:
             chstr = makestr(ch)
             if chstr:
-                s += ' ' + chstr
+                s += 'entrou aqui' + chstr
                 n += 1
         s += ')'
         return s if n else ''
@@ -78,7 +78,6 @@ def main():
         #parse = parse[0] 
         #parse = parse.tokens
         parse = list(parse.flatten()) #teste flatten
-        return 'print parse' + str(parse)
         dump = makestr(parse)
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )

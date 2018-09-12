@@ -65,7 +65,7 @@ def makestr(node):
         return '(bytes ' + escape(str(node)) + ')'
 
     else:
-        return '(ehaqui' + typename(node) + ' ' + str(node) + ')'
+        return '(' + typename(node) + ' ' + str(node) + ')'
 
 def main():
     for l in sys.stdin:
@@ -78,6 +78,7 @@ def main():
         #parse = parse[0] 
         #parse = parse.tokens
         parse = list(parse.flatten()) #teste flatten
+        return 'print parse' + str(parse)
         dump = makestr(parse)
         dump = dump.replace("(Token  )","")
         dump = dump.replace("(Token    )","" )

@@ -5258,3 +5258,23 @@ where a < 178
 where c < 199
 where e < 1976
 where w < 15
+values (1,2)
+values (112,3232)
+values (1,223)
+values (112,2233)
+values (1,2,3,4)
+values (1,2,3,5535)
+values (112,3)
+values (1,2334,3)
+values (1,234,34,53,3)
+values (1,2,34,432,5,53)
+values (1,2,42,4234,253)
+values (124124)
+values (1,1414,342,2345,325)
+values (1,24)
+values (1,2234)
+values (1,234)
+values (112,2322)
+values (1,212123)
+values (1121,2,3)
+values (112,2,3)

@@ -2170,7 +2170,7 @@ select all columns from table called past where haunt is less than or equal to 6
 select all columns from table called longing where spark is less than or equal to 69
 select all columns from table called baseball where aware is less than or equal to 70
 select all columns from table called anger where language is less than or equal to 71
-select all columns from table called like where extra-small is less than or equal to 72
+select all columns from table called like where extrasmall is less than or equal to 72
 select all columns from table called sour where hate is less than or equal to 73
 select all columns from table called adhesive where prepare is less than or equal to 74
 select all columns from table called momentous where snore is less than or equal to 75
@@ -2201,7 +2201,7 @@ select all columns from table called ripe where attempt is less than or equal to
 select all columns from table called bury where poison is less than or equal to 100
 select all columns from table called sparkling where teeny is less than or equal to 101
 select all columns from table called sharp where distance is less than or equal to 102
-select all columns from table called polite where well-made is less than or equal to 103
+select all columns from table called polite where wellmade is less than or equal to 103
 select all columns from table called paddle where rinse is less than or equal to 104
 select all columns from table called coil where literate is less than or equal to 105
 select all columns from table called excited where gaping is less than or equal to 106
@@ -2260,7 +2260,7 @@ select all columns from table called vagabond where onerous is less than or equa
 select all columns from table called crack where sour is less than or equal to 159
 select all columns from table called level where elegant is less than or equal to 160
 select all columns from table called middle where anxious is less than or equal to 161
-select all columns from table called pretend where high-pitched is less than or equal to 162
+select all columns from table called pretend where highpitched is less than or equal to 162
 select all columns from table called diligent where feeling is less than or equal to 163
 select all columns from table called filthy where one is less than or equal to 164
 select all columns from table called minute where doubt is less than or equal to 165
@@ -2422,7 +2422,7 @@ select all columns from table called clients where cracker is greater than or eq
 select all columns from table called twist where impulse is greater than or equal to 322
 select all columns from table called pass where agreeable is greater than or equal to 323
 select all columns from table called coach where baseball is greater than or equal to 324
-select all columns from table called piquant where blue-eyed is greater than or equal to 325
+select all columns from table called piquant where blueeyed is greater than or equal to 325
 select all columns from table called greasy where parcel is greater than or equal to 326
 select all columns from table called combative where drop is greater than or equal to 327
 select all columns from table called complete where unknown is greater than or equal to 328
@@ -2675,7 +2675,7 @@ insert a row into table called cook with values '(171,"1710")'
 insert a row into table called reflect with values '(172,"1720")'
 insert a row into table called jumpy with values '(173,"1730")'
 insert a row into table called shaky with values '(174,"1740")'
-insert a row into table called second-hand with values '(175,"1750")'
+insert a row into table called secondhand with values '(175,"1750")'
 insert a row into table called houses with values '(176,"1760")'
 insert a row into table called power with values '(177,"1770")'
 insert a row into table called rice with values '(178,"1780")'
@@ -2695,7 +2695,7 @@ insert a row into table called deep with values '(191,"1910")'
 insert a row into table called cough with values '(192,"1920")'
 insert a row into table called towering with values '(193,"1930")'
 insert a row into table called tie with values '(194,"1940")'
-insert a row into table called old-fashioned with values '(195,"1950")'
+insert a row into table called oldfashioned with values '(195,"1950")'
 insert a row into table called rightful with values '(196,"1960")'
 insert a row into table called roomy with values '(197,"1970")'
 insert a row into table called berry with values '(198,"1980")'
@@ -2772,7 +2772,7 @@ insert a row into table called spotless with values '(268,"2680")'
 insert a row into table called suspend with values '(269,"2690")'
 insert a row into table called skillful with values '(270,"2700")'
 insert a row into table called march with values '(271,"2710")'
-insert a row into table called far-flung with values '(272,"2720")'
+insert a row into table called farflung with values '(272,"2720")'
 insert a row into table called interesting with values '(273,"2730")'
 insert a row into table called hesitant with values '(274,"2740")'
 insert a row into table called mend with values '(275,"2750")'
@@ -2783,7 +2783,7 @@ insert a row into table called argument with values '(279,"2790")'
 insert a row into table called fabulous with values '(280,"2800")'
 insert a row into table called ill with values '(281,"2810")'
 insert a row into table called fixed with values '(282,"2820")'
-insert a row into table called extra-small with values '(283,"2830")'
+insert a row into table called extrasmall with values '(283,"2830")'
 insert a row into table called unit with values '(284,"2840")'
 insert a row into table called produce with values '(285,"2850")'
 insert a row into table called spotted with values '(286,"2860")'
@@ -2882,7 +2882,7 @@ insert a row into table called irritating with values '(378,"3780")'
 insert a row into table called side with values '(379,"3790")'
 insert a row into table called full with values '(380,"3800")'
 insert a row into table called alert with values '(381,"3810")'
-insert a row into table called well-groomed with values '(382,"3820")'
+insert a row into table called wellgroomed with values '(382,"3820")'
 insert a row into table called fire with values '(383,"3830")'
 insert a row into table called untidy with values '(384,"3840")'
 insert a row into table called abrasive with values '(385,"3850")'
@@ -3097,7 +3097,7 @@ delete all lines from table called quirky where dramatic is equal to 98
 delete all lines from table called obeisant where save is equal to 99
 delete all lines from table called unnatural where confused is equal to 100
 delete all lines from table called keen where holistic is equal to 101
-delete all lines from table called explode where black-and-white is equal to 102
+delete all lines from table called explode where blackandwhite is equal to 102
 delete all lines from table called green where jam is equal to 103
 delete all lines from table called snow where tremble is equal to 104
 delete all lines from table called work where nutritious is equal to 105
@@ -3283,7 +3283,7 @@ delete all lines from table called orange where wander is equal to 284
 delete all lines from table called dream where satisfying is equal to 285
 delete all lines from table called burn where refuse is equal to 286
 delete all lines from table called stir where permit is equal to 287
-delete all lines from table called bathe where well-made is equal to 288
+delete all lines from table called bathe where wellmade is equal to 288
 delete all lines from table called back where defiant is equal to 289
 delete all lines from table called thaw where violent is equal to 290
 delete all lines from table called vigorous where judge is equal to 291
@@ -3517,7 +3517,7 @@ on table called flow update the value of the field wiry to 15 where explode is e
 on table called stocking update the value of the field crate to 16 where zesty is equal to 80
 on table called side update the value of the field sip to 17 where spoon is equal to 85
 on table called development update the value of the field level to 18 where writer is equal to 90
-on table called trade update the value of the field far-flung to 19 where level is equal to 95
+on table called trade update the value of the field farflung to 19 where level is equal to 95
 on table called calm update the value of the field spoon to 20 where bulb is equal to 100
 on table called jittery update the value of the field pen to 21 where throne is equal to 105
 on table called breezy update the value of the field free to 22 where cynical is equal to 110
@@ -3556,7 +3556,7 @@ on table called truthful update the value of the field psychedelic to 54 where b
 on table called cheerful update the value of the field tax to 55 where attach is equal to 275
 on table called tranquil update the value of the field unit to 56 where uncle is equal to 280
 on table called quiet update the value of the field functional to 57 where land is equal to 285
-on table called embarrass update the value of the field known to 58 where black-and-white is equal to 290
+on table called embarrass update the value of the field known to 58 where blackandwhite is equal to 290
 on table called thumb update the value of the field testy to 59 where erratic is equal to 295
 on table called ceaseless update the value of the field bizarre to 60 where wall is equal to 300
 on table called anxious update the value of the field fork to 61 where unaccountable is equal to 305
@@ -3591,7 +3591,7 @@ on table called brave update the value of the field compare to 89 where nebulous
 on table called stove update the value of the field steel to 90 where playground is equal to 450
 on table called float update the value of the field decorate to 91 where lumber is equal to 455
 on table called statuesque update the value of the field absorbed to 92 where deep is equal to 460
-on table called drag update the value of the field plan to 93 where bite-sized is equal to 465
+on table called drag update the value of the field plan to 93 where bitesized is equal to 465
 on table called dinner update the value of the field number to 94 where lock is equal to 470
 on table called clever update the value of the field scare to 95 where license is equal to 475
 on table called absurd update the value of the field pleasure to 96 where wild is equal to 480
@@ -3608,7 +3608,7 @@ on table called wacky update the value of the field zipper to 106 where royal is
 on table called fix update the value of the field snail to 107 where oatmeal is equal to 535
 on table called questionable update the value of the field real to 108 where nut is equal to 540
 on table called heartbreaking update the value of the field travel to 109 where splendid is equal to 545
-on table called compare update the value of the field wide-eyed to 110 where spoil is equal to 550
+on table called compare update the value of the field wideeyed to 110 where spoil is equal to 550
 on table called support update the value of the field aberrant to 111 where bedroom is equal to 555
 on table called snow update the value of the field peel to 112 where spot is equal to 560
 on table called yard update the value of the field gifted to 113 where whistle is equal to 565
@@ -3635,7 +3635,7 @@ on table called peace update the value of the field accurate to 133 where simpli
 on table called reduce update the value of the field addition to 134 where trail is equal to 670
 on table called flight update the value of the field truck to 135 where tender is equal to 675
 on table called irritating update the value of the field regular to 136 where curl is equal to 680
-on table called heat update the value of the field homeless to 137 where long-term is equal to 685
+on table called heat update the value of the field homeless to 137 where longterm is equal to 685
 on table called crawl update the value of the field confuse to 138 where save is equal to 690
 on table called cowardly update the value of the field bruise to 139 where tin is equal to 695
 on table called sleet update the value of the field curly to 140 where cough is equal to 700
@@ -3674,11 +3674,11 @@ on table called step update the value of the field fish to 172 where heat is equ
 on table called stupid update the value of the field part to 173 where spooky is equal to 865
 on table called story update the value of the field yielding to 174 where remind is equal to 870
 on table called amount update the value of the field summer to 175 where turkey is equal to 875
-on table called petite update the value of the field arrange to 176 where wide-eyed is equal to 880
+on table called petite update the value of the field arrange to 176 where wideeyed is equal to 880
 on table called real update the value of the field decay to 177 where decorate is equal to 885
 on table called victorious update the value of the field excited to 178 where gainful is equal to 890
 on table called paste update the value of the field scared to 179 where verdant is equal to 895
-on table called coach update the value of the field ill-fated to 180 where cave is equal to 900
+on table called coach update the value of the field illfated to 180 where cave is equal to 900
 on table called appear update the value of the field blind to 181 where divergent is equal to 905
 on table called coil update the value of the field gold to 182 where vulgar is equal to 910
 on table called common update the value of the field damaged to 183 where married is equal to 915
@@ -3801,7 +3801,7 @@ on table called crooked update the value of the field mother to 299 where entert
 on table called ice update the value of the field flavor to 300 where rings is equal to 1500
 on table called pollution update the value of the field lace to 301 where motionless is equal to 1505
 on table called change update the value of the field name to 302 where willing is equal to 1510
-on table called brush update the value of the field remind to 303 where well-to-do is equal to 1515
+on table called brush update the value of the field remind to 303 where welltodo is equal to 1515
 on table called difficult update the value of the field judge to 304 where egg is equal to 1520
 on table called mailbox update the value of the field face to 305 where aggressive is equal to 1525
 on table called collar update the value of the field advertisement to 306 where blot is equal to 1530
@@ -3809,12 +3809,12 @@ on table called stomach update the value of the field knife to 307 where giant i
 on table called labored update the value of the field switch to 308 where yarn is equal to 1540
 on table called pancake update the value of the field hall to 309 where border is equal to 1545
 on table called borrow update the value of the field wobble to 310 where scene is equal to 1550
-on table called well-off update the value of the field optimal to 311 where fresh is equal to 1555
+on table called welloff update the value of the field optimal to 311 where fresh is equal to 1555
 on table called escape update the value of the field river to 312 where trick is equal to 1560
 on table called ugly update the value of the field spiteful to 313 where pour is equal to 1565
 on table called upbeat update the value of the field concentrate to 314 where relation is equal to 1570
-on table called extra-large update the value of the field permit to 315 where rock is equal to 1575
-on table called shaky update the value of the field men to 316 where x-ray is equal to 1580
+on table called extralarge update the value of the field permit to 315 where rock is equal to 1575
+on table called shaky update the value of the field men to 316 where xray is equal to 1580
 on table called request update the value of the field gun to 317 where mushy is equal to 1585
 on table called polish update the value of the field egg to 318 where obeisant is equal to 1590
 on table called didactic update the value of the field hideous to 319 where health is equal to 1595
@@ -3870,7 +3870,7 @@ on table called abrupt update the value of the field milk to 368 where adjoining
 on table called uninterested update the value of the field jolly to 369 where giants is equal to 1845
 on table called young update the value of the field pricey to 370 where sign is equal to 1850
 on table called transport update the value of the field birth to 371 where battle is equal to 1855
-on table called tangy update the value of the field blue-eyed to 372 where bone is equal to 1860
+on table called tangy update the value of the field blueeyed to 372 where bone is equal to 1860
 on table called taste update the value of the field accept to 373 where solid is equal to 1865
 on table called descriptive update the value of the field absent to 374 where naive is equal to 1870
 on table called limping update the value of the field yard to 375 where happen is equal to 1875
@@ -3890,7 +3890,7 @@ on table called heal update the value of the field answer to 388 where internal 
 on table called angry update the value of the field repulsive to 389 where screeching is equal to 1945
 on table called punishment update the value of the field hill to 390 where ultra is equal to 1950
 on table called afraid update the value of the field bomb to 391 where cruel is equal to 1955
-on table called spill update the value of the field full to 392 where well-groomed is equal to 1960
+on table called spill update the value of the field full to 392 where wellgroomed is equal to 1960
 on table called futuristic update the value of the field murky to 393 where pump is equal to 1965
 on table called concerned update the value of the field regret to 394 where feeling is equal to 1970
 on table called bang update the value of the field expert to 395 where bow is equal to 1975
@@ -3923,7 +3923,7 @@ on table called imagine update the value of the field furry to 421 where dashing
 on table called top update the value of the field film to 422 where historical is equal to 2110
 on table called telling update the value of the field skate to 423 where impulse is equal to 2115
 on table called frightening update the value of the field giants to 424 where strap is equal to 2120
-on table called shirt update the value of the field well-groomed to 425 where pie is equal to 2125
+on table called shirt update the value of the field wellgroomed to 425 where pie is equal to 2125
 on table called boorish update the value of the field humorous to 426 where slow is equal to 2130
 on table called competition update the value of the field chew to 427 where stitch is equal to 2135
 on table called join update the value of the field male to 428 where weather is equal to 2140
@@ -3959,7 +3959,7 @@ on table called train update the value of the field care to 457 where shade is e
 on table called pray update the value of the field smoke to 458 where arithmetic is equal to 2290
 on table called ultra update the value of the field bed to 459 where brush is equal to 2295
 on table called clip update the value of the field stove to 460 where power is equal to 2300
-on table called crowd update the value of the field well-off to 461 where property is equal to 2305
+on table called crowd update the value of the field welloff to 461 where property is equal to 2305
 on table called science update the value of the field theory to 462 where quizzical is equal to 2310
 on table called overflow update the value of the field introduce to 463 where abaft is equal to 2315
 on table called puncture update the value of the field ambiguous to 464 where joyous is equal to 2320
@@ -3974,7 +3974,7 @@ on table called ground update the value of the field subdued to 472 where island
 on table called depressed update the value of the field waiting to 473 where plastic is equal to 2365
 on table called billowy update the value of the field clear to 474 where clam is equal to 2370
 on table called place update the value of the field glue to 475 where transport is equal to 2375
-on table called accessible update the value of the field blush to 476 where high-pitched is equal to 2380
+on table called accessible update the value of the field blush to 476 where highpitched is equal to 2380
 on table called lively update the value of the field magical to 477 where pathetic is equal to 2385
 on table called education update the value of the field wound to 478 where support is equal to 2390
 on table called surprise update the value of the field boat to 479 where pigs is equal to 2395
@@ -4007,3 +4007,12 @@ where a is less than b
 on table called a update
 on table called babies update
 on table called x update
+the value of the field a to
+the value of the field b to
+the value of the field c to
+the value of the field d to
+the value of the field 1 to 1
+the value of the field x to 2
+the value of the field x
+the value of the field amor to 10
+the value of the field oi to 0

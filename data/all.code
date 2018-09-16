@@ -2170,7 +2170,7 @@ select * from past where haunt <= 68
 select * from longing where spark <= 69
 select * from baseball where aware <= 70
 select * from anger where language <= 71
-select * from like where extra-small <= 72
+select * from like where extrasmall <= 72
 select * from sour where hate <= 73
 select * from adhesive where prepare <= 74
 select * from momentous where snore <= 75
@@ -2201,7 +2201,7 @@ select * from ripe where attempt <= 99
 select * from bury where poison <= 100
 select * from sparkling where teeny <= 101
 select * from sharp where distance <= 102
-select * from polite where well-made <= 103
+select * from polite where wellmade <= 103
 select * from paddle where rinse <= 104
 select * from coil where literate <= 105
 select * from excited where gaping <= 106
@@ -2260,7 +2260,7 @@ select * from vagabond where onerous <= 158
 select * from crack where sour <= 159
 select * from level where elegant <= 160
 select * from middle where anxious <= 161
-select * from pretend where high-pitched <= 162
+select * from pretend where highpitched <= 162
 select * from diligent where feeling <= 163
 select * from filthy where one <= 164
 select * from minute where doubt <= 165
@@ -2422,7 +2422,7 @@ select * from clients where cracker >= 321
 select * from twist where impulse >= 322
 select * from pass where agreeable >= 323
 select * from coach where baseball >= 324
-select * from piquant where blue-eyed >= 325
+select * from piquant where blueeyed >= 325
 select * from greasy where parcel >= 326
 select * from combative where drop >= 327
 select * from complete where unknown >= 328
@@ -2675,7 +2675,7 @@ insert into cook values '(171,"1710")'
 insert into reflect values '(172,"1720")'
 insert into jumpy values '(173,"1730")'
 insert into shaky values '(174,"1740")'
-insert into second-hand values '(175,"1750")'
+insert into secondhand values '(175,"1750")'
 insert into houses values '(176,"1760")'
 insert into power values '(177,"1770")'
 insert into rice values '(178,"1780")'
@@ -2695,7 +2695,7 @@ insert into deep values '(191,"1910")'
 insert into cough values '(192,"1920")'
 insert into towering values '(193,"1930")'
 insert into tie values '(194,"1940")'
-insert into old-fashioned values '(195,"1950")'
+insert into oldfashioned values '(195,"1950")'
 insert into rightful values '(196,"1960")'
 insert into roomy values '(197,"1970")'
 insert into berry values '(198,"1980")'
@@ -2772,7 +2772,7 @@ insert into spotless values '(268,"2680")'
 insert into suspend values '(269,"2690")'
 insert into skillful values '(270,"2700")'
 insert into march values '(271,"2710")'
-insert into far-flung values '(272,"2720")'
+insert into farflung values '(272,"2720")'
 insert into interesting values '(273,"2730")'
 insert into hesitant values '(274,"2740")'
 insert into mend values '(275,"2750")'
@@ -2783,7 +2783,7 @@ insert into argument values '(279,"2790")'
 insert into fabulous values '(280,"2800")'
 insert into ill values '(281,"2810")'
 insert into fixed values '(282,"2820")'
-insert into extra-small values '(283,"2830")'
+insert into extrasmall values '(283,"2830")'
 insert into unit values '(284,"2840")'
 insert into produce values '(285,"2850")'
 insert into spotted values '(286,"2860")'
@@ -2882,7 +2882,7 @@ insert into irritating values '(378,"3780")'
 insert into side values '(379,"3790")'
 insert into full values '(380,"3800")'
 insert into alert values '(381,"3810")'
-insert into well-groomed values '(382,"3820")'
+insert into wellgroomed values '(382,"3820")'
 insert into fire values '(383,"3830")'
 insert into untidy values '(384,"3840")'
 insert into abrasive values '(385,"3850")'
@@ -3097,7 +3097,7 @@ delete from quirky where dramatic = 98
 delete from obeisant where save = 99
 delete from unnatural where confused = 100
 delete from keen where holistic = 101
-delete from explode where black-and-white = 102
+delete from explode where blackandwhite = 102
 delete from green where jam = 103
 delete from snow where tremble = 104
 delete from work where nutritious = 105
@@ -3283,7 +3283,7 @@ delete from orange where wander = 284
 delete from dream where satisfying = 285
 delete from burn where refuse = 286
 delete from stir where permit = 287
-delete from bathe where well-made = 288
+delete from bathe where wellmade = 288
 delete from back where defiant = 289
 delete from thaw where violent = 290
 delete from vigorous where judge = 291
@@ -3517,7 +3517,7 @@ update flow set wiry = 15 where explode = 75
 update stocking set crate = 16 where zesty = 80
 update side set sip = 17 where spoon = 85
 update development set level = 18 where writer = 90
-update trade set far-flung = 19 where level = 95
+update trade set farflung = 19 where level = 95
 update calm set spoon = 20 where bulb = 100
 update jittery set pen = 21 where throne = 105
 update breezy set free = 22 where cynical = 110
@@ -3556,7 +3556,7 @@ update truthful set psychedelic = 54 where basin = 270
 update cheerful set tax = 55 where attach = 275
 update tranquil set unit = 56 where uncle = 280
 update quiet set functional = 57 where land = 285
-update embarrass set known = 58 where black-and-white = 290
+update embarrass set known = 58 where blackandwhite = 290
 update thumb set testy = 59 where erratic = 295
 update ceaseless set bizarre = 60 where wall = 300
 update anxious set fork = 61 where unaccountable = 305
@@ -3591,7 +3591,7 @@ update brave set compare = 89 where nebulous = 445
 update stove set steel = 90 where playground = 450
 update float set decorate = 91 where lumber = 455
 update statuesque set absorbed = 92 where deep = 460
-update drag set plan = 93 where bite-sized = 465
+update drag set plan = 93 where bitesized = 465
 update dinner set number = 94 where lock = 470
 update clever set scare = 95 where license = 475
 update absurd set pleasure = 96 where wild = 480
@@ -3608,7 +3608,7 @@ update wacky set zipper = 106 where royal = 530
 update fix set snail = 107 where oatmeal = 535
 update questionable set real = 108 where nut = 540
 update heartbreaking set travel = 109 where splendid = 545
-update compare set wide-eyed = 110 where spoil = 550
+update compare set wideeyed = 110 where spoil = 550
 update support set aberrant = 111 where bedroom = 555
 update snow set peel = 112 where spot = 560
 update yard set gifted = 113 where whistle = 565
@@ -3635,7 +3635,7 @@ update peace set accurate = 133 where simplistic = 665
 update reduce set addition = 134 where trail = 670
 update flight set truck = 135 where tender = 675
 update irritating set regular = 136 where curl = 680
-update heat set homeless = 137 where long-term = 685
+update heat set homeless = 137 where longterm = 685
 update crawl set confuse = 138 where save = 690
 update cowardly set bruise = 139 where tin = 695
 update sleet set curly = 140 where cough = 700
@@ -3674,11 +3674,11 @@ update step set fish = 172 where heat = 860
 update stupid set part = 173 where spooky = 865
 update story set yielding = 174 where remind = 870
 update amount set summer = 175 where turkey = 875
-update petite set arrange = 176 where wide-eyed = 880
+update petite set arrange = 176 where wideeyed = 880
 update real set decay = 177 where decorate = 885
 update victorious set excited = 178 where gainful = 890
 update paste set scared = 179 where verdant = 895
-update coach set ill-fated = 180 where cave = 900
+update coach set illfated = 180 where cave = 900
 update appear set blind = 181 where divergent = 905
 update coil set gold = 182 where vulgar = 910
 update common set damaged = 183 where married = 915
@@ -3801,7 +3801,7 @@ update crooked set mother = 299 where entertain = 1495
 update ice set flavor = 300 where rings = 1500
 update pollution set lace = 301 where motionless = 1505
 update change set name = 302 where willing = 1510
-update brush set remind = 303 where well-to-do = 1515
+update brush set remind = 303 where welltodo = 1515
 update difficult set judge = 304 where egg = 1520
 update mailbox set face = 305 where aggressive = 1525
 update collar set advertisement = 306 where blot = 1530
@@ -3809,12 +3809,12 @@ update stomach set knife = 307 where giant = 1535
 update labored set switch = 308 where yarn = 1540
 update pancake set hall = 309 where border = 1545
 update borrow set wobble = 310 where scene = 1550
-update well-off set optimal = 311 where fresh = 1555
+update welloff set optimal = 311 where fresh = 1555
 update escape set river = 312 where trick = 1560
 update ugly set spiteful = 313 where pour = 1565
 update upbeat set concentrate = 314 where relation = 1570
-update extra-large set permit = 315 where rock = 1575
-update shaky set men = 316 where x-ray = 1580
+update extralarge set permit = 315 where rock = 1575
+update shaky set men = 316 where xray = 1580
 update request set gun = 317 where mushy = 1585
 update polish set egg = 318 where obeisant = 1590
 update didactic set hideous = 319 where health = 1595
@@ -3870,7 +3870,7 @@ update abrupt set milk = 368 where adjoining = 1840
 update uninterested set jolly = 369 where giants = 1845
 update young set pricey = 370 where sign = 1850
 update transport set birth = 371 where battle = 1855
-update tangy set blue-eyed = 372 where bone = 1860
+update tangy set blueeyed = 372 where bone = 1860
 update taste set accept = 373 where solid = 1865
 update descriptive set absent = 374 where naive = 1870
 update limping set yard = 375 where happen = 1875
@@ -3890,7 +3890,7 @@ update heal set answer = 388 where internal = 1940
 update angry set repulsive = 389 where screeching = 1945
 update punishment set hill = 390 where ultra = 1950
 update afraid set bomb = 391 where cruel = 1955
-update spill set full = 392 where well-groomed = 1960
+update spill set full = 392 where wellgroomed = 1960
 update futuristic set murky = 393 where pump = 1965
 update concerned set regret = 394 where feeling = 1970
 update bang set expert = 395 where bow = 1975
@@ -3923,7 +3923,7 @@ update imagine set furry = 421 where dashing = 2105
 update top set film = 422 where historical = 2110
 update telling set skate = 423 where impulse = 2115
 update frightening set giants = 424 where strap = 2120
-update shirt set well-groomed = 425 where pie = 2125
+update shirt set wellgroomed = 425 where pie = 2125
 update boorish set humorous = 426 where slow = 2130
 update competition set chew = 427 where stitch = 2135
 update join set male = 428 where weather = 2140
@@ -3959,7 +3959,7 @@ update train set care = 457 where shade = 2285
 update pray set smoke = 458 where arithmetic = 2290
 update ultra set bed = 459 where brush = 2295
 update clip set stove = 460 where power = 2300
-update crowd set well-off = 461 where property = 2305
+update crowd set welloff = 461 where property = 2305
 update science set theory = 462 where quizzical = 2310
 update overflow set introduce = 463 where abaft = 2315
 update puncture set ambiguous = 464 where joyous = 2320
@@ -3974,7 +3974,7 @@ update ground set subdued = 472 where island = 2360
 update depressed set waiting = 473 where plastic = 2365
 update billowy set clear = 474 where clam = 2370
 update place set glue = 475 where transport = 2375
-update accessible set blush = 476 where high-pitched = 2380
+update accessible set blush = 476 where highpitched = 2380
 update lively set magical = 477 where pathetic = 2385
 update education set wound = 478 where support = 2390
 update surprise set boat = 479 where pigs = 2395
@@ -4007,3 +4007,12 @@ where a<b
 update a
 update babies
 update x
+set a =
+set b =
+set c =
+set d = 
+set a = 1
+set x = 2
+set x
+set amor = 10
+set oi = 0

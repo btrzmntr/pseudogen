@@ -832,7 +832,7 @@ select all columns from table called guide
 select all columns from table called infamous
 select all columns from table called license
 select all columns from table called play
-select all columns from table called telephone
+select all columns from table called tele
 select all columns from table called icy
 select all columns from table called crook
 select all columns from table called stroke
@@ -1025,7 +1025,7 @@ select all columns from table called spell
 select all columns from table called users
 select all columns from table called chilly
 select all columns from table called air
-select all columns from table called phone
+select all columns from table called iphone
 select all columns from table called anxious
 select all columns from table called shrug
 select all columns from table called learn
@@ -2313,7 +2313,7 @@ select all columns from table called spell where cheat is greater than or equal 
 select all columns from table called users where dead is greater than or equal to 213
 select all columns from table called chilly where front is greater than or equal to 214
 select all columns from table called air where drum is greater than or equal to 215
-select all columns from table called phone where stimulating is greater than or equal to 216
+select all columns from table called iphone where stimulating is greater than or equal to 216
 select all columns from table called anxious where box is greater than or equal to 217
 select all columns from table called shrug where crow is greater than or equal to 218
 select all columns from table called learn where yak is greater than or equal to 219
@@ -3000,7 +3000,7 @@ delete all lines from table called left where pencil is equal to 1
 delete all lines from table called stage where poor is equal to 2
 delete all lines from table called fearful where sharp is equal to 3
 delete all lines from table called squirrel where school is equal to 4
-delete all lines from table called phone where unusual is equal to 5
+delete all lines from table called iphone where unusual is equal to 5
 delete all lines from table called welltodo where smoke is equal to 6
 delete all lines from table called bit where ear is equal to 7
 delete all lines from table called realise where boil is equal to 8

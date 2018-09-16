@@ -1025,7 +1025,7 @@ select * from spell
 select * from users
 select * from chilly
 select * from air
-select * from phone
+select * from iphone
 select * from anxious
 select * from shrug
 select * from learn
@@ -2313,7 +2313,7 @@ select * from spell where cheat >= 212
 select * from users where dead >= 213
 select * from chilly where front >= 214
 select * from air where drum >= 215
-select * from phone where stimulating >= 216
+select * from iphone where stimulating >= 216
 select * from anxious where box >= 217
 select * from shrug where crow >= 218
 select * from learn where yak >= 219
@@ -3000,7 +3000,7 @@ delete from left where pencil = 1
 delete from stage where poor = 2
 delete from fearful where sharp = 3
 delete from squirrel where school = 4
-delete from phone where unusual = 5
+delete from iphone where unusual = 5
 delete from welltodo where smoke = 6
 delete from bit where ear = 7
 delete from realise where boil = 8

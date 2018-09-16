@@ -2501,500 +2501,500 @@ a is less than 0
 select all columns from table table where b is less than 2
 where id is less than 9999
 is less than
-insert a row into table called coal with values (1,10)
-insert a row into table called range with values (2,20)
-insert a row into table called reach with values (3,30)
-insert a row into table called enchanted with values (4,40)
-insert a row into table called glib with values (5,50)
-insert a row into table called stove with values (6,60)
-insert a row into table called fax with values (7,70)
-insert a row into table called thankful with values (8,80)
-insert a row into table called snail with values (9,90)
-insert a row into table called cabbage with values (10,100)
-insert a row into table called puzzled with values (11,110)
-insert a row into table called pedal with values (12,120)
-insert a row into table called shame with values (13,130)
-insert a row into table called whip with values (14,140)
-insert a row into table called acrid with values (15,150)
-insert a row into table called useful with values (16,160)
-insert a row into table called complete with values (17,170)
-insert a row into table called slip with values (18,180)
-insert a row into table called screeching with values (19,190)
-insert a row into table called cross with values (20,200)
-insert a row into table called uppity with values (21,210)
-insert a row into table called throne with values (22,220)
-insert a row into table called brawny with values (23,230)
-insert a row into table called self with values (24,240)
-insert a row into table called scribble with values (25,250)
-insert a row into table called van with values (26,260)
-insert a row into table called shivering with values (27,270)
-insert a row into table called old with values (28,280)
-insert a row into table called glass with values (29,290)
-insert a row into table called accessible with values (30,300)
-insert a row into table called savory with values (31,310)
-insert a row into table called concentrate with values (32,320)
-insert a row into table called defective with values (33,330)
-insert a row into table called nail with values (34,340)
-insert a row into table called roof with values (35,350)
-insert a row into table called difficult with values (36,360)
-insert a row into table called jealous with values (37,370)
-insert a row into table called enjoy with values (38,380)
-insert a row into table called milk with values (39,390)
-insert a row into table called scatter with values (40,400)
-insert a row into table called jar with values (41,410)
-insert a row into table called calm with values (42,420)
-insert a row into table called destroy with values (43,430)
-insert a row into table called mysterious with values (44,440)
-insert a row into table called probable with values (45,450)
-insert a row into table called crack with values (46,460)
-insert a row into table called luxuriant with values (47,470)
-insert a row into table called new with values (48,480)
-insert a row into table called vase with values (49,490)
-insert a row into table called practise with values (50,500)
-insert a row into table called heat with values (51,510)
-insert a row into table called succinct with values (52,520)
-insert a row into table called wacky with values (53,530)
-insert a row into table called example with values (54,540)
-insert a row into table called yell with values (55,550)
-insert a row into table called cheese with values (56,560)
-insert a row into table called hand with values (57,570)
-insert a row into table called handle with values (58,580)
-insert a row into table called board with values (59,590)
-insert a row into table called tax with values (60,600)
-insert a row into table called skip with values (61,610)
-insert a row into table called kick with values (62,620)
-insert a row into table called rate with values (63,630)
-insert a row into table called guess with values (64,640)
-insert a row into table called spring with values (65,650)
-insert a row into table called therapeutic with values (66,660)
-insert a row into table called handsomely with values (67,670)
-insert a row into table called frighten with values (68,680)
-insert a row into table called wax with values (69,690)
-insert a row into table called rest with values (70,700)
-insert a row into table called alive with values (71,710)
-insert a row into table called exotic with values (72,720)
-insert a row into table called work with values (73,730)
-insert a row into table called puffy with values (74,740)
-insert a row into table called bizarre with values (75,750)
-insert a row into table called callous with values (76,760)
-insert a row into table called surround with values (77,770)
-insert a row into table called smile with values (78,780)
-insert a row into table called suggestion with values (79,790)
-insert a row into table called sleep with values (80,800)
-insert a row into table called unknown with values (81,810)
-insert a row into table called dead with values (82,820)
-insert a row into table called answer with values (83,830)
-insert a row into table called polish with values (84,840)
-insert a row into table called damage with values (85,850)
-insert a row into table called bright with values (86,860)
-insert a row into table called magic with values (87,870)
-insert a row into table called serve with values (88,880)
-insert a row into table called plot with values (89,890)
-insert a row into table called confess with values (90,900)
-insert a row into table called second with values (91,910)
-insert a row into table called caring with values (92,920)
-insert a row into table called share with values (93,930)
-insert a row into table called puny with values (94,940)
-insert a row into table called coordinated with values (95,950)
-insert a row into table called unequal with values (96,960)
-insert a row into table called soft with values (97,970)
-insert a row into table called wander with values (98,980)
-insert a row into table called person with values (99,990)
-insert a row into table called desire with values (100,1000)
-insert a row into table called raspy with values (101,1010)
-insert a row into table called group with values (102,1020)
-insert a row into table called branch with values (103,1030)
-insert a row into table called tail with values (104,1040)
-insert a row into table called mellow with values (105,1050)
-insert a row into table called flimsy with values (106,1060)
-insert a row into table called view with values (107,1070)
-insert a row into table called error with values (108,1080)
-insert a row into table called calculator with values (109,1090)
-insert a row into table called top with values (110,1100)
-insert a row into table called discussion with values (111,1110)
-insert a row into table called jam with values (112,1120)
-insert a row into table called loud with values (113,1130)
-insert a row into table called vast with values (114,1140)
-insert a row into table called sturdy with values (115,1150)
-insert a row into table called attempt with values (116,1160)
-insert a row into table called ocean with values (117,1170)
-insert a row into table called planes with values (118,1180)
-insert a row into table called use with values (119,1190)
-insert a row into table called quicksand with values (120,1200)
-insert a row into table called futuristic with values (121,1210)
-insert a row into table called discover with values (122,1220)
-insert a row into table called crime with values (123,1230)
-insert a row into table called wakeful with values (124,1240)
-insert a row into table called swift with values (125,1250)
-insert a row into table called guarded with values (126,1260)
-insert a row into table called humorous with values (127,1270)
-insert a row into table called tremble with values (128,1280)
-insert a row into table called cool with values (129,1290)
-insert a row into table called annoying with values (130,1300)
-insert a row into table called macho with values (131,1310)
-insert a row into table called swanky with values (132,1320)
-insert a row into table called time with values (133,1330)
-insert a row into table called tree with values (134,1340)
-insert a row into table called thirsty with values (135,1350)
-insert a row into table called hook with values (136,1360)
-insert a row into table called historical with values (137,1370)
-insert a row into table called tender with values (138,1380)
-insert a row into table called straw with values (139,1390)
-insert a row into table called beef with values (140,1400)
-insert a row into table called drum with values (141,1410)
-insert a row into table called chess with values (142,1420)
-insert a row into table called honorable with values (143,1430)
-insert a row into table called property with values (144,1440)
-insert a row into table called texture with values (145,1450)
-insert a row into table called hellish with values (146,1460)
-insert a row into table called head with values (147,1470)
-insert a row into table called drip with values (148,1480)
-insert a row into table called taste with values (149,1490)
-insert a row into table called help with values (150,1500)
-insert a row into table called flaky with values (151,1510)
-insert a row into table called pastoral with values (152,1520)
-insert a row into table called store with values (153,1530)
-insert a row into table called ruin with values (154,1540)
-insert a row into table called mind with values (155,1550)
-insert a row into table called cable with values (156,1560)
-insert a row into table called current with values (157,1570)
-insert a row into table called flippant with values (158,1580)
-insert a row into table called doctor with values (159,1590)
-insert a row into table called wool with values (160,1600)
-insert a row into table called cannon with values (161,1610)
-insert a row into table called price with values (162,1620)
-insert a row into table called three with values (163,1630)
-insert a row into table called seat with values (164,1640)
-insert a row into table called able with values (165,1650)
-insert a row into table called plausible with values (166,1660)
-insert a row into table called twist with values (167,1670)
-insert a row into table called hop with values (168,1680)
-insert a row into table called elfin with values (169,1690)
-insert a row into table called name with values (170,1700)
-insert a row into table called cook with values (171,1710)
-insert a row into table called reflect with values (172,1720)
-insert a row into table called jumpy with values (173,1730)
-insert a row into table called shaky with values (174,1740)
-insert a row into table called secondhand with values (175,1750)
-insert a row into table called houses with values (176,1760)
-insert a row into table called power with values (177,1770)
-insert a row into table called rice with values (178,1780)
-insert a row into table called imperfect with values (179,1790)
-insert a row into table called nifty with values (180,1800)
-insert a row into table called health with values (181,1810)
-insert a row into table called adjustment with values (182,1820)
-insert a row into table called eye with values (183,1830)
-insert a row into table called control with values (184,1840)
-insert a row into table called silky with values (185,1850)
-insert a row into table called stitch with values (186,1860)
-insert a row into table called jobless with values (187,1870)
-insert a row into table called wrench with values (188,1880)
-insert a row into table called oil with values (189,1890)
-insert a row into table called bad with values (190,1900)
-insert a row into table called deep with values (191,1910)
-insert a row into table called cough with values (192,1920)
-insert a row into table called towering with values (193,1930)
-insert a row into table called tie with values (194,1940)
-insert a row into table called oldfashioned with values (195,1950)
-insert a row into table called rightful with values (196,1960)
-insert a row into table called roomy with values (197,1970)
-insert a row into table called berry with values (198,1980)
-insert a row into table called maid with values (199,1990)
-insert a row into table called lonely with values (200,2000)
-insert a row into table called gate with values (201,2010)
-insert a row into table called synonymous with values (202,2020)
-insert a row into table called quartz with values (203,2030)
-insert a row into table called wealth with values (204,2040)
-insert a row into table called swim with values (205,2050)
-insert a row into table called complete with values (206,2060)
-insert a row into table called cheat with values (207,2070)
-insert a row into table called count with values (208,2080)
-insert a row into table called punch with values (209,2090)
-insert a row into table called reject with values (210,2100)
-insert a row into table called visitor with values (211,2110)
-insert a row into table called glossy with values (212,2120)
-insert a row into table called typical with values (213,2130)
-insert a row into table called six with values (214,2140)
-insert a row into table called sheet with values (215,2150)
-insert a row into table called copy with values (216,2160)
-insert a row into table called drawer with values (217,2170)
-insert a row into table called oafish with values (218,2180)
-insert a row into table called sable with values (219,2190)
-insert a row into table called tip with values (220,2200)
-insert a row into table called crush with values (221,2210)
-insert a row into table called arrange with values (222,2220)
-insert a row into table called incandescent with values (223,2230)
-insert a row into table called fang with values (224,2240)
-insert a row into table called funny with values (225,2250)
-insert a row into table called paltry with values (226,2260)
-insert a row into table called nation with values (227,2270)
-insert a row into table called psychedelic with values (228,2280)
-insert a row into table called icicle with values (229,2290)
-insert a row into table called ground with values (230,2300)
-insert a row into table called plain with values (231,2310)
-insert a row into table called protest with values (232,2320)
-insert a row into table called elastic with values (233,2330)
-insert a row into table called squeal with values (234,2340)
-insert a row into table called needless with values (235,2350)
-insert a row into table called amount with values (236,2360)
-insert a row into table called step with values (237,2370)
-insert a row into table called juvenile with values (238,2380)
-insert a row into table called tense with values (239,2390)
-insert a row into table called wire with values (240,2400)
-insert a row into table called preach with values (241,2410)
-insert a row into table called marble with values (242,2420)
-insert a row into table called insidious with values (243,2430)
-insert a row into table called story with values (244,2440)
-insert a row into table called obscene with values (245,2450)
-insert a row into table called celery with values (246,2460)
-insert a row into table called tray with values (247,2470)
-insert a row into table called tiny with values (248,2480)
-insert a row into table called insurance with values (249,2490)
-insert a row into table called warlike with values (250,2500)
-insert a row into table called road with values (251,2510)
-insert a row into table called energetic with values (252,2520)
-insert a row into table called curvy with values (253,2530)
-insert a row into table called scream with values (254,2540)
-insert a row into table called daughter with values (255,2550)
-insert a row into table called true with values (256,2560)
-insert a row into table called grip with values (257,2570)
-insert a row into table called secret with values (258,2580)
-insert a row into table called boast with values (259,2590)
-insert a row into table called chivalrous with values (260,2600)
-insert a row into table called balance with values (261,2610)
-insert a row into table called bored with values (262,2620)
-insert a row into table called guitar with values (263,2630)
-insert a row into table called rainstorm with values (264,2640)
-insert a row into table called cellar with values (265,2650)
-insert a row into table called clear with values (266,2660)
-insert a row into table called bag with values (267,2670)
-insert a row into table called spotless with values (268,2680)
-insert a row into table called suspend with values (269,2690)
-insert a row into table called skillful with values (270,2700)
-insert a row into table called march with values (271,2710)
-insert a row into table called farflung with values (272,2720)
-insert a row into table called interesting with values (273,2730)
-insert a row into table called hesitant with values (274,2740)
-insert a row into table called mend with values (275,2750)
-insert a row into table called reaction with values (276,2760)
-insert a row into table called attach with values (277,2770)
-insert a row into table called aunt with values (278,2780)
-insert a row into table called argument with values (279,2790)
-insert a row into table called fabulous with values (280,2800)
-insert a row into table called ill with values (281,2810)
-insert a row into table called fixed with values (282,2820)
-insert a row into table called extrasmall with values (283,2830)
-insert a row into table called unit with values (284,2840)
-insert a row into table called produce with values (285,2850)
-insert a row into table called spotted with values (286,2860)
-insert a row into table called steel with values (287,2870)
-insert a row into table called obey with values (288,2880)
-insert a row into table called crawl with values (289,2890)
-insert a row into table called tub with values (290,2900)
-insert a row into table called rinse with values (291,2910)
-insert a row into table called ambiguous with values (292,2920)
-insert a row into table called superficial with values (293,2930)
-insert a row into table called small with values (294,2940)
-insert a row into table called imaginary with values (295,2950)
-insert a row into table called mix with values (296,2960)
-insert a row into table called airport with values (297,2970)
-insert a row into table called beautiful with values (298,2980)
-insert a row into table called imported with values (299,2990)
-insert a row into table called vest with values (300,3000)
-insert a row into table called brake with values (301,3010)
-insert a row into table called present with values (302,3020)
-insert a row into table called club with values (303,3030)
-insert a row into table called complex with values (304,3040)
-insert a row into table called grin with values (305,3050)
-insert a row into table called tranquil with values (306,3060)
-insert a row into table called knot with values (307,3070)
-insert a row into table called dapper with values (308,3080)
-insert a row into table called gentle with values (309,3090)
-insert a row into table called bat with values (310,3100)
-insert a row into table called load with values (311,3110)
-insert a row into table called rich with values (312,3120)
-insert a row into table called incredible with values (313,3130)
-insert a row into table called sand with values (314,3140)
-insert a row into table called remain with values (315,3150)
-insert a row into table called zippy with values (316,3160)
-insert a row into table called ball with values (317,3170)
-insert a row into table called calculating with values (318,3180)
-insert a row into table called wicked with values (319,3190)
-insert a row into table called cute with values (320,3200)
-insert a row into table called repeat with values (321,3210)
-insert a row into table called nonchalant with values (322,3220)
-insert a row into table called arrest with values (323,3230)
-insert a row into table called thin with values (324,3240)
-insert a row into table called porter with values (325,3250)
-insert a row into table called whispering with values (326,3260)
-insert a row into table called lopsided with values (327,3270)
-insert a row into table called toothsome with values (328,3280)
-insert a row into table called cloth with values (329,3290)
-insert a row into table called changeable with values (330,3300)
-insert a row into table called check with values (331,3310)
-insert a row into table called rhythm with values (332,3320)
-insert a row into table called deceive with values (333,3330)
-insert a row into table called paddle with values (334,3340)
-insert a row into table called curved with values (335,3350)
-insert a row into table called hope with values (336,3360)
-insert a row into table called books with values (337,3370)
-insert a row into table called lock with values (338,3380)
-insert a row into table called heartbreaking with values (339,3390)
-insert a row into table called harbor with values (340,3400)
-insert a row into table called fireman with values (341,3410)
-insert a row into table called umbrella with values (342,3420)
-insert a row into table called squalid with values (343,3430)
-insert a row into table called angry with values (344,3440)
-insert a row into table called separate with values (345,3450)
-insert a row into table called feeling with values (346,3460)
-insert a row into table called elegant with values (347,3470)
-insert a row into table called creature with values (348,3480)
-insert a row into table called warn with values (349,3490)
-insert a row into table called temporary with values (350,3500)
-insert a row into table called line with values (351,3510)
-insert a row into table called curve with values (352,3520)
-insert a row into table called belligerent with values (353,3530)
-insert a row into table called screw with values (354,3540)
-insert a row into table called foolish with values (355,3550)
-insert a row into table called bee with values (356,3560)
-insert a row into table called cup with values (357,3570)
-insert a row into table called whistle with values (358,3580)
-insert a row into table called slim with values (359,3590)
-insert a row into table called push with values (360,3600)
-insert a row into table called water with values (361,3610)
-insert a row into table called bore with values (362,3620)
-insert a row into table called statement with values (363,3630)
-insert a row into table called utopian with values (364,3640)
-insert a row into table called nest with values (365,3650)
-insert a row into table called disagreeable with values (366,3660)
-insert a row into table called train with values (367,3670)
-insert a row into table called depressed with values (368,3680)
-insert a row into table called supply with values (369,3690)
-insert a row into table called hilarious with values (370,3700)
-insert a row into table called thirsty with values (371,3710)
-insert a row into table called nappy with values (372,3720)
-insert a row into table called government with values (373,3730)
-insert a row into table called decision with values (374,3740)
-insert a row into table called possess with values (375,3750)
-insert a row into table called degree with values (376,3760)
-insert a row into table called gun with values (377,3770)
-insert a row into table called irritating with values (378,3780)
-insert a row into table called side with values (379,3790)
-insert a row into table called full with values (380,3800)
-insert a row into table called alert with values (381,3810)
-insert a row into table called wellgroomed with values (382,3820)
-insert a row into table called fire with values (383,3830)
-insert a row into table called untidy with values (384,3840)
-insert a row into table called abrasive with values (385,3850)
-insert a row into table called gaudy with values (386,3860)
-insert a row into table called dislike with values (387,3870)
-insert a row into table called stare with values (388,3880)
-insert a row into table called pail with values (389,3890)
-insert a row into table called activity with values (390,3900)
-insert a row into table called ajar with values (391,3910)
-insert a row into table called efficifent with values (392,3920)
-insert a row into table called look with values (393,3930)
-insert a row into table called breath with values (394,3940)
-insert a row into table called blade with values (395,3950)
-insert a row into table called scarf with values (396,3960)
-insert a row into table called boring with values (397,3970)
-insert a row into table called soup with values (398,3980)
-insert a row into table called sack with values (399,3990)
-insert a row into table called embarrass with values (400,4000)
+insert a row into table called coal with values '(1,"10")'
+insert a row into table called range with values '(2,"20")'
+insert a row into table called reach with values '(3,"30")'
+insert a row into table called enchanted with values '(4,"40")'
+insert a row into table called glib with values '(5,"50")'
+insert a row into table called stove with values '(6,"60")'
+insert a row into table called fax with values '(7,"70")'
+insert a row into table called thankful with values '(8,"80")'
+insert a row into table called snail with values '(9,"90")'
+insert a row into table called cabbage with values '(10,"100")'
+insert a row into table called puzzled with values '(11,"110")'
+insert a row into table called pedal with values '(12,"120")'
+insert a row into table called shame with values '(13,"130")'
+insert a row into table called whip with values '(14,"140")'
+insert a row into table called acrid with values '(15,"150")'
+insert a row into table called useful with values '(16,"160")'
+insert a row into table called complete with values '(17,"170")'
+insert a row into table called slip with values '(18,"180")'
+insert a row into table called screeching with values '(19,"190")'
+insert a row into table called cross with values '(20,"200")'
+insert a row into table called uppity with values '(21,"210")'
+insert a row into table called throne with values '(22,"220")'
+insert a row into table called brawny with values '(23,"230")'
+insert a row into table called self with values '(24,"240")'
+insert a row into table called scribble with values '(25,"250")'
+insert a row into table called van with values '(26,"260")'
+insert a row into table called shivering with values '(27,"270")'
+insert a row into table called old with values '(28,"280")'
+insert a row into table called glass with values '(29,"290")'
+insert a row into table called accessible with values '(30,"300")'
+insert a row into table called savory with values '(31,"310")'
+insert a row into table called concentrate with values '(32,"320")'
+insert a row into table called defective with values '(33,"330")'
+insert a row into table called nail with values '(34,"340")'
+insert a row into table called roof with values '(35,"350")'
+insert a row into table called difficult with values '(36,"360")'
+insert a row into table called jealous with values '(37,"370")'
+insert a row into table called enjoy with values '(38,"380")'
+insert a row into table called milk with values '(39,"390")'
+insert a row into table called scatter with values '(40,"400")'
+insert a row into table called jar with values '(41,"410")'
+insert a row into table called calm with values '(42,"420")'
+insert a row into table called destroy with values '(43,"430")'
+insert a row into table called mysterious with values '(44,"440")'
+insert a row into table called probable with values '(45,"450")'
+insert a row into table called crack with values '(46,"460")'
+insert a row into table called luxuriant with values '(47,"470")'
+insert a row into table called new with values '(48,"480")'
+insert a row into table called vase with values '(49,"490")'
+insert a row into table called practise with values '(50,"500")'
+insert a row into table called heat with values '(51,"510")'
+insert a row into table called succinct with values '(52,"520")'
+insert a row into table called wacky with values '(53,"530")'
+insert a row into table called example with values '(54,"540")'
+insert a row into table called yell with values '(55,"550")'
+insert a row into table called cheese with values '(56,"560")'
+insert a row into table called hand with values '(57,"570")'
+insert a row into table called handle with values '(58,"580")'
+insert a row into table called board with values '(59,"590")'
+insert a row into table called tax with values '(60,"600")'
+insert a row into table called skip with values '(61,"610")'
+insert a row into table called kick with values '(62,"620")'
+insert a row into table called rate with values '(63,"630")'
+insert a row into table called guess with values '(64,"640")'
+insert a row into table called spring with values '(65,"650")'
+insert a row into table called therapeutic with values '(66,"660")'
+insert a row into table called handsomely with values '(67,"670")'
+insert a row into table called frighten with values '(68,"680")'
+insert a row into table called wax with values '(69,"690")'
+insert a row into table called rest with values '(70,"700")'
+insert a row into table called alive with values '(71,"710")'
+insert a row into table called exotic with values '(72,"720")'
+insert a row into table called work with values '(73,"730")'
+insert a row into table called puffy with values '(74,"740")'
+insert a row into table called bizarre with values '(75,"750")'
+insert a row into table called callous with values '(76,"760")'
+insert a row into table called surround with values '(77,"770")'
+insert a row into table called smile with values '(78,"780")'
+insert a row into table called suggestion with values '(79,"790")'
+insert a row into table called sleep with values '(80,"800")'
+insert a row into table called unknown with values '(81,"810")'
+insert a row into table called dead with values '(82,"820")'
+insert a row into table called answer with values '(83,"830")'
+insert a row into table called polish with values '(84,"840")'
+insert a row into table called damage with values '(85,"850")'
+insert a row into table called bright with values '(86,"860")'
+insert a row into table called magic with values '(87,"870")'
+insert a row into table called serve with values '(88,"880")'
+insert a row into table called plot with values '(89,"890")'
+insert a row into table called confess with values '(90,"900")'
+insert a row into table called second with values '(91,"910")'
+insert a row into table called caring with values '(92,"920")'
+insert a row into table called share with values '(93,"930")'
+insert a row into table called puny with values '(94,"940")'
+insert a row into table called coordinated with values '(95,"950")'
+insert a row into table called unequal with values '(96,"960")'
+insert a row into table called soft with values '(97,"970")'
+insert a row into table called wander with values '(98,"980")'
+insert a row into table called person with values '(99,"990")'
+insert a row into table called desire with values '(100,"1000")'
+insert a row into table called raspy with values '(101,"1010")'
+insert a row into table called group with values '(102,"1020")'
+insert a row into table called branch with values '(103,"1030")'
+insert a row into table called tail with values '(104,"1040")'
+insert a row into table called mellow with values '(105,"1050")'
+insert a row into table called flimsy with values '(106,"1060")'
+insert a row into table called view with values '(107,"1070")'
+insert a row into table called error with values '(108,"1080")'
+insert a row into table called calculator with values '(109,"1090")'
+insert a row into table called top with values '(110,"1100")'
+insert a row into table called discussion with values '(111,"1110")'
+insert a row into table called jam with values '(112,"1120")'
+insert a row into table called loud with values '(113,"1130")'
+insert a row into table called vast with values '(114,"1140")'
+insert a row into table called sturdy with values '(115,"1150")'
+insert a row into table called attempt with values '(116,"1160")'
+insert a row into table called ocean with values '(117,"1170")'
+insert a row into table called planes with values '(118,"1180")'
+insert a row into table called use with values '(119,"1190")'
+insert a row into table called quicksand with values '(120,"1200")'
+insert a row into table called futuristic with values '(121,"1210")'
+insert a row into table called discover with values '(122,"1220")'
+insert a row into table called crime with values '(123,"1230")'
+insert a row into table called wakeful with values '(124,"1240")'
+insert a row into table called swift with values '(125,"1250")'
+insert a row into table called guarded with values '(126,"1260")'
+insert a row into table called humorous with values '(127,"1270")'
+insert a row into table called tremble with values '(128,"1280")'
+insert a row into table called cool with values '(129,"1290")'
+insert a row into table called annoying with values '(130,"1300")'
+insert a row into table called macho with values '(131,"1310")'
+insert a row into table called swanky with values '(132,"1320")'
+insert a row into table called time with values '(133,"1330")'
+insert a row into table called tree with values '(134,"1340")'
+insert a row into table called thirsty with values '(135,"1350")'
+insert a row into table called hook with values '(136,"1360")'
+insert a row into table called historical with values '(137,"1370")'
+insert a row into table called tender with values '(138,"1380")'
+insert a row into table called straw with values '(139,"1390")'
+insert a row into table called beef with values '(140,"1400")'
+insert a row into table called drum with values '(141,"1410")'
+insert a row into table called chess with values '(142,"1420")'
+insert a row into table called honorable with values '(143,"1430")'
+insert a row into table called property with values '(144,"1440")'
+insert a row into table called texture with values '(145,"1450")'
+insert a row into table called hellish with values '(146,"1460")'
+insert a row into table called head with values '(147,"1470")'
+insert a row into table called drip with values '(148,"1480")'
+insert a row into table called taste with values '(149,"1490")'
+insert a row into table called help with values '(150,"1500")'
+insert a row into table called flaky with values '(151,"1510")'
+insert a row into table called pastoral with values '(152,"1520")'
+insert a row into table called store with values '(153,"1530")'
+insert a row into table called ruin with values '(154,"1540")'
+insert a row into table called mind with values '(155,"1550")'
+insert a row into table called cable with values '(156,"1560")'
+insert a row into table called current with values '(157,"1570")'
+insert a row into table called flippant with values '(158,"1580")'
+insert a row into table called doctor with values '(159,"1590")'
+insert a row into table called wool with values '(160,"1600")'
+insert a row into table called cannon with values '(161,"1610")'
+insert a row into table called price with values '(162,"1620")'
+insert a row into table called three with values '(163,"1630")'
+insert a row into table called seat with values '(164,"1640")'
+insert a row into table called able with values '(165,"1650")'
+insert a row into table called plausible with values '(166,"1660")'
+insert a row into table called twist with values '(167,"1670")'
+insert a row into table called hop with values '(168,"1680")'
+insert a row into table called elfin with values '(169,"1690")'
+insert a row into table called name with values '(170,"1700")'
+insert a row into table called cook with values '(171,"1710")'
+insert a row into table called reflect with values '(172,"1720")'
+insert a row into table called jumpy with values '(173,"1730")'
+insert a row into table called shaky with values '(174,"1740")'
+insert a row into table called secondhand with values '(175,"1750")'
+insert a row into table called houses with values '(176,"1760")'
+insert a row into table called power with values '(177,"1770")'
+insert a row into table called rice with values '(178,"1780")'
+insert a row into table called imperfect with values '(179,"1790")'
+insert a row into table called nifty with values '(180,"1800")'
+insert a row into table called health with values '(181,"1810")'
+insert a row into table called adjustment with values '(182,"1820")'
+insert a row into table called eye with values '(183,"1830")'
+insert a row into table called control with values '(184,"1840")'
+insert a row into table called silky with values '(185,"1850")'
+insert a row into table called stitch with values '(186,"1860")'
+insert a row into table called jobless with values '(187,"1870")'
+insert a row into table called wrench with values '(188,"1880")'
+insert a row into table called oil with values '(189,"1890")'
+insert a row into table called bad with values '(190,"1900")'
+insert a row into table called deep with values '(191,"1910")'
+insert a row into table called cough with values '(192,"1920")'
+insert a row into table called towering with values '(193,"1930")'
+insert a row into table called tie with values '(194,"1940")'
+insert a row into table called oldfashioned with values '(195,"1950")'
+insert a row into table called rightful with values '(196,"1960")'
+insert a row into table called roomy with values '(197,"1970")'
+insert a row into table called berry with values '(198,"1980")'
+insert a row into table called maid with values '(199,"1990")'
+insert a row into table called lonely with values '(200,"2000")'
+insert a row into table called gate with values '(201,"2010")'
+insert a row into table called synonymous with values '(202,"2020")'
+insert a row into table called quartz with values '(203,"2030")'
+insert a row into table called wealth with values '(204,"2040")'
+insert a row into table called swim with values '(205,"2050")'
+insert a row into table called complete with values '(206,"2060")'
+insert a row into table called cheat with values '(207,"2070")'
+insert a row into table called count with values '(208,"2080")'
+insert a row into table called punch with values '(209,"2090")'
+insert a row into table called reject with values '(210,"2100")'
+insert a row into table called visitor with values '(211,"2110")'
+insert a row into table called glossy with values '(212,"2120")'
+insert a row into table called typical with values '(213,"2130")'
+insert a row into table called six with values '(214,"2140")'
+insert a row into table called sheet with values '(215,"2150")'
+insert a row into table called copy with values '(216,"2160")'
+insert a row into table called drawer with values '(217,"2170")'
+insert a row into table called oafish with values '(218,"2180")'
+insert a row into table called sable with values '(219,"2190")'
+insert a row into table called tip with values '(220,"2200")'
+insert a row into table called crush with values '(221,"2210")'
+insert a row into table called arrange with values '(222,"2220")'
+insert a row into table called incandescent with values '(223,"2230")'
+insert a row into table called fang with values '(224,"2240")'
+insert a row into table called funny with values '(225,"2250")'
+insert a row into table called paltry with values '(226,"2260")'
+insert a row into table called nation with values '(227,"2270")'
+insert a row into table called psychedelic with values '(228,"2280")'
+insert a row into table called icicle with values '(229,"2290")'
+insert a row into table called ground with values '(230,"2300")'
+insert a row into table called plain with values '(231,"2310")'
+insert a row into table called protest with values '(232,"2320")'
+insert a row into table called elastic with values '(233,"2330")'
+insert a row into table called squeal with values '(234,"2340")'
+insert a row into table called needless with values '(235,"2350")'
+insert a row into table called amount with values '(236,"2360")'
+insert a row into table called step with values '(237,"2370")'
+insert a row into table called juvenile with values '(238,"2380")'
+insert a row into table called tense with values '(239,"2390")'
+insert a row into table called wire with values '(240,"2400")'
+insert a row into table called preach with values '(241,"2410")'
+insert a row into table called marble with values '(242,"2420")'
+insert a row into table called insidious with values '(243,"2430")'
+insert a row into table called story with values '(244,"2440")'
+insert a row into table called obscene with values '(245,"2450")'
+insert a row into table called celery with values '(246,"2460")'
+insert a row into table called tray with values '(247,"2470")'
+insert a row into table called tiny with values '(248,"2480")'
+insert a row into table called insurance with values '(249,"2490")'
+insert a row into table called warlike with values '(250,"2500")'
+insert a row into table called road with values '(251,"2510")'
+insert a row into table called energetic with values '(252,"2520")'
+insert a row into table called curvy with values '(253,"2530")'
+insert a row into table called scream with values '(254,"2540")'
+insert a row into table called daughter with values '(255,"2550")'
+insert a row into table called true with values '(256,"2560")'
+insert a row into table called grip with values '(257,"2570")'
+insert a row into table called secret with values '(258,"2580")'
+insert a row into table called boast with values '(259,"2590")'
+insert a row into table called chivalrous with values '(260,"2600")'
+insert a row into table called balance with values '(261,"2610")'
+insert a row into table called bored with values '(262,"2620")'
+insert a row into table called guitar with values '(263,"2630")'
+insert a row into table called rainstorm with values '(264,"2640")'
+insert a row into table called cellar with values '(265,"2650")'
+insert a row into table called clear with values '(266,"2660")'
+insert a row into table called bag with values '(267,"2670")'
+insert a row into table called spotless with values '(268,"2680")'
+insert a row into table called suspend with values '(269,"2690")'
+insert a row into table called skillful with values '(270,"2700")'
+insert a row into table called march with values '(271,"2710")'
+insert a row into table called farflung with values '(272,"2720")'
+insert a row into table called interesting with values '(273,"2730")'
+insert a row into table called hesitant with values '(274,"2740")'
+insert a row into table called mend with values '(275,"2750")'
+insert a row into table called reaction with values '(276,"2760")'
+insert a row into table called attach with values '(277,"2770")'
+insert a row into table called aunt with values '(278,"2780")'
+insert a row into table called argument with values '(279,"2790")'
+insert a row into table called fabulous with values '(280,"2800")'
+insert a row into table called ill with values '(281,"2810")'
+insert a row into table called fixed with values '(282,"2820")'
+insert a row into table called extrasmall with values '(283,"2830")'
+insert a row into table called unit with values '(284,"2840")'
+insert a row into table called produce with values '(285,"2850")'
+insert a row into table called spotted with values '(286,"2860")'
+insert a row into table called steel with values '(287,"2870")'
+insert a row into table called obey with values '(288,"2880")'
+insert a row into table called crawl with values '(289,"2890")'
+insert a row into table called tub with values '(290,"2900")'
+insert a row into table called rinse with values '(291,"2910")'
+insert a row into table called ambiguous with values '(292,"2920")'
+insert a row into table called superficial with values '(293,"2930")'
+insert a row into table called small with values '(294,"2940")'
+insert a row into table called imaginary with values '(295,"2950")'
+insert a row into table called mix with values '(296,"2960")'
+insert a row into table called airport with values '(297,"2970")'
+insert a row into table called beautiful with values '(298,"2980")'
+insert a row into table called imported with values '(299,"2990")'
+insert a row into table called vest with values '(300,"3000")'
+insert a row into table called brake with values '(301,"3010")'
+insert a row into table called present with values '(302,"3020")'
+insert a row into table called club with values '(303,"3030")'
+insert a row into table called complex with values '(304,"3040")'
+insert a row into table called grin with values '(305,"3050")'
+insert a row into table called tranquil with values '(306,"3060")'
+insert a row into table called knot with values '(307,"3070")'
+insert a row into table called dapper with values '(308,"3080")'
+insert a row into table called gentle with values '(309,"3090")'
+insert a row into table called bat with values '(310,"3100")'
+insert a row into table called load with values '(311,"3110")'
+insert a row into table called rich with values '(312,"3120")'
+insert a row into table called incredible with values '(313,"3130")'
+insert a row into table called sand with values '(314,"3140")'
+insert a row into table called remain with values '(315,"3150")'
+insert a row into table called zippy with values '(316,"3160")'
+insert a row into table called ball with values '(317,"3170")'
+insert a row into table called calculating with values '(318,"3180")'
+insert a row into table called wicked with values '(319,"3190")'
+insert a row into table called cute with values '(320,"3200")'
+insert a row into table called repeat with values '(321,"3210")'
+insert a row into table called nonchalant with values '(322,"3220")'
+insert a row into table called arrest with values '(323,"3230")'
+insert a row into table called thin with values '(324,"3240")'
+insert a row into table called porter with values '(325,"3250")'
+insert a row into table called whispering with values '(326,"3260")'
+insert a row into table called lopsided with values '(327,"3270")'
+insert a row into table called toothsome with values '(328,"3280")'
+insert a row into table called cloth with values '(329,"3290")'
+insert a row into table called changeable with values '(330,"3300")'
+insert a row into table called check with values '(331,"3310")'
+insert a row into table called rhythm with values '(332,"3320")'
+insert a row into table called deceive with values '(333,"3330")'
+insert a row into table called paddle with values '(334,"3340")'
+insert a row into table called curved with values '(335,"3350")'
+insert a row into table called hope with values '(336,"3360")'
+insert a row into table called books with values '(337,"3370")'
+insert a row into table called lock with values '(338,"3380")'
+insert a row into table called heartbreaking with values '(339,"3390")'
+insert a row into table called harbor with values '(340,"3400")'
+insert a row into table called fireman with values '(341,"3410")'
+insert a row into table called umbrella with values '(342,"3420")'
+insert a row into table called squalid with values '(343,"3430")'
+insert a row into table called angry with values '(344,"3440")'
+insert a row into table called separate with values '(345,"3450")'
+insert a row into table called feeling with values '(346,"3460")'
+insert a row into table called elegant with values '(347,"3470")'
+insert a row into table called creature with values '(348,"3480")'
+insert a row into table called warn with values '(349,"3490")'
+insert a row into table called temporary with values '(350,"3500")'
+insert a row into table called line with values '(351,"3510")'
+insert a row into table called curve with values '(352,"3520")'
+insert a row into table called belligerent with values '(353,"3530")'
+insert a row into table called screw with values '(354,"3540")'
+insert a row into table called foolish with values '(355,"3550")'
+insert a row into table called bee with values '(356,"3560")'
+insert a row into table called cup with values '(357,"3570")'
+insert a row into table called whistle with values '(358,"3580")'
+insert a row into table called slim with values '(359,"3590")'
+insert a row into table called push with values '(360,"3600")'
+insert a row into table called water with values '(361,"3610")'
+insert a row into table called bore with values '(362,"3620")'
+insert a row into table called statement with values '(363,"3630")'
+insert a row into table called utopian with values '(364,"3640")'
+insert a row into table called nest with values '(365,"3650")'
+insert a row into table called disagreeable with values '(366,"3660")'
+insert a row into table called train with values '(367,"3670")'
+insert a row into table called depressed with values '(368,"3680")'
+insert a row into table called supply with values '(369,"3690")'
+insert a row into table called hilarious with values '(370,"3700")'
+insert a row into table called thirsty with values '(371,"3710")'
+insert a row into table called nappy with values '(372,"3720")'
+insert a row into table called government with values '(373,"3730")'
+insert a row into table called decision with values '(374,"3740")'
+insert a row into table called possess with values '(375,"3750")'
+insert a row into table called degree with values '(376,"3760")'
+insert a row into table called gun with values '(377,"3770")'
+insert a row into table called irritating with values '(378,"3780")'
+insert a row into table called side with values '(379,"3790")'
+insert a row into table called full with values '(380,"3800")'
+insert a row into table called alert with values '(381,"3810")'
+insert a row into table called wellgroomed with values '(382,"3820")'
+insert a row into table called fire with values '(383,"3830")'
+insert a row into table called untidy with values '(384,"3840")'
+insert a row into table called abrasive with values '(385,"3850")'
+insert a row into table called gaudy with values '(386,"3860")'
+insert a row into table called dislike with values '(387,"3870")'
+insert a row into table called stare with values '(388,"3880")'
+insert a row into table called pail with values '(389,"3890")'
+insert a row into table called activity with values '(390,"3900")'
+insert a row into table called ajar with values '(391,"3910")'
+insert a row into table called efficifent with values '(392,"3920")'
+insert a row into table called look with values '(393,"3930")'
+insert a row into table called breath with values '(394,"3940")'
+insert a row into table called blade with values '(395,"3950")'
+insert a row into table called scarf with values '(396,"3960")'
+insert a row into table called boring with values '(397,"3970")'
+insert a row into table called soup with values '(398,"3980")'
+insert a row into table called sack with values '(399,"3990")'
+insert a row into table called embarrass with values '(400,"4000")'
 insert a row into
 insert a row into table called tabela
 insert
 with values
 into table called tabela with values
-into table called tabela with values (1,2,3,4)
-values (a,b,teste)
-values (1)
-values (1,2)
-values (1,2,3)
-values (1,2,3,4)
-values (1,2,3,4,5)
-values (1,1,1)
-values (2,1,1)
-values (3,1,1)
-values (4,1,1)
-values (5,1,1)
-values (10)
-values (10,2)
-values (1,20,3)
-values (1,2,30,4)
-values (1,2,3,40,5)
-values (1,10,10)
-values (2,1,100)
-values (3,1,1000)
-values (4,1,16)
-values (5,16,16)
-values (a,b,c)
-values (a,b,c,a,b,c)
-values (aa,b,c)
-values (aaa,b,c,a,b,c)
-values (aa,b,cggg)
-values (aaa,b,c,a,b,c)
-values (acv,b,c)
-values (afgg,bgg,c,a,b,c)
-values (ccca,b,teste)
-values (14345)
-values (1,2435)
-values (1,24,35)
-values (1,24,53,45)
-values (1,2,344,44,54)
-values (1,14,1)
-values (2,14,15)
-values (3,1,15)
-values (4,1,1)
-values (5,1,14)
-values (1034)
-values (10,232)
-values (1,20,334)
-values (1,2,30,4434)
-values (1,2,3,403,53)
-values (1,1034,10)
-values (2,1,13300)
-values (3,1,10040)
-values (4,1,156)
-values (5,16,166)
-values (a,b,cc)
-values (a,bcc,cc,a,b,c)
-values (aa,bccc,c)
-values (aaa,bccc,c,a,b,c)
-values (aa,b,ccccggg)
-values (aaa,b,c,cccca,b,c)
-values (acv,b,cccs)
-values (afgg,bgg,ccccc,a,b,c)
-into table called tabela values (1)
-into table called tabela values (12)
-into table called tabela values (13)
-into table called tabela values (41)
-into table called tabela values (15)
-into table called tabela values (16)
-into table called tabela values (154)
-into table called tabela values (1544)
-into table called tabela values (341)
-into table called tabela values (155)
-into table called tabela values (551)
-into table called tabela values (1555)
-into table called tabela values (157)
-into table called tabela values (188)
-into table called tabela values (100)
-into table called tabela values (75671)
-into table called tabela values (5451)
-into table called tabela values (14534)
-into table called tabela values (35341)
-into table called tabela values (154455)
-into table called tabela values (135235)
-into table called tabela values (122)
-into table called tabela values (12212)
-into table called tabela values (1111)
-into table called tabela values (2341)
-into table called tabela values (1556)
-into table called tabela values (166)
-into table called tabela values (14234)
-into table called tabela values (3331)
-into table called tabela values (13)
+into table called tabela with values '(1,2,3,4)'
+values '("a","b","teste")'
+values '(1)'
+values '(1,2)'
+values '(1,2,3)'
+values '(1,2,3,4)'
+values '(1,2,3,4,5)'
+values '("1","1","1")'
+values '("2","1","1")'
+values '("3","1","1")'
+values '("4","1","1")'
+values '("5","1","1")'
+values '(10)'
+values '(10,2)'
+values '(1,20,3)'
+values '(1,2,30,4)'
+values '(1,2,3,40,5)'
+values '("1","10","10")'
+values '("2","1","100")'
+values '("3","1","1000")'
+values '("4","1","16")'
+values '("5","16","16")'
+values '("a","b","c")'
+values '("a","b","c","a","b","c")'
+values '("aa","b","c")'
+values '("aaa","b","c","a","b","c")'
+values '("aa","b","cggg")'
+values '("aaa","b","c","a","b","c")'
+values '("acv","b","c")'
+values '("afgg","bgg","c","a","b","c")'
+values '("ccca","b","teste")'
+values '(14345)'
+values '(1,2435)'
+values '(1,24,35)'
+values '(1,24,53,45)'
+values '(1,2,344,44,54)'
+values '("1","14","1")'
+values '("2","14","15")'
+values '("3","1","15")'
+values '("4","1","1")'
+values '("5","1","14")'
+values '(1034)'
+values '(10,232)'
+values '(1,20,334)'
+values '(1,2,30,4434)'
+values '(1,2,3,403,53)'
+values '("1","1034","10")'
+values '("2","1","13300")'
+values '("3","1","10040")'
+values '("4","1","156")'
+values '("5","16","166")'
+values '("a","b","cc")'
+values '("a","bcc","cc","a","b","c")'
+values '("aa","bccc","c")'
+values '("aaa","bccc","c","a","b","c")'
+values '("aa","b","ccccggg")'
+values '("aaa","b","c","cccca","b","c")'
+values '("acv","b","cccs")'
+values '("afgg","bgg","ccccc","a","b","c")'
+into table called tabela values '(1)'
+into table called tabela values '(12)'
+into table called tabela values '(13)'
+into table called tabela values '(41)'
+into table called tabela values '(15)'
+into table called tabela values '(16)'
+into table called tabela values '(154)'
+into table called tabela values '(1544)'
+into table called tabela values '(341)'
+into table called tabela values '(155)'
+into table called tabela values '(551)'
+into table called tabela values '(1555)'
+into table called tabela values '(157)'
+into table called tabela values '(188)'
+into table called tabela values '(100)'
+into table called tabela values '(75671)'
+into table called tabela values '(5451)'
+into table called tabela values '(14534)'
+into table called tabela values '(35341)'
+into table called tabela values '(154455)'
+into table called tabela values '(135235)'
+into table called tabela values '(122)'
+into table called tabela values '(12212)'
+into table called tabela values '(1111)'
+into table called tabela values '(2341)'
+into table called tabela values '(1556)'
+into table called tabela values '(166)'
+into table called tabela values '(14234)'
+into table called tabela values '(3331)'
+into table called tabela values '(13)'
 insert a row into mytable
 delete all lines from table called left where pencil is equal to 1
 delete all lines from table called stage where poor is equal to 2

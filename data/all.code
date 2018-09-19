@@ -4913,3 +4913,6 @@ where i < 10
 where x < 0
 <
 where a
+values (1, 9999999)
+values (0,1)
+values

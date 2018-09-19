@@ -40,7 +40,7 @@ def makestr(node):
         for chname, chval in ast.iter_fields(node):
             chstr = makestr(chval)
             if chstr:
-                s += ' (' + chname + ' ' + chstr + ')'
+                s += ' (' + chname + ' AQUI' + chstr + ')'
                 n += 1
         if not n:
             s += ' -' + nodename + '-' # (Foo) -> (Foo -Foo-)
@@ -53,7 +53,7 @@ def makestr(node):
         for ch in node:
             chstr = makestr(ch)
             if chstr:
-                s += 'AQUI ' + chstr
+                s += ' ' + chstr
                 n += 1
         s += ')'
         return s if n else ''

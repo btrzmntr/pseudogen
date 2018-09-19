@@ -25,7 +25,8 @@ def escape(text):
         .replace('=', '-EQUALS-') \
         .replace('<', '-LESS-') \
         .replace('>', '-GREATER-') \
-        .replace('*', '-ALL-')
+        .replace('*', '-ALL-') \
+        .replace(',', '-AND-')
     return repr(text)[1:-1] if text else '-NONE-'
 
 def makestr(node):
@@ -92,6 +93,7 @@ def main():
         dump = dump.replace(">", " -GREATER- ")
         dump = dump.replace("'", "")
         dump = dump.replace('"', "")
+        dump = dump.replace(',', " -AND- ")
         #dump = dump.replace("Where where", "Where")
         #dump = dump.replace("(Where fanatical -EQUALS- '1')", "(Token where) (Identifier fanatical) (Token -EQUALS-) (Identifier '1')")
         print(dump)

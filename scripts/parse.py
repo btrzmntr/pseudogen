@@ -53,7 +53,7 @@ def makestr(node):
         for ch in node:
             chstr = makestr(ch)
             if chstr:
-                s += ' ' + chstr
+                s += 'AQUI ' + chstr
                 n += 1
         s += ')'
         return s if n else ''
@@ -70,8 +70,8 @@ def makestr(node):
 def main():
     for l in sys.stdin:
         l = l.strip()
-       # l = l.replace("(",'"(') #teste corpus
-        #l = l.replace(")",')"') #teste corpus
+        l = l.replace("(",'"(') #teste corpus
+        l = l.replace(")",')"') #teste corpus
         if not l:
             print()
             sys.stdout.flush()

@@ -5309,3 +5309,7 @@ where y = 1
 where z = 2
 where
 where i = 10
+where i < 10
+where x < 0
+<
+where a

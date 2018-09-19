@@ -5304,3 +5304,8 @@ set x
 set x = 0
 set y
 set y = 1
+where x = 0 
+where y = 1
+where z = 2
+where
+where i = 10

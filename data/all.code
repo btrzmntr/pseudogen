@@ -5300,3 +5300,7 @@ set adsd = 16 where
 set accv = 13 where
 where a = 0
 set a = 0
+set x
+set x = 0
+set y
+set y = 1

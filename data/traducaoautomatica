@@ -698,3 +698,63 @@ select e from flaky
 select f from enjoy
 select g from fantastic
 select a is from nose
+insert a row into table called coal with values ( 1 , 10 )
+insert a row into table called range with values ( 2 , 20 )
+insert a row into table called reach with values ( 3 , 30 )
+insert a row into table called enchanted with values ( 4 , 40 )
+insert a row into table called glib with values ( 5 , 50 )
+insert a row into table called stove with values ( 6 , 60 )
+insert a row into table called fax with values ( 7 , 70 )
+insert a row into table called thankful with values ( 8 , 80 )
+insert a row into table called snail with values ( 9 , 90 )
+insert a row into table called cabbage with values ( 10 , 100 )
+insert a row into table called puzzled with values ( 11 , 110 )
+insert a row into table called pedal with values ( 12 , 120 )
+insert a row into table called shame with values ( 13 , 130 )
+insert a row into table called whip with values ( 14 , 140 )
+insert a row into table called acrid with values ( 1 , 2 , 3 , None
+insert a row into table called useful with values ( 16 , 160 )
+insert a row into table called complete with values ( 17 , 170 )
+insert a row into table called slip with values ( 18 , 180 )
+insert a row into table called screeching with values ( 19 , 190 )
+insert a row into table called cross with values ( 20 , 200 )
+delete all lines from table called left where pencil is equal to 1
+delete all lines from table called stage where poor is equal to 2
+delete all lines from table called fearful where sharp is equal to 3
+delete all lines from table called squirrel where school is equal to 4
+delete all lines from table called phone where unusual is equal to 5
+delete all lines from table called welltodo where smoke is equal to 6
+delete all lines from table called bit where ear is equal to 7
+delete all lines from table called realise where boil is equal to 8
+delete all lines from table called assorted where crooked is equal to 9
+delete all lines from table called many where place is equal to 10
+delete all lines from table called thrill where jittery is equal to 11
+delete all lines from table called stupid where cooing is equal to 12
+delete all lines from table called chunky where support is equal to 13
+delete all lines from table called abandoned where nut is equal to 14
+delete all lines from table called tomatoes where crime is equal to 15
+delete all lines from table called four where past is equal to 16
+delete all lines from table called trains where paper is equal to 17
+delete all lines from table called government where touch is equal to 18
+delete all lines from table called teeny where lazy is equal to 19
+delete all lines from table called plastic where pump is equal to 20
+update note set sudden = 1 where miniature = 5
+update spy set swift = 2 where increase = 10
+update plan set pin = 3 where exercise = 15
+update move set miniature = 4 where sigh = 20
+update tawdry set possess = 5 where plausible = 25
+update future set fax = 6 where amazing = 30
+update growth set stranger = 7 where cover = 35
+update crate set magic = 8 where arch = 40
+update legs set wrap = 9 where fast = 45
+update swim set vivacious = 10 where gray = 50
+update mountainous set volatile = 11 where hole = 55
+update amuck set bite = 12 where loose = 60
+update delicious set vagabond = 13 where expect = 65
+update staking set bumpy = 14 where stomach = 70
+update flow set wiry = 15 where explode = 75
+update stocking set crate = 16 where zesty = 80
+update side set sip = 17 where spoon = 85
+update development set level = 18 where writer = 90
+update trade set farflung = 19 where level = 95
+update calm set spoon = 20 where bulb = 100

@@ -499,106 +499,106 @@ select all rows from table called grey where hesitant is equal 247
 select all rows from table called penitent where statement is equal 248
 select all rows from table called rhetorical where womanly is equal 249
 select all rows from table called better where legal is equal 250
-select all rows from table called suck where pot is equal 'a'
-select all rows from table called embarrass where furniture is equal 'b'
-select all rows from table called worry where malicious is equal 'a'
-select all rows from table called cheer where pumped is equal 'b'
-select all rows from table called fall where curved is equal 'a'
-select all rows from table called adventurous where spell is equal 'b'
-select all rows from table called obscene where drain is equal 'a'
-select all rows from table called crush where glass is equal 'b'
-select all rows from table called imaginary where treat is equal 'a'
-select all rows from table called fretful where return is equal 'b'
-select all rows from table called miscreant where fade is equal 'a'
-select all rows from table called premium where mine is equal 'b'
-select all rows from table called five where colour is equal 'a'
-select all rows from table called plan where arrogant is equal 'b'
-select all rows from table called line where lucky is equal 'a'
-select all rows from table called alike where land is equal 'b'
-select all rows from table called crazy where roll is equal 'a'
-select all rows from table called sloppy where beam is equal 'b'
-select all rows from table called aftermath where dull is equal 'a'
-select all rows from table called sprout where plant is equal 'b'
-select all rows from table called religion where cool is equal 'a'
-select all rows from table called cause where detect is equal 'b'
-select all rows from table called smoke where pen is equal 'a'
-select all rows from table called lean where drunk is equal 'b'
-select all rows from table called month where farflung is equal 'a'
-select all rows from table called questionable where fancy is equal 'b'
-select all rows from table called scream where store is equal 'a'
-select all rows from table called chase where flat is equal 'b'
-select all rows from table called cool where uneven is equal 'a'
-select all rows from table called wound where cart is equal 'b'
-select all rows from table called bumpy where offbeat is equal 'a'
-select all rows from table called capable where spiffy is equal 'b'
-select all rows from table called chew where tasteful is equal 'a'
-select all rows from table called kill where thrill is equal 'b'
-select all rows from table called scientific where worried is equal 'a'
-select all rows from table called cagey where selfish is equal 'b'
-select all rows from table called stitch where mouth is equal 'a'
-select all rows from table called approve where noiseless is equal 'b'
-select all rows from table called agreement where statuesque is equal 'a'
-select all rows from table called mine where sign is equal 'b'
-select all rows from table called poised where development is equal 'a'
-select all rows from table called steep where vivacious is equal 'b'
-select all rows from table called tense where stop is equal 'a'
-select all rows from table called educate where awake is equal 'b'
-select all rows from table called happen where produce is equal 'a'
-select all rows from table called madly where spicy is equal 'b'
-select all rows from table called ring where empty is equal 'a'
-select all rows from table called plant where cross is equal 'b'
-select all rows from table called gun where therapeutic is equal 'a'
-select all rows from table called crabby where camp is equal 'b'
-select all rows from table called signal where protest is equal 'a'
-select all rows from table called alcoholic where dizzy is equal 'b'
-select all rows from table called cast where macabre is equal 'a'
-select all rows from table called pink where apparatus is equal 'b'
-select all rows from table called threatening where spring is equal 'a'
-select all rows from table called expensive where sink is equal 'b'
-select all rows from table called yawn where coherent is equal 'a'
-select all rows from table called unique where suspect is equal 'b'
-select all rows from table called nerve where swim is equal 'a'
-select all rows from table called spotless where fluttering is equal 'b'
-select all rows from table called front where dysfunctional is equal 'a'
-select all rows from table called workable where car is equal 'b'
-select all rows from table called foregoing where plucky is equal 'a'
-select all rows from table called utter where march is equal 'b'
-select all rows from table called little where acoustic is equal 'a'
-select all rows from table called yarn where can is equal 'b'
-select all rows from table called scintillating where scene is equal 'a'
-select all rows from table called nimble where deadpan is equal 'b'
-select all rows from table called close where kick is equal 'a'
-select all rows from table called cheese where sleet is equal 'b'
-select all rows from table called flimsy where itch is equal 'a'
-select all rows from table called craven where representative is equal 'b'
-select all rows from table called wind where hover is equal 'a'
-select all rows from table called cellar where grotesque is equal 'b'
-select all rows from table called imagine where actually is equal 'a'
-select all rows from table called spoil where key is equal 'b'
-select all rows from table called suppose where shock is equal 'a'
-select all rows from table called meal where murky is equal 'b'
-select all rows from table called lame where claim is equal 'a'
-select all rows from table called adjoining where draconian is equal 'b'
-select all rows from table called watch where depressed is equal 'a'
-select all rows from table called oatmeal where string is equal 'b'
-select all rows from table called ear where tenuous is equal 'a'
-select all rows from table called roll where spotted is equal 'b'
-select all rows from table called food where use is equal 'a'
-select all rows from table called whirl where charge is equal 'b'
-select all rows from table called kiss where fail is equal 'a'
-select all rows from table called sisters where judicious is equal 'b'
-select all rows from table called battle where suffer is equal 'a'
-select all rows from table called common where gainful is equal 'b'
-select all rows from table called remember where sticks is equal 'a'
-select all rows from table called exciting where careless is equal 'b'
-select all rows from table called robust where afternoon is equal 'a'
-select all rows from table called activity where hospital is equal 'b'
-select all rows from table called judge where whirl is equal 'a'
-select all rows from table called spotted where relation is equal 'b'
-select all rows from table called huge where wary is equal 'a'
-select all rows from table called back where sheet is equal 'b'
-select all rows from table called corn where vacuous is equal 'a'
-select all rows from table called tour where vulgar is equal 'b'
+select all rows from table called suck where pot is equal a
+select all rows from table called embarrass where furniture is equal b
+select all rows from table called worry where malicious is equal a
+select all rows from table called cheer where pumped is equal b
+select all rows from table called fall where curved is equal a
+select all rows from table called adventurous where spell is equal b
+select all rows from table called obscene where drain is equal a
+select all rows from table called crush where glass is equal b
+select all rows from table called imaginary where treat is equal a
+select all rows from table called fretful where return is equal b
+select all rows from table called miscreant where fade is equal a
+select all rows from table called premium where mine is equal b
+select all rows from table called five where colour is equal a
+select all rows from table called plan where arrogant is equal b
+select all rows from table called line where lucky is equal a
+select all rows from table called alike where land is equal b
+select all rows from table called crazy where roll is equal a
+select all rows from table called sloppy where beam is equal b
+select all rows from table called aftermath where dull is equal a
+select all rows from table called sprout where plant is equal b
+select all rows from table called religion where cool is equal a
+select all rows from table called cause where detect is equal b
+select all rows from table called smoke where pen is equal a
+select all rows from table called lean where drunk is equal b
+select all rows from table called month where farflung is equal a
+select all rows from table called questionable where fancy is equal b
+select all rows from table called scream where store is equal a
+select all rows from table called chase where flat is equal b
+select all rows from table called cool where uneven is equal a
+select all rows from table called wound where cart is equal b
+select all rows from table called bumpy where offbeat is equal a
+select all rows from table called capable where spiffy is equal b
+select all rows from table called chew where tasteful is equal a
+select all rows from table called kill where thrill is equal b
+select all rows from table called scientific where worried is equal a
+select all rows from table called cagey where selfish is equal b
+select all rows from table called stitch where mouth is equal a
+select all rows from table called approve where noiseless is equal b
+select all rows from table called agreement where statuesque is equal a
+select all rows from table called mine where sign is equal b
+select all rows from table called poised where development is equal a
+select all rows from table called steep where vivacious is equal b
+select all rows from table called tense where stop is equal a
+select all rows from table called educate where awake is equal b
+select all rows from table called happen where produce is equal a
+select all rows from table called madly where spicy is equal b
+select all rows from table called ring where empty is equal a
+select all rows from table called plant where cross is equal b
+select all rows from table called gun where therapeutic is equal a
+select all rows from table called crabby where camp is equal b
+select all rows from table called signal where protest is equal a
+select all rows from table called alcoholic where dizzy is equal b
+select all rows from table called cast where macabre is equal a
+select all rows from table called pink where apparatus is equal b
+select all rows from table called threatening where spring is equal a
+select all rows from table called expensive where sink is equal b
+select all rows from table called yawn where coherent is equal a
+select all rows from table called unique where suspect is equal b
+select all rows from table called nerve where swim is equal a
+select all rows from table called spotless where fluttering is equal b
+select all rows from table called front where dysfunctional is equal a
+select all rows from table called workable where car is equal b
+select all rows from table called foregoing where plucky is equal a
+select all rows from table called utter where march is equal b
+select all rows from table called little where acoustic is equal a
+select all rows from table called yarn where can is equal b
+select all rows from table called scintillating where scene is equal a
+select all rows from table called nimble where deadpan is equal b
+select all rows from table called close where kick is equal a
+select all rows from table called cheese where sleet is equal b
+select all rows from table called flimsy where itch is equal a
+select all rows from table called craven where representative is equal b
+select all rows from table called wind where hover is equal a
+select all rows from table called cellar where grotesque is equal b
+select all rows from table called imagine where actually is equal a
+select all rows from table called spoil where key is equal b
+select all rows from table called suppose where shock is equal a
+select all rows from table called meal where murky is equal b
+select all rows from table called lame where claim is equal a
+select all rows from table called adjoining where draconian is equal b
+select all rows from table called watch where depressed is equal a
+select all rows from table called oatmeal where string is equal b
+select all rows from table called ear where tenuous is equal a
+select all rows from table called roll where spotted is equal b
+select all rows from table called food where use is equal a
+select all rows from table called whirl where charge is equal b
+select all rows from table called kiss where fail is equal a
+select all rows from table called sisters where judicious is equal b
+select all rows from table called battle where suffer is equal a
+select all rows from table called common where gainful is equal b
+select all rows from table called remember where sticks is equal a
+select all rows from table called exciting where careless is equal b
+select all rows from table called robust where afternoon is equal a
+select all rows from table called activity where hospital is equal b
+select all rows from table called judge where whirl is equal a
+select all rows from table called spotted where relation is equal b
+select all rows from table called huge where wary is equal a
+select all rows from table called back where sheet is equal b
+select all rows from table called corn where vacuous is equal a
+select all rows from table called tour where vulgar is equal b
 select column a from table called crack
 select column b from table called kaput
 select column c from table called desire
@@ -698,3 +698,63 @@ select column e from table called flaky
 select column f from table called enjoy
 select column g from table called fantastic
 select column a from table called nose
+insert a row into table called coal with values (1,10)
+insert a row into table called range with values (2,20)
+insert a row into table called reach with values (3,30)
+insert a row into table called enchanted with values (4,40)
+insert a row into table called glib with values (5,50)
+insert a row into table called stove with values (6,60)
+insert a row into table called fax with values (7,70)
+insert a row into table called thankful with values (8,80)
+insert a row into table called snail with values (9,90)
+insert a row into table called cabbage with values (10,100)
+insert a row into table called puzzled with values (11,110)
+insert a row into table called pedal with values (12,120)
+insert a row into table called shame with values (13,130)
+insert a row into table called whip with values (14,140)
+insert a row into table called acrid with values (15,150)
+insert a row into table called useful with values (16,160)
+insert a row into table called complete with values (17,170)
+insert a row into table called slip with values (18,180)
+insert a row into table called screeching with values (19,190)
+insert a row into table called cross with values (20,200)
+delete all lines from table called left where pencil is equal 1
+delete all lines from table called stage where poor is equal 2
+delete all lines from table called fearful where sharp is equal 3
+delete all lines from table called squirrel where school is equal 4
+delete all lines from table called phone where unusual is equal 5
+delete all lines from table called welltodo where smoke is equal 6
+delete all lines from table called bit where ear is equal 7
+delete all lines from table called realise where boil is equal 8
+delete all lines from table called assorted where crooked is equal 9
+delete all lines from table called many where place is equal 10
+delete all lines from table called thrill where jittery is equal 11
+delete all lines from table called stupid where cooing is equal 12
+delete all lines from table called chunky where support is equal 13
+delete all lines from table called abandoned where nut is equal 14
+delete all lines from table called tomatoes where crime is equal 15
+delete all lines from table called four where past is equal 16
+delete all lines from table called trains where paper is equal 17
+delete all lines from table called government where touch is equal 18
+delete all lines from table called teeny where lazy is equal 19
+delete all lines from table called plastic where pump is equal 20
+on table called note update the value of the field sudden to 1 where miniature is equal to 5
+on table called spy update the value of the field swift to 2 where increase is equal to 10
+on table called plan update the value of the field pin to 3 where exercise is equal to 15
+on table called move update the value of the field miniature to 4 where sigh is equal to 20
+on table called tawdry update the value of the field possess to 5 where plausible is equal to 25
+on table called future update the value of the field fax to 6 where amazing is equal to 30
+on table called growth update the value of the field stranger to 7 where cover is equal to 35
+on table called crate update the value of the field magic to 8 where arch is equal to 40
+on table called legs update the value of the field wrap to 9 where fast is equal to 45
+on table called swim update the value of the field vivacious to 10 where gray is equal to 50
+on table called mountainous update the value of the field volatile to 11 where hole is equal to 55
+on table called amuck update the value of the field bite to 12 where loose is equal to 60
+on table called delicious update the value of the field vagabond to 13 where expect is equal to 65
+on table called staking update the value of the field bumpy to 14 where stomach is equal to 70
+on table called flow update the value of the field wiry to 15 where explode is equal to 75
+on table called stocking update the value of the field crate to 16 where zesty is equal to 80
+on table called side update the value of the field sip to 17 where spoon is equal to 85
+on table called development update the value of the field level to 18 where writer is equal to 90
+on table called trade update the value of the field farflung to 19 where level is equal to 95
+on table called calm update the value of the field spoon to 20 where bulb is equal to 100

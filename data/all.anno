@@ -1022,7 +1022,7 @@ select all columns from table called history
 select all columns from table called itchy
 select all columns from table called energetic
 select all columns from table called spell
-select all columns from table called users
+select all columns from table called contratos
 select all columns from table called chilly
 select all columns from table called air
 select all columns from table called iphone
@@ -2096,7 +2096,7 @@ is less than or equal to
 field is less than or equal to 10
 field is less than or equal to
 where x is less then or equal to 1
-from table called users where y is less than or equal to 0
+from table called contratos where y is less than or equal to 0
 y is less than or equal to 0
 less than or equal to 34
 select all columns from table called satisfying where nifty is less than or equal to 1
@@ -2310,7 +2310,7 @@ select all columns from table called history where existence is greater than or 
 select all columns from table called itchy where feigned is greater than or equal to 210
 select all columns from table called energetic where stiff is greater than or equal to 211
 select all columns from table called spell where cheat is greater than or equal to 212
-select all columns from table called users where dead is greater than or equal to 213
+select all columns from table called contratos where dead is greater than or equal to 213
 select all columns from table called chilly where front is greater than or equal to 214
 select all columns from table called air where drum is greater than or equal to 215
 select all columns from table called iphone where stimulating is greater than or equal to 216
@@ -4016,7 +4016,7 @@ the value of the field x to 2
 the value of the field x
 the value of the field amor to 10
 the value of the field oi to 0
-on table called users update the value of the field phone to 999999999 where id is equal to 10
+on table called contratos update the value of the field phone to 999999999 where id is equal to 10
 on table called milk update the value of the field venomous to 501 where add is equal to 2505
 on table called soap update the value of the field haircut to 502 where woozy is equal to 2510
 on table called rub update the value of the field nod to 503 where territory is equal to 2515

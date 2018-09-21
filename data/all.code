@@ -1022,7 +1022,7 @@ select * from history
 select * from itchy
 select * from energetic
 select * from spell
-select * from users
+select * from contratos
 select * from chilly
 select * from air
 select * from iphone
@@ -2096,7 +2096,7 @@ select * from harsh where shivering <= 200
 field <= 10
 field <=
 where x <= 1
-from users where y <= 0
+from contratos where y <= 0
 y <= 0
 <= 34
 select * from satisfying where nifty <= 1
@@ -2310,7 +2310,7 @@ select * from history where existence >= 209
 select * from itchy where feigned >= 210
 select * from energetic where stiff >= 211
 select * from spell where cheat >= 212
-select * from users where dead >= 213
+select * from contratos where dead >= 213
 select * from chilly where front >= 214
 select * from air where drum >= 215
 select * from iphone where stimulating >= 216
@@ -4016,7 +4016,7 @@ set x = 2
 set x
 set amor = 10
 set oi = 0
-update users set phone = 999999999 where id = 10
+update contratos set phone = 999999999 where id = 10
 update milk set venomous = 501 where add = 2505
 update soap set haircut = 502 where woozy = 2510
 update rub set nod = 503 where territory = 2515

@@ -698,27 +698,27 @@ select e from flaky
 select f from enjoy
 select g from fantastic
 select a is from nose
-insert a row into table called coal with values ( 1 , 10 )
+insert a row into table called coal with values ( None
 insert a row into table called range with values ( 2 , 20 )
 insert a row into table called reach with values ( 3 , 30 )
 insert a row into table called enchanted with values ( 4 , 40 )
 insert a row into table called glib with values ( 5 , 50 )
 insert a row into table called stove with values ( 6 , 60 )
 insert a row into table called fax with values ( 7 , 70 )
-insert a row into table called thankful with values ( 8 , 80 )
+insert a row into table called called thankful with values ( None
 insert a row into table called snail with values ( 9 , 90 )
 insert a row into table called cabbage with values ( 10 , 100 )
-insert a row into table called puzzled with values ( 11 , 110 )
+insert a row into table called table called puzzled with values ( 11 , 110 )
 insert a row into table called pedal with values ( 12 , 120 )
 insert a row into table called shame with values ( 13 , 130 )
 insert a row into table called whip with values ( 14 , 140 )
-insert a row into table called acrid with values ( 1 , 2 , 3 , None
+insert a row into table called acrid with values ( 15 , 150 )
 insert a row into table called useful with values ( 16 , 160 )
 insert a row into table called complete with values ( 17 , 170 )
 insert a row into table called slip with values ( 18 , 180 )
 insert a row into table called screeching with values ( 19 , 190 )
-insert a row into table called cross with values ( 20 , 200 )
-delete all lines from table called left where pencil is equal to 1
+insert a row into table called table called cross with values ( 20 , 200 )
+elete all lines from table called left where pencil is equal to 1
 delete all lines from table called stage where poor is equal to 2
 delete all lines from table called fearful where sharp is equal to 3
 delete all lines from table called squirrel where school is equal to 4
@@ -738,23 +738,23 @@ delete all lines from table called trains where paper is equal to 17
 delete all lines from table called government where touch is equal to 18
 delete all lines from table called teeny where lazy is equal to 19
 delete all lines from table called plastic where pump is equal to 20
-update note set sudden = 1 where miniature = 5
-update spy set swift = 2 where increase = 10
-update plan set pin = 3 where exercise = 15
-update move set miniature = 4 where sigh = 20
-update tawdry set possess = 5 where plausible = 25
-update future set fax = 6 where amazing = 30
-update growth set stranger = 7 where cover = 35
-update crate set magic = 8 where arch = 40
-update legs set wrap = 9 where fast = 45
-update swim set vivacious = 10 where gray = 50
-update mountainous set volatile = 11 where hole = 55
-update amuck set bite = 12 where loose = 60
-update delicious set vagabond = 13 where expect = 65
-update staking set bumpy = 14 where stomach = 70
-update flow set wiry = 15 where explode = 75
-update stocking set crate = 16 where zesty = 80
-update side set sip = 17 where spoon = 85
-update development set level = 18 where writer = 90
-update trade set farflung = 19 where level = 95
-update calm set spoon = 20 where bulb = 100
+on table called note update the value of the field sudden to 1 where miniature is equal to 5
+on table called spy update the value of the field swift to 2 where increase is equal to 10
+on table called plan update the value of the field pin to 3 where exercise is equal to 15
+on table called move update the value of the field miniature to 4 where sigh is equal to 20
+on table called tawdry update the value of the field possess to 5 where plausible is equal to 25
+on table called future update the value of the field fax to 6 where amazing is equal to 30
+on table called growth update the value of the field stranger to 7 where cover is equal to 35
+on table called crate update the value of the field magic to 8 where called arch is equal to 40
+on table called legs update the value of the field wrap to 9 where fast is equal to 45
+on table called swim update the value of the field vivacious to 10 where gray is equal to 50
+on table called mountainous update the value of the field volatile to 11 where hole is equal to 55
+on table called amuck update the value of the field bite to 12 where loose is equal to 60
+on table called delicious update the value of the field vagabond to 13 where expect is equal to 65
+on table called staking update the value of the field bumpy to 14 where stomach is equal to 70
+on table called flow update the value of the field wiry to 15 where explode is equal to 75
+on table called stocking update the value of the field crate to 16 where zesty is equal to 80
+on table called side update the value of the field sip to 17 where spoon is equal to 85
+on table called development update the value of the field level to 18 where writer is equal to 90
+on table called trade update the value of the field far - flung update to 19 where level is equal to 95
+on table called calm update the value of the field called spoon to 20 where bulb is equal to 100    

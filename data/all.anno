@@ -4016,7 +4016,7 @@ the value of the field x to 2
 the value of the field x
 the value of the field amor to 10
 the value of the field oi to 0
-on table called contratos update the value of the field phone to 999999999 where id is equal to 10
+on table called contratos update the value of the field x to 999999999 where i is equal to 10
 on table called milk update the value of the field venomous to 501 where add is equal to 2505
 on table called soap update the value of the field haircut to 502 where woozy is equal to 2510
 on table called rub update the value of the field nod to 503 where territory is equal to 2515

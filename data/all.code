@@ -4016,7 +4016,7 @@ set x = 2
 set x
 set amor = 10
 set oi = 0
-update contratos set phone = 999999999 where id = 10
+update contratos set x = 999999999 where i = 10
 update milk set venomous = 501 where add = 2505
 update soap set haircut = 502 where woozy = 2510
 update rub set nod = 503 where territory = 2515

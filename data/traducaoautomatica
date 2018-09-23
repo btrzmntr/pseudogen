@@ -698,63 +698,703 @@ select e from flaky
 select f from enjoy
 select g from fantastic
 select a is from nose
-insert a row into table called coal with values ( None
-insert a row into table called range with values ( 2 , 20 )
-insert a row into table called reach with values ( 3 , 30 )
-insert a row into table called enchanted with values ( 4 , 40 )
-insert a row into table called glib with values ( 5 , 50 )
-insert a row into table called stove with values ( 6 , 60 )
-insert a row into table called fax with values ( 7 , 70 )
-insert a row into table called called thankful with values ( None
-insert a row into table called snail with values ( 9 , 90 )
-insert a row into table called cabbage with values ( 10 , 100 )
-insert a row into table called table called puzzled with values ( 11 , 110 )
-insert a row into table called pedal with values ( 12 , 120 )
-insert a row into table called shame with values ( 13 , 130 )
-insert a row into table called whip with values ( 14 , 140 )
-insert a row into table called acrid with values ( 15 , 150 )
-insert a row into table called useful with values ( 16 , 160 )
-insert a row into table called complete with values ( 17 , 170 )
-insert a row into table called slip with values ( 18 , 180 )
-insert a row into table called screeching with values ( 19 , 190 )
-insert a row into table called table called cross with values ( 20 , 200 )
-elete all lines from table called left where pencil is equal to 1
-delete all lines from table called stage where poor is equal to 2
-delete all lines from table called fearful where sharp is equal to 3
-delete all lines from table called squirrel where school is equal to 4
-delete all lines from table called phone where unusual is equal to 5
-delete all lines from table called welltodo where smoke is equal to 6
-delete all lines from table called bit where ear is equal to 7
-delete all lines from table called realise where boil is equal to 8
-delete all lines from table called assorted where crooked is equal to 9
-delete all lines from table called many where place is equal to 10
-delete all lines from table called thrill where jittery is equal to 11
-delete all lines from table called stupid where cooing is equal to 12
-delete all lines from table called chunky where support is equal to 13
-delete all lines from table called abandoned where nut is equal to 14
-delete all lines from table called tomatoes where crime is equal to 15
-delete all lines from table called four where past is equal to 16
-delete all lines from table called trains where paper is equal to 17
-delete all lines from table called government where touch is equal to 18
-delete all lines from table called teeny where lazy is equal to 19
-delete all lines from table called plastic where pump is equal to 20
-on table called note update the value of the field sudden to 1 where miniature is equal to 5
-on table called spy update the value of the field swift to 2 where increase is equal to 10
-on table called plan update the value of the field pin to 3 where exercise is equal to 15
-on table called move update the value of the field miniature to 4 where sigh is equal to 20
-on table called tawdry update the value of the field possess to 5 where plausible is equal to 25
-on table called future update the value of the field fax to 6 where amazing is equal to 30
-on table called growth update the value of the field stranger to 7 where cover is equal to 35
-on table called crate update the value of the field magic to 8 where called arch is equal to 40
-on table called legs update the value of the field wrap to 9 where fast is equal to 45
-on table called swim update the value of the field vivacious to 10 where gray is equal to 50
-on table called mountainous update the value of the field volatile to 11 where hole is equal to 55
-on table called amuck update the value of the field bite to 12 where loose is equal to 60
-on table called delicious update the value of the field vagabond to 13 where expect is equal to 65
-on table called staking update the value of the field bumpy to 14 where stomach is equal to 70
-on table called flow update the value of the field wiry to 15 where explode is equal to 75
-on table called stocking update the value of the field crate to 16 where zesty is equal to 80
-on table called side update the value of the field sip to 17 where spoon is equal to 85
-on table called development update the value of the field level to 18 where writer is equal to 90
-on table called trade update the value of the field far - flung update to 19 where level is equal to 95
-on table called calm update the value of the field called spoon to 20 where bulb is equal to 100    
+delete all lines from table called winter where spiteful is equal to 1
+delete all lines from table called prose where defective is equal to 2
+delete all lines from table called whistle where quiver is equal to 3
+delete all lines from table called quaint where nauseating is equal to 4
+delete all lines from table called dirty where repair is equal to 5
+delete all lines from table called snobbish where reach is equal to 6
+delete all lines from table called love where perpetual is equal to 7
+delete all lines from table called attend where table called attack is equal to 8
+delete all lines from table called sock where table called greedy is equal to 9
+delete all lines from table called feeble where domineering is equal to 10
+delete all lines from table called colossal where red is equal to 11
+delete all lines from table called swim where paltry is equal to 12
+delete all lines from table called move where table called waiting is equal to 13
+delete all lines from table called testy where bottle is equal to 14
+delete all lines from table called dust where table called step is equal to 15
+delete all lines from table called mist where wry is equal to 16
+delete all lines from table called clammy where dog is equal to 17
+delete all lines from table called order where table called science is equal to 18
+delete all lines from table called quilt where upbeat is equal to 19
+delete all lines from table called fabulous where aware is equal to 20
+delete all lines from table called loose where advice is equal to 21
+delete all lines from table called annoyed where apparatus is equal to 22
+delete all lines from table called long where talk is equal to 23
+delete all lines from table called cake where determined is equal to 24
+delete all lines from table called pet where breezy is equal to 25
+delete all lines from table called military where concerned is equal to 26
+delete all lines from table called rabid where reflective is equal to 27
+delete all lines from table called education where judge is equal to 28
+delete all lines from table called expect where frogs is equal to 29
+delete all lines from table called garrulous where wasteful is equal to 30
+delete all lines from table called suffer where called button is equal to 31
+delete all lines from table called obeisant where rush is equal to 32
+delete all lines from table called double where bells is equal to 33
+delete all lines from table called bite where table called market is equal to 34
+delete all lines from table called river where attempt is equal to 35
+delete all lines from table called childlike where table called sweater is equal to 36
+delete all lines from table called servant where night is equal to 37
+delete all lines from table called table called eyes where skin is equal to 38
+delete all lines from table called ray where drain is equal to 39
+delete all lines from preserve where magic is equal to 40
+delete all lines from table called curly where son is equal to 41
+delete all lines from table called encourage where called squealing is equal to 42
+delete all lines from table called library where scattered is equal to 43
+delete all lines from table called delicious where table called tax is equal to 44
+delete all lines from table called handsomely where shave is equal to 45
+delete all lines from table called marry where table called fry is equal to 46
+delete all lines from table called yell where cemetery is equal to 47
+delete all lines from table called shave where party is equal to 48
+delete all lines from table called lumber where tidy is equal to 49
+delete all lines from table called beds where better is equal to 50
+delete all lines from table called permissible where brainy is equal to 51
+delete all lines from table called far where spiritual is equal to 52
+delete all lines from table called quartz where deeply is equal to 53
+delete all lines from table called feeling where muddle is equal to 54
+delete all lines from table called stay where raise is equal to 55
+delete all lines from table called plantation where table called art is equal to 56
+delete all lines from table called angle where chubby is equal to 57
+delete all lines from table called bat where miniature is equal to 58
+delete all lines from table called mixed where called zinc is equal to 59
+delete all lines from table called maddening where tie is equal to 60
+delete all lines from table called stretch where precious is equal to 61
+delete all lines from table called gamy where idiotic is equal to 62
+delete all lines from table called compare where improve is equal to 63
+delete all lines from table called wrap where accurate is equal to 64
+delete all lines from table called important where anger is equal to 65
+delete all lines from table called unadvised where melt is equal to 66
+delete all lines from table called pick where incompetent is equal to 67
+delete all lines from table called ugliest where table called laugh is equal to 68
+delete all lines from table called bathe where hurry is equal to 69
+delete all lines from table called available where table called unnatural is equal to 70
+delete all lines from table called vague where dull is equal to 71
+delete all lines from table called best where fact is equal to 72
+delete all lines from table called pizzas where table called dare is equal to 73
+delete all lines from table called table called scratch where drip is equal to 74
+delete all lines from table called misty where measure is equal to 75
+delete all lines from table called enchanting where drunk is equal to 76
+delete all lines from table called moor where scandalous is equal to 77
+delete all lines from table called simple where outgoing is equal to 78
+delete all lines from table called attempt where tender is equal to 79
+delete all lines from table called border where welloff to 80
+delete all lines from table called dependent where impossible is equal to 81
+delete all lines from table called exclusive where meat is equal to 82
+delete all lines from table called short where table called throat is equal to 83
+delete all lines from table called nimble where include is equal to 84
+delete all lines from table called time where tremble is equal to 85
+delete all lines from table called label where dry is equal to 86
+delete all lines from table called income where table called fork is equal to 87
+delete all lines from table called cattle where yummy is equal to 88
+delete all lines from table called fear where table called list is equal to 89
+delete all lines from table called crabby where baby is equal to 90
+delete all lines from table called tail where table called scratch is equal to 91
+delete all lines from table called screw where lighten is equal to 92
+delete all lines from table called raspy where dime is equal to 93
+delete all lines from table called burst where easy is equal to 94
+delete all lines from table called hat where trip is equal to 95
+delete all lines from table called temporary where coordinated is equal to 96
+delete all lines from table called unbecoming where friendly is equal to 97
+delete all lines from table called invention where table called eager is equal to 98
+delete all lines from table called creepy where secretive is equal to 99
+delete all lines from table called pail where efficacious is equal to 100
+delete all lines from table called carry where limit is equal to 101
+delete all lines from table called eggs where table called sweet is equal to 102
+delete all lines from table called planes where grape is equal to 103
+delete all lines from table called donkey where unwieldy is equal to 104
+delete all lines from table called warm where table called post is equal to 105
+delete all lines from table called man where called kaput is equal to 106
+delete all lines from table called tedious where simplistic is equal to 107
+delete all lines from table called compete where stamp is equal to 108
+delete all lines from table called taste where brick is equal to 109
+delete all lines from table called horn where seal is equal to 110
+delete all lines from table called dynamic where coat is equal to 111
+delete all lines from table called poised where name is equal to 112
+delete all lines from table called hope where mom is equal to 113
+delete all lines from table called adjustment where quaint is equal to 114
+delete all lines from table called spoil where smoke is equal to 115
+delete all lines from table called cute where whistle is equal to 116
+delete all lines from table called appear where tip is equal to 117
+delete all lines from table called spot where trick is equal to 118
+delete all lines from table called table called gather where maid is equal to 119
+delete all lines from table called tremendous where daily is equal to 120
+delete all lines from table called lamentable where mark is equal to 121
+delete all lines from table called draconian where awesome is equal to 122
+delete all lines from table called profuse where chunky is equal to 123
+delete all lines from table called inquisitive where tasty is equal to 124
+delete all lines from table called son where table called gleaming is equal to 125
+delete all lines from table called reply where table called scarce is equal to 126
+delete all lines from table called pat where stocking is equal to 127
+delete all lines from white where undress is equal to 128
+delete all lines from table called help where called building is equal to 129
+delete all lines from table called enjoy where tedious is equal to 130
+delete all lines from table called decay where silly is equal to 131
+delete all lines from table called roll where white is equal to 132
+delete all lines from table called racial where auspicious is equal to 133
+delete all lines from table called scintillating where cars is equal to 134
+delete all lines from table called pencil where table called remove is equal to 135
+delete all lines from table called boot where faulty is equal to 136
+delete all lines from table called malicious where table called quick is equal to 137
+delete all lines from table called wave where special is equal to 138
+delete all lines from table called baby where stop is equal to 139
+delete all lines from table called sound where called witty is equal to 140
+delete all lines from table called activity where rock is equal to 141
+delete all lines from table called knot where table called experience is equal to 142
+delete all lines from table called peel where tired is equal to 143
+delete all lines from table called writing where handsomely is equal to 144
+delete all lines from table called graceful where filthy is equal to 145
+delete all lines from table called invite where iron is equal to 146
+delete all lines from table called notice where called overjoyed is equal to 147
+delete all lines from table called whisper where imminent is equal to 148
+delete all lines from table called road where baseball is equal to 149
+delete all lines from table called bewildered where childlike is equal to 150
+delete all lines from table called meddle where table called cuddly is equal to 151
+delete all lines from table called market where table called nutty is equal to 152
+delete all lines from ratty where sloppy is equal to 153
+delete all lines from table called island where beneficial is equal to 154
+delete all lines from table called boil where rinse is equal to 155
+delete all lines from table rub where irritating is equal to 156
+delete all lines from table called wander where called geese is equal to 157
+delete all lines from table called pinch where dynamic is equal to 158
+delete all lines from table uninterested where heat is equal to 159
+delete all lines from table called wasteful where fierce is equal to 160
+delete all lines from table called table called watery where street is equal to 161
+delete all lines from table called slippery where animal is equal to 162
+delete all lines from table called ticket where ancient is equal to 163
+delete all lines from table called umbrella where befitting is equal to 164
+delete all lines from table called strong where scene is equal to 165
+delete all lines from table called confused where unsuitable is equal to 166
+delete all lines from table table called lame where bridge is equal to 167
+delete all lines from table called venomous where keen is equal to 168
+delete all lines from table table called daily where curl is equal to 169
+delete all lines from table called women where abiding is equal to 170
+delete all lines from table called bouncy where impolite is equal to 171
+delete all lines from table called domineering where utopian is equal to 172
+delete all lines from table called gainful where bedroom is equal to 173
+delete all lines from table called machine where happy is equal to 174
+delete all lines from table called recognise where wilderness is equal to 175
+delete all lines from table called frame where glove is equal to 176
+delete all lines from table called purpose where called equal is equal to 177
+delete all lines from table called tight where table called approve is equal to 178
+delete all lines from table called kiss where table called available is equal to 179
+delete all lines from table called boiling where called jewel is equal to 180
+delete all lines from table called ban where money is equal to 181
+delete all lines from table called harbor where called snake is equal to 182
+delete all lines from table called fairies where destroy is equal to 183
+delete all lines from table called appreciate where screw is equal to 184
+delete all lines from table called grubby where table called attack is equal to 185
+delete all lines from table called month where longterm is equal to 186
+delete all lines from table called pretty where temporary is equal to 187
+delete all lines from table called annoy where weather is equal to 188
+delete all lines from table called squealing where pat is equal to 189
+delete all lines from table called stew where called pollution is equal to 190
+delete all lines from table called want where simple is equal to 191
+delete all lines from table called listen where hand is equal to 192
+delete all lines from table called pump where table called longing is equal to 193
+delete all lines from table called watch where vacation is equal to 194
+delete all lines from table called silly where pale is equal to 195
+delete all lines from table called stale where fat is equal to 196
+delete all lines from table called interrupt where whirl is equal to 197
+delete all lines from table called cheerful where field is is equal to 198
+delete all lines from table called sigh where sore is equal to 199
+delete all lines from table called airplane where table called learn is equal to 200
+insert a row into table called blind with values ( None
+insert a row into table called interest with values ( 2 , 20 )
+insert a row into table called faded with values ( 3 , 30 )
+insert a row into table called lively with values ( None
+insert a row into table called scarf with values ( None
+insert a row into table called cough with values ( 6 , 60 )
+insert a row into table called table called ceaseless with values ( 7 , 70 )
+insert a row into table called notice with values ( 8 , 80 )
+insert a row into table called table called fair with values ( 9 , 90 )
+insert a row into table called gabby with values ( 10 , 100 )
+insert a row into table called chunky with values ( 11 , 110 )
+insert a row into table called aggressive with values ( 12 , 120 )
+insert a row into table called wretched with values ( 13 , 130 )
+insert a row into table called land with values ( 14 , 140 )
+insert a row into table called table called huge with values ( 15 , 150 )
+insert a row into table called guarded with values ( 16 , 160 )
+insert a row into table called fascinated with values ( 17 , 170 )
+insert a row into table called wriggle with values ( 18 , 180 )
+insert a row into table called liquid with values ( None
+insert a row into table called hot with values ( 20 , 200 )
+insert a row into table called table called trees with values ( 21 , 210 )
+insert a row into table called subsequent with values ( 22 , 220 )
+insert a row into table called table called design with values ( None
+insert a row into table called choke with values ( 24 , 240 )
+insert a row into table called table called fry with values ( 25 , 250 )
+insert a row into table called tiger with values ( 26 , 260 )
+insert a row into table called called lovely with values ( 27 , 270 )
+insert a row into table called incandescent with values ( 28 , 280 )
+insert a row into table called few with values ( 29 , 290 )
+insert a row into table called table called grandfather with values ( 30 , 300 )
+insert a row into table called deserve with values ( 31 , 310 )
+insert a row into table called table called spotty with values ( 32 , 320 )
+insert a row into table called whip with values ( None
+insert a row into table called aware with values ( 34 , 340 )
+insert a row into table called icy with values ( 35 , 350 )
+insert a row into table called carve with values ( None
+insert a row into table called mundane with values ( 37 , 370 )
+insert a row into table called hypnotic with values ( 38 , 380 )
+insert a row into table called salty with values ( 39 , 390 )
+insert a row into table called wild with values ( 40 , 400 )
+insert a row into table called doll with values ( 41 , 410 )
+insert a row into table called back with values ( None
+insert a row into table called cellar with values ( 43 , 430 )
+insert a row into table called busy with values ( None
+insert a row into table called table called spotless with values ( 45 , 450 )
+insert a row into table called table called birds with values ( 46 , 460 )
+insert a row into table called fish with values ( 47 , 470 )
+insert a row into table called belief with values ( 48 , 480 )
+insert a row into table called mute with values ( 49 , 490 )
+insert a row into table called belong with values ( 50 , 500 )
+insert a row into table called brawny with values ( 51 , 510 )
+insert a row into table called faulty with values ( 52 , 520 )
+insert a row into table called crow with values ( 53 , 530 )
+insert a row into table called versed with values ( 54 , 540 )
+insert a row into table called scandalous with values ( 55 , 550 )
+insert a row into table called nimble with values ( 56 , 560 )
+insert a row into table called pedal with values ( 57 , 570 )
+insert a row into table called miss with values ( 58 , 580 )
+insert a row into table called rock with values ( 59 , 590 )
+insert a row into table called table called chilly with values ( 60 , 600 )
+insert a row into table called female with values ( 61 , 610 )
+insert a row into table called load with values ( 62 , 620 )
+insert a row into table called loutish with values ( 63 , 630 )
+insert a row into table called lush with values ( 64 , 640 )
+insert a row into table called dirt with values ( 65 , 650 )
+insert a row into table called called rude with values ( 66 , 660 )
+insert a row into table called harmonious with values ( 67 , 670 )
+insert a row into table called rub with values ( 68 , 680 )
+insert a row into table called bright with values ( 69 , 690 )
+insert a row into table called ultra with values ( 70 , 700 )
+insert a row into table called hardtofind with values ( 71 , 710 )
+insert a row into table called absorbed with values ( None
+insert a row into table called called earn with values ( None
+insert a row into table called table called wood with values ( 74 , 740 )
+insert a row into table called language with values ( 75 , 750 )
+insert a row into table called table called visit with values ( 76 , 760 )
+insert a row into table called tired with values ( 77 , 770 )
+insert a row into table called hurried with values ( 78 , 780 )
+insert a row into table called agreement with values ( 79 , 790 )
+insert a row into table called blackandwhite with values ( 80 , 800 )
+insert a row into table called cumbersome with values ( 81 , 810 )
+insert a row into table called elegant with values ( 82 , 820 )
+insert a row into table called table called alcoholic with values ( 83 , 830 )
+insert a row into table called glorious with values ( 84 , 840 )
+insert a row into table called table called cakes with values ( 85 , 850 )
+insert a row into table called control with values ( 86 , 860 )
+insert a row into table called called ground with values ( None
+insert a row into table called vast with values ( 88 , 880 )
+insert a row into table called brush with values ( 89 , 890 )
+insert a row into table called curve with values ( 90 , 900 )
+insert a row into table called calculating with values ( 91 , 910 )
+insert a row into table called table called stain with values ( 92 , 920 )
+insert a row into table called permit with values ( 93 , 930 )
+insert a row into table called table called shiver with values ( 94 , 940 )
+insert a row into table called married with values ( 95 , 950 )
+insert a row into table called regret with values ( 96 , 960 )
+insert a row into table called riddle with values ( 97 , 970 )
+insert a row into table called previous with values ( None
+insert a row into table called decisive with values ( 99 , 990 )
+insert a row into table called panoramic with values ( 100 , 1000 )
+insert a row into table called table called pour with values ( 101 , 1010 )
+insert a row into table called legal with values ( 102 , 1020 )
+insert a row into table called adjoining with values ( 103 , 1030 )
+insert a row into table called table called remind with values ( 104 , 1040 )
+insert a row into table called store with values ( None
+insert a row into table called exultant with values ( None
+insert a row into table called labored with values ( None
+insert a row into table called hallowed with values ( 108 , 1080 )
+insert a row into table called seat with values ( None
+insert a row into table called wilderness with values ( 110 , 1100 )
+insert a row into table called called educated with values ( 111 , 1110 )
+insert a row into table called men with values ( 112 , 1120 )
+insert a row into table called table called needless with values ( 113 , 1130 )
+insert a row into table called table called meeting with values ( 114 , 1140 )
+insert a row into table called table called unpack with values ( 115 , 1150 )
+insert a row into table called husky with values ( 116 , 1160 )
+insert a row into table called offbeat with values ( 117 , 1170 )
+insert a row into table called table called condemned with values ( None
+insert a row into table called jam with values ( 119 , 1190 )
+insert a row into table called offer with values ( 120 , 1200 )
+insert a row into table called gainful with values ( 121 , 1210 )
+insert a row into table called table called wing with values ( 122 , 1220 )
+insert a row into table called shelter with values ( 123 , 1230 )
+insert a row into table called table called sour with values ( 124 , 1240 )
+insert a row into table called table called consist with values ( 125 , 1250 )
+insert a row into table called dramatic with values ( 126 , 1260 )
+insert a row into table called called upset with values ( 127 , 1270 )
+insert a row into table called unwritten with values ( 128 , 1280 )
+insert a row into table called coast with values ( 129 , 1290 )
+insert a row into table called reject with values ( 130 , 1300 )
+insert a row into table called legs with values ( 131 , 1310 )
+insert a row into table called table called zonked with values ( None
+insert a row into table called table called chin with values ( 133 , 1330 )
+insert a row into table called weak with values ( 134 , 1340 )
+insert a row into table called substantial with values ( 135 , 1350 )
+insert a row into table called called peace with values ( 136 , 1360 )
+insert a row into table called descriptive with values ( 137 , 1370 )
+insert a row into table called acrid with values ( 138 , 1380 )
+insert a row into table called table called even with values ( 139 , 1390 )
+insert a row into table called table called scrape with values ( 140 , 1400 )
+insert a row into table called damaged with values ( None
+insert a row into table called called soggy with values ( 142 , 1420 )
+insert a row into table called noise with values ( 143 , 1430 )
+insert a row into table called jittery with values ( 144 , 1440 )
+insert a row into table called wakeful with values ( None
+insert a row into table called frightening with values ( 146 , 1460 )
+insert a row into table called table called home with values ( 147 , 1470 )
+insert a row into table called hilarious with values ( 148 , 1480 )
+insert a row into table called trick with values ( 149 , 1490 )
+insert a row into table called birth with values ( 150 , 1500 )
+insert a row into table called trade with values ( 151 , 1510 )
+insert a row into table called table called flashy with values ( 152 , 1520 )
+insert a row into table called called chop with values ( 153 , 1530 )
+insert a row into table called bolt with values ( 154 , 1540 )
+insert a row into table called second withtable called hand with values ( 155 , 1550 )
+insert a row into table called competition with values ( 156 , 1560 )
+insert a row into table called table called impartial with values ( 157 , 1570 )
+insert a row into table called drip with values ( 158 , 1580 )
+insert a row into table called spoon with values ( 159 , 1590 )
+insert a row into table called grain with values ( 160 , 1600 )
+insert a row into table called plucky with values ( 161 , 1610 )
+insert a row into table called linen with values ( 162 , 1620 )
+insert a row into table called table called spy with values ( 163 , 1630 )
+insert a row into table called sister with values ( 164 , 1640 )
+insert a row into table called awful with values ( 165 , 1650 )
+insert a row into table called called pull with values ( 166 , 1660 )
+insert a row into table called rough with values ( 167 , 1670 )
+insert a row into table called hunt with values ( 168 , 1680 )
+insert a row into table called magenta with values ( 169 , 1690 )
+insert a row into table called bird with values ( 170 , 1700 )
+insert a row into table called key with values ( 171 , 1710 )
+insert a row into table called unique with values ( 172 , 1720 )
+insert a row into table called didactic with values ( 173 , 1730 )
+insert a row into table called glue with values ( None
+insert a row into table called table called finger with values ( 175 , 1750 )
+insert a row into table called parallel with values ( 176 , 1760 )
+insert a row into table called unit with values ( 177 , 1770 )
+insert a row into table called table called question with values ( 178 , 1780 )
+insert a row into table called table table with values ( 179 , 1790 )
+insert a row into table called table called relax with values ( 180 , 1800 )
+insert a row into table called table called vagabond with values ( None
+insert a row into table called table called cute with values ( 182 , 1820 )
+insert a row into table called greet with values ( 183 , 1830 )
+insert a row into table called table called piquant with values ( None
+insert a row into table called called ruin with values ( 185 , 1850 )
+insert a row into table called called remember with values ( 186 , 1860 )
+insert a row into table called table called gullible with values ( 187 , 1870 )
+insert a row into table called attempt with values ( 188 , 1880 )
+insert a row into table called exotic with values ( 189 , 1890 )
+insert a row into table called crabby with values ( 190 , 1900 )
+insert a row into table called table called instruct with values ( 191 , 1910 )
+insert a row into table called table called trace with values ( None
+insert a row into table called cheese with values ( 193 , 1930 )
+insert a row into table called spooky with values ( 194 , 1940 )
+insert a row into table called start with values ( 195 , 1950 )
+insert a row into table called amusing with values ( 196 , 1960 )
+insert a row into table called record with values ( 197 , 1970 )
+insert a row into table called teeth with values ( 198 , 1980 )
+insert a row into table called accurate with values ( None
+insert a row into table called table called stretch with values ( 200 , 2000 )
+on table called crazy update the value of the field stare to 1 where potato is equal to 5
+on table called whisper update the value of the field needle to 2 where table called servant is equal to 10
+on table called carry update the value of the field symptomatic to 3 where alert is equal to 15
+on table called pan update the value of the field cats to 4 where year is equal to 20
+on table called treat update the value of the field jam to 5 where table called righteous is equal to 25
+on table called miss update the value of the field table called acoustic to 6 where pine is equal to 30
+on table called ray update the value of the field gorgeous to 7 where delight is equal to 35
+on table called dazzling update the value of the field attract to 8 where pen is equal to 40
+on table called whine update the value of the field woozy to 9 where furtive is equal to 45
+on table called pointless update the value of the field oven to 10 where quiver is equal to 50
+on table called neighborly update the value of the field drain to 11 where table called happen is equal to 55
+on table called deranged update the value of the field called excellent to 12 where film is equal to 60
+on table called pull update the value of the field table called occur to 13 where beg is equal to 65
+on table called invent update the value of the field frail to 14 where grandmother is equal to 70
+on table called boring update the value of the field cycle to 15 where quartz is equal to 75
+on table called innocent update the value of the field table called month to 16 where careful is equal to 80
+on table called market update the value of the field table called vessel to 17 where fall is equal to 85
+on table called orange update the value of the field table called succeed to 18 where enchanted is equal to 90
+on table called silver update the value of the field table called secretary to 19 where outstanding is equal to 95
+on table called fast update the value of the field tap to 20 where table called tearful is equal to 100
+on table called fallacious update the value of the field called admire to 21 where discreet is equal to 105
+on table called pocket update the value of the field pickle to 22 where birthday is equal to 110
+on table called free update the value of the field rabid to 23 where grass is equal to 115
+on table called suck update the value of the field stupid to 24 where graceful is equal to 120
+on table called big update the value of the field equable to 25 where madly is equal to 125
+on table called lame update the value of the field insurance to 26 where wellgroomed equal to 130
+on table called scattered update the value of the field table called cool to 27 where silly is equal to 135
+on table called connect update the value of the field garrulous to 28 where cagey is equal to 140
+on table called match update the value of the field grandmother to 29 where gold is equal to 145
+on table called vivacious update the value of the field practise to 30 where mother is equal to 150
+on table called spoon update the value of the field numerous to 31 where called abhorrent is equal to 155
+on table called sofa update the value of the field border to 32 where tick is equal to 160
+on table called plausible update the value of the field brush to 33 where sidewalk is equal to 165
+on table called guard update the value of the field table called little to 34 where sparkling is equal to 170
+on table called songs update the value of the field deserted to 35 where honorable is equal to 175
+on table called love update the value of the field table called north to 36 where imperfect is equal to 180
+on table called pot update the value of the field table called fold to 37 where scarf is equal to 185
+on table called faithful update the value of the field precede to 38 where replace is equal to 190
+on table called book update the value of the field brainy to 39 where cellar is equal to 195
+on table called stomach update the value of the field super to 40 where table called nation is equal to 200
+on table called madly update the value of the field table called whirl to 41 where month is equal to 205
+on table called relieved update the value of the field smart to 42 where elegant is equal to 210
+on table called spell update the value of the field plan to 43 where claim is equal to 215
+on table called wealth update the value of the field jeans is equal to 44 where abrasive is equal to 220
+on table called mix update the value of the field rely is equal to 45 where determined is equal to 225
+on table called arrogant update the value of the field tomatoes to 46 where loving is equal to 230
+on table called keen update the value of the field bustling equal to 47 where table called dream is equal to 235
+on table called command update the value of the field strap to 48 where mammoth is equal to 240
+on table called dare update the value of the field lucky to 49 where land is equal to 245
+on table called produce update the value of the field chemical to 50 where loss is equal to 250
+on table called gate update the value of the field observe to 51 where called borrow is equal to 255
+on table called waggish update the value of the field head to 52 where table called bucket is equal to 260
+on table called scent update the value of the field table called sleet equal to 53 where table called entertaining is equal to 265
+on table called friends update the value of the field telling equal to 54 where trail is equal to equal to 270
+on table called boat update the value of the field melted to 55 where table called greedy is equal to 275
+on table called toothsome update the value of the field table called minute to 56 where whip is equal to 280
+on table called fair update the value of the field quaint to 57 where ashamed is equal to 285
+on table called needy update the value of the field table called remain equal to 58 where exist is equal to 290
+on table called minister update the value of the field cluttered to 59 where motion is equal to 295
+on table called shirt update the value of the field injure to 60 where low is equal to 300
+on table called discreet update the value of the field lethal to 61 where heap is equal to 305
+on table called mature update the value of the field table called receptive to 62 where frantic is equal to 310
+on table called rail update the value of the field table called chess to 63 where appreciate is equal to 315
+on table called alleged update the value of the field side to 64 where brash is equal to 320
+on table called curve update the value of the field linen to 65 where concentrate is equal to 325
+on table called xray update the value of the field straight to 66 where develop is equal to 330
+on table called vase update the value of the field obey to 67 where learned is equal to 335
+on table called wiry update the value of the field dinosaurs to 68 where addition is equal to 340
+on table called spot update the value of the field called search to 69 where expensive is equal to 345
+on table called aberrant update the value of the field absorbing to 70 where zesty is equal to 350
+on table called bubble update the value of the field table called hand to 71 where embarrass is equal to 355
+on table called mess up update the value of the field tasty to 72 where back is equal to 360
+on table called drum update the value of the field realise to 73 where table called meeting is equal to 365
+on table called milk update the value of the field oil to 74 where table called inject is equal to 370
+on table called influence update the value of the field influence to 75 where colossal is equal to 375
+on table called loose update the value of the field table called file to 76 where grandiose is equal to 380
+on table called shoe update the value of the field cry to 77 where table called consist is equal to 385
+on table called inform update the value of the field table called high to 78 where snore is equal to 390
+on table called plantation update the value of the field train to 79 where mysterious is equal to 395
+on table called mate update the value of the field animal equal to 80 where powerful is equal to 400
+on table called post update the value of the field table called exuberant to 81 where frequent is equal to 405
+on table called filthy update the value of the field spurious to 82 where called rude is equal to 410
+on table called safe update the value of the field called unsightly to 83 where table called throat is equal to 415
+on table called push update the value of the field cause to 84 where momentous is equal to 420
+on table called bumpy update the value of the field hard to 85 where digestion is equal to 425
+on table called own update the value of the field table called maddening to 86 where sack is equal to 430
+on table called reach update the value of the field charming to 87 where decorous is equal to 435
+on table called picture update the value of the field protest to 88 where table called grieving is equal to 440
+on table called growth update the value of the field cherries to 89 where touch is equal to 445
+on table called evasive update the value of the field productive to 90 where tickle is equal to 450
+on table called bone update the value of the field color to 91 where agree is equal to 455
+on table called destruction update the value of the field laborer to 92 where trick is equal to 460
+on table called grumpy update the value of the field mundane to 93 where toy is equal to 465
+on table called calculating update the value of the field innocent to 94 where dynamic is equal to 470
+on table called polite update the value of the field table called sloppy to 95 where male is equal to 475
+on table called sincere update the value of the field tender to 96 where bear is equal to 480
+on table called gaping update the value of the field swim to 97 where glow is equal to 485
+on table called empty update the value of the field cover to 98 where dull is equal to 490
+on table called fall update the value of the field women to 99 where table called crown is equal to 495
+on table called furry update the value of the field unknown to 100 where tangy is equal to 500
+on table called crayon update the value of the field eggs to 101 where guitar is equal to 505
+on table called deadpan update the value of the field table called powder to 102 where report is equal to 510
+on table called weather update the value of the field potato to 103 where cemetery is equal to 515
+on table called zippy update the value of the field male to 104 where table called design is equal to 520
+on table called charge update the value of the field bushes to 105 where habitual is equal to 525
+on table called loaf update the value of the field connect to 106 where slimy is equal to 530
+on table called voracious update the value of the field pen to 107 where thunder is equal to 535
+on table called omniscient update the value of the field line to 108 where uneven is equal to 540
+on table called license update the value of the field first to 109 where hulking is equal to 545
+on table called list update the value of the field table called dance to 110 where bed is equal to 550
+on table called blind update the value of the field table called victorious to 111 where slip is equal to 555
+on table called luxuriant update the value of the field natural to 112 where badge is equal to 560
+on table called wanting update the value of the field blade to 113 where remind is equal to 565
+on table called peck update the value of the field psychedelic to 114 where table called succeed is equal to 570
+on table called low update the value of the field table called question to 115 where encouraging is equal to 575
+on table called twist update the value of the field trouble to 116 where table called discover is equal to 580
+on table called branch update the value of the field competition to 117 where called ignore is equal to 585
+on table called crack update the value of the field earthquake to 118 where jobless is equal to 590
+on table called fear update the value of the field belong to 119 where table called nine is equal to 595
+on table called wooden update the value of the field table called squeamish to 120 where earthquake is equal to 600
+on table called unusual update the value of the field table called fry to 121 where guttural is equal to 605
+on table called heartbreaking update the value of the field fruit to 122 where obey is equal to 610
+on table called rude update the value of the field called obedient to 123 where table called wipe is equal to 615
+on table called sail update the value of the field pin to 124 where accept is equal to 620
+on table called oatmeal update the value of the field woman to 125 where disturbed is equal to 625
+on table called abnormal update the value of the field abaft to 126 where slap is equal to 630
+on table called neat update the value of the field curvy to 127 where bushes is equal to 635
+on table called ceaseless update the value of the field uncovered to 128 where table called account is equal to 640
+on table called uncovered update the value of the field increase to 129 where brawny is equal to 645
+on table called country update the value of the field incandescent to 130 where sip is equal to 650
+on table called healthy update the value of the field table called neck to 131 where office is equal to 655
+on table called sniff update the value of the field waves to 132 where skinny is equal to 660
+on table called order update the value of the field hat to 133 where table called history is equal to 665
+on table called pets update the value of the field wreck to 134 where table called market is equal to 670
+on table called sticky update the value of the field ubiquitous to 135 where red is equal to 675
+on table called offer update the value of the field wrestle to 136 where aberrant is equal to 680
+on table called touch update the value of the field table called enchanting to 137 where plantation is equal to 685
+on table called abiding update the value of the field called abrupt to 138 where table called trace is equal to 690
+on table called parsimonious update the value of the field table called madly to 139 where jumbled is equal to 695
+on table called optimal update the value of the field called cream to 140 where dust is equal to 700
+on table called apologise update the value of the field scarecrow to 141 where called sniff is equal to 705
+on table called popcorn update the value of the field table called flash to 142 where dam is equal to 710
+on table called suit update the value of the field unruly to 143 where called surprise is equal to 715
+on table called shy update the value of the field white to 144 where called hands is equal to 720
+on table called stain update the value of the field fish to 145 where table called general is equal to 725
+on table called vulgar update the value of the field towering to 146 where muscle is equal to 730
+on table called bolt update the value of the field called park to 147 where quack is equal to 735
+on table called damaged update the value of the field table called squirrel to 148 where damage is equal to 740
+on table called cagey update the value of the field bridge to 149 where frightening is equal to 745
+on table called guarded update the value of the field called seemly to 150 where please is equal to 750
+on table called general update the value of the field lumber to 151 where called redundant is equal to 755
+on table called judge update the value of the field prevent to 152 where distribution is equal to 760
+on table called flash update the value of the field guarantee to 153 where absorbing is equal to 765
+on table called parched update the value of the field pail to 154 where wrong is equal to 770
+on table called harm update the value of the field waggish to 155 where porter is equal to 775
+on table called skinny update the value of the field table called design to 156 where stick is equal to 780
+on table called bitter update the value of the field lackadaisical to 157 where wilderness is equal to 785
+on table called necessary update the value of the field feigned to 158 where fretful is equal to 790
+on table called scissors update the value of the field table called foregoing to 159 where animal is equal to 795
+on table called symptomatic update the value of the field receive to 160 where insect is equal to 800
+on table called motion update the value of the field heap to 161 where chicken is equal to 805
+on table called parallel update the value of the field table called food to 162 where destruction is equal to 810
+on table called title update the value of the field big to 163 where trouble is equal to 815
+on table called unknown update the value of the field idiotic to 164 where table called steep is equal to 820
+on table called zephyr update the value of the field trashy to 165 where sack is equal to 825
+on table called cross update the value of the field inquisitive to 166 where bag is equal to 830
+on table called zealous update the value of the field attach to 167 where young is equal to 835
+on table called agree update the value of the field four to 168 where mouth is equal to 840
+on table called splendid update the value of the field table called car to 169 where glistening is equal to 845
+on table called ghost update the value of the field itch to 170 where trucks is equal to 850
+on table called jump update the value of the field travel to 171 where frail is equal to 855
+on table called overwrought update the value of the field discover to 172 where plant is equal to 860
+on table called direction update the value of the field scatter to 173 where gentle is equal to 865
+on table called wet update the value of the field table called round to 174 where form is equal to 870
+on table called rod update the value of the field cumbersome to 175 where peep is equal to 875
+on table called reproduce update the value of the field milk to 176 where beam is equal to 880
+on table called develop update the value of the field wave to 177 where fold is equal to 885
+on table called thick update the value of the field table called servant to 178 where table called ducks is equal to 890
+on table called jump update the value of the field jail to 179 where iron is equal to 895
+on table called curvy update the value of the field vegetable to 180 where table called step is equal to 900
+on table called lock update the value of the field paltry to 181 where table called race is equal to 905
+on table called spiders update the value of the field table called march to 182 where table called taste is equal to 910
+on table called hospitable update the value of the field table called taste to 183 where nest is equal to 915
+on table called mug update the value of the field table called sparkling to 184 where wrathful is equal to 920
+on table called dogs update the value of the field transport to 185 where table called eager is equal to 925
+on table called jail update the value of the field table called science to 186 where detail is equal to 930
+on table called advice update the value of the field internal to 187 where expansion is equal to 935
+on table called chin update the value of the field table called love to 188 where club is equal to 940
+on table called tacit update the value of the field bag to 189 where sincere is equal to 945
+on table called stage update the value of the field nasty to 190 where sad is equal to 950
+on table called wave update the value of the field aware to 191 where table called fair is equal to 955
+on table called married update the value of the field roll to 192 where water is equal to 960
+on table called loving update the value of the field brake to 193 where table called harsh is equal to 965
+on table called actor update the value of the field irritating to 194 where discussion is equal to 970
+on table called scientific update the value of the field fear to 195 where scary is equal to 975
+on table called many update the value of the field dock to 196 where intelligent is equal to 980
+on table called used update the value of the field table called sassy to 197 where basket is equal to 985
+on table called bat update the value of the field wakeful to 198 where tranquil is equal to 990
+on table called cheese update the value of the field plucky to 199 where influence is equal to 995
+on table called limit update the value of the field table called beginner to 200 where disapprove is equal to 1000
+on table called terrify update the value of the field sponge to 640 where divergent is equal to 3200
+on table called snow update the value of the field tenuous to 641 where called acid is equal to 3205
+on table called lucky update the value of the field realise to 642 where chickens is equal to 3210
+on table called billowy update the value of the field fat to 643 where changeable is equal to 3215
+on table called outgoing update the value of the field include to 644 where town is equal to 3220
+on table called kick update the value of the field hurried to 645 where hunt is equal to 3225
+on table called unruly update the value of the field spurious to 646 where nonchalant is equal to 3230
+on table called groan update the value of the field abject to 647 where spark is equal to 3235
+on table called zipper update the value of the field leather to 648 where awesome is equal to 3240
+on table called loud update the value of the field workable to 649 where stupid is equal to 3245
+on table called type update the value of the field discover is equal to 650 where stop is equal to 3250
+on table called beds update the value of the field spark to 651 where petite is equal to 3255
+on table called wise update the value of the field mark to 652 where warm is equal to 3260
+on table called brick update the value of the field rake to 653 where mammoth is equal to 3265
+on table called angry update the value of the field empty is equal to 654 where frequent is equal to 3270
+on table called punch update the value of the field wood to 655 where support is equal to 3275
+on table called tenuous update the value of the field escape to 656 where quicksand is equal to 3280
+on table called barbarous update the value of the field exciting to 657 where fallacious is equal to 3285
+on table called lush update the value of the field tramp to 658 where crook is equal to 3290
+on table called upset update the value of the field wrong is equal to 659 where system is equal to 3295
+on table called air update the value of the field sort to 660 where moor is equal to 3300
+on table called north update the value of the field zippy to 661 where stew is equal to 3305
+on table called elegant update the value of the field expect to 662 where hushed is equal to 3310
+on table called agree update the value of the field judicious to 663 where cable is equal to 3315
+on table called plot update the value of the field slip is equal to 664 where unwieldy is equal to 3320
+on table called natural update the value of the field lazy to 665 where flow is equal to 3325
+on table called curve update the value of the field refuse to 666 where promise is equal to 3330
+on table called screw update the value of the field wound to 667 where activity is equal to 3335
+on table called useful update the value of the field army to 668 where mundane is equal to 3340
+on table called repulsive update the value of the field steer to 669 where ear is equal to 3345
+on table called worthless update the value of the field health to 670 where smoggy is equal to 3350
+on table called common update the value of the field miss to 671 where worried is equal to 3355
+on table called tranquil update the value of the field zoom to 672 where lush is equal to 3360
+on table called ugliest update the value of the field alike is equal to 673 where table called squeamish is equal to 3365
+on table called pancake update the value of the field table called settle is equal to 674 where spooky is equal to 3370
+on table called books update the value of the field wine to 675 where abashed is equal to 3375
+on table called toys update the value of the field move to 676 where identify is equal to 3380
+on table called relieved update the value of the field fancy to 677 where top is equal to 3385
+on table called compete update the value of the field disastrous to 678 where thoughtful is equal to 3390
+on table called imperfect update the value of the field table called test to 679 where hobbies is equal to 3395
+on table called lock update the value of the field collect to 680 where spot is equal to 3400
+on table called pointless update the value of the field value to 681 where juvenile is equal to 3405
+on table called borrow update the value of the field tire to 682 where deserted is equal to 3410
+on table called tangible update the value of the field page to 683 where different is equal to 3415
+on table called bad update the value of the field horse to 684 where language is equal to 3420
+on table called bright update the value of the field dazzling to 685 where peel is equal to 3425
+on table called magic update the value of the field table called ghost to 686 where believe is equal to 3430
+on table called try update the value of the field wealth to 687 where plucky is equal to 3435
+on table called ill update the value of the field electric to 688 where sore is equal to 3440
+on table called realise update the value of the field trust to 689 where dead is equal to 3445
+on table called illfated update the value of the field butter to 690 where horse is equal to 3450
+on table called nine update the value of the field carriage is equal to 691 where filthy is equal to 3455
+on table called circle update the value of the field paltry to 692 where song is equal to 3460
+on table called wicked update the value of the field magic to 693 where seal is equal to 3465
+on table called tie update the value of the field parallel to 694 where girls is equal to 3470
+on table called seemly update the value of the field clear is equal to 695 where complete is equal to 3475
+on table called memory update the value of the field extrasmall to 696 where fear is equal to 3480
+on table called obeisant update the value of the field table called stocking to 697 where drawer is equal to 3485
+on table called gruesome update the value of the field bedroom to 698 where learn is equal to 3490
+on table called bitesized update the value of the field table called silver to 699 where table called innate is equal to 3495
+on table called narrow update the value of the field equable to 700 where trade is equal to 3500
+delete all lines from table called river where present is equal to 300
+delete all lines from table called real where snails is equal to 301
+delete all lines from table called wood where imported is equal to 302
+delete all lines from table called riddle where donkey is equal to 303
+delete all lines from table called ask where trade is equal to 304
+delete all lines from table called night where laughable is equal to 305
+delete all lines from table called activity where lock is equal to 306
+delete all lines from table called ball where cap is equal to 307
+delete all lines from table called mere where theory is equal to 308
+delete all lines from table called expansion where thaw is equal to 309
+delete all lines from table called measure where concentrate is equal to 310
+delete all lines from table called umbrella where push is equal to 311
+delete all lines from table called wry where rapid is equal to 312
+delete all lines from table called welloff where smart is equal to 313
+delete all lines from table called tick where type is equal to 314
+delete all lines from table called stitch where precede is equal to 315
+delete all lines from table called telling where jeans is equal to 316
+delete all lines from table called drain where guiltless is equal to 317
+delete all lines from table called itch where ugly is equal to 318
+delete all lines from table called adventurous where pointless is equal to 319
+delete all lines from table called form where phobic is equal 320
+insert a row into table called table called vest with values ( 300 , 3000 )
+insert a row into table called brake with values ( 301 , 3010 )
+insert a row into table called present with values ( 302 , 3020 )
+insert a row into table called club with values ( 303 , 3030 )
+insert a row into table called complex with values ( 304 , 3040 )
+insert a row into table called grin with values ( 305 , 3050 )
+insert a row into table called tranquil with values ( 306 , 3060 )
+insert a row into table called knot with values ( 307 , 3070 )
+insert a row into table called dapper with values ( 308 , 3080 )
+insert a row into table called gentle with values ( 309 , 3090 )
+insert a row into table called bat with values ( 310 , 3100 )
+insert a row into table called load with values ( 311 , 3110 )
+insert a row into table called rich with values ( 312 , 3120 )
+insert a row into table called incredible with values ( 313 , 3130 )
+insert a row into table called sand with values ( 314 , 3140 )
+insert a row into table called remain with values ( 315 , 3150 )
+insert a row into table called zippy with values ( 316 , 3160 )
+insert a row into table called ball with values ( 317 , 3170 )

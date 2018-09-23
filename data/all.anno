@@ -6336,3 +6336,6 @@ select column a, column b, column c from table called users
 select column users, column phone from table called clients
 select column a, column b, column c, column d, column e, column f from table called xuxo
 select column a, column b, column c from table called xuxu
+select column a, column b
+select column x, column y, column z
+select c

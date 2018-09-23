@@ -6336,3 +6336,6 @@ select a,b,c from users
 select users,phone from clients
 select a,b,c,d,e,f from xuxo
 select a,b,c from xuxu
+select a,b
+select x,y,z
+select c

@@ -25,7 +25,7 @@ def escape(text):
         .replace('=', '-EQUALS-') \
         .replace('<', '-LESS-') \
         .replace('>', '-GREATER-') \
-        .replace('*', '-ALL-')
+        .replace('*', '-ALL-') 
     return repr(text)[1:-1] if text else '-NONE-'
 
 def makestr(node):

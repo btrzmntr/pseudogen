@@ -6331,9 +6331,9 @@ FROM
 WHERE
 select a
 select babies
-select a, b
-select a, b, c from
-select users, phone from clients
-x, y
-a, b, c
-value, credit, client, user
+select a,b
+select a,b,c from
+select users,phone from clients
+x,y
+a,b,c
+value,credit,client,user

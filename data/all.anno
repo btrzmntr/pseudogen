@@ -6339,3 +6339,9 @@ select column a, column b, column c from table called xuxu
 select column a, column b
 select column x, column y, column z
 select c
+FROM table called users
+FROM table called x
+FROM table called a where c is greater than 1
+SELECT column clients, column id FROM table called users WHERE a is equal to 1
+SELECT column users FROM table called id WHERE x is equal to 10
+SELECT column clients, column phone FROM table called users WHERE id is equal to 10

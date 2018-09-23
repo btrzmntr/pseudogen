@@ -6339,3 +6339,9 @@ select a,b,c from xuxu
 select a,b
 select x,y,z
 select c
+FROM users
+FROM x
+FROM a where c > 1
+SELECT clients, id FROM users WHERE a = 1
+SELECT users FROM id WHERE x = 10
+SELECT clients, phone FROM users WHERE id = 10

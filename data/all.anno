@@ -6332,10 +6332,16 @@ WHERE
 select column a from table called xuxa
 select column babies from table called xuxe
 select colum a, column b from table called xuxi
-select column a, column b, column c from table called users
+select column a, column b, column c from table called x
 select column u, column phone from table called clients
 select column a, column b, column c, column d, column e, column f from table called xuxo
 select column a, column b, column c from table called xuxu
-SELECT column clients, column id FROM table called users WHERE a is equal to 1
+SELECT column clients, column id FROM table called x WHERE a is equal to 1
 SELECT column u FROM table called id WHERE x is equal to 10
-SELECT column clients, column phone FROM table called users WHERE id is equal to 10
+SELECT column clients, column phone FROM table called x WHERE id is equal to 10
+create a function called F witch receive an integer a as input parameter and returns a set of characters
+create a functon called G witch receive an integer x as input parameter
+and returns an integer number
+and returns a set of 10 characters
+integer number
+number

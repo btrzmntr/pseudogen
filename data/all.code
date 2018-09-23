@@ -6331,13 +6331,13 @@ FROM
 WHERE
 select a from xuxa
 select babies from xuxe
-select a, b from xuxi
-select a, b, c from users
-select users, phone from clients
-select a, b, c, d, e, f from xuxo
-select a, b, c from xuxu
-select a, b
-select x, y, z
+select a,b from xuxi
+select a,b,c from users
+select users,phone from clients
+select a,b,c,d,e,f from xuxo
+select a,b,c from xuxu
+select a,b
+select x,y,z
 select c
 FROM users
 FROM x
@@ -6348,4 +6348,6 @@ SELECT clients, phone FROM users WHERE id = 10
 select a
 select id
 select users
-select id, users, phone
+select id,users,phone
+select note
+SELECT note

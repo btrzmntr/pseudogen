@@ -6336,23 +6336,6 @@ select a,b,c from users
 select u,phone from clients
 select a,b,c,d,e,f from xuxo
 select a,b,c from xuxu
-select a,b
-select x,y,z
-select c
-FROM users
-FROM x
-FROM a where c > 1
 SELECT clients, id FROM users WHERE a = 1
 SELECT u FROM id WHERE x = 10
 SELECT clients, phone FROM users WHERE id = 10
-select a
-select id
-select u
-select id,x,phone
-select note
-SELECT note
-select note, x from
-select a, b, c from
-select a from
-select id from users
-select phone from users

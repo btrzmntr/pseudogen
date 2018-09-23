@@ -6334,8 +6334,5 @@ select column babies from table called xuxe
 select colum a, column b from table called xuxi
 select column a, column b, column c from table called users
 select column users, column phone from table called clients
-column x, column y
-column a, column b, column c
-column value, column credit, column client, column user
 select column a, column b, column c, column d, column e, column f from table called xuxo
 select column a, column b, column c from table called xuxu

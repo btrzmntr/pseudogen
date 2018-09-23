@@ -6351,8 +6351,8 @@ select column users
 select column id, column users, column phone
 select column note
 SELECT column note
-column note, column x from
-column a, column b, column c from
-column a from
-column id from table called users
-column phone from table called users
+select column note, column x from
+select column a, column b, column c from
+select column a from
+select column id from table called users
+select column phone from table called users

@@ -6351,8 +6351,8 @@ select users
 select id,users,phone
 select note
 SELECT note
-note, x from
-a, b, c from
-a from
-id from users
-phone from users
+select note, x from
+select a, b, c from
+select a from
+select id from users
+select phone from users

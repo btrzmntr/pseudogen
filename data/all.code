@@ -6333,7 +6333,7 @@ select a from xuxa
 select babies from xuxe
 select a,b from xuxi
 select a,b,c from users
-select users,phone from clients
+select u,phone from clients
 select a,b,c,d,e,f from xuxo
 select a,b,c from xuxu
 select a,b
@@ -6343,12 +6343,12 @@ FROM users
 FROM x
 FROM a where c > 1
 SELECT clients, id FROM users WHERE a = 1
-SELECT users FROM id WHERE x = 10
+SELECT u FROM id WHERE x = 10
 SELECT clients, phone FROM users WHERE id = 10
 select a
 select id
-select users
-select id,users,phone
+select u
+select id,x,phone
 select note
 SELECT note
 select note, x from

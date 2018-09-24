@@ -669,7 +669,7 @@ select all columns from table called political
 select all columns from table called drag
 select all columns from table called paste
 select all columns from table called own
-select all columns from table called mess up
+select all columns from table called mess
 select all columns from table called number
 select all columns from table called rule
 select all columns from table called abandoned
@@ -1952,7 +1952,7 @@ select all columns from table called political where bathe is greater than 57
 select all columns from table called drag where furtive is greater than 58
 select all columns from table called paste where ahead is greater than 59
 select all columns from table called own where rate is greater than 60
-select all columns from table called mess up where place is greater than 61
+select all columns from table called mess where place is greater than 61
 select all columns from table called number where confess is greater than 62
 select all columns from table called rule where ice is greater than 63
 select all columns from table called abandoned where yell is greater than 64
@@ -3949,7 +3949,7 @@ on table called dependent update the value of the field lopsided to 447 where fi
 on table called word update the value of the field stay to 448 where vegetable is equal to 2240
 on table called building update the value of the field shrill to 449 where acoustic is equal to 2245
 on table called fog update the value of the field imperfect to 450 where stew is equal to 2250
-on table called tremble update the value of the field mess up to 451 where educated is equal to 2255
+on table called tremble update the value of the field mess to 451 where educated is equal to 2255
 on table called wiggly update the value of the field vegetable to 452 where workable is equal to 2260
 on table called broad update the value of the field time to 453 where curve is equal to 2265
 on table called pine update the value of the field wide to 454 where cracker is equal to 2270
@@ -4076,7 +4076,7 @@ on table called cows update the value of the field minute to 556 where division 
 on table called warn update the value of the field interfere to 557 where waste is equal to 2785
 on table called maid update the value of the field meal to 558 where makeshift is equal to 2790
 on table called satisfying update the value of the field squash to 559 where transport is equal to 2795
-on table called mess up update the value of the field luxuriant to 560 where male is equal to 2800
+on table called messdate the value of the field luxuriant to 560 where male is equal to 2800
 on table called admire update the value of the field queue to 561 where ghost is equal to 2805
 on table called comb update the value of the field unique to 562 where clean is equal to 2810
 on table called advise update the value of the field encourage to 563 where nail is equal to 2815
@@ -6419,7 +6419,7 @@ create a function called carve witch receive an integer love as input parameter 
 create a function called street witch receive an integer test as input parameter and returns a set of characters
 create a function called kiss witch receive an integer horrible as input parameter and returns a set of characters
 create a function called bear witch receive an integer spell as input parameter and returns a set of characters
-create a function called saw witch receive an integer mess up as input parameter and returns a set of characters
+create a function called saw witch receive an integer mess as input parameter and returns a set of characters
 create a function called frightened witch receive an integer jazzy as input parameter and returns a set of characters
 create a function called vacuous witch receive an integer redundant as input parameter and returns a set of characters
 create a function called teeth witch receive an integer worm as input parameter and returns a set of characters
@@ -6463,7 +6463,7 @@ create a function called attempt witch receive an integer visit as input paramet
 create a function called weak witch receive an integer poised as input parameter and returns a set of characters
 create a function called count witch receive an integer teaching as input parameter and returns a set of characters
 create a function called can witch receive an integer interrupt as input parameter and returns a set of characters
-create a function called mess up witch receive an integer mountainous as input parameter and returns a set of characters
+create a function called mess witch receive an integer mountainous as input parameter and returns a set of characters
 create a function called assorted witch receive an integer merciful as input parameter and returns a set of characters
 create a function called grandfather witch receive an integer rice as input parameter and returns a set of characters
 create a function called envious witch receive an integer discover as input parameter and returns a set of characters

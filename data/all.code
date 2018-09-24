@@ -669,7 +669,7 @@ select * from political
 select * from drag
 select * from paste
 select * from own
-select * from mess up
+select * from mess
 select * from number
 select * from rule
 select * from abandoned
@@ -1952,7 +1952,7 @@ select * from political where bathe > 57
 select * from drag where furtive > 58
 select * from paste where ahead > 59
 select * from own where rate > 60
-select * from mess up where place > 61
+select * from mess where place > 61
 select * from number where confess > 62
 select * from rule where ice > 63
 select * from abandoned where yell > 64
@@ -3949,7 +3949,7 @@ update dependent set lopsided = 447 where finger = 2235
 update word set stay = 448 where vegetable = 2240
 update building set shrill = 449 where acoustic = 2245
 update fog set imperfect = 450 where stew = 2250
-update tremble set mess up = 451 where educated = 2255
+update tremble set mess = 451 where educated = 2255
 update wiggly set vegetable = 452 where workable = 2260
 update broad set time = 453 where curve = 2265
 update pine set wide = 454 where cracker = 2270
@@ -4076,7 +4076,7 @@ update cows set minute = 556 where division = 2780
 update warn set interfere = 557 where waste = 2785
 update maid set meal = 558 where makeshift = 2790
 update satisfying set squash = 559 where transport = 2795
-update mess up set luxuriant = 560 where male = 2800
+update mess set luxuriant = 560 where male = 2800
 update admire set queue = 561 where ghost = 2805
 update comb set unique = 562 where clean = 2810
 update advise set encourage = 563 where nail = 2815
@@ -6419,7 +6419,7 @@ create function carve(love integer) returns varchar(10)
 create function street(test integer) returns varchar(10)
 create function kiss(horrible integer) returns varchar(10)
 create function bear(spell integer) returns varchar(10)
-create function saw(mess up integer) returns varchar(10)
+create function saw(mess integer) returns varchar(10)
 create function frightened(jazzy integer) returns varchar(10)
 create function vacuous(redundant integer) returns varchar(10)
 create function teeth(worm integer) returns varchar(10)
@@ -6463,7 +6463,7 @@ create function attempt(visit integer) returns varchar(10)
 create function weak(poised integer) returns varchar(10)
 create function count(teaching integer) returns varchar(10)
 create function can(interrupt integer) returns varchar(10)
-create function mess up(mountainous integer) returns varchar(10)
+create function mess(mountainous integer) returns varchar(10)
 create function assorted(merciful integer) returns varchar(10)
 create function grandfather(rice integer) returns varchar(10)
 create function envious(discover integer) returns varchar(10)

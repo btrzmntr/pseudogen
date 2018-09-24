@@ -6645,3 +6645,10 @@ create function spill(daughter int) returns varchar(10)
 create function faithful(suppose int) returns varchar(10)
 create function statuesque(blackandwhite int) returns varchar(10)
 create function waste(sedate int) returns varchar(10)
+create function
+create
+returns
+varchar(10)
+returns varchar(10)
+create function p(x int)
+function p(a int)

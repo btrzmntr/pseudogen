@@ -70,7 +70,7 @@ def makestr(node):
 def main():
     for l in sys.stdin:
         l = l.strip()
-        l = l.replace("varchar(", '"varchar') #teste varchar
+        l = l.replace("varchar(10)", 'character') #teste varchar
         l = l.replace("(",'"(') #teste corpus
         l = l.replace(")",')"') #teste corpus
         if not l:

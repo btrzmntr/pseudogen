@@ -6345,6 +6345,9 @@ and returns an integer number
 and returns a set of 10 characters
 integer number
 number
+create a function called bia witch receive an integer taxa as input parameter
+create function called bia
+create function called note witch receive an integer test as input parameter
 create a function called loose witch receive an integer fetch as input parameter and returns a set of characters
 create a function called vegetable witch receive an integer slap as input parameter and returns a set of characters
 create a function called own witch receive an integer arm as input parameter and returns a set of characters
@@ -6658,6 +6661,13 @@ a function called sp witch receive an integer mg as input parameter
 a function called pa witch receive an integer bh as input parameter
 a function called leit witch receive an integer empr as input parameter
 a function called rend witch receive an integer trib as input parameter
+a function called pa witch receive an integer aa as input parameter
+a function called testa witch receive an integer hia as input parameter
+a function called proca witch receive an integer presa as input parameter
+a function called spa witch receive an integer mga as input parameter
+a function called paa witch receive an integer bha as input parameter
+a function called leita witch receive an integer empra as input parameter
+a function called renda witch receive an integer triba as input parameter
 witch receive an integer a as input parameter
 witch receive an integer b as input parameter
 witch receive an integer c as input parameter
@@ -6723,18 +6733,3 @@ witch receive an integer bq as input parameter
 witch receive an integer cq as input parameter
 witch receive an integer dq as input parameter
 witch receive an integer eq as input parameter
-witch receive an integer fq as input parameter
-witch receive an integer gq as input parameter
-witch receive an integer hq as input parameter
-witch receive an integer iq as input parameter
-witch receive an integer jq as input parameter
-witch receive an integer kq as input parameter
-witch receive an integer lq as input parameter
-witch receive an integer mq as input parameter
-witch receive an integer nq as input parameter
-witch receive an integer oq as input parameter
-witch receive an integer pq as input parameter
-witch receive an integer qq as input parameter
-witch receive an integer rq as input parameter
-witch receive an integer sq as input parameter
-witch receive an integer tq as input parameter

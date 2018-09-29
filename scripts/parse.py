@@ -74,6 +74,7 @@ def main():
         l = l.replace("varchar(10)", 'character') #teste varchar
         l = l.replace("(",'"(') #teste corpus
         l = l.replace(")",')"') #teste corpus
+        l = l.replace("_","")
         if not l:
             print()
             sys.stdout.flush()

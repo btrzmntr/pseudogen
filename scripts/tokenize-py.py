@@ -43,6 +43,7 @@ def main():
 
     for l in sys.stdin:
         try:
+            l = l.lower()
             l = l.strip()
             if not l:
                 print()

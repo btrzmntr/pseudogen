@@ -6752,3 +6752,474 @@ note(de int)
 note(di int)
 note(do int)
 note(du int)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+returns
+varchar(10)
+declare mine int
+declare nonstop int
+declare toothpaste int
+declare recondite int
+declare wideeyed int
+declare warlike int
+declare tame int
+declare promise int
+declare turn int
+declare glue int
+declare milk int
+declare agree int
+declare obscene int
+declare curve int
+declare sheet int
+declare regret int
+declare illustrious int
+declare repulsive int
+declare cute int
+declare nutritious int
+declare willing int
+declare steadfast int
+declare brainy int
+declare correct int
+declare bath int
+declare sail int
+declare funny int
+declare yummy int
+declare married int
+declare receive int
+declare structure int
+declare skin int
+declare float int
+declare steer int
+declare cushion int
+declare seal int
+declare challenge int
+declare tenuous int
+declare satisfying int
+declare wrench int
+declare division int
+declare rod int
+declare false int
+declare bat int
+declare furtive int
+declare soggy int
+declare teeny int
+declare curious int
+declare graceful int
+declare itchy int
+declare marked int
+declare nervous int
+declare whirl int
+declare degree int
+declare scream int
+declare hop int
+declare daily int
+declare scarce int
+declare hammer int
+declare produce int
+declare care int
+declare cover int
+declare fresh int
+declare arm int
+declare guttural int
+declare quartz int
+declare ajar int
+declare judge int
+declare excellent int
+declare simplistic int
+declare anger int
+declare sun int
+declare science int
+declare press int
+declare longterm int
+declare earth int
+declare ambitious int
+declare greet int
+declare wet int
+declare threatening int
+declare argument int
+declare boundary int
+declare capricious int
+declare machine int
+declare rude int
+declare accidental int
+declare telephone int
+declare choke int
+declare changeable int
+declare fall int
+declare mate int
+declare push int
+declare even int
+declare righteous int
+declare noisy int
+declare cold int
+declare meal int
+declare bridge int
+declare peel int
+declare expensive int
+declare basket int
+declare ear int
+declare scold int
+declare calculate int
+declare lucky int
+declare merciful int
+declare guarded int
+declare protest int
+declare trip int
+declare divide int
+declare tempt int
+declare boorish int
+declare muscle int
+declare grotesque int
+declare hypnotic int
+declare babies int
+declare pull int
+declare crow int
+declare wood int
+declare discreet int
+declare rush int
+declare wretched int
+declare far int
+declare burly int
+declare rainstorm int
+declare foot int
+declare income int
+declare snow int
+declare print int
+declare wave int
+declare dolls int
+declare alert int
+declare harass int
+declare jail int
+declare reign int
+declare sneeze int
+declare expansion int
+declare garrulous int
+declare stay int
+declare muddle int
+declare nauseating int
+declare stick int
+declare impress int
+declare puny int
+declare bored int
+declare fix int
+declare agonizing int
+declare hat int
+declare coast int
+declare fireman int
+declare obtain int
+declare blackandwhite int
+declare metal int
+declare quaint int
+declare wash int
+declare addicted int
+declare society int
+declare aware int
+declare birth int
+declare rub int
+declare train int
+declare tightfisted int
+declare innocent int
+declare sink int
+declare clover int
+declare calculating int
+declare dirty int
+declare squalid int
+declare rub int
+declare fly int
+declare precede int
+declare join int
+declare stomach int
+declare pump int
+declare call int
+declare perpetual int
+declare orange int
+declare oldfashioned int
+declare permit int
+declare political int
+declare attract int
+declare wooden int
+declare arrest int
+declare sweet int
+declare disapprove int
+declare disagree int
+declare grain int
+declare word int
+declare cruel int
+declare tedious int
+declare fasten int
+declare name int
+declare health int
+declare branch int
+declare welltodo int
+declare ring int
+declare angry int
+declare brash int
+declare underwear int
+declare playground int
+declare switch varchar(10)
+declare face varchar(10)
+declare unfasten varchar(10)
+declare actually varchar(10)
+declare annoying varchar(10)
+declare caring varchar(10)
+declare damaging varchar(10)
+declare stage varchar(10)
+declare stocking varchar(10)
+declare plucky varchar(10)
+declare slow varchar(10)
+declare stare varchar(10)
+declare fantastic varchar(10)
+declare guiltless varchar(10)
+declare slap varchar(10)
+declare half varchar(10)
+declare many varchar(10)
+declare careless varchar(10)
+declare succinct varchar(10)
+declare interfere varchar(10)
+declare knit varchar(10)
+declare rice varchar(10)
+declare bow varchar(10)
+declare living varchar(10)
+declare brake varchar(10)
+declare plug varchar(10)
+declare yellow varchar(10)
+declare swift varchar(10)
+declare examine varchar(10)
+declare accept varchar(10)
+declare habitual varchar(10)
+declare snails varchar(10)
+declare sky varchar(10)
+declare curve varchar(10)
+declare self varchar(10)
+declare mellow varchar(10)
+declare plant varchar(10)
+declare bomb varchar(10)
+declare trouble varchar(10)
+declare test varchar(10)
+declare talk varchar(10)
+declare waste varchar(10)
+declare love varchar(10)
+declare fire varchar(10)
+declare shape varchar(10)
+declare ethereal varchar(10)
+declare land varchar(10)
+declare curvy varchar(10)
+declare zonked varchar(10)
+declare cumbersome varchar(10)
+declare apparel varchar(10)
+declare committee varchar(10)
+declare aboard varchar(10)
+declare share varchar(10)
+declare blood varchar(10)
+declare selfish varchar(10)
+declare command varchar(10)
+declare twig varchar(10)
+declare houses varchar(10)
+declare fairies varchar(10)
+declare tangy varchar(10)
+declare square varchar(10)
+declare surround varchar(10)
+declare nest varchar(10)
+declare place varchar(10)
+declare kittens varchar(10)
+declare unsuitable varchar(10)
+declare classy varchar(10)
+declare exchange varchar(10)
+declare deserted varchar(10)
+declare dream varchar(10)
+declare acid varchar(10)
+declare bruise varchar(10)
+declare cry varchar(10)
+declare support varchar(10)
+declare tricky varchar(10)
+declare surprise varchar(10)
+declare hose varchar(10)
+declare reduce varchar(10)
+declare condemned varchar(10)
+declare zebra varchar(10)
+declare measure varchar(10)
+declare steep varchar(10)
+declare sneaky varchar(10)
+declare marble varchar(10)
+declare texture varchar(10)
+declare noxious varchar(10)
+declare zealous varchar(10)
+declare ocean varchar(10)
+declare push varchar(10)
+declare reminiscent varchar(10)
+declare bell varchar(10)
+declare distinct varchar(10)
+declare easy varchar(10)
+declare jewel varchar(10)
+declare envious varchar(10)
+declare addition varchar(10)
+declare jaded varchar(10)
+declare blushing varchar(10)
+declare activity varchar(10)
+declare chemical varchar(10)
+declare replace varchar(10)
+declare inquisitive varchar(10)
+declare pencil varchar(10)
+declare chin varchar(10)
+declare level varchar(10)
+declare debt varchar(10)
+declare damp varchar(10)
+declare complex varchar(10)
+declare discussion varchar(10)
+declare tawdry varchar(10)
+declare number varchar(10)
+declare fumbling varchar(10)
+declare remain varchar(10)
+declare obtainable varchar(10)
+declare lopsided varchar(10)
+declare chew varchar(10)
+declare van varchar(10)
+declare utter varchar(10)
+declare work varchar(10)
+declare steam varchar(10)
+declare destruction varchar(10)
+declare moor varchar(10)
+declare harm varchar(10)
+declare normal varchar(10)
+declare charge varchar(10)
+declare dad varchar(10)
+declare excited varchar(10)
+declare optimal varchar(10)
+declare fold varchar(10)
+declare flock varchar(10)
+declare death varchar(10)
+declare limping varchar(10)
+declare mom varchar(10)
+declare grandiose varchar(10)
+declare few varchar(10)
+declare basin varchar(10)
+declare nonchalant varchar(10)
+declare torpid varchar(10)
+declare awful varchar(10)
+declare level varchar(10)
+declare blind varchar(10)
+declare vein varchar(10)
+declare numberless varchar(10)
+declare quack varchar(10)
+declare tangible varchar(10)
+declare seashore varchar(10)
+declare force varchar(10)
+declare throne varchar(10)
+declare slope varchar(10)
+declare intelligent varchar(10)
+declare distance varchar(10)
+declare sign varchar(10)
+declare time varchar(10)
+declare quill varchar(10)
+declare needle varchar(10)
+declare slim varchar(10)
+declare humorous varchar(10)
+declare null varchar(10)
+declare invention varchar(10)
+declare six varchar(10)
+declare jagged varchar(10)
+declare perfect varchar(10)
+declare spare varchar(10)
+declare slip varchar(10)
+declare payment varchar(10)
+declare axiomatic varchar(10)
+declare scientific varchar(10)
+declare pen varchar(10)
+declare play varchar(10)
+declare interesting varchar(10)
+declare mine varchar(10)
+declare deliver varchar(10)
+declare turn varchar(10)
+declare red varchar(10)
+declare wandering varchar(10)
+declare lunch varchar(10)
+declare unruly varchar(10)
+declare truthful varchar(10)
+declare hug varchar(10)
+declare tie varchar(10)
+declare true varchar(10)
+declare squeal varchar(10)
+declare march varchar(10)
+declare motionless varchar(10)
+declare small varchar(10)
+declare abashed varchar(10)
+declare ducks varchar(10)
+declare spray varchar(10)
+declare place varchar(10)
+declare colorful varchar(10)
+declare religion varchar(10)
+declare lumpy varchar(10)
+declare grandfather varchar(10)
+declare nutty varchar(10)
+declare freezing varchar(10)
+declare historical varchar(10)
+declare cabbage varchar(10)
+declare nation varchar(10)
+declare wicked varchar(10)
+declare
+declare abc
+declare x
+declare a
+declare b
+declare c
+declare d
+declare e
+declare f
+declare g
+declare h
+declare i
+declare j
+declare k
+declare l
+declare m
+declare n
+declare o
+declare p
+declare q
+declare r
+declare s
+declare t
+int
+varchar(10)

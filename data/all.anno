@@ -6326,9 +6326,9 @@ select column texture from table called argue
 select column flap from table called abrupt
 select column numberless from table called fat
 select column ten from table called sad
-SELECT
-FROM
-WHERE
+select
+from
+where
 select column a from table called xuxa
 select column babies from table called xuxe
 select colum a, column b from table called xuxi
@@ -6336,18 +6336,18 @@ select column a, column b, column c from table called x
 select column u, column phone from table called clients
 select column a, column b, column c, column d, column e, column f from table called xuxo
 select column a, column b, column c from table called xuxu
-SELECT column clients, column id FROM table called x WHERE a is equal to 1
-SELECT column u FROM table called id WHERE x is equal to 10
-SELECT column clients, column phone FROM table called x WHERE id is equal to 10
-create a function called F witch receive an integer a as input parameter and returns a set of characters
-create a functon called G witch receive an integer x as input parameter
+select column clients, column id from table called x where a is equal to 1
+select column u from table called id where x is equal to 10
+select column clients, column phone from table called x where id is equal to 10
+create a function called f witch receive an integer a as input parameter and returns a set of characters
+create a functon called g witch receive an integer x as input parameter
 and returns an integer number
 and returns a set of 10 characters
 integer number
 number
 create a function called bia witch receive an integer taxa as input parameter
-create function called bia
-create function called note witch receive an integer test as input parameter
+create a function called bia
+create a function called note witch receive an integer test as input parameter
 create a function called loose witch receive an integer fetch as input parameter and returns a set of characters
 create a function called vegetable witch receive an integer slap as input parameter and returns a set of characters
 create a function called own witch receive an integer arm as input parameter and returns a set of characters

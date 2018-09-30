@@ -6339,8 +6339,8 @@ select a,b,c from xuxu
 SELECT clients, id FROM x WHERE a = 1
 SELECT u FROM id WHERE x = 10
 SELECT clients, phone FROM x WHERE id = 10
-create function F(a int) returns varchar(10)
-create function G(x int)
+create function f(a int) returns varchar(10)
+create function g(x int)
 returns int
 returns char(10)
 int

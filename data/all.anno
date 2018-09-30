@@ -620,7 +620,7 @@ select all columns from table called secretary
 select all columns from table called step
 select all columns from table called exuberant
 select all columns from table called vein
-select all columns from table called receive
+select all columns from table called receives
 select all columns from table called rabid
 select all columns from table called strange
 select all columns from table called fence
@@ -1279,7 +1279,7 @@ select all columns from table called courageous where mere is equal to 65 and a 
 select all columns from table called damaging where tranquil is equal to 66 and b is equal to 13
 select all columns from table called shock where sneeze is equal to 67 and a is equal to 14
 select all columns from table called competition where flavor is equal to 68 and b is equal to 14
-select all columns from table called average where receive is equal to 69 and a is equal to 15
+select all columns from table called average where receives is equal to 69 and a is equal to 15
 select all columns from table called annoying where bloody is equal to 70 and b is equal to 15
 select all columns from table called science where seal is equal to 71 and a is equal to 16
 select all columns from table called wistful where energetic is equal to 72 and b is equal to 16
@@ -1360,7 +1360,7 @@ select all columns from table called courageous where mere is greater than 65
 select all columns from table called damaging where tranquil is greater than 66
 select all columns from table called shock where sneeze is greater than 67
 select all columns from table called competition where flavor is greater than 68
-select all columns from table called average where receive is greater than 69
+select all columns from table called average where receives is greater than 69
 select all columns from table called annoying where bloody is greater than 70
 select all columns from table called science where seal is greater than 71
 select all columns from table called wistful where energetic is greater than 72
@@ -1903,7 +1903,7 @@ select all columns from table called secretary where railway is greater than 8
 select all columns from table called step where dog is greater than 9
 select all columns from table called exuberant where frail is greater than 10
 select all columns from table called vein where grandmother is greater than 11
-select all columns from table called receive where chief is greater than 12
+select all columns from table called receives where chief is greater than 12
 select all columns from table called rabid where soup is greater than 13
 select all columns from table called strange where direction is greater than 14
 select all columns from table called fence where donkey is greater than 15
@@ -3599,7 +3599,7 @@ on table called fence update the value of the field brief to 97 where chess is e
 on table called cows update the value of the field caring to 98 where six is equal to 490
 on table called tax update the value of the field transport to 99 where reason is equal to 495
 on table called shock update the value of the field purpose to 100 where canvas is equal to 500
-on table called things update the value of the field receive to 101 where wheel is equal to 505
+on table called things update the value of the field receives to 101 where wheel is equal to 505
 on table called oceanic update the value of the field doctor to 102 where big is equal to 510
 on table called attempt update the value of the field agreement to 103 where smile is equal to 515
 on table called rate update the value of the field rabid to 104 where synonymous is equal to 520
@@ -4383,7 +4383,7 @@ insert a row into table called expert with values (1163,163)
 insert a row into table called float with values (1164,164)
 insert a row into table called homely with values (1165,165)
 insert a row into table called aromatic with values (1166,166)
-insert a row into table called receive with values (1167,167)
+insert a row into table called receives with values (1167,167)
 insert a row into table called voyage with values (1168,168)
 insert a row into table called interesting with values (1169,169)
 insert a row into table called destroy with values (1170,170)
@@ -6339,419 +6339,419 @@ select column a, column b, column c from table called xuxu
 select column clients, column id from table called x where a is equal to 1
 select column u from table called id where x is equal to 10
 select column clients, column phone from table called x where id is equal to 10
-create a function called f witch receive an integer a as input parameter and returns a set of characters
-create a functon called g witch receive an integer x as input parameter
+create a function called f witch receives an integer a as input parameter and returns a set of characters
+create a functon called g witch receives an integer x as input parameter
 and returns an integer number
 and returns a set of 10 characters
 integer number
 number
-create a function called bia witch receive an integer taxa as input parameter
+create a function called bia witch receives an integer taxa as input parameter
 create a function called bia
-create a function called note witch receive an integer test as input parameter
-create a function called loose witch receive an integer fetch as input parameter and returns a set of characters
-create a function called vegetable witch receive an integer slap as input parameter and returns a set of characters
-create a function called own witch receive an integer arm as input parameter and returns a set of characters
-create a function called wool witch receive an integer crowd as input parameter and returns a set of characters
-create a function called laugh witch receive an integer whisper as input parameter and returns a set of characters
-create a function called extend witch receive an integer carry as input parameter and returns a set of characters
-create a function called bulb witch receive an integer horse as input parameter and returns a set of characters
-create a function called responsible witch receive an integer judge as input parameter and returns a set of characters
-create a function called soap witch receive an integer uncle as input parameter and returns a set of characters
-create a function called waiting witch receive an integer rabbits as input parameter and returns a set of characters
-create a function called train witch receive an integer heavy as input parameter and returns a set of characters
-create a function called delirious witch receive an integer carriage as input parameter and returns a set of characters
-create a function called greedy witch receive an integer robust as input parameter and returns a set of characters
-create a function called claim witch receive an integer tap as input parameter and returns a set of characters
-create a function called ball witch receive an integer fry as input parameter and returns a set of characters
-create a function called bit witch receive an integer rely as input parameter and returns a set of characters
-create a function called plucky witch receive an integer dirt as input parameter and returns a set of characters
-create a function called wire witch receive an integer spill as input parameter and returns a set of characters
-create a function called minister witch receive an integer shop as input parameter and returns a set of characters
-create a function called late witch receive an integer pink as input parameter and returns a set of characters
-create a function called railway witch receive an integer abandoned as input parameter and returns a set of characters
-create a function called dizzy witch receive an integer cluttered as input parameter and returns a set of characters
-create a function called spot witch receive an integer tip as input parameter and returns a set of characters
-create a function called panicky witch receive an integer branch as input parameter and returns a set of characters
-create a function called mouth witch receive an integer mist as input parameter and returns a set of characters
-create a function called squeal witch receive an integer internal as input parameter and returns a set of characters
-create a function called size witch receive an integer nutritious as input parameter and returns a set of characters
-create a function called enchanting witch receive an integer stormy as input parameter and returns a set of characters
-create a function called wonder witch receive an integer colossal as input parameter and returns a set of characters
-create a function called moon witch receive an integer immense as input parameter and returns a set of characters
-create a function called smell witch receive an integer inject as input parameter and returns a set of characters
-create a function called hands witch receive an integer women as input parameter and returns a set of characters
-create a function called flashy witch receive an integer wooden as input parameter and returns a set of characters
-create a function called sticky witch receive an integer collect as input parameter and returns a set of characters
-create a function called regret witch receive an integer flower as input parameter and returns a set of characters
-create a function called fasten witch receive an integer credit as input parameter and returns a set of characters
-create a function called plough witch receive an integer smell as input parameter and returns a set of characters
-create a function called spark witch receive an integer tight as input parameter and returns a set of characters
-create a function called shallow witch receive an integer curl as input parameter and returns a set of characters
-create a function called hate witch receive an integer sack as input parameter and returns a set of characters
-create a function called branch witch receive an integer giant as input parameter and returns a set of characters
-create a function called flawless witch receive an integer office as input parameter and returns a set of characters
-create a function called important witch receive an integer burn as input parameter and returns a set of characters
-create a function called balance witch receive an integer distance as input parameter and returns a set of characters
-create a function called clap witch receive an integer defeated as input parameter and returns a set of characters
-create a function called verdant witch receive an integer search as input parameter and returns a set of characters
-create a function called explain witch receive an integer handsome as input parameter and returns a set of characters
-create a function called night witch receive an integer spare as input parameter and returns a set of characters
-create a function called scared witch receive an integer disillusioned as input parameter and returns a set of characters
-create a function called prickly witch receive an integer orange as input parameter and returns a set of characters
-create a function called aunt witch receive an integer word as input parameter and returns a set of characters
-create a function called trip witch receive an integer fancy as input parameter and returns a set of characters
-create a function called prick witch receive an integer group as input parameter and returns a set of characters
-create a function called end witch receive an integer vast as input parameter and returns a set of characters
-create a function called fluttering witch receive an integer move as input parameter and returns a set of characters
-create a function called questionable witch receive an integer consist as input parameter and returns a set of characters
-create a function called sparkling witch receive an integer destruction as input parameter and returns a set of characters
-create a function called disapprove witch receive an integer magenta as input parameter and returns a set of characters
-create a function called crush witch receive an integer bait as input parameter and returns a set of characters
-create a function called fear witch receive an integer zonked as input parameter and returns a set of characters
-create a function called geese witch receive an integer hallowed as input parameter and returns a set of characters
-create a function called spotty witch receive an integer observe as input parameter and returns a set of characters
-create a function called pause witch receive an integer milky as input parameter and returns a set of characters
-create a function called creature witch receive an integer upbeat as input parameter and returns a set of characters
-create a function called unite witch receive an integer agreeable as input parameter and returns a set of characters
-create a function called short witch receive an integer blueeyed as input parameter and returns a set of characters
-create a function called cautious witch receive an integer deadpan as input parameter and returns a set of characters
-create a function called boat witch receive an integer name as input parameter and returns a set of characters
-create a function called elegant witch receive an integer tree as input parameter and returns a set of characters
-create a function called gruesome witch receive an integer chubby as input parameter and returns a set of characters
-create a function called carve witch receive an integer love as input parameter and returns a set of characters
-create a function called street witch receive an integer test as input parameter and returns a set of characters
-create a function called kiss witch receive an integer horrible as input parameter and returns a set of characters
-create a function called bear witch receive an integer spell as input parameter and returns a set of characters
-create a function called saw witch receive an integer mess as input parameter and returns a set of characters
-create a function called frightened witch receive an integer jazzy as input parameter and returns a set of characters
-create a function called vacuous witch receive an integer redundant as input parameter and returns a set of characters
-create a function called teeth witch receive an integer worm as input parameter and returns a set of characters
-create a function called neck witch receive an integer combative as input parameter and returns a set of characters
-create a function called uppity witch receive an integer third as input parameter and returns a set of characters
-create a function called overjoyed witch receive an integer garrulous as input parameter and returns a set of characters
-create a function called beds witch receive an integer drip as input parameter and returns a set of characters
-create a function called substantial witch receive an integer fierce as input parameter and returns a set of characters
-create a function called live witch receive an integer smile as input parameter and returns a set of characters
-create a function called song witch receive an integer claim as input parameter and returns a set of characters
-create a function called welltodo witch receive an integer unused as input parameter and returns a set of characters
-create a function called ashamed witch receive an integer rough as input parameter and returns a set of characters
-create a function called plug witch receive an integer use as input parameter and returns a set of characters
-create a function called coal witch receive an integer empty as input parameter and returns a set of characters
-create a function called luxuriant witch receive an integer straight as input parameter and returns a set of characters
-create a function called summer witch receive an integer relieved as input parameter and returns a set of characters
-create a function called female witch receive an integer arrive as input parameter and returns a set of characters
-create a function called deadpan witch receive an integer sophisticated as input parameter and returns a set of characters
-create a function called command witch receive an integer mask as input parameter and returns a set of characters
-create a function called ritzy witch receive an integer bat as input parameter and returns a set of characters
-create a function called industry witch receive an integer frightening as input parameter and returns a set of characters
-create a function called start witch receive an integer mature as input parameter and returns a set of characters
-create a function called gun witch receive an integer soak as input parameter and returns a set of characters
-create a function called erect witch receive an integer divergent as input parameter and returns a set of characters
-create a function called time witch receive an integer piquant as input parameter and returns a set of characters
-create a function called list witch receive an integer sky as input parameter and returns a set of characters
-create a function called conscious witch receive an integer face as input parameter and returns a set of characters
-create a function called succinct witch receive an integer hardtofind as input parameter and returns a set of characters
-create a function called finger witch receive an integer stay as input parameter and returns a set of characters
-create a function called reminiscent witch receive an integer brash as input parameter and returns a set of characters
-create a function called icy witch receive an integer cloistered as input parameter and returns a set of characters
-create a function called trashy witch receive an integer illinformed as input parameter and returns a set of characters
-create a function called suffer witch receive an integer representative as input parameter and returns a set of characters
-create a function called vengeful witch receive an integer notebook as input parameter and returns a set of characters
-create a function called sulky witch receive an integer waggish as input parameter and returns a set of characters
-create a function called educate witch receive an integer giants as input parameter and returns a set of characters
-create a function called expansion witch receive an integer station as input parameter and returns a set of characters
-create a function called striped witch receive an integer spiffy as input parameter and returns a set of characters
-create a function called orange witch receive an integer nutty as input parameter and returns a set of characters
-create a function called attempt witch receive an integer visit as input parameter and returns a set of characters
-create a function called weak witch receive an integer poised as input parameter and returns a set of characters
-create a function called count witch receive an integer teaching as input parameter and returns a set of characters
-create a function called can witch receive an integer interrupt as input parameter and returns a set of characters
-create a function called mess witch receive an integer mountainous as input parameter and returns a set of characters
-create a function called assorted witch receive an integer merciful as input parameter and returns a set of characters
-create a function called grandfather witch receive an integer rice as input parameter and returns a set of characters
-create a function called envious witch receive an integer discover as input parameter and returns a set of characters
-create a function called legal witch receive an integer challenge as input parameter and returns a set of characters
-create a function called fireman witch receive an integer afford as input parameter and returns a set of characters
-create a function called labored witch receive an integer craven as input parameter and returns a set of characters
-create a function called curtain witch receive an integer disastrous as input parameter and returns a set of characters
-create a function called shoes witch receive an integer mixed as input parameter and returns a set of characters
-create a function called direction witch receive an integer bead as input parameter and returns a set of characters
-create a function called pest witch receive an integer changeable as input parameter and returns a set of characters
-create a function called incandescent witch receive an integer staking as input parameter and returns a set of characters
-create a function called blackandwhite witch receive an integer cakes as input parameter and returns a set of characters
-create a function called travel witch receive an integer paltry as input parameter and returns a set of characters
-create a function called zonked witch receive an integer marry as input parameter and returns a set of characters
-create a function called exuberant witch receive an integer feeling as input parameter and returns a set of characters
-create a function called parched witch receive an integer fortunate as input parameter and returns a set of characters
-create a function called belligerent witch receive an integer weigh as input parameter and returns a set of characters
-create a function called abject witch receive an integer protective as input parameter and returns a set of characters
-create a function called rainy witch receive an integer feeble as input parameter and returns a set of characters
-create a function called income witch receive an integer magic as input parameter and returns a set of characters
-create a function called marry witch receive an integer rod as input parameter and returns a set of characters
-create a function called structure witch receive an integer decorous as input parameter and returns a set of characters
-create a function called health witch receive an integer faulty as input parameter and returns a set of characters
-create a function called arrange witch receive an integer plane as input parameter and returns a set of characters
-create a function called unusual witch receive an integer year as input parameter and returns a set of characters
-create a function called scratch witch receive an integer fire as input parameter and returns a set of characters
-create a function called coat witch receive an integer same as input parameter and returns a set of characters
-create a function called mindless witch receive an integer tall as input parameter and returns a set of characters
-create a function called squealing witch receive an integer torpid as input parameter and returns a set of characters
-create a function called spiky witch receive an integer puncture as input parameter and returns a set of characters
-create a function called somber witch receive an integer hill as input parameter and returns a set of characters
-create a function called please witch receive an integer rest as input parameter and returns a set of characters
-create a function called payment witch receive an integer moaning as input parameter and returns a set of characters
-create a function called dream witch receive an integer acrid as input parameter and returns a set of characters
-create a function called cracker witch receive an integer special as input parameter and returns a set of characters
-create a function called shrug witch receive an integer mate as input parameter and returns a set of characters
-create a function called inquisitive witch receive an integer cattle as input parameter and returns a set of characters
-create a function called uttermost witch receive an integer quilt as input parameter and returns a set of characters
-create a function called children witch receive an integer juggle as input parameter and returns a set of characters
-create a function called husky witch receive an integer towering as input parameter and returns a set of characters
-create a function called detect witch receive an integer multiply as input parameter and returns a set of characters
-create a function called trains witch receive an integer quirky as input parameter and returns a set of characters
-create a function called shock witch receive an integer roll as input parameter and returns a set of characters
-create a function called jump witch receive an integer exotic as input parameter and returns a set of characters
-create a function called bare witch receive an integer grey as input parameter and returns a set of characters
-create a function called ugly witch receive an integer knee as input parameter and returns a set of characters
-create a function called heal witch receive an integer control as input parameter and returns a set of characters
-create a function called acidic witch receive an integer yielding as input parameter and returns a set of characters
-create a function called guard witch receive an integer smoke as input parameter and returns a set of characters
-create a function called exotic witch receive an integer wriggle as input parameter and returns a set of characters
-create a function called bed witch receive an integer arithmetic as input parameter and returns a set of characters
-create a function called dinosaurs witch receive an integer swanky as input parameter and returns a set of characters
-create a function called spoon witch receive an integer reduce as input parameter and returns a set of characters
-create a function called encourage witch receive an integer courageous as input parameter and returns a set of characters
-create a function called possess witch receive an integer glistening as input parameter and returns a set of characters
-create a function called abrasive witch receive an integer clean as input parameter and returns a set of characters
-create a function called ripe witch receive an integer greet as input parameter and returns a set of characters
-create a function called peaceful witch receive an integer gaping as input parameter and returns a set of characters
-create a function called cub witch receive an integer apathetic as input parameter and returns a set of characters
-create a function called fact witch receive an integer root as input parameter and returns a set of characters
-create a function called lunch witch receive an integer bubble as input parameter and returns a set of characters
-create a function called absent witch receive an integer kind as input parameter and returns a set of characters
-create a function called moaning witch receive an integer sister as input parameter and returns a set of characters
-create a function called imaginary witch receive an integer toothbrush as input parameter and returns a set of characters
-create a function called flap witch receive an integer charge as input parameter and returns a set of characters
-create a function called historical witch receive an integer history as input parameter and returns a set of characters
-create a function called dependent witch receive an integer girl as input parameter and returns a set of characters
-create a function called womanly witch receive an integer seemly as input parameter and returns a set of characters
-create a function called pleasant witch receive an integer whispering as input parameter and returns a set of characters
-create a function called relieved witch receive an integer bee as input parameter and returns a set of characters
-create a function called birthday witch receive an integer crib as input parameter and returns a set of characters
-create a function called tumble witch receive an integer slow as input parameter and returns a set of characters
-create a function called anger witch receive an integer hydrant as input parameter and returns a set of characters
-create a function called unbiased witch receive an integer pine as input parameter and returns a set of characters
-create a function called note witch receive an integer mundane as input parameter and returns a set of characters
-create a function called strap witch receive an integer bury as input parameter and returns a set of characters
-create a function called jittery witch receive an integer troubled as input parameter and returns a set of characters
-create a function called gratis witch receive an integer grandiose as input parameter and returns a set of characters
-create a function called invention witch receive an integer bucket as input parameter and returns a set of characters
-create a function called like witch receive an integer dust as input parameter and returns a set of characters
-create a function called trace witch receive an integer eggnog as input parameter and returns a set of characters
-create a function called cat witch receive an integer scratch as input parameter and returns a set of characters
-create a function called meal witch receive an integer name as input parameter and returns a set of characters
-create a function called efficacious witch receive an integer cat as input parameter and returns a set of characters
-create a function called miniature witch receive an integer squirrel as input parameter and returns a set of characters
-create a function called collect witch receive an integer adventurous as input parameter and returns a set of characters
-create a function called cool witch receive an integer bit as input parameter and returns a set of characters
-create a function called utter witch receive an integer earth as input parameter and returns a set of characters
-create a function called troubled witch receive an integer unknown as input parameter and returns a set of characters
-create a function called camp witch receive an integer beds as input parameter and returns a set of characters
-create a function called overt witch receive an integer trite as input parameter and returns a set of characters
-create a function called excited witch receive an integer flavor as input parameter and returns a set of characters
-create a function called lopsided witch receive an integer growth as input parameter and returns a set of characters
-create a function called lick witch receive an integer voice as input parameter and returns a set of characters
-create a function called morning witch receive an integer fowl as input parameter and returns a set of characters
-create a function called swim witch receive an integer depend as input parameter and returns a set of characters
-create a function called flowers witch receive an integer clap as input parameter and returns a set of characters
-create a function called hissing witch receive an integer jump as input parameter and returns a set of characters
-create a function called dime witch receive an integer spark as input parameter and returns a set of characters
-create a function called shelter witch receive an integer night as input parameter and returns a set of characters
-create a function called chew witch receive an integer natural as input parameter and returns a set of characters
-create a function called lie witch receive an integer tangible as input parameter and returns a set of characters
-create a function called harass witch receive an integer cars as input parameter and returns a set of characters
-create a function called thin witch receive an integer kindly as input parameter and returns a set of characters
-create a function called hanging witch receive an integer sprout as input parameter and returns a set of characters
-create a function called aftermath witch receive an integer closed as input parameter and returns a set of characters
-create a function called multiply witch receive an integer fallacious as input parameter and returns a set of characters
-create a function called educated witch receive an integer space as input parameter and returns a set of characters
-create a function called piquant witch receive an integer lavish as input parameter and returns a set of characters
-create a function called current witch receive an integer sparkling as input parameter and returns a set of characters
-create a function called reading witch receive an integer economic as input parameter and returns a set of characters
-create a function called stiff witch receive an integer gabby as input parameter and returns a set of characters
-create a function called amuse witch receive an integer smelly as input parameter and returns a set of characters
-create a function called simple witch receive an integer winter as input parameter and returns a set of characters
-create a function called famous witch receive an integer knowledge as input parameter and returns a set of characters
-create a function called protect witch receive an integer onerous as input parameter and returns a set of characters
-create a function called rule witch receive an integer taboo as input parameter and returns a set of characters
-create a function called close witch receive an integer lowly as input parameter and returns a set of characters
-create a function called dry witch receive an integer confuse as input parameter and returns a set of characters
-create a function called part witch receive an integer yoke as input parameter and returns a set of characters
-create a function called alert witch receive an integer duck as input parameter and returns a set of characters
-create a function called comfortable witch receive an integer park as input parameter and returns a set of characters
-create a function called blind witch receive an integer hammer as input parameter and returns a set of characters
-create a function called tooth witch receive an integer superficial as input parameter and returns a set of characters
-create a function called aspiring witch receive an integer unequal as input parameter and returns a set of characters
-create a function called roll witch receive an integer sign as input parameter and returns a set of characters
-create a function called unbecoming witch receive an integer profuse as input parameter and returns a set of characters
-create a function called pathetic witch receive an integer wander as input parameter and returns a set of characters
-create a function called lake witch receive an integer obtain as input parameter and returns a set of characters
-create a function called scale witch receive an integer exist as input parameter and returns a set of characters
-create a function called dull witch receive an integer itch as input parameter and returns a set of characters
-create a function called cooperative witch receive an integer past as input parameter and returns a set of characters
-create a function called steam witch receive an integer saw as input parameter and returns a set of characters
-create a function called believe witch receive an integer worry as input parameter and returns a set of characters
-create a function called desk witch receive an integer mourn as input parameter and returns a set of characters
-create a function called stir witch receive an integer leather as input parameter and returns a set of characters
-create a function called nutty witch receive an integer attraction as input parameter and returns a set of characters
-create a function called violet witch receive an integer damage as input parameter and returns a set of characters
-create a function called highpitched witch receive an integer outstanding as input parameter and returns a set of characters
-create a function called label witch receive an integer silent as input parameter and returns a set of characters
-create a function called soak witch receive an integer funny as input parameter and returns a set of characters
-create a function called lock witch receive an integer part as input parameter and returns a set of characters
-create a function called woman witch receive an integer cause as input parameter and returns a set of characters
-create a function called argument witch receive an integer lethal as input parameter and returns a set of characters
-create a function called courageous witch receive an integer invite as input parameter and returns a set of characters
-create a function called threatening witch receive an integer snail as input parameter and returns a set of characters
-create a function called trail witch receive an integer unhealthy as input parameter and returns a set of characters
-create a function called ragged witch receive an integer entertain as input parameter and returns a set of characters
-create a function called quack witch receive an integer loving as input parameter and returns a set of characters
-create a function called wink witch receive an integer doctor as input parameter and returns a set of characters
-create a function called match witch receive an integer pancake as input parameter and returns a set of characters
-create a function called squeamish witch receive an integer record as input parameter and returns a set of characters
-create a function called sound witch receive an integer truck as input parameter and returns a set of characters
-create a function called loss witch receive an integer peel as input parameter and returns a set of characters
-create a function called screw witch receive an integer egg as input parameter and returns a set of characters
-create a function called selfish witch receive an integer kiss as input parameter and returns a set of characters
-create a function called sack witch receive an integer aboard as input parameter and returns a set of characters
-create a function called park witch receive an integer party as input parameter and returns a set of characters
-create a function called fall witch receive an integer friend as input parameter and returns a set of characters
-create a function called resolute witch receive an integer fork as input parameter and returns a set of characters
-create a function called trite witch receive an integer cooing as input parameter and returns a set of characters
-create a function called deceive witch receive an integer ignorant as input parameter and returns a set of characters
-create a function called decide witch receive an integer heady as input parameter and returns a set of characters
-create a function called add witch receive an integer engine as input parameter and returns a set of characters
-create a function called development witch receive an integer minor as input parameter and returns a set of characters
-create a function called level witch receive an integer film as input parameter and returns a set of characters
-create a function called listen witch receive an integer tin as input parameter and returns a set of characters
-create a function called clam witch receive an integer texture as input parameter and returns a set of characters
-create a function called healthy witch receive an integer lumber as input parameter and returns a set of characters
-create a function called four witch receive an integer writer as input parameter and returns a set of characters
-create a function called coach witch receive an integer oldfashioned as input parameter and returns a set of characters
-create a function called zinc witch receive an integer snotty as input parameter and returns a set of characters
-create a function called knowing witch receive an integer three as input parameter and returns a set of characters
-create a function called string witch receive an integer behave as input parameter and returns a set of characters
-create a function called satisfy witch receive an integer erratic as input parameter and returns a set of characters
-create a function called star witch receive an integer secondhand as input parameter and returns a set of characters
-create a function called brash witch receive an integer plot as input parameter and returns a set of characters
-create a function called spill witch receive an integer daughter as input parameter and returns a set of characters
-create a function called faithful witch receive an integer suppose as input parameter and returns a set of characters
-create a function called statuesque witch receive an integer blackandwhite as input parameter and returns a set of characters
-create a function called waste witch receive an integer sedate as input parameter and returns a set of characters
+create a function called note witch receives an integer test as input parameter
+create a function called loose witch receives an integer fetch as input parameter and returns a set of characters
+create a function called vegetable witch receives an integer slap as input parameter and returns a set of characters
+create a function called own witch receives an integer arm as input parameter and returns a set of characters
+create a function called wool witch receives an integer crowd as input parameter and returns a set of characters
+create a function called laugh witch receives an integer whisper as input parameter and returns a set of characters
+create a function called extend witch receives an integer carry as input parameter and returns a set of characters
+create a function called bulb witch receives an integer horse as input parameter and returns a set of characters
+create a function called responsible witch receives an integer judge as input parameter and returns a set of characters
+create a function called soap witch receives an integer uncle as input parameter and returns a set of characters
+create a function called waiting witch receives an integer rabbits as input parameter and returns a set of characters
+create a function called train witch receives an integer heavy as input parameter and returns a set of characters
+create a function called delirious witch receives an integer carriage as input parameter and returns a set of characters
+create a function called greedy witch receives an integer robust as input parameter and returns a set of characters
+create a function called claim witch receives an integer tap as input parameter and returns a set of characters
+create a function called ball witch receives an integer fry as input parameter and returns a set of characters
+create a function called bit witch receives an integer rely as input parameter and returns a set of characters
+create a function called plucky witch receives an integer dirt as input parameter and returns a set of characters
+create a function called wire witch receives an integer spill as input parameter and returns a set of characters
+create a function called minister witch receives an integer shop as input parameter and returns a set of characters
+create a function called late witch receives an integer pink as input parameter and returns a set of characters
+create a function called railway witch receives an integer abandoned as input parameter and returns a set of characters
+create a function called dizzy witch receives an integer cluttered as input parameter and returns a set of characters
+create a function called spot witch receives an integer tip as input parameter and returns a set of characters
+create a function called panicky witch receives an integer branch as input parameter and returns a set of characters
+create a function called mouth witch receives an integer mist as input parameter and returns a set of characters
+create a function called squeal witch receives an integer internal as input parameter and returns a set of characters
+create a function called size witch receives an integer nutritious as input parameter and returns a set of characters
+create a function called enchanting witch receives an integer stormy as input parameter and returns a set of characters
+create a function called wonder witch receives an integer colossal as input parameter and returns a set of characters
+create a function called moon witch receives an integer immense as input parameter and returns a set of characters
+create a function called smell witch receives an integer inject as input parameter and returns a set of characters
+create a function called hands witch receives an integer women as input parameter and returns a set of characters
+create a function called flashy witch receives an integer wooden as input parameter and returns a set of characters
+create a function called sticky witch receives an integer collect as input parameter and returns a set of characters
+create a function called regret witch receives an integer flower as input parameter and returns a set of characters
+create a function called fasten witch receives an integer credit as input parameter and returns a set of characters
+create a function called plough witch receives an integer smell as input parameter and returns a set of characters
+create a function called spark witch receives an integer tight as input parameter and returns a set of characters
+create a function called shallow witch receives an integer curl as input parameter and returns a set of characters
+create a function called hate witch receives an integer sack as input parameter and returns a set of characters
+create a function called branch witch receives an integer giant as input parameter and returns a set of characters
+create a function called flawless witch receives an integer office as input parameter and returns a set of characters
+create a function called important witch receives an integer burn as input parameter and returns a set of characters
+create a function called balance witch receives an integer distance as input parameter and returns a set of characters
+create a function called clap witch receives an integer defeated as input parameter and returns a set of characters
+create a function called verdant witch receives an integer search as input parameter and returns a set of characters
+create a function called explain witch receives an integer handsome as input parameter and returns a set of characters
+create a function called night witch receives an integer spare as input parameter and returns a set of characters
+create a function called scared witch receives an integer disillusioned as input parameter and returns a set of characters
+create a function called prickly witch receives an integer orange as input parameter and returns a set of characters
+create a function called aunt witch receives an integer word as input parameter and returns a set of characters
+create a function called trip witch receives an integer fancy as input parameter and returns a set of characters
+create a function called prick witch receives an integer group as input parameter and returns a set of characters
+create a function called end witch receives an integer vast as input parameter and returns a set of characters
+create a function called fluttering witch receives an integer move as input parameter and returns a set of characters
+create a function called questionable witch receives an integer consist as input parameter and returns a set of characters
+create a function called sparkling witch receives an integer destruction as input parameter and returns a set of characters
+create a function called disapprove witch receives an integer magenta as input parameter and returns a set of characters
+create a function called crush witch receives an integer bait as input parameter and returns a set of characters
+create a function called fear witch receives an integer zonked as input parameter and returns a set of characters
+create a function called geese witch receives an integer hallowed as input parameter and returns a set of characters
+create a function called spotty witch receives an integer observe as input parameter and returns a set of characters
+create a function called pause witch receives an integer milky as input parameter and returns a set of characters
+create a function called creature witch receives an integer upbeat as input parameter and returns a set of characters
+create a function called unite witch receives an integer agreeable as input parameter and returns a set of characters
+create a function called short witch receives an integer blueeyed as input parameter and returns a set of characters
+create a function called cautious witch receives an integer deadpan as input parameter and returns a set of characters
+create a function called boat witch receives an integer name as input parameter and returns a set of characters
+create a function called elegant witch receives an integer tree as input parameter and returns a set of characters
+create a function called gruesome witch receives an integer chubby as input parameter and returns a set of characters
+create a function called carve witch receives an integer love as input parameter and returns a set of characters
+create a function called street witch receives an integer test as input parameter and returns a set of characters
+create a function called kiss witch receives an integer horrible as input parameter and returns a set of characters
+create a function called bear witch receives an integer spell as input parameter and returns a set of characters
+create a function called saw witch receives an integer mess as input parameter and returns a set of characters
+create a function called frightened witch receives an integer jazzy as input parameter and returns a set of characters
+create a function called vacuous witch receives an integer redundant as input parameter and returns a set of characters
+create a function called teeth witch receives an integer worm as input parameter and returns a set of characters
+create a function called neck witch receives an integer combative as input parameter and returns a set of characters
+create a function called uppity witch receives an integer third as input parameter and returns a set of characters
+create a function called overjoyed witch receives an integer garrulous as input parameter and returns a set of characters
+create a function called beds witch receives an integer drip as input parameter and returns a set of characters
+create a function called substantial witch receives an integer fierce as input parameter and returns a set of characters
+create a function called live witch receives an integer smile as input parameter and returns a set of characters
+create a function called song witch receives an integer claim as input parameter and returns a set of characters
+create a function called welltodo witch receives an integer unused as input parameter and returns a set of characters
+create a function called ashamed witch receives an integer rough as input parameter and returns a set of characters
+create a function called plug witch receives an integer use as input parameter and returns a set of characters
+create a function called coal witch receives an integer empty as input parameter and returns a set of characters
+create a function called luxuriant witch receives an integer straight as input parameter and returns a set of characters
+create a function called summer witch receives an integer relieved as input parameter and returns a set of characters
+create a function called female witch receives an integer arrive as input parameter and returns a set of characters
+create a function called deadpan witch receives an integer sophisticated as input parameter and returns a set of characters
+create a function called command witch receives an integer mask as input parameter and returns a set of characters
+create a function called ritzy witch receives an integer bat as input parameter and returns a set of characters
+create a function called industry witch receives an integer frightening as input parameter and returns a set of characters
+create a function called start witch receives an integer mature as input parameter and returns a set of characters
+create a function called gun witch receives an integer soak as input parameter and returns a set of characters
+create a function called erect witch receives an integer divergent as input parameter and returns a set of characters
+create a function called time witch receives an integer piquant as input parameter and returns a set of characters
+create a function called list witch receives an integer sky as input parameter and returns a set of characters
+create a function called conscious witch receives an integer face as input parameter and returns a set of characters
+create a function called succinct witch receives an integer hardtofind as input parameter and returns a set of characters
+create a function called finger witch receives an integer stay as input parameter and returns a set of characters
+create a function called reminiscent witch receives an integer brash as input parameter and returns a set of characters
+create a function called icy witch receives an integer cloistered as input parameter and returns a set of characters
+create a function called trashy witch receives an integer illinformed as input parameter and returns a set of characters
+create a function called suffer witch receives an integer representative as input parameter and returns a set of characters
+create a function called vengeful witch receives an integer notebook as input parameter and returns a set of characters
+create a function called sulky witch receives an integer waggish as input parameter and returns a set of characters
+create a function called educate witch receives an integer giants as input parameter and returns a set of characters
+create a function called expansion witch receives an integer station as input parameter and returns a set of characters
+create a function called striped witch receives an integer spiffy as input parameter and returns a set of characters
+create a function called orange witch receives an integer nutty as input parameter and returns a set of characters
+create a function called attempt witch receives an integer visit as input parameter and returns a set of characters
+create a function called weak witch receives an integer poised as input parameter and returns a set of characters
+create a function called count witch receives an integer teaching as input parameter and returns a set of characters
+create a function called can witch receives an integer interrupt as input parameter and returns a set of characters
+create a function called mess witch receives an integer mountainous as input parameter and returns a set of characters
+create a function called assorted witch receives an integer merciful as input parameter and returns a set of characters
+create a function called grandfather witch receives an integer rice as input parameter and returns a set of characters
+create a function called envious witch receives an integer discover as input parameter and returns a set of characters
+create a function called legal witch receives an integer challenge as input parameter and returns a set of characters
+create a function called fireman witch receives an integer afford as input parameter and returns a set of characters
+create a function called labored witch receives an integer craven as input parameter and returns a set of characters
+create a function called curtain witch receives an integer disastrous as input parameter and returns a set of characters
+create a function called shoes witch receives an integer mixed as input parameter and returns a set of characters
+create a function called direction witch receives an integer bead as input parameter and returns a set of characters
+create a function called pest witch receives an integer changeable as input parameter and returns a set of characters
+create a function called incandescent witch receives an integer staking as input parameter and returns a set of characters
+create a function called blackandwhite witch receives an integer cakes as input parameter and returns a set of characters
+create a function called travel witch receives an integer paltry as input parameter and returns a set of characters
+create a function called zonked witch receives an integer marry as input parameter and returns a set of characters
+create a function called exuberant witch receives an integer feeling as input parameter and returns a set of characters
+create a function called parched witch receives an integer fortunate as input parameter and returns a set of characters
+create a function called belligerent witch receives an integer weigh as input parameter and returns a set of characters
+create a function called abject witch receives an integer protective as input parameter and returns a set of characters
+create a function called rainy witch receives an integer feeble as input parameter and returns a set of characters
+create a function called income witch receives an integer magic as input parameter and returns a set of characters
+create a function called marry witch receives an integer rod as input parameter and returns a set of characters
+create a function called structure witch receives an integer decorous as input parameter and returns a set of characters
+create a function called health witch receives an integer faulty as input parameter and returns a set of characters
+create a function called arrange witch receives an integer plane as input parameter and returns a set of characters
+create a function called unusual witch receives an integer year as input parameter and returns a set of characters
+create a function called scratch witch receives an integer fire as input parameter and returns a set of characters
+create a function called coat witch receives an integer same as input parameter and returns a set of characters
+create a function called mindless witch receives an integer tall as input parameter and returns a set of characters
+create a function called squealing witch receives an integer torpid as input parameter and returns a set of characters
+create a function called spiky witch receives an integer puncture as input parameter and returns a set of characters
+create a function called somber witch receives an integer hill as input parameter and returns a set of characters
+create a function called please witch receives an integer rest as input parameter and returns a set of characters
+create a function called payment witch receives an integer moaning as input parameter and returns a set of characters
+create a function called dream witch receives an integer acrid as input parameter and returns a set of characters
+create a function called cracker witch receives an integer special as input parameter and returns a set of characters
+create a function called shrug witch receives an integer mate as input parameter and returns a set of characters
+create a function called inquisitive witch receives an integer cattle as input parameter and returns a set of characters
+create a function called uttermost witch receives an integer quilt as input parameter and returns a set of characters
+create a function called children witch receives an integer juggle as input parameter and returns a set of characters
+create a function called husky witch receives an integer towering as input parameter and returns a set of characters
+create a function called detect witch receives an integer multiply as input parameter and returns a set of characters
+create a function called trains witch receives an integer quirky as input parameter and returns a set of characters
+create a function called shock witch receives an integer roll as input parameter and returns a set of characters
+create a function called jump witch receives an integer exotic as input parameter and returns a set of characters
+create a function called bare witch receives an integer grey as input parameter and returns a set of characters
+create a function called ugly witch receives an integer knee as input parameter and returns a set of characters
+create a function called heal witch receives an integer control as input parameter and returns a set of characters
+create a function called acidic witch receives an integer yielding as input parameter and returns a set of characters
+create a function called guard witch receives an integer smoke as input parameter and returns a set of characters
+create a function called exotic witch receives an integer wriggle as input parameter and returns a set of characters
+create a function called bed witch receives an integer arithmetic as input parameter and returns a set of characters
+create a function called dinosaurs witch receives an integer swanky as input parameter and returns a set of characters
+create a function called spoon witch receives an integer reduce as input parameter and returns a set of characters
+create a function called encourage witch receives an integer courageous as input parameter and returns a set of characters
+create a function called possess witch receives an integer glistening as input parameter and returns a set of characters
+create a function called abrasive witch receives an integer clean as input parameter and returns a set of characters
+create a function called ripe witch receives an integer greet as input parameter and returns a set of characters
+create a function called peaceful witch receives an integer gaping as input parameter and returns a set of characters
+create a function called cub witch receives an integer apathetic as input parameter and returns a set of characters
+create a function called fact witch receives an integer root as input parameter and returns a set of characters
+create a function called lunch witch receives an integer bubble as input parameter and returns a set of characters
+create a function called absent witch receives an integer kind as input parameter and returns a set of characters
+create a function called moaning witch receives an integer sister as input parameter and returns a set of characters
+create a function called imaginary witch receives an integer toothbrush as input parameter and returns a set of characters
+create a function called flap witch receives an integer charge as input parameter and returns a set of characters
+create a function called historical witch receives an integer history as input parameter and returns a set of characters
+create a function called dependent witch receives an integer girl as input parameter and returns a set of characters
+create a function called womanly witch receives an integer seemly as input parameter and returns a set of characters
+create a function called pleasant witch receives an integer whispering as input parameter and returns a set of characters
+create a function called relieved witch receives an integer bee as input parameter and returns a set of characters
+create a function called birthday witch receives an integer crib as input parameter and returns a set of characters
+create a function called tumble witch receives an integer slow as input parameter and returns a set of characters
+create a function called anger witch receives an integer hydrant as input parameter and returns a set of characters
+create a function called unbiased witch receives an integer pine as input parameter and returns a set of characters
+create a function called note witch receives an integer mundane as input parameter and returns a set of characters
+create a function called strap witch receives an integer bury as input parameter and returns a set of characters
+create a function called jittery witch receives an integer troubled as input parameter and returns a set of characters
+create a function called gratis witch receives an integer grandiose as input parameter and returns a set of characters
+create a function called invention witch receives an integer bucket as input parameter and returns a set of characters
+create a function called like witch receives an integer dust as input parameter and returns a set of characters
+create a function called trace witch receives an integer eggnog as input parameter and returns a set of characters
+create a function called cat witch receives an integer scratch as input parameter and returns a set of characters
+create a function called meal witch receives an integer name as input parameter and returns a set of characters
+create a function called efficacious witch receives an integer cat as input parameter and returns a set of characters
+create a function called miniature witch receives an integer squirrel as input parameter and returns a set of characters
+create a function called collect witch receives an integer adventurous as input parameter and returns a set of characters
+create a function called cool witch receives an integer bit as input parameter and returns a set of characters
+create a function called utter witch receives an integer earth as input parameter and returns a set of characters
+create a function called troubled witch receives an integer unknown as input parameter and returns a set of characters
+create a function called camp witch receives an integer beds as input parameter and returns a set of characters
+create a function called overt witch receives an integer trite as input parameter and returns a set of characters
+create a function called excited witch receives an integer flavor as input parameter and returns a set of characters
+create a function called lopsided witch receives an integer growth as input parameter and returns a set of characters
+create a function called lick witch receives an integer voice as input parameter and returns a set of characters
+create a function called morning witch receives an integer fowl as input parameter and returns a set of characters
+create a function called swim witch receives an integer depend as input parameter and returns a set of characters
+create a function called flowers witch receives an integer clap as input parameter and returns a set of characters
+create a function called hissing witch receives an integer jump as input parameter and returns a set of characters
+create a function called dime witch receives an integer spark as input parameter and returns a set of characters
+create a function called shelter witch receives an integer night as input parameter and returns a set of characters
+create a function called chew witch receives an integer natural as input parameter and returns a set of characters
+create a function called lie witch receives an integer tangible as input parameter and returns a set of characters
+create a function called harass witch receives an integer cars as input parameter and returns a set of characters
+create a function called thin witch receives an integer kindly as input parameter and returns a set of characters
+create a function called hanging witch receives an integer sprout as input parameter and returns a set of characters
+create a function called aftermath witch receives an integer closed as input parameter and returns a set of characters
+create a function called multiply witch receives an integer fallacious as input parameter and returns a set of characters
+create a function called educated witch receives an integer space as input parameter and returns a set of characters
+create a function called piquant witch receives an integer lavish as input parameter and returns a set of characters
+create a function called current witch receives an integer sparkling as input parameter and returns a set of characters
+create a function called reading witch receives an integer economic as input parameter and returns a set of characters
+create a function called stiff witch receives an integer gabby as input parameter and returns a set of characters
+create a function called amuse witch receives an integer smelly as input parameter and returns a set of characters
+create a function called simple witch receives an integer winter as input parameter and returns a set of characters
+create a function called famous witch receives an integer knowledge as input parameter and returns a set of characters
+create a function called protect witch receives an integer onerous as input parameter and returns a set of characters
+create a function called rule witch receives an integer taboo as input parameter and returns a set of characters
+create a function called close witch receives an integer lowly as input parameter and returns a set of characters
+create a function called dry witch receives an integer confuse as input parameter and returns a set of characters
+create a function called part witch receives an integer yoke as input parameter and returns a set of characters
+create a function called alert witch receives an integer duck as input parameter and returns a set of characters
+create a function called comfortable witch receives an integer park as input parameter and returns a set of characters
+create a function called blind witch receives an integer hammer as input parameter and returns a set of characters
+create a function called tooth witch receives an integer superficial as input parameter and returns a set of characters
+create a function called aspiring witch receives an integer unequal as input parameter and returns a set of characters
+create a function called roll witch receives an integer sign as input parameter and returns a set of characters
+create a function called unbecoming witch receives an integer profuse as input parameter and returns a set of characters
+create a function called pathetic witch receives an integer wander as input parameter and returns a set of characters
+create a function called lake witch receives an integer obtain as input parameter and returns a set of characters
+create a function called scale witch receives an integer exist as input parameter and returns a set of characters
+create a function called dull witch receives an integer itch as input parameter and returns a set of characters
+create a function called cooperative witch receives an integer past as input parameter and returns a set of characters
+create a function called steam witch receives an integer saw as input parameter and returns a set of characters
+create a function called believe witch receives an integer worry as input parameter and returns a set of characters
+create a function called desk witch receives an integer mourn as input parameter and returns a set of characters
+create a function called stir witch receives an integer leather as input parameter and returns a set of characters
+create a function called nutty witch receives an integer attraction as input parameter and returns a set of characters
+create a function called violet witch receives an integer damage as input parameter and returns a set of characters
+create a function called highpitched witch receives an integer outstanding as input parameter and returns a set of characters
+create a function called label witch receives an integer silent as input parameter and returns a set of characters
+create a function called soak witch receives an integer funny as input parameter and returns a set of characters
+create a function called lock witch receives an integer part as input parameter and returns a set of characters
+create a function called woman witch receives an integer cause as input parameter and returns a set of characters
+create a function called argument witch receives an integer lethal as input parameter and returns a set of characters
+create a function called courageous witch receives an integer invite as input parameter and returns a set of characters
+create a function called threatening witch receives an integer snail as input parameter and returns a set of characters
+create a function called trail witch receives an integer unhealthy as input parameter and returns a set of characters
+create a function called ragged witch receives an integer entertain as input parameter and returns a set of characters
+create a function called quack witch receives an integer loving as input parameter and returns a set of characters
+create a function called wink witch receives an integer doctor as input parameter and returns a set of characters
+create a function called match witch receives an integer pancake as input parameter and returns a set of characters
+create a function called squeamish witch receives an integer record as input parameter and returns a set of characters
+create a function called sound witch receives an integer truck as input parameter and returns a set of characters
+create a function called loss witch receives an integer peel as input parameter and returns a set of characters
+create a function called screw witch receives an integer egg as input parameter and returns a set of characters
+create a function called selfish witch receives an integer kiss as input parameter and returns a set of characters
+create a function called sack witch receives an integer aboard as input parameter and returns a set of characters
+create a function called park witch receives an integer party as input parameter and returns a set of characters
+create a function called fall witch receives an integer friend as input parameter and returns a set of characters
+create a function called resolute witch receives an integer fork as input parameter and returns a set of characters
+create a function called trite witch receives an integer cooing as input parameter and returns a set of characters
+create a function called deceive witch receives an integer ignorant as input parameter and returns a set of characters
+create a function called decide witch receives an integer heady as input parameter and returns a set of characters
+create a function called add witch receives an integer engine as input parameter and returns a set of characters
+create a function called development witch receives an integer minor as input parameter and returns a set of characters
+create a function called level witch receives an integer film as input parameter and returns a set of characters
+create a function called listen witch receives an integer tin as input parameter and returns a set of characters
+create a function called clam witch receives an integer texture as input parameter and returns a set of characters
+create a function called healthy witch receives an integer lumber as input parameter and returns a set of characters
+create a function called four witch receives an integer writer as input parameter and returns a set of characters
+create a function called coach witch receives an integer oldfashioned as input parameter and returns a set of characters
+create a function called zinc witch receives an integer snotty as input parameter and returns a set of characters
+create a function called knowing witch receives an integer three as input parameter and returns a set of characters
+create a function called string witch receives an integer behave as input parameter and returns a set of characters
+create a function called satisfy witch receives an integer erratic as input parameter and returns a set of characters
+create a function called star witch receives an integer secondhand as input parameter and returns a set of characters
+create a function called brash witch receives an integer plot as input parameter and returns a set of characters
+create a function called spill witch receives an integer daughter as input parameter and returns a set of characters
+create a function called faithful witch receives an integer suppose as input parameter and returns a set of characters
+create a function called statuesque witch receives an integer blackandwhite as input parameter and returns a set of characters
+create a function called waste witch receives an integer sedate as input parameter and returns a set of characters
 create a function
 create
 and returns
 a set of characters
 and returns a set of characters
-create a function called p witch receive an integer x as input parameter
-a function called p witch receive an integer a as input parameter
-a function called test witch receive an integer hi as input parameter
-a function called proc witch receive an integer pres as input parameter
-a function called sp witch receive an integer mg as input parameter
-a function called pa witch receive an integer bh as input parameter
-a function called leit witch receive an integer empr as input parameter
-a function called rend witch receive an integer trib as input parameter
-a function called pa witch receive an integer aa as input parameter
-a function called testa witch receive an integer hia as input parameter
-a function called proca witch receive an integer presa as input parameter
-a function called spa witch receive an integer mga as input parameter
-a function called paa witch receive an integer bha as input parameter
-a function called leita witch receive an integer empra as input parameter
-a function called renda witch receive an integer triba as input parameter
-witch receive an integer a as input parameter
-witch receive an integer b as input parameter
-witch receive an integer c as input parameter
-witch receive an integer d as input parameter
-witch receive an integer e as input parameter
-witch receive an integer f as input parameter
-witch receive an integer g as input parameter
-witch receive an integer h as input parameter
-witch receive an integer i as input parameter
-witch receive an integer j as input parameter
-witch receive an integer k as input parameter
-witch receive an integer l as input parameter
-witch receive an integer m as input parameter
-witch receive an integer n as input parameter
-witch receive an integer o as input parameter
-witch receive an integer p as input parameter
-witch receive an integer q as input parameter
-witch receive an integer r as input parameter
-witch receive an integer s as input parameter
-witch receive an integer t as input parameter
-witch receive an integer aa as input parameter
-witch receive an integer ba as input parameter
-witch receive an integer ca as input parameter
-witch receive an integer da as input parameter
-witch receive an integer ea as input parameter
-witch receive an integer fa as input parameter
-witch receive an integer ga as input parameter
-witch receive an integer ha as input parameter
-witch receive an integer ia as input parameter
-witch receive an integer ja as input parameter
-witch receive an integer ka as input parameter
-witch receive an integer la as input parameter
-witch receive an integer ma as input parameter
-witch receive an integer na as input parameter
-witch receive an integer oa as input parameter
-witch receive an integer pa as input parameter
-witch receive an integer qa as input parameter
-witch receive an integer ra as input parameter
-witch receive an integer sa as input parameter
-witch receive an integer ta as input parameter
-witch receive an integer as as input parameter
-witch receive an integer bs as input parameter
-witch receive an integer cs as input parameter
-witch receive an integer ds as input parameter
-witch receive an integer es as input parameter
-witch receive an integer fs as input parameter
-witch receive an integer gs as input parameter
-witch receive an integer hs as input parameter
-witch receive an integer is as input parameter
-witch receive an integer js as input parameter
-witch receive an integer ks as input parameter
-witch receive an integer ls as input parameter
-witch receive an integer ms as input parameter
-witch receive an integer ns as input parameter
-witch receive an integer os as input parameter
-witch receive an integer ps as input parameter
-witch receive an integer qs as input parameter
-witch receive an integer rs as input parameter
-witch receive an integer ss as input parameter
-witch receive an integer ts as input parameter
-witch receive an integer aq as input parameter
-witch receive an integer bq as input parameter
-witch receive an integer cq as input parameter
-witch receive an integer dq as input parameter
-witch receive an integer eq as input parameter
-function called f witch receive an integer par as input parameter
-function called f witch receive an integer b as input parameter
-function called f witch receive an integer a as input parameter
-function called f witch receive an integer c as input parameter
-function called f witch receive an integer d as input parameter
-function called f witch receive an integer e as input parameter
-function called f witch receive an integer f as input parameter
-function called f witch receive an integer g as input parameter
-function called f witch receive an integer h as input parameter
-function called f witch receive an integer i as input parameter
-function called note witch receive an integer ca as input parameter
-function called note witch receive an integer ce as input parameter
-function called note witch receive an integer ci as input parameter
-function called note witch receive an integer co as input parameter
-function called note witch receive an integer da as input parameter
-function called note witch receive an integer de as input parameter
-function called note witch receive an integer di as input parameter
-function called note witch receive an integer do as input parameter
-function called note witch receive an integer du as input parameter
+create a function called p witch receives an integer x as input parameter
+a function called p witch receives an integer a as input parameter
+a function called test witch receives an integer hi as input parameter
+a function called proc witch receives an integer pres as input parameter
+a function called sp witch receives an integer mg as input parameter
+a function called pa witch receives an integer bh as input parameter
+a function called leit witch receives an integer empr as input parameter
+a function called rend witch receives an integer trib as input parameter
+a function called pa witch receives an integer aa as input parameter
+a function called testa witch receives an integer hia as input parameter
+a function called proca witch receives an integer presa as input parameter
+a function called spa witch receives an integer mga as input parameter
+a function called paa witch receives an integer bha as input parameter
+a function called leita witch receives an integer empra as input parameter
+a function called renda witch receives an integer triba as input parameter
+witch receives an integer a as input parameter
+witch receives an integer b as input parameter
+witch receives an integer c as input parameter
+witch receives an integer d as input parameter
+witch receives an integer e as input parameter
+witch receives an integer f as input parameter
+witch receives an integer g as input parameter
+witch receives an integer h as input parameter
+witch receives an integer i as input parameter
+witch receives an integer j as input parameter
+witch receives an integer k as input parameter
+witch receives an integer l as input parameter
+witch receives an integer m as input parameter
+witch receives an integer n as input parameter
+witch receives an integer o as input parameter
+witch receives an integer p as input parameter
+witch receives an integer q as input parameter
+witch receives an integer r as input parameter
+witch receives an integer s as input parameter
+witch receives an integer t as input parameter
+witch receives an integer aa as input parameter
+witch receives an integer ba as input parameter
+witch receives an integer ca as input parameter
+witch receives an integer da as input parameter
+witch receives an integer ea as input parameter
+witch receives an integer fa as input parameter
+witch receives an integer ga as input parameter
+witch receives an integer ha as input parameter
+witch receives an integer ia as input parameter
+witch receives an integer ja as input parameter
+witch receives an integer ka as input parameter
+witch receives an integer la as input parameter
+witch receives an integer ma as input parameter
+witch receives an integer na as input parameter
+witch receives an integer oa as input parameter
+witch receives an integer pa as input parameter
+witch receives an integer qa as input parameter
+witch receives an integer ra as input parameter
+witch receives an integer sa as input parameter
+witch receives an integer ta as input parameter
+witch receives an integer as as input parameter
+witch receives an integer bs as input parameter
+witch receives an integer cs as input parameter
+witch receives an integer ds as input parameter
+witch receives an integer es as input parameter
+witch receives an integer fs as input parameter
+witch receives an integer gs as input parameter
+witch receives an integer hs as input parameter
+witch receives an integer is as input parameter
+witch receives an integer js as input parameter
+witch receives an integer ks as input parameter
+witch receives an integer ls as input parameter
+witch receives an integer ms as input parameter
+witch receives an integer ns as input parameter
+witch receives an integer os as input parameter
+witch receives an integer ps as input parameter
+witch receives an integer qs as input parameter
+witch receives an integer rs as input parameter
+witch receives an integer ss as input parameter
+witch receives an integer ts as input parameter
+witch receives an integer aq as input parameter
+witch receives an integer bq as input parameter
+witch receives an integer cq as input parameter
+witch receives an integer dq as input parameter
+witch receives an integer eq as input parameter
+a function called f witch receives an integer par as input parameter
+a function called f witch receives an integer b as input parameter
+a function called f witch receives an integer a as input parameter
+a function called f witch receives an integer c as input parameter
+a function called f witch receives an integer d as input parameter
+a function called f witch receives an integer e as input parameter
+a function called f witch receives an integer f as input parameter
+a function called f witch receives an integer g as input parameter
+a function called f witch receives an integer h as input parameter
+a function called f witch receives an integer i as input parameter
+a function called note witch receives an integer ca as input parameter
+a function called note witch receives an integer ce as input parameter
+a function called note witch receives an integer ci as input parameter
+a function called note witch receives an integer co as input parameter
+a function called note witch receives an integer da as input parameter
+a function called note witch receives an integer de as input parameter
+a function called note witch receives an integer di as input parameter
+a function called note witch receives an integer do as input parameter
+a function called note witch receives an integer du as input parameter
 and returns
 a set of characters
 and returns
@@ -6827,7 +6827,7 @@ declare a variable called sail of type  integer
 declare a variable called funny of type  integer
 declare a variable called yummy of type  integer
 declare a variable called married of type  integer
-declare a variable called receive of type  integer
+declare a variable called receives of type  integer
 declare a variable called structure of type  integer
 declare a variable called skin of type  integer
 declare a variable called float of type  integer

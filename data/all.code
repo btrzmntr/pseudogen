@@ -2225,7 +2225,7 @@ select * from roof where tremble <= 123
 select * from different where crayon <= 124
 select * from straw where coal <= 125
 select * from flower where stick <= 126
-select * from sweltering where ad hoc <= 127
+select * from sweltering where ad <= 127
 select * from enchanting where sort <= 128
 select * from suspect where laborer <= 129
 select * from snobbish where nerve <= 130
@@ -7596,7 +7596,7 @@ function full(earn int)
 function kind(trouble int)
 function irate(boast int)
 function lively(tremendous int)
-function scary(ad hoc int)
+function scary(ad int)
 function owe(natural int)
 function inform(help int)
 function winter(verse int)

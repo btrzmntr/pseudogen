@@ -2225,7 +2225,7 @@ select all columns from table called roof where tremble is less than or equal to
 select all columns from table called different where crayon is less than or equal to 124
 select all columns from table called straw where coal is less than or equal to 125
 select all columns from table called flower where stick is less than or equal to 126
-select all columns from table called sweltering where ad hoc is less than or equal to 127
+select all columns from table called sweltering where ad is less than or equal to 127
 select all columns from table called enchanting where sort is less than or equal to 128
 select all columns from table called suspect where laborer is less than or equal to 129
 select all columns from table called snobbish where nerve is less than or equal to 130
@@ -7596,7 +7596,7 @@ a function called full witch receives an integer earn as input parameter
 a function called kind witch receives an integer trouble as input parameter
 a function called irate witch receives an integer boast as input parameter
 a function called lively witch receives an integer tremendous as input parameter
-a function called scary witch receives an integer ad hoc as input parameter
+a function called scary witch receives an integer ad as input parameter
 a function called owe witch receives an integer natural as input parameter
 a function called inform witch receives an integer help as input parameter
 a function called winter witch receives an integer verse as input parameter

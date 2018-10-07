@@ -4047,7 +4047,7 @@ on table called classy update the value of the field calendar to 527 where canno
 on table called zany update the value of the field level to 528 where splendid is equal to 2640
 on table called warm update the value of the field makeshift to 529 where acidic is equal to 2645
 on table called last update the value of the field scene to 530 where thin is equal to 2650
-on table called adaptable update the value of the field office to 531 where black-and-white is equal to 2655
+on table called adaptable update the value of the field office to 531 where blackandwhite is equal to 2655
 on table called bucket update the value of the field bat to 532 where stove is equal to 2660
 on table called waves update the value of the field sugar to 533 where busy is equal to 2665
 on table called increase update the value of the field cry to 534 where earsplitting is equal to 2670
@@ -4067,7 +4067,7 @@ on table called division update the value of the field feigned to 547 where surr
 on table called overrated update the value of the field harbor to 548 where hissing is equal to 2740
 on table called wrathful update the value of the field shelter to 549 where giddy is equal to 2745
 on table called smile update the value of the field right to 550 where ruddy is equal to 2750
-on table called teeny-tiny update the value of the field double to 551 where cherry is equal to 2755
+on table called teenytiny update the value of the field double to 551 where cherry is equal to 2755
 on table called advice update the value of the field near to 552 where stereotyped is equal to 2760
 on table called condemned update the value of the field frame to 553 where aware is equal to 2765
 on table called shiny update the value of the field drawer to 554 where disgusting is equal to 2770
@@ -4133,13 +4133,13 @@ on table called redundant update the value of the field statement to 613 where t
 on table called cake update the value of the field hard to 614 where lettuce is equal to 3070
 on table called giraffe update the value of the field stupid to 615 where undress is equal to 3075
 on table called sticks update the value of the field cast to 616 where high is equal to 3080
-on table called well-made update the value of the field elegant to 617 where wind is equal to 3085
+on table called wellmade update the value of the field elegant to 617 where wind is equal to 3085
 on table called puny update the value of the field property to 618 where obtain is equal to 3090
 on table called normal update the value of the field internal to 619 where illustrious is equal to 3095
 on table called small update the value of the field advertisement to 620 where feeble is equal to 3100
 on table called oil update the value of the field recondite to 621 where squeak is equal to 3105
 on table called ruin update the value of the field twist to 622 where governor is equal to 3110
-on table called border update the value of the field greasy to 623 where bite-sized is equal to 3115
+on table called border update the value of the field greasy to 623 where bitesized is equal to 3115
 on table called worry update the value of the field belief to 624 where oceanic is equal to 3120
 on table called bird update the value of the field knotty to 625 where axiomatic is equal to 3125
 on table called zoom update the value of the field rampant to 626 where big is equal to 3130
@@ -4206,16 +4206,16 @@ on table called magic update the value of the field ghost to 686 where believe i
 on table called try update the value of the field wealth to 687 where plucky is equal to 3435
 on table called ill update the value of the field electric to 688 where sore is equal to 3440
 on table called realise update the value of the field trust to 689 where dead is equal to 3445
-on table called ill-fated update the value of the field butter to 690 where horse is equal to 3450
+on table called illfated update the value of the field butter to 690 where horse is equal to 3450
 on table called nine update the value of the field carriage to 691 where filthy is equal to 3455
 on table called circle update the value of the field paltry to 692 where song is equal to 3460
 on table called wicked update the value of the field magic to 693 where seal is equal to 3465
 on table called tie update the value of the field parallel to 694 where girls is equal to 3470
 on table called seemly update the value of the field clear to 695 where complete is equal to 3475
-on table called memory update the value of the field extra-small to 696 where fear is equal to 3480
+on table called memory update the value of the field extrasmall to 696 where fear is equal to 3480
 on table called obeisant update the value of the field stocking to 697 where drawer is equal to 3485
 on table called gruesome update the value of the field bedroom to 698 where learn is equal to 3490
-on table called bite-sized update the value of the field silver to 699 where innate is equal to 3495
+on table called bitesized update the value of the field silver to 699 where innate is equal to 3495
 on table called narrow update the value of the field equable to 700 where trade is equal to 3500
 insert a row into table called true with values (1001,1)
 insert a row into table called branch with values (1002,2)
@@ -4312,7 +4312,7 @@ insert a row into table called brash with values (1092,92)
 insert a row into table called jealous with values (1093,93)
 insert a row into table called hapless with values (1094,94)
 insert a row into table called momentous with values (1095,95)
-insert a row into table called far-flung with values (1096,96)
+insert a row into table called farflung with values (1096,96)
 insert a row into table called count with values (1097,97)
 insert a row into table called scary with values (1098,98)
 insert a row into table called safe with values (1099,99)
@@ -4375,7 +4375,7 @@ insert a row into table called overrated with values (1155,155)
 insert a row into table called smiling with values (1156,156)
 insert a row into table called trot with values (1157,157)
 insert a row into table called egg with values (1158,158)
-insert a row into table called extra-large with values (1159,159)
+insert a row into table called extralarge with values (1159,159)
 insert a row into table called strip with values (1160,160)
 insert a row into table called work with values (1161,161)
 insert a row into table called cart with values (1162,162)
@@ -4433,7 +4433,7 @@ where drain is equal to
 where whine is equal to 
 where pancake is equal to 
 where lean is equal to 
-where long-term is equal to 
+where longterm is equal to 
 where glorious is equal to 
 where warn is equal to 
 where comfortable is equal to 
@@ -4532,7 +4532,7 @@ where snotty is equal to
 where baseball is equal to 
 where hang is equal to 
 where hope is equal to 
-where wide-eyed is equal to 
+where wideeyed is equal to 
 where finger is equal to 
 where insurance is equal to 
 where tramp is equal to 
@@ -4750,7 +4750,7 @@ the value of the field bait to
 the value of the field cherry to 
 the value of the field soap to 
 the value of the field reach to 
-the value of the field blue-eyed to 
+the value of the field blueeyed to 
 the value of the field unsuitable to 
 the value of the field kick to 
 the value of the field shaky to 
@@ -8465,3 +8465,403 @@ witch receives an integer recondite as input parameter and returns
 witch receives an integer arrange as input parameter and returns
 witch receives an integer food as input parameter and returns
 witch receives an integer gray as input parameter and returns
+returns the value of variable cushion
+returns the value of variable coil
+returns the value of variable sheep
+returns the value of variable null
+returns the value of variable shade
+returns the value of variable crazy
+returns the value of variable wrist
+returns the value of variable water
+returns the value of variable sad
+returns the value of variable moon
+returns the value of variable dance
+returns the value of variable five
+returns the value of variable buzz
+returns the value of variable reply
+returns the value of variable film
+returns the value of variable leather
+returns the value of variable dust
+returns the value of variable women
+returns the value of variable snake
+returns the value of variable library
+returns the value of variable four
+returns the value of variable shelf
+returns the value of variable military
+returns the value of variable possessive
+returns the value of variable snails
+returns the value of variable plan
+returns the value of variable pump
+returns the value of variable please
+returns the value of variable place
+returns the value of variable dress
+returns the value of variable marble
+returns the value of variable stereotyped
+returns the value of variable fuel
+returns the value of variable scarce
+returns the value of variable absent
+returns the value of variable exuberant
+returns the value of variable profit
+returns the value of variable crate
+returns the value of variable blushing
+returns the value of variable daffy
+returns the value of variable black
+returns the value of variable deserted
+returns the value of variable chin
+returns the value of variable lush
+returns the value of variable tail
+returns the value of variable wanting
+returns the value of variable line
+returns the value of variable lavish
+returns the value of variable lamentable
+returns the value of variable slope
+returns the value of variable kettle
+returns the value of variable sock
+returns the value of variable time
+returns the value of variable rotten
+returns the value of variable shrill
+returns the value of variable wideeyed
+returns the value of variable twist
+returns the value of variable whistle
+returns the value of variable tooth
+returns the value of variable sincere
+returns the value of variable correct
+returns the value of variable price
+returns the value of variable cloudy
+returns the value of variable embarrassed
+returns the value of variable cheat
+returns the value of variable snail
+returns the value of variable explain
+returns the value of variable soggy
+returns the value of variable eatable
+returns the value of variable number
+returns the value of variable punishment
+returns the value of variable industry
+returns the value of variable clip
+returns the value of variable blueeyed
+returns the value of variable sweet
+returns the value of variable canvas
+returns the value of variable private
+returns the value of variable increase
+returns the value of variable cause
+returns the value of variable cemetery
+returns the value of variable request
+returns the value of variable aspiring
+returns the value of variable infamous
+returns the value of variable angry
+returns the value of variable blot
+returns the value of variable thought
+returns the value of variable pump
+returns the value of variable grieving
+returns the value of variable straw
+returns the value of variable classy
+returns the value of variable gruesome
+returns the value of variable cow
+returns the value of variable ready
+returns the value of variable guarantee
+returns the value of variable needless
+returns the value of variable insurance
+returns the value of variable breath
+returns the value of variable hill
+returns the value of variable stingy
+returns the value of variable woman
+returns the value of variable direction
+returns the value of variable three
+returns the value of variable bomb
+returns the value of variable large
+returns the value of variable ajar
+returns the value of variable cub
+returns the value of variable fold
+returns the value of variable dam
+returns the value of variable synonymous
+returns the value of variable mushy
+returns the value of variable fortunate
+returns the value of variable deer
+returns the value of variable brother
+returns the value of variable mark
+returns the value of variable therapeutic
+returns the value of variable mug
+returns the value of variable faithful
+returns the value of variable abashed
+returns the value of variable windy
+returns the value of variable dry
+returns the value of variable obtainable
+returns the value of variable delay
+returns the value of variable business
+returns the value of variable pink
+returns the value of variable trousers
+returns the value of variable seashore
+returns the value of variable ugly
+returns the value of variable cloistered
+returns the value of variable true
+returns the value of variable wail
+returns the value of variable periodic
+returns the value of variable abstracted
+returns the value of variable erratic
+returns the value of variable interrupt
+returns the value of variable strengthen
+returns the value of variable committee
+returns the value of variable slow
+returns the value of variable cakes
+returns the value of variable pretty
+returns the value of variable found
+returns the value of variable chickens
+returns the value of variable lunch
+returns the value of variable ray
+returns the value of variable ink
+returns the value of variable resonant
+returns the value of variable burly
+returns the value of variable plastic
+returns the value of variable chop
+returns the value of variable tangy
+returns the value of variable taste
+returns the value of variable horrible
+returns the value of variable highfalutin
+returns the value of variable fold
+returns the value of variable spicy
+returns the value of variable same
+returns the value of variable superb
+returns the value of variable chess
+returns the value of variable farm
+returns the value of variable miniature
+returns the value of variable grass
+returns the value of variable flight
+returns the value of variable cycle
+returns the value of variable xray
+returns the value of variable fallacious
+returns the value of variable magical
+returns the value of variable advise
+returns the value of variable learned
+returns the value of variable festive
+returns the value of variable ambitious
+returns the value of variable level
+returns the value of variable lip
+returns the value of variable questionable
+returns the value of variable dogs
+returns the value of variable vein
+returns the value of variable fascinated
+returns the value of variable wholesale
+returns the value of variable harmony
+returns the value of variable wellgroomed
+returns the value of variable use
+returns the value of variable erect
+returns the value of variable settle
+returns the value of variable omniscient
+returns the value of variable transport
+returns the value of variable wing
+returns the value of variable silver
+returns the value of variable car
+returns the value of variable obedient
+returns the value of variable greedy
+returns the value of variable joke
+returns the value of variable agree
+returns the value of variable multiply
+returns the value of variable love
+returns the value of variable existence
+returns the value of variable deeply
+returns the value of variable blink
+returns the value of variable concentrate
+returns the value of variable cry
+returns the value of variable utter
+returns the value of variable modern
+returns the value of variable hollow
+returns the value of variable art
+returns the value of variable truculent
+returns the value of variable chase
+returns the value of variable jellyfish
+returns the value of variable hand
+returns the value of variable industrious
+returns the value of variable somber
+returns the value of variable exchange
+returns the value of variable sneeze
+returns the value of variable snotty
+returns the value of variable approval
+returns the value of variable kill
+returns the value of variable flaky
+returns the value of variable way
+returns the value of variable resonant
+returns the value of variable end
+returns the value of variable nebulous
+returns the value of variable rub
+returns the value of variable wideeyed
+returns the value of variable shop
+returns the value of variable crown
+returns the value of variable succeed
+returns the value of variable afternoon
+returns the value of variable romantic
+returns the value of variable idiotic
+returns the value of variable doubtful
+returns the value of variable glue
+returns the value of variable drunk
+returns the value of variable screw
+returns the value of variable peaceful
+returns the value of variable flood
+returns the value of variable hum
+returns the value of variable jittery
+returns the value of variable eminent
+returns the value of variable tranquil
+returns the value of variable rail
+returns the value of variable acrid
+returns the value of variable ants
+returns the value of variable snore
+returns the value of variable hospitable
+returns the value of variable thrill
+returns the value of variable branch
+returns the value of variable river
+returns the value of variable reproduce
+returns the value of variable engine
+returns the value of variable baseball
+returns the value of variable suit
+returns the value of variable enjoy
+returns the value of variable gabby
+returns the value of variable gray
+returns the value of variable roasted
+returns the value of variable rock
+returns the value of variable daily
+returns the value of variable parched
+returns the value of variable clip
+returns the value of variable frog
+returns the value of variable use
+returns the value of variable extend
+returns the value of variable position
+returns the value of variable toys
+returns the value of variable common
+returns the value of variable silent
+returns the value of variable youthful
+returns the value of variable acoustic
+returns the value of variable seashore
+returns the value of variable church
+returns the value of variable flow
+returns the value of variable comfortable
+returns the value of variable board
+returns the value of variable travel
+returns the value of variable yawn
+returns the value of variable longterm
+returns the value of variable love
+returns the value of variable ten
+returns the value of variable complete
+returns the value of variable spring
+returns the value of variable spooky
+returns the value of variable dependent
+returns the value of variable whip
+returns the value of variable connection
+returns the value of variable nippy
+returns the value of variable join
+returns the value of variable alert
+returns the value of variable appear
+returns the value of variable whimsical
+returns the value of variable smash
+returns the value of variable cute
+returns the value of variable tan
+returns the value of variable tin
+returns the value of variable rice
+returns the value of variable pathetic
+returns the value of variable instruct
+returns the value of variable suppose
+returns the value of variable scarecrow
+returns the value of variable balance
+returns the value of variable messy
+returns the value of variable plant
+returns the value of variable goofy
+returns the value of variable homely
+returns the value of variable push
+returns the value of variable bizarre
+returns the value of variable listen
+returns the value of variable silk
+returns the value of variable defeated
+returns the value of variable throat
+returns the value of variable spade
+returns the value of variable tiger
+returns the value of variable voice
+returns the value of variable rod
+returns the value of variable battle
+returns the value of variable various
+returns the value of variable toothpaste
+returns the value of variable heat
+returns the value of variable count
+returns the value of variable pricey
+returns the value of variable hapless
+returns the value of variable finger
+returns the value of variable follow
+returns the value of variable fixed
+returns the value of variable tiresome
+returns the value of variable effect
+returns the value of variable quarrelsome
+returns the value of variable peace
+returns the value of variable clear
+returns the value of variable fill
+returns the value of variable amuse
+returns the value of variable file
+returns the value of variable treatment
+returns the value of variable enormous
+returns the value of variable limping
+returns the value of variable hill
+returns the value of variable argument
+returns the value of variable stamp
+returns the value of variable poison
+returns the value of variable helpless
+returns the value of variable optimal
+returns the value of variable mighty
+returns the value of variable sleep
+returns the value of variable makeshift
+returns the value of variable daffy
+returns the value of variable dear
+returns the value of variable rainstorm
+returns the value of variable silent
+returns the value of variable tangy
+returns the value of variable question
+returns the value of variable obtain
+returns the value of variable heavenly
+returns the value of variable poised
+returns the value of variable whole
+returns the value of variable produce
+returns the value of variable red
+returns the value of variable dislike
+returns the value of variable shape
+returns the value of variable majestic
+returns the value of variable face
+returns the value of variable report
+returns the value of variable fish
+returns the value of variable milk
+returns the value of variable welltodo
+returns the value of variable page
+returns the value of variable futuristic
+returns the value of variable dolls
+returns the value of variable delirious
+returns the value of variable shiny
+returns the value of variable switch
+returns the value of variable mushy
+returns the value of variable groan
+returns the value of variable miscreant
+returns the value of variable battle
+returns the value of variable yoke
+returns the value of variable cars
+returns the value of variable recondite
+returns the value of variable better
+returns the value of variable troubled
+returns the value of variable knife
+returns the value of variable busy
+returns the value of variable thirsty
+returns the value of variable power
+returns the value of variable abhorrent
+returns the value of variable heat
+returns the value of variable annoy
+returns the value of variable berry
+returns the value of variable whistle
+returns the value of variable belligerent
+returns the value of variable wrathful
+returns the value of variable waves
+returns the value of variable ugly
+returns the value of variable tawdry
+returns the value of variable lame
+returns the value of variable charming
+returns the value of variable dress
+returns the value of variable important
+returns the value of variable diligent
+returns the value of variable support
+returns the value of variable mother
+returns the value of variable arithmetic
+returns the value of variable birth
+returns the value of variable bright
+returns the value of variable attack
+returns the value of variable trade

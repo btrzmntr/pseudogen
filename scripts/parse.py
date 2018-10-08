@@ -17,8 +17,8 @@ def escape(text):
         .replace(' ', '-SP-') \
         .replace('\t', '-TAB-') \
         .replace('\n', '-NL-') \
-        .replace('"(', '-LRB-') \ 
-        .replace(')"', '-RRB-') \ 
+        .replace('"(', '-LRB-') \
+        .replace(')"', '-RRB-') \
         .replace('|', '-BAR-') \
         .replace('<=', '-LOE-') \
         .replace('>=', '-GOE-') \

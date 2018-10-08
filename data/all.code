@@ -9065,3 +9065,403 @@ return(majestic)
 return(yoke)
 return(harmonious)
 return(gabby)
+return(befitting)
+return(animal)
+return(tangible)
+return(flight)
+return(orange)
+return(awful)
+return(plants)
+return(time)
+return(straight)
+return(appreciate)
+return(control)
+return(volcano)
+return(amusement)
+return(throat)
+return(turkey)
+return(pail)
+return(deserve)
+return(impossible)
+return(annoy)
+return(trick)
+return(shocking)
+return(measure)
+return(volleyball)
+return(smile)
+return(reading)
+return(nine)
+return(welloff)
+return(profit)
+return(vivacious)
+return(suppose)
+return(children)
+return(weigh)
+return(train)
+return(lacking)
+return(vacation)
+return(shut)
+return(resolute)
+return(piquant)
+return(milky)
+return(ugliest)
+return(clap)
+return(dear)
+return(battle)
+return(explain)
+return(talented)
+return(sedate)
+return(grate)
+return(polite)
+return(lush)
+return(violent)
+return(title)
+return(knot)
+return(absent)
+return(minute)
+return(ambiguous)
+return(rail)
+return(voyage)
+return(treatment)
+return(unbiased)
+return(language)
+return(uncovered)
+return(rabid)
+return(morning)
+return(cover)
+return(open)
+return(town)
+return(coast)
+return(cry)
+return(kick)
+return(sweet)
+return(peep)
+return(downtown)
+return(introduce)
+return(amount)
+return(shop)
+return(addition)
+return(nappy)
+return(protect)
+return(shock)
+return(wash)
+return(camp)
+return(lewd)
+return(hammer)
+return(absorbing)
+return(join)
+return(zealous)
+return(cakes)
+return(wriggle)
+return(quince)
+return(contain)
+return(cooperative)
+return(home)
+return(obedient)
+return(snatch)
+return(stone)
+return(lock)
+return(time)
+return(range)
+return(supreme)
+return(cat)
+return(sand)
+return(momentous)
+return(surround)
+return(ethereal)
+return(nutritious)
+return(pour)
+return(breath)
+return(account)
+return(glove)
+return(tawdry)
+return(obscene)
+return(need)
+return(whistle)
+return(toothpaste)
+return(book)
+return(big)
+return(turn)
+return(spark)
+return(bell)
+return(lick)
+return(evasive)
+return(workable)
+return(lean)
+return(memory)
+return(polish)
+return(name)
+return(sprout)
+return(thankful)
+return(economic)
+return(motion)
+return(request)
+return(inexpensive)
+return(adventurous)
+return(kindly)
+return(dock)
+return(food)
+return(nerve)
+return(exciting)
+return(assorted)
+return(include)
+return(bat)
+return(increase)
+return(bustling)
+return(coil)
+return(roomy)
+return(educate)
+return(callous)
+return(yellow)
+return(penitent)
+return(savory)
+return(available)
+return(healthy)
+return(crate)
+return(waves)
+return(moon)
+return(command)
+return(drum)
+return(miss)
+return(nauseating)
+return(stretch)
+return(gusty)
+return(end)
+return(back)
+return(aberrant)
+return(graceful)
+return(lying)
+return(war)
+return(moan)
+return(shake)
+return(stereotyped)
+return(ball)
+return(heap)
+return(early)
+return(sign)
+return(dysfunctional)
+return(youthful)
+return(amused)
+return(point)
+return(check)
+return(yell)
+return(shop)
+return(riddle)
+return(demonic)
+return(reason)
+return(acoustics)
+return(probable)
+return(stranger)
+return(overflow)
+return(spot)
+return(wood)
+return(subsequent)
+return(ultra)
+return(wonderful)
+return(cheerful)
+return(full)
+return(rod)
+return(unite)
+return(foregoing)
+return(juicy)
+return(thaw)
+(living int) returns
+(jam int) returns
+(invention int) returns
+(sheet int) returns
+(queen int) returns
+(education int) returns
+(guarantee int) returns
+(overwrought int) returns
+(ruin int) returns
+(gullible int) returns
+(ghost int) returns
+(future int) returns
+(ragged int) returns
+(satisfy int) returns
+(bathe int) returns
+(violet int) returns
+(smell int) returns
+(question int) returns
+(thought int) returns
+(fallacious int) returns
+(insidious int) returns
+(precede int) returns
+(kick int) returns
+(fear int) returns
+(soap int) returns
+(early int) returns
+(clam int) returns
+(depressed int) returns
+(cart int) returns
+(coherent int) returns
+(table int) returns
+(fail int) returns
+(winter int) returns
+(bone int) returns
+(alarm int) returns
+(repulsive int) returns
+(cooing int) returns
+(hate int) returns
+(extrasmall int) returns
+(half int) returns
+(smooth int) returns
+(drown int) returns
+(panicky int) returns
+(scratch int) returns
+(receipt int) returns
+(waste int) returns
+(health int) returns
+(start int) returns
+(flagrant int) returns
+(ski int) returns
+(quiet int) returns
+(open int) returns
+(wish int) returns
+(doctor int) returns
+(bed int) returns
+(dusty int) returns
+(maddening int) returns
+(use int) returns
+(psychedelic int) returns
+(nippy int) returns
+(toothsome int) returns
+(crabby int) returns
+(wren int) returns
+(petite int) returns
+(shade int) returns
+(painful int) returns
+(territory int) returns
+(previous int) returns
+(mend int) returns
+(anger int) returns
+(call int) returns
+(ethereal int) returns
+(feigned int) returns
+(tender int) returns
+(vast int) returns
+(leg int) returns
+(pin int) returns
+(trouble int) returns
+(efficient int) returns
+(pen int) returns
+(disastrous int) returns
+(chase int) returns
+(note int) returns
+(country int) returns
+(canvas int) returns
+(disarm int) returns
+(government int) returns
+(name int) returns
+(point int) returns
+(cheese int) returns
+(riddle int) returns
+(request int) returns
+(grandmother int) returns
+(secondhand int) returns
+(scare int) returns
+(bang int) returns
+(ugliest int) returns
+(thing int) returns
+(spray int) returns
+(test int) returns
+(obedient int) returns
+(cub int) returns
+(bushes int) returns
+(whirl int) returns
+(lunchroom int) returns
+(enthusiastic int) returns
+(love int) returns
+(rhetorical int) returns
+(optimal int) returns
+(crash int) returns
+(crime int) returns
+(robin int) returns
+(melodic int) returns
+(shrug int) returns
+(approval int) returns
+(silver int) returns
+(land int) returns
+(eminent int) returns
+(torpid int) returns
+(work int) returns
+(sin int) returns
+(complete int) returns
+(jail int) returns
+(disturbed int) returns
+(malicious int) returns
+(curve int) returns
+(super int) returns
+(lip int) returns
+(nutty int) returns
+(rambunctious int) returns
+(stop int) returns
+(plain int) returns
+(plane int) returns
+(poised int) returns
+(friends int) returns
+(grandfather int) returns
+(purple int) returns
+(balance int) returns
+(wonderful int) returns
+(brawny int) returns
+(guide int) returns
+(respect int) returns
+(languid int) returns
+(face int) returns
+(basket int) returns
+(gusty int) returns
+(panoramic int) returns
+(suck int) returns
+(connect int) returns
+(scrub int) returns
+(smash int) returns
+(truck int) returns
+(gifted int) returns
+(obese int) returns
+(erect int) returns
+(reply int) returns
+(goofy int) returns
+(entertain int) returns
+(evanescent int) returns
+(miscreant int) returns
+(spurious int) returns
+(sassy int) returns
+(coil int) returns
+(yarn int) returns
+(quiver int) returns
+(knowledgeable int) returns
+(known int) returns
+(camera int) returns
+(wire int) returns
+(one int) returns
+(dull int) returns
+(irritate int) returns
+(observation int) returns
+(reign int) returns
+(quilt int) returns
+(kind int) returns
+(delicious int) returns
+(ad hoc int) returns
+(empty int) returns
+(bright int) returns
+(nose int) returns
+(memory int) returns
+(card int) returns
+(geese int) returns
+(touch int) returns
+(exclusive int) returns
+(explode int) returns
+(mushy int) returns
+(puny int) returns
+(scared int) returns
+(powder int) returns
+(pretend int) returns
+(wild int) returns
+(chicken int) returns
+(cat int) returns
+(broad int) returns
+(oil int) returns
+(abrasive int) returns
+(alive int) returns
+(animal int) returns

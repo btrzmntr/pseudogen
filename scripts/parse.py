@@ -17,8 +17,8 @@ def escape(text):
         .replace(' ', '-SP-') \
         .replace('\t', '-TAB-') \
         .replace('\n', '-NL-') \
-        .replace('"(', '-LRB-') \
-        .replace(')"', '-RRB-') \
+        .replace('(', '-LRB-') \
+        .replace(')', '-RRB-') \
         .replace('|', '-BAR-') \
         .replace('<=', '-LOE-') \
         .replace('>=', '-GOE-') \
@@ -72,8 +72,8 @@ def main():
         l = l.lower()
         l = l.strip()
         l = l.replace("varchar(10)", 'character') #teste varchar
-        l = l.replace("(",'"(') #teste corpus
-        l = l.replace(")",')"') #teste corpus
+        #l = l.replace("(",'"(') #teste corpus
+        #l = l.replace(")",')"') #teste corpus
         l = l.replace("_","")
         if not l:
             print()

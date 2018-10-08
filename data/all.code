@@ -9442,7 +9442,7 @@ return(thaw)
 (quilt integer) returns
 (kind integer) returns
 (delicious integer) returns
-(ad hoc integer) returns
+(ad integer) returns
 (empty integer) returns
 (bright integer) returns
 (nose integer) returns

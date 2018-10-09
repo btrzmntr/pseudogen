@@ -14,7 +14,8 @@ do
 done
 
 #teste quebra
-sys.stdout.write("\n")
+echo "traduzindo ... " 1>&2
+
 python3 $BASE_DIR/scripts/parse.py \
     | python3 $BASE_DIR/scripts/head-insertion.py \
     | python3 $BASE_DIR/scripts/simplify.py \

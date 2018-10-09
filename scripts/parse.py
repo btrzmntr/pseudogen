@@ -75,6 +75,7 @@ def main():
         l = l.replace("(",'-LRB-') #teste corpus
         l = l.replace(")",'-RRB-') #teste corpus
         l = l.replace("_","")
+        l = l.replace("'","")
         if not l:
             print()
             sys.stdout.flush()

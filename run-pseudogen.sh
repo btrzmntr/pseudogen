@@ -13,6 +13,8 @@ do
      esac
 done
 
+#teste quebra
+sys.stdout.write("\n")
 python3 $BASE_DIR/scripts/parse.py \
     | python3 $BASE_DIR/scripts/head-insertion.py \
     | python3 $BASE_DIR/scripts/simplify.py \

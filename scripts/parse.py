@@ -72,8 +72,8 @@ def main():
         l = l.lower()
         l = l.strip()
         l = l.replace("varchar(10)", 'character') #teste varchar
-        l = l.replace("(",'"(') #teste corpus
-        l = l.replace(")",')"') #teste corpus
+        l = l.replace("(",'-LRB-') #teste corpus
+        l = l.replace(")",'-RRB-') #teste corpus
         l = l.replace("_","")
         if not l:
             print()

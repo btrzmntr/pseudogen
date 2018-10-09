@@ -69,7 +69,7 @@ def makestr(node):
 
 def main():
     for l in sys.stdin:
-        l = l.lower()
+        #l = l.lower()
         l = l.strip()
         l = l.replace("varchar(10)", 'character') #teste varchar
         l = l.replace("(",'-LRB-') #teste corpus

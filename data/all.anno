@@ -6799,45 +6799,45 @@ and returns
 a set of characters
 and returns
 a set of characters
-declare a variable called mine of type  integer
-declare a variable called nonstop of type  integer
-declare a variable called toothpaste of type  integer
-declare a variable called recondite of type  integer
-declare a variable called wideeyed of type  integer
-declare a variable called warlike of type  integer
-declare a variable called tame of type  integer
-declare a variable called promise of type  integer
-declare a variable called turn of type  integer
-declare a variable called glue of type  integer
-declare a variable called milk of type  integer
-declare a variable called agree of type  integer
-declare a variable called obscene of type  integer
-declare a variable called curve of type  integer
-declare a variable called sheet of type  integer
-declare a variable called regret of type  integer
-declare a variable called illustrious of type  integer
-declare a variable called repulsive of type  integer
-declare a variable called cute of type  integer
-declare a variable called nutritious of type  integer
-declare a variable called willing of type  integer
-declare a variable called steadfast of type  integer
-declare a variable called brainy of type  integer
-declare a variable called correct of type  integer
-declare a variable called bath of type  integer
-declare a variable called sail of type  integer
-declare a variable called funny of type  integer
-declare a variable called yummy of type  integer
-declare a variable called married of type  integer
-declare a variable called receives of type  integer
-declare a variable called structure of type  integer
-declare a variable called skin of type  integer
-declare a variable called float of type  integer
-declare a variable called steer of type  integer
-declare a variable called cushion of type  integer
-declare a variable called seal of type  integer
-declare a variable called challenge of type  integer
-declare a variable called tenuous of type  integer
-declare a variable called satisfying of type  integer
+declare a variable called mine of type integer
+declare a variable called nonstop of type integer
+declare a variable called toothpaste of type integer
+declare a variable called recondite of type integer
+declare a variable called wideeyed of type integer
+declare a variable called warlike of type integer
+declare a variable called tame of type integer
+declare a variable called promise of type integer
+declare a variable called turn of type integer
+declare a variable called glue of type integer
+declare a variable called milk of type integer
+declare a variable called agree of type integer
+declare a variable called obscene of type integer
+declare a variable called curve of type integer
+declare a variable called sheet of type integer
+declare a variable called regret of type integer
+declare a variable called illustrious of type integer
+declare a variable called repulsive of type integer
+declare a variable called cute of type integer
+declare a variable called nutritious of type integer
+declare a variable called willing of type integer
+declare a variable called steadfast of type integer
+declare a variable called brainy of type integer
+declare a variable called correct of type integer
+declare a variable called bath of type integer
+declare a variable called sail of type integer
+declare a variable called funny of type integer
+declare a variable called yummy of type integer
+declare a variable called married of type integer
+declare a variable called receives of type integer
+declare a variable called structure of type integer
+declare a variable called skin of type integer
+declare a variable called float of type integer
+declare a variable called steer of type integer
+declare a variable called cushion of type integer
+declare a variable called seal of type integer
+declare a variable called challenge of type integer
+declare a variable called tenuous of type integer
+declare a variable called satisfying of type integer
 declare a variable called wrench of type integer
 declare a variable called division of type integer
 declare a variable called rod of type integer
@@ -9666,3 +9666,4 @@ if strap is greater than 197
 if fearless is greater than 198
 if wrestle is greater than 199
 if travel is greater than 200
+if

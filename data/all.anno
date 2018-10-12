@@ -7227,7 +7227,7 @@ a set of characters
 create a function called waste
 create a function called cable
 create a function called complain
-create a function called end
+create a function called film
 create a function called race
 create a function called near
 create a function called offbeat
@@ -8681,7 +8681,7 @@ return the value of variable kill
 return the value of variable flaky
 return the value of variable way
 return the value of variable resonant
-return the value of variable end
+return the value of variable film
 return the value of variable nebulous
 return the value of variable rub
 return the value of variable wideeyed
@@ -9227,7 +9227,7 @@ return the value of variable miss
 return the value of variable nauseating
 return the value of variable stretch
 return the value of variable gusty
-return the value of variable end
+return the value of variable film
 return the value of variable back
 return the value of variable aberrant
 return the value of variable graceful
@@ -9667,3 +9667,5 @@ if fearless is greater than 198
 if wrestle is greater than 199
 if travel is greater than 200
 if
+begin
+end

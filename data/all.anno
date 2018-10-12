@@ -1291,7 +1291,6 @@ select all columns from table called cherry where compare is equal to 77 and a i
 select all columns from table called evanescent where move is equal to 78 and b is equal to 19
 select all columns from table called worthless where offend is equal to 79 and a is equal to 20
 select all columns from table called throat where dramatic is equal to 80 and b is equal to 20
-status is equal to open
 select all columns from table called ignorant where useless is greater than 1
 select all columns from table called mom where husky is greater than 2
 select all columns from table called automatic where disagreeable is greater than 3

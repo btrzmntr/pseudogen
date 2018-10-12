@@ -1251,46 +1251,46 @@ select all columns from table called kindhearted where leg is equal to 37
 select all columns from table called ducks where wave is equal to 38
 select all columns from table called smelly where blood is equal to 39
 select all columns from table called birds where shocking is equal to 40
-select all columns from table called bright where satisfying is equal to 41 and a is equal to 1
-select all columns from table called maid where grey is equal to 42 and b is equal to 1
-select all columns from table called connection where aftermath is equal to 43 and a is equal to 2
-select all columns from table called please where own is equal to 44 and b is equal to 2
-select all columns from table called disagreeable where fly is equal to 45 and a is equal to 3
-select all columns from table called dynamic where quilt is equal to 46 and b is equal to 3
-select all columns from table called scrape where confuse is equal to 47 and a is equal to 4
-select all columns from table called free where light is equal to 48 and b is equal to 4
-select all columns from table called cute where thick is equal to 49 and a is equal to 5
-select all columns from table called cultured where clean is equal to 50 and b is equal to 5
-select all columns from table called deadpan where steer is equal to 51 and a is equal to 6
-select all columns from table called regular where hall is equal to 52 and b is equal to 6
-select all columns from table called love where excite is equal to 53 and a is equal to 7
-select all columns from table called strengthen where earthquake is equal to 54 and b is equal to 7
-select all columns from table called match where nosy is equal to 55 and a is equal to 8
-select all columns from table called imperfect where control is equal to 56 and b is equal to 8
-select all columns from table called rate where billowy is equal to 57 and a is equal to 9
-select all columns from table called absent where great is equal to 58 and b is equal to 9
-select all columns from table called squirrel where resonant is equal to 59 and a is equal to 10
-select all columns from table called book where open is equal to 60 and b is equal to 10
-select all columns from table called taste where vessel is equal to 61 and a is equal to 11
-select all columns from table called itch where spiky is equal to 62 and b is equal to 11
-select all columns from table called amused where oatmeal is equal to 63 and a is equal to 12
-select all columns from table called test where grin is equal to 64 and b is equal to 12
-select all columns from table called courageous where mere is equal to 65 and a is equal to 13
-select all columns from table called damaging where tranquil is equal to 66 and b is equal to 13
-select all columns from table called shock where sneeze is equal to 67 and a is equal to 14
-select all columns from table called competition where flavor is equal to 68 and b is equal to 14
-select all columns from table called average where receives is equal to 69 and a is equal to 15
-select all columns from table called annoying where bloody is equal to 70 and b is equal to 15
-select all columns from table called science where seal is equal to 71 and a is equal to 16
-select all columns from table called wistful where energetic is equal to 72 and b is equal to 16
-select all columns from table called exclusive where adorable is equal to 73 and a is equal to 17
-select all columns from table called hate where fasten is equal to 74 and b is equal to 17
-select all columns from table called mug where hulking is equal to 75 and a is equal to 18
-select all columns from table called daily where determined is equal to 76 and b is equal to 18
-select all columns from table called cherry where compare is equal to 77 and a is equal to 19
-select all columns from table called evanescent where move is equal to 78 and b is equal to 19
-select all columns from table called worthless where offend is equal to 79 and a is equal to 20
-select all columns from table called throat where dramatic is equal to 80 and b is equal to 20
+select all columns from table called bright where satisfying is equal to 41
+select all columns from table called maid where grey is equal to 42
+select all columns from table called connection where aftermath is equal to 43
+select all columns from table called please where own is equal to 44
+select all columns from table called disagreeable where fly is equal to 45
+select all columns from table called dynamic where quilt is equal to 46
+select all columns from table called scrape where confuse is equal to 47
+select all columns from table called free where light is equal to 48
+select all columns from table called cute where thick is equal to 49
+select all columns from table called cultured where clean is equal to 50
+select all columns from table called deadpan where steer is equal to 51
+select all columns from table called regular where hall is equal to 52
+select all columns from table called love where excite is equal to 53
+select all columns from table called strengthen where earthquake is equal to 54
+select all columns from table called match where nosy is equal to 55
+select all columns from table called imperfect where control is equal to 56
+select all columns from table called rate where billowy is equal to 57
+select all columns from table called absent where great is equal to 58
+select all columns from table called squirrel where resonant is equal to 59
+select all columns from table called book where open is equal to 60
+select all columns from table called taste where vessel is equal to 61
+select all columns from table called itch where spiky is equal to 62
+select all columns from table called amused where oatmeal is equal to 63
+select all columns from table called test where grin is equal to 64
+select all columns from table called courageous where mere is equal to 65
+select all columns from table called damaging where tranquil is equal to 66
+select all columns from table called shock where sneeze is equal to 67
+select all columns from table called competition where flavor is equal to 68
+select all columns from table called average where receives is equal to 69
+select all columns from table called annoying where bloody is equal to 70
+select all columns from table called science where seal is equal to 71
+select all columns from table called wistful where energetic is equal to 72
+select all columns from table called exclusive where adorable is equal to 73
+select all columns from table called hate where fasten is equal to 74
+select all columns from table called mug where hulking is equal to 75
+select all columns from table called daily where determined is equal to 76
+select all columns from table called cherry where compare is equal to 77
+select all columns from table called evanescent where move is equal to 78
+select all columns from table called worthless where offend is equal to 79
+select all columns from table called throat where dramatic is equal to 80
 select all columns from table called ignorant where useless is greater than 1
 select all columns from table called mom where husky is greater than 2
 select all columns from table called automatic where disagreeable is greater than 3

@@ -2095,7 +2095,7 @@ select all columns from table called harsh where shivering is less than or equal
 is less than or equal to
 field is less than or equal to 10
 field is less than or equal to
-where x is less then or equal to 1
+where x is less than or equal to 1
 from table called contratos where y is less than or equal to 0
 y is less than or equal to 0
 less than or equal to 34

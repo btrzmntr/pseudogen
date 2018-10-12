@@ -4215,8 +4215,6 @@ update memory set extrasmall = 696 where fear = 3480
 update obeisant set stocking = 697 where drawer = 3485
 update gruesome set bedroom = 698 where learn = 3490
 update bitesized set silver = 699 where innate = 3495
-update users set gold = 1293 where id = 4
-update phone set platinum = 1 where num = 32
 update narrow set equable = 700 where trade = 3500
 insert into true values (1001,1)
 insert into branch values (1002,2)
@@ -10355,7 +10353,7 @@ set fierce = friend
 set children = tumble
 set waste = receive
 set party = suck
-set ghost = statuesque
+set ghost = platinum
 set waves = one
 set early = bow
 set envious = attraction
@@ -10363,7 +10361,7 @@ set toy = clip
 set friends = claim
 set sign = cover
 set rate = regret
-set spoon = platinum
+set spoon = fresh
 set force = loaf
 set teaching = shame
 set team = amazing

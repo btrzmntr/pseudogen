@@ -53,7 +53,8 @@ done
 
 echo "making language model ... " 1>&2
 mkdir lm
-$BASE_DIR/tools/travatar/src/kenlm/lm/lmplz -o 3 --discount_fallback < train.entok > lm/lm.arpa
+#$BASE_DIR/tools/travatar/src/kenlm/lm/lmplz -o 3 --discount_fallback < train.entok > lm/lm.arpa
+$BASE_DIR/tools/travatar/src/kenlm/lm/lmplz -o 5 < train.entok > lm/lm.arpa
 $BASE_DIR/tools/travatar/src/kenlm/lm/build_binary -i lm/lm.arpa lm/lm.blm
 
 echo "training travatar ... " 1>&2

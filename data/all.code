@@ -2501,6 +2501,7 @@ a < 0
 select * from table where b < 2
 where id < 9999
 <
+>
 insert into coal values (1,10)
 insert into range values (2,20)
 insert into reach values (3,30)

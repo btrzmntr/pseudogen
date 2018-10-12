@@ -2501,6 +2501,7 @@ a is less than 0
 select all columns from table table where b is less than 2
 where id is less than 9999
 is less than
+is greater than
 insert a row into table called coal with values (1,10)
 insert a row into table called range with values (2,20)
 insert a row into table called reach with values (3,30)

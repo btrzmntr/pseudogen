@@ -8,7 +8,6 @@ select
 select * from series
 from series
 from
-*
 select * from ignorant
 select * from mom
 select * from automatic
@@ -10448,15 +10447,25 @@ set hall = tent
 set even = toad
 set burst = famous
 set bashful = gold
-select x = count(*) from
-select teste = count(*) from
-select a = count(*) from
-select b = count(*) from
-select c = count(*) from
-select d = count(*) from
-select e = count(*) from
-select f = count(*) from
-select g = count(*) from
-select h = count(*) from
-select i = count(*) from
+select x = count(*) from car
+select teste = count(*) from car
+select a = count(*) from car
+select b = count(*) from car
+select c = count(*) from car
+select d = count(*) from car
+select e = count(*) from car
+select f = count(*) from car
+select g = count(*) from car
+select h = count(*) from car
+select i = count(*) from car
 count(*)
+select drum = count(*) from poison where material = 1
+select fancy = count(*) from twist where count = 2
+select disagree = count(*) from girls where coal = 3
+select reading = count(*) from monkey where reach = 4
+select look = count(*) from breath where quiet = 5
+select secretary = count(*) from meeting where witty = 6
+select teaching = count(*) from seal where contain = 7
+select messy = count(*) from memorise where salt = 8
+select experience = count(*) from story where upset = 9
+select quill = count(*) from talk where tangy = 10

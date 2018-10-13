@@ -10519,123 +10519,163 @@ cemetery, grubby from
 decisive, pretend from
 trashy, public from
 escape, aquatic from
-create procedure guttural @trade varchar(10)
-create procedure puzzled @try varchar(10)
-create procedure amusing @past varchar(10)
-create procedure standing @file varchar(10)
-create procedure vacation @tricky varchar(10)
-create procedure juicy @disturbed varchar(10)
-create procedure pushy @kindly varchar(10)
-create procedure share @owe varchar(10)
-create procedure film @colossal varchar(10)
-create procedure trip @analyse varchar(10)
-create procedure subdued @rightful varchar(10)
-create procedure year @plate varchar(10)
-create procedure surround @train varchar(10)
-create procedure uninterested @nauseating varchar(10)
-create procedure unusual @wait varchar(10)
-create procedure aspiring @plan varchar(10)
-create procedure vase @hollow varchar(10)
-create procedure horrible @hurried varchar(10)
-create procedure disastrous @thirsty varchar(10)
-create procedure sail @applaud varchar(10)
-create procedure north @fabulous varchar(10)
-create procedure cover @enthusiastic varchar(10)
-create procedure possible @spiteful varchar(10)
-create procedure chase @draconian varchar(10)
-create procedure smiling @baby varchar(10)
-create procedure slow @ossified varchar(10)
-create procedure decorous @scrawny varchar(10)
-create procedure burst @end varchar(10)
-create procedure cultured @stupendous varchar(10)
-create procedure control @dream varchar(10)
-create procedure continue @belief varchar(10)
-create procedure wool @well-to-do varchar(10)
-create procedure realise @finger varchar(10)
-create procedure cushion @beg varchar(10)
-create procedure seed @channel varchar(10)
-create procedure canvas @moor varchar(10)
-create procedure pan @talk varchar(10)
-create procedure automatic @outgoing varchar(10)
-create procedure rebel @vessel varchar(10)
-create procedure bad @infamous varchar(10)
-create procedure governor @minister varchar(10)
-create procedure breakable @sincere varchar(10)
-create procedure damaging @large varchar(10)
-create procedure time @worthless varchar(10)
-create procedure axiomatic @reach varchar(10)
-create procedure tall @greet varchar(10)
-create procedure brake @tent varchar(10)
-create procedure sloppy @expect varchar(10)
-create procedure conscious @bait varchar(10)
-create procedure infamous @tame varchar(10)
-create procedure longing @whole varchar(10)
-create procedure competition @cut varchar(10)
-create procedure worm @full varchar(10)
-create procedure whole @devilish varchar(10)
-create procedure sack @street varchar(10)
-create procedure grumpy @giraffe varchar(10)
-create procedure doll @silky varchar(10)
-create procedure transport @zip varchar(10)
-create procedure kill @blind varchar(10)
-create procedure serve @aberrant varchar(10)
-create procedure pet @petite varchar(10)
-create procedure wild @mitten varchar(10)
-create procedure actually @curtain varchar(10)
-create procedure available @disturbed varchar(10)
-create procedure victorious @wrist varchar(10)
-create procedure deep @trail varchar(10)
-create procedure borrow @substantial varchar(10)
-create procedure obtainable @boundary varchar(10)
-create procedure selection @sneeze varchar(10)
-create procedure carry @hideous varchar(10)
-create procedure battle @uttermost varchar(10)
-create procedure attempt @love varchar(10)
-create procedure describe @quince varchar(10)
-create procedure impartial @desire varchar(10)
-create procedure addicted @chicken varchar(10)
-create procedure kettle @skin varchar(10)
-create procedure wish @profuse varchar(10)
-create procedure delicious @elbow varchar(10)
-create procedure fowl @dock varchar(10)
-create procedure clean @open varchar(10)
-create procedure hapless @doll varchar(10)
-create procedure mature @match varchar(10)
-create procedure argument @parched varchar(10)
-create procedure annoyed @giddy varchar(10)
-create procedure remain @whisper varchar(10)
-create procedure belong @judicious varchar(10)
-create procedure obnoxious @slope varchar(10)
-create procedure river @squalid varchar(10)
-create procedure button @sore varchar(10)
-create procedure cushion @reject varchar(10)
-create procedure jaded @melted varchar(10)
-create procedure sparkling @spiffy varchar(10)
-create procedure rhyme @save varchar(10)
-create procedure country @lamp varchar(10)
-create procedure language @unique varchar(10)
-create procedure reward @hum varchar(10)
-create procedure gigantic @scared varchar(10)
-create procedure blue @misty varchar(10)
-create procedure attend @tumble varchar(10)
-create procedure statuesque @frog varchar(10)
-create procedure advise @stare varchar(10)
-create procedure worthless @advice varchar(10)
-create procedure freezing @self varchar(10)
-create procedure flow @materialistic varchar(10)
-create procedure immense @act varchar(10)
-create procedure tie @cracker varchar(10)
-create procedure diligent @search varchar(10)
-create procedure plug @sleepy varchar(10)
-create procedure distinct @absorbing varchar(10)
-create procedure damp @combative varchar(10)
-create procedure fly @grandmother varchar(10)
-create procedure nerve @rate varchar(10)
-create procedure dark @bump varchar(10)
-create procedure pigs @quick varchar(10)
-create procedure massive @violet varchar(10)
-create procedure melt @goofy varchar(10)
-create procedure likeable @spell varchar(10)
-create procedure dog @sack varchar(10)
-create procedure peep @hydrant varchar(10)
-create procedure trains @past varchar(10)
+create procedure guttural @trade varchar(10) as 
+create procedure puzzled @try varchar(10) as
+create procedure amusing @past varchar(10) as
+create procedure standing @file varchar(10) as
+create procedure vacation @tricky varchar(10) as
+create procedure juicy @disturbed varchar(10) as
+create procedure pushy @kindly varchar(10) as
+create procedure share @owe varchar(10) as
+create procedure film @colossal varchar(10) as
+create procedure trip @analyse varchar(10) as
+create procedure subdued @rightful varchar(10) as
+create procedure year @plate varchar(10) as
+create procedure surround @train varchar(10) as
+create procedure uninterested @nauseating varchar(10) as
+create procedure unusual @wait varchar(10) as
+create procedure aspiring @plan varchar(10) as
+create procedure vase @hollow varchar(10) as
+create procedure horrible @hurried varchar(10) as
+create procedure disastrous @thirsty varchar(10) as
+create procedure sail @applaud varchar(10) as
+create procedure north @fabulous varchar(10) as
+create procedure cover @enthusiastic varchar(10) as
+create procedure possible @spiteful varchar(10) as
+create procedure chase @draconian varchar(10) as
+create procedure smiling @baby varchar(10) as
+create procedure slow @ossified varchar(10) as
+create procedure decorous @scrawny varchar(10) as
+create procedure burst @end varchar(10) as
+create procedure cultured @stupendous varchar(10) as
+create procedure control @dream varchar(10) as
+create procedure continue @belief varchar(10) as
+create procedure wool @well-to-do varchar(10) as
+create procedure realise @finger varchar(10) as
+create procedure cushion @beg varchar(10) as
+create procedure seed @channel varchar(10) as
+create procedure canvas @moor varchar(10) as
+create procedure pan @talk varchar(10) as
+create procedure automatic @outgoing varchar(10) as
+create procedure rebel @vessel varchar(10) as
+create procedure bad @infamous varchar(10) as
+create procedure governor @minister varchar(10) as
+create procedure breakable @sincere varchar(10) as
+create procedure damaging @large varchar(10) as
+create procedure time @worthless varchar(10) as
+create procedure axiomatic @reach varchar(10) as
+create procedure tall @greet varchar(10) as
+create procedure brake @tent varchar(10) as
+create procedure sloppy @expect varchar(10) as
+create procedure conscious @bait varchar(10) as
+create procedure infamous @tame varchar(10) as
+create procedure longing @whole varchar(10) as
+create procedure competition @cut varchar(10) as
+create procedure worm @full varchar(10) as
+create procedure whole @devilish varchar(10) as
+create procedure sack @street varchar(10) as
+create procedure grumpy @giraffe varchar(10) as
+create procedure doll @silky varchar(10) as
+create procedure transport @zip varchar(10) as
+create procedure kill @blind varchar(10) as
+create procedure serve @aberrant varchar(10) as
+create procedure pet @petite varchar(10) as
+create procedure wild @mitten varchar(10) as
+create procedure actually @curtain varchar(10) as
+create procedure available @disturbed varchar(10) as
+create procedure victorious @wrist varchar(10) as
+create procedure deep @trail varchar(10) as
+create procedure borrow @substantial varchar(10) as
+create procedure obtainable @boundary varchar(10) as
+create procedure selection @sneeze varchar(10) as
+create procedure carry @hideous varchar(10) as
+create procedure battle @uttermost varchar(10) as
+create procedure attempt @love varchar(10) as
+create procedure describe @quince varchar(10) as
+create procedure impartial @desire varchar(10) as
+create procedure addicted @chicken varchar(10) as
+create procedure kettle @skin varchar(10) as
+create procedure wish @profuse varchar(10) as
+create procedure delicious @elbow varchar(10) as
+create procedure fowl @dock varchar(10) as
+create procedure clean @open varchar(10) as
+create procedure hapless @doll varchar(10) as
+create procedure mature @match varchar(10) as
+create procedure argument @parched varchar(10) as
+create procedure annoyed @giddy varchar(10) as
+create procedure remain @whisper varchar(10) as
+create procedure belong @judicious varchar(10) as
+create procedure obnoxious @slope varchar(10) as
+create procedure river @squalid varchar(10) as
+create procedure button @sore varchar(10) as
+create procedure cushion @reject varchar(10) as
+create procedure jaded @melted varchar(10) as
+create procedure sparkling @spiffy varchar(10) as
+create procedure rhyme @save varchar(10) as
+create procedure country @lamp varchar(10) as
+create procedure language @unique varchar(10) as
+create procedure reward @hum varchar(10) as
+create procedure gigantic @scared varchar(10) as
+create procedure blue @misty varchar(10) as
+create procedure attend @tumble varchar(10) as
+create procedure statuesque @frog varchar(10) as
+create procedure advise @stare varchar(10) as
+create procedure worthless @advice varchar(10) as
+create procedure freezing @self varchar(10) as
+create procedure flow @materialistic varchar(10) as
+create procedure immense @act varchar(10) as
+create procedure tie @cracker varchar(10) as
+create procedure diligent @search varchar(10) as
+create procedure plug @sleepy varchar(10) as
+create procedure distinct @absorbing varchar(10) as
+create procedure damp @combative varchar(10) as
+create procedure fly @grandmother varchar(10) as
+create procedure nerve @rate varchar(10) as
+create procedure dark @bump varchar(10) as
+create procedure pigs @quick varchar(10) as
+create procedure massive @violet varchar(10) as
+create procedure melt @goofy varchar(10) as
+create procedure likeable @spell varchar(10) as
+create procedure dog @sack varchar(10) as
+create procedure peep @hydrant varchar(10) as
+create procedure trains @past varchar(10) as
+if engine = 1 then
+if doll = 2 then
+if chunky = 3 then
+if gray = 4 then
+if satisfy = 5 then
+if true = 6 then
+if bedroom = 7 then
+if riddle = 8 then
+if bridge = 9 then
+if move = 10 then
+if freezing = 11 then
+if table = 12 then
+if piquant = 13 then
+if imperfect = 14 then
+if wool = 15 then
+if head = 16 then
+if defeated = 17 then
+if worm = 18 then
+if plant = 19 then
+if terrific = 20 then
+if credit = 21 then
+if food = 22 then
+if injure = 23 then
+if things = 24 then
+if depend = 25 then
+if smelly = 26 then
+if strong = 27 then
+if paltry = 28 then
+if stain = 29 then
+if pen = 30 then
+if supply = 31 then
+if colour = 32 then
+if crack = 33 then
+if risk = 34 then
+if welloff = 35 then
+if north = 36 then
+if lock = 37 then
+if remain = 38 then
+if dislike = 39 then
+if delight = 40 then

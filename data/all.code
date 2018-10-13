@@ -10448,3 +10448,15 @@ set hall = tent
 set even = toad
 set burst = famous
 set bashful = gold
+select x = count(*) from
+select teste = count(*) from
+select a = count(*) from
+select b = count(*) from
+select c = count(*) from
+select d = count(*) from
+select e = count(*) from
+select f = count(*) from
+select g = count(*) from
+select h = count(*) from
+select i = count(*) from
+count(*)

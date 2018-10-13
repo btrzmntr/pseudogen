@@ -10469,3 +10469,23 @@ select teaching = count(*) from seal where contain = 7
 select messy = count(*) from memorise where salt = 8
 select experience = count(*) from story where upset = 9
 select quill = count(*) from talk where tangy = 10
+select control, decisive, cheap from ray
+select look, spoon, warlike from heap
+select vast, dizzy, amusing from weather
+select vigorous, condemned, cloudy from maid
+select fanatical, legs, badge from pray
+select cloth, level, small from daffy
+select ritzy, knit, whisper from smash
+select stem, sheet, sable from sore
+select boot, volcano, behave from tasty
+select coil, tricky, woebegone from pink
+select drop, attend  
+select desire, instrument  
+select boundary, melodic  
+select pray, uneven  
+select bouncy, annoy  
+select pleasure, drink  
+select unaccountable, eminent  
+select vacuous, six  
+select wash, boot  
+select murder, sail  

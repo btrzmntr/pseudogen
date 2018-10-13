@@ -10479,13 +10479,23 @@ select column ritzy, column knit, column whisper from table called smash
 select column stem, column sheet, column sable from table called sore
 select column boot, column volcano, column behave from table called tasty
 select column coil, column tricky, column woebegone from table called pink
-select column drop, column attend   
-select column desire, column instrument   
-select column boundary, column melodic   
-select column pray, column uneven   
-select column bouncy, column annoy   
-select column pleasure, column drink   
-select column unaccountable, column eminent   
-select column vacuous, column six   
-select column wash, column boot   
-select column murder, column sail   
+select column drop, column attend
+select column desire, column instrument
+select column boundary, column melodic
+select column pray, column uneven
+select column bouncy, column annoy
+select column pleasure, column drink
+select column unaccountable, column eminent
+select column vacuous, column six
+select column wash, column boot
+select column murder, column sail
+column overwrought, column current from
+column material, column hard from
+column heavenly, column raise from
+column obsequious, column man from
+column ignorant, column flight from
+column gaudy, column married from
+column sticks, column excellent from
+column coat, column position from
+column end, column cats from
+column juice, column vase from

@@ -71,6 +71,8 @@ def main():
     for l in sys.stdin:
         l = l.lower()
         l = l.strip()
+        l = l.replace(" int)"," integer)")
+        l = l.replace(" int "," integer")
         l = l.replace("varchar(10)", 'character') #teste varchar
         l = l.replace("(",'-LRB-') #teste corpus
         l = l.replace(")",'-RRB-') #teste corpus

@@ -382,7 +382,7 @@ select * from rampant
 select * from serious
 select * from warm
 select * from jump
-select * from integerernal
+select * from day
 select * from fruit
 select * from old
 select * from kneel
@@ -396,7 +396,7 @@ select * from spare
 select * from allow
 select * from ajar
 select * from teaching
-select * from integereresting
+select * from happy
 select * from peaceful
 select * from produce
 select * from tendency
@@ -731,7 +731,7 @@ select * from hungry
 select * from bake
 select * from unequal
 select * from observation
-select * from integererrupt
+select * from note
 select * from slope
 select * from black
 select * from phobic
@@ -926,7 +926,7 @@ select * from expert
 select * from fat
 select * from chop
 select * from popcorn
-select * from integerroduce
+select * from nail
 select * from discovery
 select * from company
 select * from hallowed
@@ -1460,7 +1460,7 @@ select * from wide where elated > 167
 select * from unhealthy where plausible > 168
 select * from superficial where cold > 169
 select * from risk where satisfy > 170
-select * from annoyed where integerelligent > 171
+select * from annoyed where dolls > 171
 select * from recognise where measure > 172
 select * from macho where amusement > 173
 select * from tray where identify > 174
@@ -1664,7 +1664,7 @@ select * from rampant where agreement > 171
 select * from serious where uncovered > 172
 select * from warm where comb > 173
 select * from jump where income > 174
-select * from integerernal where deer > 175
+select * from gel where deer > 175
 select * from fruit where messy > 176
 select * from old where stitch > 177
 select * from kneel where cute > 178
@@ -1678,7 +1678,7 @@ select * from spare where acceptable > 185
 select * from allow where barbarous > 186
 select * from ajar where hard > 187
 select * from teaching where pencil > 188
-select * from integereresting where imaginary > 189
+select * from sad where imaginary > 189
 select * from peaceful where boundless > 190
 select * from produce where juggle > 191
 select * from tendency where neighborly > 192
@@ -2013,7 +2013,7 @@ select * from hungry where puzzled <= 120
 select * from bake where fireman <= 121
 select * from unequal where festive <= 122
 select * from observation where receipt <= 123
-select * from integererrupt where wicked <= 124
+select * from hello where wicked <= 124
 select * from slope where announce <= 125
 select * from black where surround <= 126
 select * from phobic where suggestion <= 127
@@ -2056,7 +2056,7 @@ select * from changeable where spare <= 163
 select * from bewildered where ubiquitous <= 164
 select * from labored where animated <= 165
 select * from expand where cattle <= 166
-select * from mint where integererest <= 167
+select * from mint where rest <= 167
 select * from reject where macho <= 168
 select * from milk where trust <= 169
 select * from lie where cough <= 170
@@ -2136,7 +2136,7 @@ select * from pickle where call <= 36
 select * from superb where risk <= 37
 select * from sincere where science <= 38
 select * from adamant where rock <= 39
-select * from excellent where integererest <= 40
+select * from excellent where nap <= 40
 select * from tie where slap <= 41
 select * from head where rule <= 42
 select * from head where carve <= 43
@@ -2147,7 +2147,7 @@ select * from hollow where waste <= 47
 select * from creator where delay <= 48
 select * from hurt where voracious <= 49
 select * from increase where pricey <= 50
-select * from drink where integereresting <= 51
+select * from drink where noise <= 51
 select * from grieving where yummy <= 52
 select * from flash where approval <= 53
 select * from thankful where obscene <= 54
@@ -2214,7 +2214,7 @@ select * from expert where crowded <= 114
 select * from fat where baby <= 115
 select * from chop where territory <= 116
 select * from popcorn where plantation <= 117
-select * from integerroduce where kitty <= 118
+select * from produce where kitty <= 118
 select * from discovery where common <= 119
 select * from company where ugliest <= 120
 select * from hallowed where step <= 121
@@ -2244,7 +2244,7 @@ select * from next where face <= 144
 select * from succeed where collar <= 145
 select * from inquisitive where hysterical <= 146
 select * from cover where dam <= 147
-select * from furtive where integerernal <= 148
+select * from furtive where no <= 148
 select * from talented where elite <= 149
 select * from unlock where extend <= 150
 select * from wreck where marvelous <= 151
@@ -2772,7 +2772,7 @@ insert into suspend values (269,2690)
 insert into skillful values (270,2700)
 insert into march values (271,2710)
 insert into farflung values (272,2720)
-insert into integereresting values (273,2730)
+insert into users values (273,2730)
 insert into hesitant values (274,2740)
 insert into mend values (275,2750)
 insert into reaction values (276,2760)
@@ -3146,7 +3146,7 @@ delete from sky where wash = 148
 delete from spiffy where control = 149
 delete from luxuriant where limit = 150
 delete from happen where scale = 151
-delete from cooperative where integererest = 152
+delete from cooperative where yes = 152
 delete from confused where knowing = 153
 delete from faint where subdued = 154
 delete from dependent where nose = 155
@@ -3628,7 +3628,7 @@ update snake set puncture = 127 where tall = 635
 update wail set morning = 128 where obsequious = 640
 update supply set tranquil = 129 where appliance = 645
 update three set opposite = 130 where attract = 650
-update integererfere set glamorous = 131 where tug = 655
+update bear set glamorous = 131 where tug = 655
 update lock set road = 132 where queen = 660
 update peace set accurate = 133 where simplistic = 665
 update reduce set addition = 134 where trail = 670
@@ -3885,7 +3885,7 @@ update fallacious set nimble = 384 where disagreeable = 1920
 update wrong set cloudy = 385 where compete = 1925
 update drink set hum = 386 where daughter = 1930
 update locket set jumpy = 387 where shape = 1935
-update heal set answer = 388 where integerernal = 1940
+update heal set answer = 388 where piu = 1940
 update angry set repulsive = 389 where screeching = 1945
 update punishment set hill = 390 where ultra = 1950
 update afraid set bomb = 391 where cruel = 1955
@@ -3960,7 +3960,7 @@ update ultra set bed = 459 where brush = 2295
 update clip set stove = 460 where power = 2300
 update crowd set welloff = 461 where property = 2305
 update science set theory = 462 where quizzical = 2310
-update overflow set integerroduce = 463 where abaft = 2315
+update overflow set sia = 463 where abaft = 2315
 update puncture set ambiguous = 464 where joyous = 2320
 update ignore set fire = 465 where hulking = 2325
 update tart set illegal = 466 where capricious = 2330
@@ -3989,12 +3989,12 @@ update inquisitive set black = 488 where stick = 2440
 update point set far = 489 where cars = 2445
 update soup set year = 490 where illustrious = 2450
 update madly set husky = 491 where stop = 2455
-update ritzy set icy = 492 where integerroduce = 2460
+update ritzy set icy = 492 where hi = 2460
 update bright set zonked = 493 where tremendous = 2465
 update knowing set strange = 494 where untidy = 2470
 update letters set turn = 495 where tight = 2475
 update nest set elated = 496 where scribble = 2480
-update materialistic set integerend = 497 where delicious = 2485
+update materialistic set car = 497 where delicious = 2485
 update object set bloody = 498 where terrific = 2490
 update better set clever = 499 where voiceless = 2495
 update way set bolt = 500 where potato = 2500
@@ -4071,7 +4071,7 @@ update condemned set frame = 553 where aware = 2765
 update shiny set drawer = 554 where disgusting = 2770
 update title set dam = 555 where books = 2775
 update cows set minute = 556 where division = 2780
-update warn set integererfere = 557 where waste = 2785
+update warn set fear = 557 where waste = 2785
 update maid set meal = 558 where makeshift = 2790
 update satisfying set squash = 559 where transport = 2795
 update mess set luxuriant = 560 where male = 2800
@@ -4133,7 +4133,7 @@ update giraffe set stupid = 615 where undress = 3075
 update sticks set cast = 616 where high = 3080
 update wellmade set elegant = 617 where wind = 3085
 update puny set property = 618 where obtain = 3090
-update normal set integerernal = 619 where illustrious = 3095
+update normal set short = 619 where illustrious = 3095
 update small set advertisement = 620 where feeble = 3100
 update oil set recondite = 621 where squeak = 3105
 update ruin set twist = 622 where governor = 3110
@@ -4322,7 +4322,7 @@ insert into desert values (1104,104)
 insert into found values (1105,105)
 insert into lunchroom values (1106,106)
 insert into death values (1107,107)
-insert into integerelligent values (1108,108)
+insert into one values (1108,108)
 insert into amuse values (1109,109)
 insert into pedal values (1110,110)
 insert into place values (1111,111)
@@ -4383,7 +4383,7 @@ insert into homely values (1165,165)
 insert into aromatic values (1166,166)
 insert into receive values (1167,167)
 insert into voyage values (1168,168)
-insert into integereresting values (1169,169)
+insert into client values (1169,169)
 insert into destroy values (1170,170)
 insert into envious values (1171,171)
 insert into inexpensive values (1172,172)
@@ -4639,7 +4639,7 @@ set van =
 set incredible = 
 set stranger = 
 set hope = 
-set integerelligent = 
+set name = 
 set faded = 
 set hallowed = 
 set exotic = 
@@ -4736,7 +4736,7 @@ set jolly =
 set improve = 
 set wanting = 
 set kindly = 
-set integererest = 
+set phone = 
 set nappy = 
 set fancy = 
 set natural = 
@@ -6188,7 +6188,7 @@ select square from rotten
 select thumb from discussion
 select blue from increase
 select compete from modern
-select integereresting from paddle
+select sky from paddle
 select appliance from spiky
 select ambitious from head
 select stretch from move
@@ -6207,7 +6207,7 @@ select boat from sand
 select note from wine
 select riddle from drop
 select erect from achiever
-select lame from integerernal
+select lame from net
 select inject from limit
 select desk from labored
 select tug from turn
@@ -6337,419 +6337,419 @@ select a,b,c from xuxu
 SELECT clients, id FROM x WHERE a = 1
 SELECT u FROM id WHERE x = 10
 SELECT clients, phone FROM x WHERE id = 10
-create function f(a integer) returns varchar(10)
-create function g(x integer)
-returns integer
+create function f(a int) returns varchar(10)
+create function g(x int)
+returns int 
 returns char(10)
 int
 double
-create function bia(taxa integer)
+create function bia(taxa int)
 create function bia
-create function note(test integer)
-create function loose(fetch integer) returns varchar(10)
-create function vegetable(slap integer) returns varchar(10)
-create function own(arm integer) returns varchar(10)
-create function wool(crowd integer) returns varchar(10)
-create function laugh(whisper integer) returns varchar(10)
-create function extend(carry integer) returns varchar(10)
-create function bulb(horse integer) returns varchar(10)
-create function responsible(judge integer) returns varchar(10)
-create function soap(uncle integer) returns varchar(10)
-create function waiting(rabbits integer) returns varchar(10)
-create function train(heavy integer) returns varchar(10)
-create function delirious(carriage integer) returns varchar(10)
-create function greedy(robust integer) returns varchar(10)
-create function claim(tap integer) returns varchar(10)
-create function ball(fry integer) returns varchar(10)
-create function bit(rely integer) returns varchar(10)
-create function plucky(dirt integer) returns varchar(10)
-create function wire(spill integer) returns varchar(10)
-create function minister(shop integer) returns varchar(10)
-create function late(pink integer) returns varchar(10)
-create function railway(abandoned integer) returns varchar(10)
-create function dizzy(cluttered integer) returns varchar(10)
-create function spot(tip integer) returns varchar(10)
-create function panicky(branch integer) returns varchar(10)
-create function mouth(mist integer) returns varchar(10)
-create function squeal(internal integer) returns varchar(10)
-create function size(nutritious integer) returns varchar(10)
-create function enchanting(stormy integer) returns varchar(10)
-create function wonder(colossal integer) returns varchar(10)
-create function moon(immense integer) returns varchar(10)
-create function smell(inject integer) returns varchar(10)
-create function hands(women integer) returns varchar(10)
-create function flashy(wooden integer) returns varchar(10)
-create function sticky(collect integer) returns varchar(10)
-create function regret(flower integer) returns varchar(10)
-create function fasten(credit integer) returns varchar(10)
-create function plough(smell integer) returns varchar(10)
-create function spark(tight integer) returns varchar(10)
-create function shallow(curl integer) returns varchar(10)
-create function hate(sack integer) returns varchar(10)
-create function branch(giant integer) returns varchar(10)
-create function flawless(office integer) returns varchar(10)
-create function important(burn integer) returns varchar(10)
-create function balance(distance integer) returns varchar(10)
-create function clap(defeated integer) returns varchar(10)
-create function verdant(search integer) returns varchar(10)
-create function explain(handsome integer) returns varchar(10)
-create function night(spare integer) returns varchar(10)
-create function scared(disillusioned integer) returns varchar(10)
-create function prickly(orange integer) returns varchar(10)
-create function aunt(word integer) returns varchar(10)
-create function trip(fancy integer) returns varchar(10)
-create function prick(group integer) returns varchar(10)
-create function end(vast integer) returns varchar(10)
-create function fluttering(move integer) returns varchar(10)
-create function questionable(consist integer) returns varchar(10)
-create function sparkling(destruction integer) returns varchar(10)
-create function disapprove(magenta integer) returns varchar(10)
-create function crush(bait integer) returns varchar(10)
-create function fear(zonked integer) returns varchar(10)
-create function geese(hallowed integer) returns varchar(10)
-create function spotty(observe integer) returns varchar(10)
-create function pause(milky integer) returns varchar(10)
-create function creature(upbeat integer) returns varchar(10)
-create function unite(agreeable integer) returns varchar(10)
-create function short(blueeyed integer) returns varchar(10)
-create function cautious(deadpan integer) returns varchar(10)
-create function boat(name integer) returns varchar(10)
-create function elegant(tree integer) returns varchar(10)
-create function gruesome(chubby integer) returns varchar(10)
-create function carve(love integer) returns varchar(10)
-create function street(test integer) returns varchar(10)
-create function kiss(horrible integer) returns varchar(10)
-create function bear(spell integer) returns varchar(10)
-create function saw(mess integer) returns varchar(10)
-create function frightened(jazzy integer) returns varchar(10)
-create function vacuous(redundant integer) returns varchar(10)
-create function teeth(worm integer) returns varchar(10)
-create function neck(combative integer) returns varchar(10)
-create function uppity(third integer) returns varchar(10)
-create function overjoyed(garrulous integer) returns varchar(10)
-create function beds(drip integer) returns varchar(10)
-create function substantial(fierce integer) returns varchar(10)
-create function live(smile integer) returns varchar(10)
-create function song(claim integer) returns varchar(10)
-create function welltodo(unused integer) returns varchar(10)
-create function ashamed(rough integer) returns varchar(10)
-create function plug(use integer) returns varchar(10)
-create function coal(empty integer) returns varchar(10)
-create function luxuriant(straight integer) returns varchar(10)
-create function summer(relieved integer) returns varchar(10)
-create function female(arrive integer) returns varchar(10)
-create function deadpan(sophisticated integer) returns varchar(10)
-create function command(mask integer) returns varchar(10)
-create function ritzy(bat integer) returns varchar(10)
-create function industry(frightening integer) returns varchar(10)
-create function start(mature integer) returns varchar(10)
-create function gun(soak integer) returns varchar(10)
-create function erect(divergent integer) returns varchar(10)
-create function time(piquant integer) returns varchar(10)
-create function list(sky integer) returns varchar(10)
-create function conscious(face integer) returns varchar(10)
-create function succinct(hardtofind integer) returns varchar(10)
-create function finger(stay integer) returns varchar(10)
-create function reminiscent(brash integer) returns varchar(10)
-create function icy(cloistered integer) returns varchar(10)
-create function trashy(illinformed integer) returns varchar(10)
-create function suffer(representative integer) returns varchar(10)
-create function vengeful(notebook integer) returns varchar(10)
-create function sulky(waggish integer) returns varchar(10)
-create function educate(giants integer) returns varchar(10)
-create function expansion(station integer) returns varchar(10)
-create function striped(spiffy integer) returns varchar(10)
-create function orange(nutty integer) returns varchar(10)
-create function attempt(visit integer) returns varchar(10)
-create function weak(poised integer) returns varchar(10)
-create function count(teaching integer) returns varchar(10)
-create function can(interrupt integer) returns varchar(10)
-create function mess(mountainous integer) returns varchar(10)
-create function assorted(merciful integer) returns varchar(10)
-create function grandfather(rice integer) returns varchar(10)
-create function envious(discover integer) returns varchar(10)
-create function legal(challenge integer) returns varchar(10)
-create function fireman(afford integer) returns varchar(10)
-create function labored(craven integer) returns varchar(10)
-create function curtain(disastrous integer) returns varchar(10)
-create function shoes(mixed integer) returns varchar(10)
-create function direction(bead integer) returns varchar(10)
-create function pest(changeable integer) returns varchar(10)
-create function incandescent(staking integer) returns varchar(10)
-create function blackandwhite(cakes integer) returns varchar(10)
-create function travel(paltry integer) returns varchar(10)
-create function zonked(marry integer) returns varchar(10)
-create function exuberant(feeling integer) returns varchar(10)
-create function parched(fortunate integer) returns varchar(10)
-create function belligerent(weigh integer) returns varchar(10)
-create function abject(protective integer) returns varchar(10)
-create function rainy(feeble integer) returns varchar(10)
-create function income(magic integer) returns varchar(10)
-create function marry(rod integer) returns varchar(10)
-create function structure(decorous integer) returns varchar(10)
-create function health(faulty integer) returns varchar(10)
-create function arrange(plane integer) returns varchar(10)
-create function unusual(year integer) returns varchar(10)
-create function scratch(fire integer) returns varchar(10)
-create function coat(same integer) returns varchar(10)
-create function mindless(tall integer) returns varchar(10)
-create function squealing(torpid integer) returns varchar(10)
-create function spiky(puncture integer) returns varchar(10)
-create function somber(hill integer) returns varchar(10)
-create function please(rest integer) returns varchar(10)
-create function payment(moaning integer) returns varchar(10)
-create function dream(acrid integer) returns varchar(10)
-create function cracker(special integer) returns varchar(10)
-create function shrug(mate integer) returns varchar(10)
-create function inquisitive(cattle integer) returns varchar(10)
-create function uttermost(quilt integer) returns varchar(10)
-create function children(juggle integer) returns varchar(10)
-create function husky(towering integer) returns varchar(10)
-create function detect(multiply integer) returns varchar(10)
-create function trains(quirky integer) returns varchar(10)
-create function shock(roll integer) returns varchar(10)
-create function jump(exotic integer) returns varchar(10)
-create function bare(grey integer) returns varchar(10)
-create function ugly(knee integer) returns varchar(10)
-create function heal(control integer) returns varchar(10)
-create function acidic(yielding integer) returns varchar(10)
-create function guard(smoke integer) returns varchar(10)
-create function exotic(wriggle integer) returns varchar(10)
-create function bed(arithmetic integer) returns varchar(10)
-create function dinosaurs(swanky integer) returns varchar(10)
-create function spoon(reduce integer) returns varchar(10)
-create function encourage(courageous integer) returns varchar(10)
-create function possess(glistening integer) returns varchar(10)
-create function abrasive(clean integer) returns varchar(10)
-create function ripe(greet integer) returns varchar(10)
-create function peaceful(gaping integer) returns varchar(10)
-create function cub(apathetic integer) returns varchar(10)
-create function fact(root integer) returns varchar(10)
-create function lunch(bubble integer) returns varchar(10)
-create function absent(kind integer) returns varchar(10)
-create function moaning(sister integer) returns varchar(10)
-create function imaginary(toothbrush integer) returns varchar(10)
-create function flap(charge integer) returns varchar(10)
-create function historical(history integer) returns varchar(10)
-create function dependent(girl integer) returns varchar(10)
-create function womanly(seemly integer) returns varchar(10)
-create function pleasant(whispering integer) returns varchar(10)
-create function relieved(bee integer) returns varchar(10)
-create function birthday(crib integer) returns varchar(10)
-create function tumble(slow integer) returns varchar(10)
-create function anger(hydrant integer) returns varchar(10)
-create function unbiased(pine integer) returns varchar(10)
-create function note(mundane integer) returns varchar(10)
-create function strap(bury integer) returns varchar(10)
-create function jittery(troubled integer) returns varchar(10)
-create function gratis(grandiose integer) returns varchar(10)
-create function invention(bucket integer) returns varchar(10)
-create function like(dust integer) returns varchar(10)
-create function trace(eggnog integer) returns varchar(10)
-create function cat(scratch integer) returns varchar(10)
-create function meal(name integer) returns varchar(10)
-create function efficacious(cat integer) returns varchar(10)
-create function miniature(squirrel integer) returns varchar(10)
-create function collect(adventurous integer) returns varchar(10)
-create function cool(bit integer) returns varchar(10)
-create function utter(earth integer) returns varchar(10)
-create function troubled(unknown integer) returns varchar(10)
-create function camp(beds integer) returns varchar(10)
-create function overt(trite integer) returns varchar(10)
-create function excited(flavor integer) returns varchar(10)
-create function lopsided(growth integer) returns varchar(10)
-create function lick(voice integer) returns varchar(10)
-create function morning(fowl integer) returns varchar(10)
-create function swim(depend integer) returns varchar(10)
-create function flowers(clap integer) returns varchar(10)
-create function hissing(jump integer) returns varchar(10)
-create function dime(spark integer) returns varchar(10)
-create function shelter(night integer) returns varchar(10)
-create function chew(natural integer) returns varchar(10)
-create function lie(tangible integer) returns varchar(10)
-create function harass(cars integer) returns varchar(10)
-create function thin(kindly integer) returns varchar(10)
-create function hanging(sprout integer) returns varchar(10)
-create function aftermath(closed integer) returns varchar(10)
-create function multiply(fallacious integer) returns varchar(10)
-create function educated(space integer) returns varchar(10)
-create function piquant(lavish integer) returns varchar(10)
-create function current(sparkling integer) returns varchar(10)
-create function reading(economic integer) returns varchar(10)
-create function stiff(gabby integer) returns varchar(10)
-create function amuse(smelly integer) returns varchar(10)
-create function simple(winter integer) returns varchar(10)
-create function famous(knowledge integer) returns varchar(10)
-create function protect(onerous integer) returns varchar(10)
-create function rule(taboo integer) returns varchar(10)
-create function close(lowly integer) returns varchar(10)
-create function dry(confuse integer) returns varchar(10)
-create function part(yoke integer) returns varchar(10)
-create function alert(duck integer) returns varchar(10)
-create function comfortable(park integer) returns varchar(10)
-create function blind(hammer integer) returns varchar(10)
-create function tooth(superficial integer) returns varchar(10)
-create function aspiring(unequal integer) returns varchar(10)
-create function roll(sign integer) returns varchar(10)
-create function unbecoming(profuse integer) returns varchar(10)
-create function pathetic(wander integer) returns varchar(10)
-create function lake(obtain integer) returns varchar(10)
-create function scale(exist integer) returns varchar(10)
-create function dull(itch integer) returns varchar(10)
-create function cooperative(past integer) returns varchar(10)
-create function steam(saw integer) returns varchar(10)
-create function believe(worry integer) returns varchar(10)
-create function desk(mourn integer) returns varchar(10)
-create function stir(leather integer) returns varchar(10)
-create function nutty(attraction integer) returns varchar(10)
-create function violet(damage integer) returns varchar(10)
-create function highpitched(outstanding integer) returns varchar(10)
-create function label(silent integer) returns varchar(10)
-create function soak(funny integer) returns varchar(10)
-create function lock(part integer) returns varchar(10)
-create function woman(cause integer) returns varchar(10)
-create function argument(lethal integer) returns varchar(10)
-create function courageous(invite integer) returns varchar(10)
-create function threatening(snail integer) returns varchar(10)
-create function trail(unhealthy integer) returns varchar(10)
-create function ragged(entertain integer) returns varchar(10)
-create function quack(loving integer) returns varchar(10)
-create function wink(doctor integer) returns varchar(10)
-create function match(pancake integer) returns varchar(10)
-create function squeamish(record integer) returns varchar(10)
-create function sound(truck integer) returns varchar(10)
-create function loss(peel integer) returns varchar(10)
-create function screw(egg integer) returns varchar(10)
-create function selfish(kiss integer) returns varchar(10)
-create function sack(aboard integer) returns varchar(10)
-create function park(party integer) returns varchar(10)
-create function fall(friend integer) returns varchar(10)
-create function resolute(fork integer) returns varchar(10)
-create function trite(cooing integer) returns varchar(10)
-create function deceive(ignorant integer) returns varchar(10)
-create function decide(heady integer) returns varchar(10)
-create function add(engine integer) returns varchar(10)
-create function development(minor integer) returns varchar(10)
-create function level(film integer) returns varchar(10)
-create function listen(tin integer) returns varchar(10)
-create function clam(texture integer) returns varchar(10)
-create function healthy(lumber integer) returns varchar(10)
-create function four(writer integer) returns varchar(10)
-create function coach(oldfashioned integer) returns varchar(10)
-create function zinc(snotty integer) returns varchar(10)
-create function knowing(three integer) returns varchar(10)
-create function string(behave integer) returns varchar(10)
-create function satisfy(erratic integer) returns varchar(10)
-create function star(secondhand integer) returns varchar(10)
-create function brash(plot integer) returns varchar(10)
-create function spill(daughter integer) returns varchar(10)
-create function faithful(suppose integer) returns varchar(10)
-create function statuesque(blackandwhite integer) returns varchar(10)
-create function waste(sedate integer) returns varchar(10)
+create function note(test int)
+create function loose(fetch int) returns varchar(10)
+create function vegetable(slap int) returns varchar(10)
+create function own(arm int) returns varchar(10)
+create function wool(crowd int) returns varchar(10)
+create function laugh(whisper int) returns varchar(10)
+create function extend(carry int) returns varchar(10)
+create function bulb(horse int) returns varchar(10)
+create function responsible(judge int) returns varchar(10)
+create function soap(uncle int) returns varchar(10)
+create function waiting(rabbits int) returns varchar(10)
+create function train(heavy int) returns varchar(10)
+create function delirious(carriage int) returns varchar(10)
+create function greedy(robust int) returns varchar(10)
+create function claim(tap int) returns varchar(10)
+create function ball(fry int) returns varchar(10)
+create function bit(rely int) returns varchar(10)
+create function plucky(dirt int) returns varchar(10)
+create function wire(spill int) returns varchar(10)
+create function minister(shop int) returns varchar(10)
+create function late(pink int) returns varchar(10)
+create function railway(abandoned int) returns varchar(10)
+create function dizzy(cluttered int) returns varchar(10)
+create function spot(tip int) returns varchar(10)
+create function panicky(branch int) returns varchar(10)
+create function mouth(mist int) returns varchar(10)
+create function squeal(internal int) returns varchar(10)
+create function size(nutritious int) returns varchar(10)
+create function enchanting(stormy int) returns varchar(10)
+create function wonder(colossal int) returns varchar(10)
+create function moon(immense int) returns varchar(10)
+create function smell(inject int) returns varchar(10)
+create function hands(women int) returns varchar(10)
+create function flashy(wooden int) returns varchar(10)
+create function sticky(collect int) returns varchar(10)
+create function regret(flower int) returns varchar(10)
+create function fasten(credit int) returns varchar(10)
+create function plough(smell int) returns varchar(10)
+create function spark(tight int) returns varchar(10)
+create function shallow(curl int) returns varchar(10)
+create function hate(sack int) returns varchar(10)
+create function branch(giant int) returns varchar(10)
+create function flawless(office int) returns varchar(10)
+create function important(burn int) returns varchar(10)
+create function balance(distance int) returns varchar(10)
+create function clap(defeated int) returns varchar(10)
+create function verdant(search int) returns varchar(10)
+create function explain(handsome int) returns varchar(10)
+create function night(spare int) returns varchar(10)
+create function scared(disillusioned int) returns varchar(10)
+create function prickly(orange int) returns varchar(10)
+create function aunt(word int) returns varchar(10)
+create function trip(fancy int) returns varchar(10)
+create function prick(group int) returns varchar(10)
+create function end(vast int) returns varchar(10)
+create function fluttering(move int) returns varchar(10)
+create function questionable(consist int) returns varchar(10)
+create function sparkling(destruction int) returns varchar(10)
+create function disapprove(magenta int) returns varchar(10)
+create function crush(bait int) returns varchar(10)
+create function fear(zonked int) returns varchar(10)
+create function geese(hallowed int) returns varchar(10)
+create function spotty(observe int) returns varchar(10)
+create function pause(milky int) returns varchar(10)
+create function creature(upbeat int) returns varchar(10)
+create function unite(agreeable int) returns varchar(10)
+create function short(blueeyed int) returns varchar(10)
+create function cautious(deadpan int) returns varchar(10)
+create function boat(name int) returns varchar(10)
+create function elegant(tree int) returns varchar(10)
+create function gruesome(chubby int) returns varchar(10)
+create function carve(love int) returns varchar(10)
+create function street(test int) returns varchar(10)
+create function kiss(horrible int) returns varchar(10)
+create function bear(spell int) returns varchar(10)
+create function saw(mess int) returns varchar(10)
+create function frightened(jazzy int) returns varchar(10)
+create function vacuous(redundant int) returns varchar(10)
+create function teeth(worm int) returns varchar(10)
+create function neck(combative int) returns varchar(10)
+create function uppity(third int) returns varchar(10)
+create function overjoyed(garrulous int) returns varchar(10)
+create function beds(drip int) returns varchar(10)
+create function substantial(fierce int) returns varchar(10)
+create function live(smile int) returns varchar(10)
+create function song(claim int) returns varchar(10)
+create function welltodo(unused int) returns varchar(10)
+create function ashamed(rough int) returns varchar(10)
+create function plug(use int) returns varchar(10)
+create function coal(empty int) returns varchar(10)
+create function luxuriant(straight int) returns varchar(10)
+create function summer(relieved int) returns varchar(10)
+create function female(arrive int) returns varchar(10)
+create function deadpan(sophisticated int) returns varchar(10)
+create function command(mask int) returns varchar(10)
+create function ritzy(bat int) returns varchar(10)
+create function industry(frightening int) returns varchar(10)
+create function start(mature int) returns varchar(10)
+create function gun(soak int) returns varchar(10)
+create function erect(divergent int) returns varchar(10)
+create function time(piquant int) returns varchar(10)
+create function list(sky int) returns varchar(10)
+create function conscious(face int) returns varchar(10)
+create function succinct(hardtofind int) returns varchar(10)
+create function finger(stay int) returns varchar(10)
+create function reminiscent(brash int) returns varchar(10)
+create function icy(cloistered int) returns varchar(10)
+create function trashy(illinformed int) returns varchar(10)
+create function suffer(representative int) returns varchar(10)
+create function vengeful(notebook int) returns varchar(10)
+create function sulky(waggish int) returns varchar(10)
+create function educate(giants int) returns varchar(10)
+create function expansion(station int) returns varchar(10)
+create function striped(spiffy int) returns varchar(10)
+create function orange(nutty int) returns varchar(10)
+create function attempt(visit int) returns varchar(10)
+create function weak(poised int) returns varchar(10)
+create function count(teaching int) returns varchar(10)
+create function can(interrupt int) returns varchar(10)
+create function mess(mountainous int) returns varchar(10)
+create function assorted(merciful int) returns varchar(10)
+create function grandfather(rice int) returns varchar(10)
+create function envious(discover int) returns varchar(10)
+create function legal(challenge int) returns varchar(10)
+create function fireman(afford int) returns varchar(10)
+create function labored(craven int) returns varchar(10)
+create function curtain(disastrous int) returns varchar(10)
+create function shoes(mixed int) returns varchar(10)
+create function direction(bead int) returns varchar(10)
+create function pest(changeable int) returns varchar(10)
+create function incandescent(staking int) returns varchar(10)
+create function blackandwhite(cakes int) returns varchar(10)
+create function travel(paltry int) returns varchar(10)
+create function zonked(marry int) returns varchar(10)
+create function exuberant(feeling int) returns varchar(10)
+create function parched(fortunate int) returns varchar(10)
+create function belligerent(weigh int) returns varchar(10)
+create function abject(protective int) returns varchar(10)
+create function rainy(feeble int) returns varchar(10)
+create function income(magic int) returns varchar(10)
+create function marry(rod int) returns varchar(10)
+create function structure(decorous int) returns varchar(10)
+create function health(faulty int) returns varchar(10)
+create function arrange(plane int) returns varchar(10)
+create function unusual(year int) returns varchar(10)
+create function scratch(fire int) returns varchar(10)
+create function coat(same int) returns varchar(10)
+create function mindless(tall int) returns varchar(10)
+create function squealing(torpid int) returns varchar(10)
+create function spiky(puncture int) returns varchar(10)
+create function somber(hill int) returns varchar(10)
+create function please(rest int) returns varchar(10)
+create function payment(moaning int) returns varchar(10)
+create function dream(acrid int) returns varchar(10)
+create function cracker(special int) returns varchar(10)
+create function shrug(mate int) returns varchar(10)
+create function inquisitive(cattle int) returns varchar(10)
+create function uttermost(quilt int) returns varchar(10)
+create function children(juggle int) returns varchar(10)
+create function husky(towering int) returns varchar(10)
+create function detect(multiply int) returns varchar(10)
+create function trains(quirky int) returns varchar(10)
+create function shock(roll int) returns varchar(10)
+create function jump(exotic int) returns varchar(10)
+create function bare(grey int) returns varchar(10)
+create function ugly(knee int) returns varchar(10)
+create function heal(control int) returns varchar(10)
+create function acidic(yielding int) returns varchar(10)
+create function guard(smoke int) returns varchar(10)
+create function exotic(wriggle int) returns varchar(10)
+create function bed(arithmetic int) returns varchar(10)
+create function dinosaurs(swanky int) returns varchar(10)
+create function spoon(reduce int) returns varchar(10)
+create function encourage(courageous int) returns varchar(10)
+create function possess(glistening int) returns varchar(10)
+create function abrasive(clean int) returns varchar(10)
+create function ripe(greet int) returns varchar(10)
+create function peaceful(gaping int) returns varchar(10)
+create function cub(apathetic int) returns varchar(10)
+create function fact(root int) returns varchar(10)
+create function lunch(bubble int) returns varchar(10)
+create function absent(kind int) returns varchar(10)
+create function moaning(sister int) returns varchar(10)
+create function imaginary(toothbrush int) returns varchar(10)
+create function flap(charge int) returns varchar(10)
+create function historical(history int) returns varchar(10)
+create function dependent(girl int) returns varchar(10)
+create function womanly(seemly int) returns varchar(10)
+create function pleasant(whispering int) returns varchar(10)
+create function relieved(bee int) returns varchar(10)
+create function birthday(crib int) returns varchar(10)
+create function tumble(slow int) returns varchar(10)
+create function anger(hydrant int) returns varchar(10)
+create function unbiased(pine int) returns varchar(10)
+create function note(mundane int) returns varchar(10)
+create function strap(bury int) returns varchar(10)
+create function jittery(troubled int) returns varchar(10)
+create function gratis(grandiose int) returns varchar(10)
+create function invention(bucket int) returns varchar(10)
+create function like(dust int) returns varchar(10)
+create function trace(eggnog int) returns varchar(10)
+create function cat(scratch int) returns varchar(10)
+create function meal(name int) returns varchar(10)
+create function efficacious(cat int) returns varchar(10)
+create function miniature(squirrel int) returns varchar(10)
+create function collect(adventurous int) returns varchar(10)
+create function cool(bit int) returns varchar(10)
+create function utter(earth int) returns varchar(10)
+create function troubled(unknown int) returns varchar(10)
+create function camp(beds int) returns varchar(10)
+create function overt(trite int) returns varchar(10)
+create function excited(flavor int) returns varchar(10)
+create function lopsided(growth int) returns varchar(10)
+create function lick(voice int) returns varchar(10)
+create function morning(fowl int) returns varchar(10)
+create function swim(depend int) returns varchar(10)
+create function flowers(clap int) returns varchar(10)
+create function hissing(jump int) returns varchar(10)
+create function dime(spark int) returns varchar(10)
+create function shelter(night int) returns varchar(10)
+create function chew(natural int) returns varchar(10)
+create function lie(tangible int) returns varchar(10)
+create function harass(cars int) returns varchar(10)
+create function thin(kindly int) returns varchar(10)
+create function hanging(sprout int) returns varchar(10)
+create function aftermath(closed int) returns varchar(10)
+create function multiply(fallacious int) returns varchar(10)
+create function educated(space int) returns varchar(10)
+create function piquant(lavish int) returns varchar(10)
+create function current(sparkling int) returns varchar(10)
+create function reading(economic int) returns varchar(10)
+create function stiff(gabby int) returns varchar(10)
+create function amuse(smelly int) returns varchar(10)
+create function simple(winter int) returns varchar(10)
+create function famous(knowledge int) returns varchar(10)
+create function protect(onerous int) returns varchar(10)
+create function rule(taboo int) returns varchar(10)
+create function close(lowly int) returns varchar(10)
+create function dry(confuse int) returns varchar(10)
+create function part(yoke int) returns varchar(10)
+create function alert(duck int) returns varchar(10)
+create function comfortable(park int) returns varchar(10)
+create function blind(hammer int) returns varchar(10)
+create function tooth(superficial int) returns varchar(10)
+create function aspiring(unequal int) returns varchar(10)
+create function roll(sign int) returns varchar(10)
+create function unbecoming(profuse int) returns varchar(10)
+create function pathetic(wander int) returns varchar(10)
+create function lake(obtain int) returns varchar(10)
+create function scale(exist int) returns varchar(10)
+create function dull(itch int) returns varchar(10)
+create function cooperative(past int) returns varchar(10)
+create function steam(saw int) returns varchar(10)
+create function believe(worry int) returns varchar(10)
+create function desk(mourn int) returns varchar(10)
+create function stir(leather int) returns varchar(10)
+create function nutty(attraction int) returns varchar(10)
+create function violet(damage int) returns varchar(10)
+create function highpitched(outstanding int) returns varchar(10)
+create function label(silent int) returns varchar(10)
+create function soak(funny int) returns varchar(10)
+create function lock(part int) returns varchar(10)
+create function woman(cause int) returns varchar(10)
+create function argument(lethal int) returns varchar(10)
+create function courageous(invite int) returns varchar(10)
+create function threatening(snail int) returns varchar(10)
+create function trail(unhealthy int) returns varchar(10)
+create function ragged(entertain int) returns varchar(10)
+create function quack(loving int) returns varchar(10)
+create function wink(doctor int) returns varchar(10)
+create function match(pancake int) returns varchar(10)
+create function squeamish(record int) returns varchar(10)
+create function sound(truck int) returns varchar(10)
+create function loss(peel int) returns varchar(10)
+create function screw(egg int) returns varchar(10)
+create function selfish(kiss int) returns varchar(10)
+create function sack(aboard int) returns varchar(10)
+create function park(party int) returns varchar(10)
+create function fall(friend int) returns varchar(10)
+create function resolute(fork int) returns varchar(10)
+create function trite(cooing int) returns varchar(10)
+create function deceive(ignorant int) returns varchar(10)
+create function decide(heady int) returns varchar(10)
+create function add(engine int) returns varchar(10)
+create function development(minor int) returns varchar(10)
+create function level(film int) returns varchar(10)
+create function listen(tin int) returns varchar(10)
+create function clam(texture int) returns varchar(10)
+create function healthy(lumber int) returns varchar(10)
+create function four(writer int) returns varchar(10)
+create function coach(oldfashioned int) returns varchar(10)
+create function zinc(snotty int) returns varchar(10)
+create function knowing(three int) returns varchar(10)
+create function string(behave int) returns varchar(10)
+create function satisfy(erratic int) returns varchar(10)
+create function star(secondhand int) returns varchar(10)
+create function brash(plot int) returns varchar(10)
+create function spill(daughter int) returns varchar(10)
+create function faithful(suppose int) returns varchar(10)
+create function statuesque(blackandwhite int) returns varchar(10)
+create function waste(sedate int) returns varchar(10)
 create function
 create
 returns
 varchar(10)
 returns varchar(10)
-create function p(x integer)
-function p(a integer)
-function test(hi integer)
-function proc(pres integer)
-function sp(mg integer)
-function pa(bh integer)
-function leit(empr integer)
-function rend(trib integer)
-function pa(aa integer)
-function testa(hia integer)
-function proca(presa integer)
-function spa(mga integer)
-function paa(bha integer)
-function leita(empra integer)
-function renda(triba integer)
-(a integer)
-(b integer)
-(c integer)
-(d integer)
-(e integer)
-(f integer)
-(g integer)
-(h integer)
-(i integer)
-(j integer)
-(k integer)
-(l integer)
-(m integer)
-(n integer)
-(o integer)
-(p integer)
-(q integer)
-(r integer)
-(s integer)
-(t integer)
-(aa integer)
-(ba integer)
-(ca integer)
-(da integer)
-(ea integer)
-(fa integer)
-(ga integer)
-(ha integer)
-(ia integer)
-(ja integer)
-(ka integer)
-(la integer)
-(ma integer)
-(na integer)
-(oa integer)
-(pa integer)
-(qa integer)
-(ra integer)
-(sa integer)
-(ta integer)
-(as integer)
-(bs integer)
-(cs integer)
-(ds integer)
-(es integer)
-(fs integer)
-(gs integer)
-(hs integer)
-(is integer)
-(js integer)
-(ks integer)
-(ls integer)
-(ms integer)
-(ns integer)
-(os integer)
-(ps integer)
-(qs integer)
-(rs integer)
-(ss integer)
-(ts integer)
-(aq integer)
-(bq integer)
-(cq integer)
-(dq integer)
-(eq integer)
-film(par integer)
-film(b integer)
-film(a integer)
-film(c integer)
-film(d integer)
-film(e integer)
-film(f integer)
-film(g integer)
-film(h integer)
-film(i integer)
-note(ca integer)
-note(ce integer)
-note(ci integer)
-note(co integer)
-note(da integer)
-note(de integer)
-note(di integer)
-note(do integer)
-note(du integer)
+create function p(x int)
+function p(a int)
+function test(hi int)
+function proc(pres int)
+function sp(mg int)
+function pa(bh int)
+function leit(empr int)
+function rend(trib int)
+function pa(aa int)
+function testa(hia int)
+function proca(presa int)
+function spa(mga int)
+function paa(bha int)
+function leita(empra int)
+function renda(triba int)
+(a int)
+(b int)
+(c int)
+(d int)
+(e int)
+(f int)
+(g int)
+(h int)
+(i int)
+(j int)
+(k int)
+(l int)
+(m int)
+(n int)
+(o int)
+(p int)
+(q int)
+(r int)
+(s int)
+(t int)
+(aa int)
+(ba int)
+(ca int)
+(da int)
+(ea int)
+(fa int)
+(ga int)
+(ha int)
+(ia int)
+(ja int)
+(ka int)
+(la int)
+(ma int)
+(na int)
+(oa int)
+(pa int)
+(qa int)
+(ra int)
+(sa int)
+(ta int)
+(as int)
+(bs int)
+(cs int)
+(ds int)
+(es int)
+(fs int)
+(gs int)
+(hs int)
+(is int)
+(js int)
+(ks int)
+(ls int)
+(ms int)
+(ns int)
+(os int)
+(ps int)
+(qs int)
+(rs int)
+(ss int)
+(ts int)
+(aq int)
+(bq int)
+(cq int)
+(dq int)
+(eq int)
+film(par int)
+film(b int)
+film(a int)
+film(c int)
+film(d int)
+film(e int)
+film(f int)
+film(g int)
+film(h int)
+film(i int)
+note(ca int)
+note(ce int)
+note(ci int)
+note(co int)
+note(da int)
+note(de int)
+note(di int)
+note(do int)
+note(du int)
 returns
 varchar(10)
 returns
@@ -6796,206 +6796,206 @@ returns
 varchar(10)
 returns
 varchar(10)
-declare mine integer
-declare nonstop integer
-declare toothpaste integer
-declare recondite integer
-declare wideeyed integer
-declare warlike integer
-declare tame integer
-declare promise integer
-declare turn integer
-declare glue integer
-declare milk integer
-declare agree integer
-declare obscene integer
-declare curve integer
-declare sheet integer
-declare regret integer
-declare illustrious integer
-declare repulsive integer
-declare cute integer
-declare nutritious integer
-declare willing integer
-declare steadfast integer
-declare brainy integer
-declare correct integer
-declare bath integer
-declare sail integer
-declare funny integer
-declare yummy integer
-declare married integer
-declare receive integer
-declare structure integer
-declare skin integer
-declare float integer
-declare steer integer
-declare cushion integer
-declare seal integer
-declare challenge integer
-declare tenuous integer
-declare satisfying integer
-declare wrench integer
-declare division integer
-declare rod integer
-declare false integer
-declare bat integer
-declare furtive integer
-declare soggy integer
-declare teeny integer
-declare curious integer
-declare graceful integer
-declare itchy integer
-declare marked integer
-declare nervous integer
-declare whirl integer
-declare degree integer
-declare scream integer
-declare hop integer
-declare daily integer
-declare scarce integer
-declare hammer integer
-declare produce integer
-declare care integer
-declare cover integer
-declare fresh integer
-declare arm integer
-declare guttural integer
-declare quartz integer
-declare ajar integer
-declare judge integer
-declare excellent integer
-declare simplistic integer
-declare anger integer
-declare sun integer
-declare science integer
-declare press integer
-declare longterm integer
-declare earth integer
-declare ambitious integer
-declare greet integer
-declare wet integer
-declare threatening integer
-declare argument integer
-declare boundary integer
-declare capricious integer
-declare machine integer
-declare rude integer
-declare accidental integer
-declare telephone integer
-declare choke integer
-declare changeable integer
-declare fall integer
-declare mate integer
-declare push integer
-declare even integer
-declare righteous integer
-declare noisy integer
-declare cold integer
-declare meal integer
-declare bridge integer
-declare peel integer
-declare expensive integer
-declare basket integer
-declare ear integer
-declare scold integer
-declare calculate integer
-declare lucky integer
-declare merciful integer
-declare guarded integer
-declare protest integer
-declare trip integer
-declare divide integer
-declare tempt integer
-declare boorish integer
-declare muscle integer
-declare grotesque integer
-declare hypnotic integer
-declare babies integer
-declare pull integer
-declare crow integer
-declare wood integer
-declare discreet integer
-declare rush integer
-declare wretched integer
-declare far integer
-declare burly integer
-declare rainstorm integer
-declare foot integer
-declare income integer
-declare snow integer
-declare print integer
-declare wave integer
-declare dolls integer
-declare alert integer
-declare harass integer
-declare jail integer
-declare reign integer
-declare sneeze integer
-declare expansion integer
-declare garrulous integer
-declare stay integer
-declare muddle integer
-declare nauseating integer
-declare stick integer
-declare impress integer
-declare puny integer
-declare bored integer
-declare fix integer
-declare agonizing integer
-declare hat integer
-declare coast integer
-declare fireman integer
-declare obtain integer
-declare blackandwhite integer
-declare metal integer
-declare quaint integer
-declare wash integer
-declare addicted integer
-declare society integer
-declare aware integer
-declare birth integer
-declare rub integer
-declare train integer
-declare tightfisted integer
-declare innocent integer
-declare sink integer
-declare clover integer
-declare calculating integer
-declare dirty integer
-declare squalid integer
-declare rub integer
-declare fly integer
-declare precede integer
-declare join integer
-declare stomach integer
-declare pump integer
-declare call integer
-declare perpetual integer
-declare orange integer
-declare oldfashioned integer
-declare permit integer
-declare political integer
-declare attract integer
-declare wooden integer
-declare arrest integer
-declare sweet integer
-declare disapprove integer
-declare disagree integer
-declare grain integer
-declare word integer
-declare cruel integer
-declare tedious integer
-declare fasten integer
-declare name integer
-declare health integer
-declare branch integer
-declare welltodo integer
-declare ring integer
-declare angry integer
-declare brash integer
-declare underwear integer
-declare playground integer
+declare mine int 
+declare nonstop int 
+declare toothpaste int 
+declare recondite int 
+declare wideeyed int 
+declare warlike int 
+declare tame int 
+declare promise int 
+declare turn int 
+declare glue int 
+declare milk int 
+declare agree int 
+declare obscene int 
+declare curve int 
+declare sheet int 
+declare regret int 
+declare illustrious int 
+declare repulsive int 
+declare cute int 
+declare nutritious int 
+declare willing int 
+declare steadfast int 
+declare brainy int 
+declare correct int 
+declare bath int 
+declare sail int 
+declare funny int 
+declare yummy int 
+declare married int 
+declare receive int 
+declare structure int 
+declare skin int 
+declare float int 
+declare steer int 
+declare cushion int 
+declare seal int 
+declare challenge int 
+declare tenuous int 
+declare satisfying int 
+declare wrench int 
+declare division int 
+declare rod int 
+declare false int 
+declare bat int 
+declare furtive int 
+declare soggy int 
+declare teeny int 
+declare curious int 
+declare graceful int 
+declare itchy int 
+declare marked int 
+declare nervous int 
+declare whirl int 
+declare degree int 
+declare scream int 
+declare hop int 
+declare daily int 
+declare scarce int 
+declare hammer int 
+declare produce int 
+declare care int 
+declare cover int 
+declare fresh int 
+declare arm int 
+declare guttural int 
+declare quartz int 
+declare ajar int 
+declare judge int 
+declare excellent int 
+declare simplistic int 
+declare anger int 
+declare sun int 
+declare science int 
+declare press int 
+declare longterm int 
+declare earth int 
+declare ambitious int 
+declare greet int 
+declare wet int 
+declare threatening int 
+declare argument int 
+declare boundary int 
+declare capricious int 
+declare machine int 
+declare rude int 
+declare accidental int 
+declare telephone int 
+declare choke int 
+declare changeable int 
+declare fall int 
+declare mate int 
+declare push int 
+declare even int 
+declare righteous int 
+declare noisy int 
+declare cold int 
+declare meal int 
+declare bridge int 
+declare peel int 
+declare expensive int 
+declare basket int 
+declare ear int 
+declare scold int 
+declare calculate int 
+declare lucky int 
+declare merciful int 
+declare guarded int 
+declare protest int 
+declare trip int 
+declare divide int 
+declare tempt int 
+declare boorish int 
+declare muscle int 
+declare grotesque int 
+declare hypnotic int 
+declare babies int 
+declare pull int 
+declare crow int 
+declare wood int 
+declare discreet int 
+declare rush int 
+declare wretched int 
+declare far int 
+declare burly int 
+declare rainstorm int 
+declare foot int 
+declare income int 
+declare snow int 
+declare print int 
+declare wave int 
+declare dolls int 
+declare alert int 
+declare harass int 
+declare jail int 
+declare reign int 
+declare sneeze int 
+declare expansion int 
+declare garrulous int 
+declare stay int 
+declare muddle int 
+declare nauseating int 
+declare stick int 
+declare impress int 
+declare puny int 
+declare bored int 
+declare fix int 
+declare agonizing int 
+declare hat int 
+declare coast int 
+declare fireman int 
+declare obtain int 
+declare blackandwhite int 
+declare metal int 
+declare quaint int 
+declare wash int 
+declare addicted int 
+declare society int 
+declare aware int 
+declare birth int 
+declare rub int 
+declare train int 
+declare tightfisted int 
+declare innocent int 
+declare sink int 
+declare clover int 
+declare calculating int 
+declare dirty int 
+declare squalid int 
+declare rub int 
+declare fly int 
+declare precede int 
+declare join int 
+declare stomach int 
+declare pump int 
+declare call int 
+declare perpetual int 
+declare orange int 
+declare oldfashioned int 
+declare permit int 
+declare political int 
+declare attract int 
+declare wooden int 
+declare arrest int 
+declare sweet int 
+declare disapprove int 
+declare disagree int 
+declare grain int 
+declare word int 
+declare cruel int 
+declare tedious int 
+declare fasten int 
+declare name int 
+declare health int 
+declare branch int 
+declare welltodo int 
+declare ring int 
+declare angry int 
+declare brash int 
+declare underwear int 
+declare playground int 
 declare switch varchar(10)
 declare face varchar(10)
 declare unfasten varchar(10)
@@ -7015,7 +7015,7 @@ declare half varchar(10)
 declare many varchar(10)
 declare careless varchar(10)
 declare succinct varchar(10)
-declare integererfere varchar(10)
+declare test varchar(10)
 declare knit varchar(10)
 declare rice varchar(10)
 declare bow varchar(10)
@@ -7146,7 +7146,7 @@ declare seashore varchar(10)
 declare force varchar(10)
 declare throne varchar(10)
 declare slope varchar(10)
-declare integerelligent varchar(10)
+declare shoes varchar(10)
 declare distance varchar(10)
 declare sign varchar(10)
 declare time varchar(10)
@@ -7166,7 +7166,7 @@ declare axiomatic varchar(10)
 declare scientific varchar(10)
 declare pen varchar(10)
 declare play varchar(10)
-declare integereresting varchar(10)
+declare black varchar(10)
 declare mine varchar(10)
 declare deliver varchar(10)
 declare turn varchar(10)
@@ -7262,1207 +7262,1207 @@ else
 else
 else
 else
-function food(precede integer)
-function powerful(burst integer)
-function futuristic(group integer)
-function hate(slave integer)
-function nest(cry integer)
-function refuse(quince integer)
-function kindhearted(common integer)
-function great(car integer)
-function strong(clover integer)
-function strange(error integer)
-function hole(teaching integer)
-function splendid(omniscient integer)
-function vigorous(moan integer)
-function kiss(judge integer)
-function chemical(labored integer)
-function smash(oatmeal integer)
-function own(knowing integer)
-function company(bait integer)
-function square(foot integer)
-function organic(elderly integer)
-function pets(brick integer)
-function fluffy(quarrelsome integer)
-function first(punish integer)
-function rain(appear integer)
-function plough(march integer)
-function imminent(broad integer)
-function shade(place integer)
-function match(nebulous integer)
-function flowers(colossal integer)
-function doubt(tense integer)
-function zippy(curvy integer)
-function skin(knowledgeable integer)
-function grubby(shoe integer)
-function porter(feeble integer)
-function advertisement(example integer)
-function spade(food integer)
-function savory(difficult integer)
-function trip(current integer)
-function feeling(rain integer)
-function chalk(pull integer)
-function attractive(wrist integer)
-function please(property integer)
-function shirt(treatment integer)
-function chilly(fly integer)
-function wood(thirsty integer)
-function cluttered(high integer)
-function festive(evanescent integer)
-function glue(memory integer)
-function bucket(dysfunctional integer)
-function pin(name integer)
-function limit(addition integer)
-function delight(slap integer)
-function stale(health integer)
-function shivering(frightening integer)
-function knowing(giddy integer)
-function neat(suppose integer)
-function ahead(invite integer)
-function parallel(level integer)
-function lyrical(value integer)
-function roll(tasteful integer)
-function confused(vacation integer)
-function fog(elated integer)
-function hook(airport integer)
-function winter(organic integer)
-function distinct(fluttering integer)
-function tour(robust integer)
-function extrasmall(trouble integer)
-function illustrious(transport integer)
-function skate(army integer)
-function nimble(brown integer)
-function swanky(farm integer)
-function rock(room integer)
-function government(hilarious integer)
-function smiling(smile integer)
-function snobbish(dance integer)
-function jagged(crash integer)
-function copy(suit integer)
-function bathe(crush integer)
-function scale(sofa integer)
-function hair(slope integer)
-function lock(terrify integer)
-function abounding(oceanic integer)
-function purring(sheet integer)
-function wren(gainful integer)
-function homeless(fancy integer)
-function psychotic(grateful integer)
-function end(various integer)
-function disgusting(dinner integer)
-function damp(call integer)
-function hum(loaf integer)
-function snatch(paint integer)
-function writer(front integer)
-function cracker(rub integer)
-function stretch(crack integer)
-function order(puzzled integer)
-function erratic(null integer)
-function one(certain integer)
-function safe(road integer)
-function check(club integer)
-function delay(absorbing integer)
-function dogs(evasive integer)
-function trust(arrest integer)
-function desire(ground integer)
-function greedy(colorful integer)
-function square(spicy integer)
-function market(steep integer)
-function snake(wrench integer)
-function lowly(inconclusive integer)
-function deserted(stupid integer)
-function minute(fresh integer)
-function opposite(rhyme integer)
-function creepy(dull integer)
-function cheap(slow integer)
-function store(mist integer)
-function memorise(pin integer)
-function breathe(sea integer)
-function various(death integer)
-function trade(obey integer)
-function guess(angle integer)
-function bright(land integer)
-function credit(abiding integer)
-function space(year integer)
-function dispensable(fallacious integer)
-function place(waggish integer)
-function hilarious(highfalutin integer)
-function stop(knife integer)
-function religion(acceptable integer)
-function tremendous(synonymous integer)
-function quickest(drown integer)
-function efficacious(behavior integer)
-function tawdry(long integer)
-function troubled(store integer)
-function female(sloppy integer)
-function sable(bite integer)
-function oranges(lamentable integer)
-function economic(follow integer)
-function flowery(suggest integer)
-function effect(mass integer)
-function capable(lunch integer)
-function draconian(morning integer)
-function tick(bikes integer)
-function hot(expensive integer)
-function cast(puffy integer)
-function level(screeching integer)
-function vivacious(pipe integer)
-function kittens(walk integer)
-function bee(longterm integer)
-function self(thaw integer)
-function plant(things integer)
-function anger(ablaze integer)
-function cultured(history integer)
-function bushes(degree integer)
-function kitty(blush integer)
-function steady(sun integer)
-function clear(shade integer)
-function deeply(launch integer)
-function nutty(cute integer)
-function gleaming(mysterious integer)
-function stretch(poised integer)
-function amusing(change integer)
-function nappy(abundant integer)
-function scary(grubby integer)
-function stupid(cheerful integer)
-function hungry(damp integer)
-function unruly(clean integer)
-function crook(sable integer)
-function cows(cast integer)
-function inexpensive(wait integer)
-function object(apologise integer)
-function acoustics(invention integer)
-function throat(remember integer)
-function fang(settle integer)
-function spooky(rescue integer)
-function tense(magenta integer)
-function pull(balance integer)
-function chess(alcoholic integer)
-function decisive(coil integer)
-function develop(ocean integer)
-function lovely(squirrel integer)
-function suck(worry integer)
-function underwear(team integer)
-function disillusioned(work integer)
-function cars(inject integer)
-function ignorant(letter integer)
-function demonic(blink integer)
-function suppose(mere integer)
-function worried(daffy integer)
-function place(silly integer)
-function possible(itch integer)
-function veil(icy integer)
-function care(voracious integer)
-function flaky(belong integer)
-function rhythm(provide integer)
-function picayune(longing integer)
-function handy(water integer)
-function extralarge(wicked integer)
-function habitual(ajar integer)
-function flippant(useful integer)
-function cream(offer integer)
-function part(rest integer)
-function brainy(embarrassed integer)
-function measure(confuse integer)
-function creator(preserve integer)
-function aboard(wonder integer)
-function toothpaste(multiply integer)
-function muddled(achiever integer)
-function gaze(march integer)
-function untidy(hour integer)
-function spark(close integer)
-function truck(judicious integer)
-function shiny(calculating integer)
-function faded(arrange integer)
-function market(aberrant integer)
-function face(promise integer)
-function amount(normal integer)
-function enchanted(likeable integer)
-function fancy(clover integer)
-function instruct(vessel integer)
-function property(invite integer)
-function crash(grey integer)
-function delightful(greedy integer)
-function leather(division integer)
-function nation(inconclusive integer)
-function bulb(ship integer)
-function inquisitive(dull integer)
-function shade(drain integer)
-function square(appliance integer)
-function army(soggy integer)
-function zinc(move integer)
-function walk(zephyr integer)
-function stream(paper integer)
-function level(subdued integer)
-function servant(order integer)
-function scrub(spotted integer)
-function peck(ask integer)
-function sincere(unwritten integer)
-function stale(boil integer)
-function support(jealous integer)
-function pin(evasive integer)
-function talented(lazy integer)
-function trashy(rabbits integer)
-function cow(wiry integer)
-function available(letter integer)
-function stereotyped(blush integer)
-function coil(cough integer)
-function bury(argue integer)
-function billowy(field integer)
-function classy(repulsive integer)
-function short(horse integer)
-function boy(tap integer)
-function agonizing(ripe integer)
-function kindhearted(stamp integer)
-function maniacal(boundless integer)
-function tricky(magenta integer)
-function vessel(luxuriant integer)
-function spiritual(dispensable integer)
-function board(waste integer)
-function responsible(agreeable integer)
-function heartbreaking(aback integer)
-function industrious(functional integer)
-function integerroduce(skillful integer)
-function rock(cautious integer)
-function note(water integer)
-function whip(woebegone integer)
-function anxious(frogs integer)
-function profuse(trip integer)
-function education(surprise integer)
-function apologise(suppose integer)
-function swing(whistle integer)
-function wasteful(view integer)
-function tickle(sudden integer)
-function governor(perform integer)
-function doubtful(eminent integer)
-function accidental(rest integer)
-function sad(mountain integer)
-function kettle(halting integer)
-function powder(quizzical integer)
-function use(replace integer)
-function disgusted(consist integer)
-function kick(excite integer)
-function placid(line integer)
-function cast(immense integer)
-function true(afternoon integer)
-function committee(servant integer)
-function racial(snakes integer)
-function lock(bat integer)
-function modern(need integer)
-function brief(dogs integer)
-function guarded(condition integer)
-function stocking(houses integer)
-function last(wrench integer)
-function zephyr(ablaze integer)
-function abhorrent(fetch integer)
-function tray(flock integer)
-function whispering(radiate integer)
-function soggy(sore integer)
-function abrupt(bury integer)
-function mark(balance integer)
-function quilt(rice integer)
-function unhealthy(grab integer)
-function thread(pest integer)
-function sparkle(country integer)
-function pretend(cat integer)
-function mountain(tacit integer)
-function impolite(minister integer)
-function strong(wriggle integer)
-function adaptable(cable integer)
-function radiate(defiant integer)
-function pan(broad integer)
-function fat(carpenter integer)
-function yard(space integer)
-function dress(dirt integer)
-function unaccountable(cheat integer)
-function aspiring(dream integer)
-function cycle(futuristic integer)
-function sound(available integer)
-function change(furniture integer)
-function record(activity integer)
-function harbor(decorate integer)
-function oven(staking integer)
-function use(industrious integer)
-function unadvised(mend integer)
-function team(hollow integer)
-function nasty(winter integer)
-function income(flesh integer)
-function actually(level integer)
-function drunk(scarce integer)
-function hate(hot integer)
-function full(earn integer)
-function kind(trouble integer)
-function irate(boast integer)
-function lively(tremendous integer)
-function scary(ad integer)
-function owe(natural integer)
-function inform(help integer)
-function winter(verse integer)
-function picayune(bone integer)
-function fortunate(deliver integer)
-function integerend(volcano integer)
-function effect(curved integer)
-function pie(hapless integer)
-function staking(ignore integer)
-function regret(annoying integer)
-function mindless(elegant integer)
-function society(yielding integer)
-function line(noisy integer)
-function encouraging(nonstop integer)
-function star(pen integer)
-function victorious(unruly integer)
-function meddle(string integer)
-function exotic(spicy integer)
-function plausible(tired integer)
-function gullible(stiff integer)
-function reflect(perpetual integer)
-function lunchroom(psychotic integer)
-function faint(bead integer)
-function pick(wellgroomed integer)
-function boundless(right integer)
-function front(straw integer)
-function library(comfortable integer)
-function arithmetic(snobbish integer)
-function divide(plane integer)
-function moon(jump integer)
-function bat(concerned integer)
-function pop(moor integer)
-function uppity(ice integer)
-function drum(planes integer)
-function woozy(bubble integer)
-function bikes(flight integer)
-function plastic(interest integer)
-function destroy(abject integer)
-function future(breathe integer)
-function locket(mere integer)
-function camp(ducks integer)
-function eyes(acoustic integer)
-function long(drag integer)
-function learned(godly integer)
-function neck(plain integer)
-function blind(lean integer)
-function wholesale(savory integer)
-function agree(yellow integer)
-function enormous(automatic integer)
-function invite(dress integer)
-function wire(wicked integer)
-function act(illinformed integer)
-function woebegone(various integer)
-function afterthought(pencil integer)
-function angry(fairies integer)
-function icicle(even integer)
-function river(haunt integer)
-function draconian(shallow integer)
-function balance(lively integer)
-function recondite(neat integer)
-function divergent(new integer)
-function allow(common integer)
-function lethal(canvas integer)
-function kill(mug integer)
-function brake(whole integer)
-function cloudy(board integer)
-function squirrel(analyse integer)
-function truck(glib integer)
-function seal(kitty integer)
-function volleyball(grease integer)
-function roomy(alcoholic integer)
-function hug(boot integer)
-function curved(girls integer)
-function open(economic integer)
-function gaze(dolls integer)
-function physical(ski integer)
-function pump(expert integer)
-function glue(illfated integer)
-function agreeable(stereotyped integer)
-function tremble(romantic integer)
-function four(shade integer)
-function enjoy(pan integer)
-function heady(amount integer)
-function vanish(equable integer)
-function shivering(quizzical integer)
-function fit(drown integer)
-function button(snails integer)
-function match(threatening integer)
-function scrape(spill integer)
-function natural(thunder integer)
-function cherries(bleach integer)
-function talented(eyes integer)
-function quarrelsome(learn integer)
-function brown(beds integer)
-function spell(superficial integer)
-function slave(grouchy integer)
-function consist(fill integer)
-function pull(consist integer)
-function pest(null integer)
-function system(snore integer)
-function trot(imagine integer)
-function tug(cough integer)
-function fetch(pest integer)
-function wine(protect integer)
-function placid(ducks integer)
-function legs(talk integer)
-function public(probable integer)
-function iron(arrive integer)
-function young(division integer)
-function confess(vessel integer)
-function pigs(mere integer)
-function festive(unarmed integer)
-function economic(exultant integer)
-function recess(pencil integer)
-function addicted(command integer)
-function manage(aspiring integer)
-function sniff(bury integer)
-function instinctive(dead integer)
-function rely(cold integer)
-function elastic(annoying integer)
-function typical(offbeat integer)
-function waves(divide integer)
-function waiting(bizarre integer)
-function cattle(cover integer)
-function shake(letter integer)
-function zoom(racial integer)
-function material(pack integer)
-function blade(stroke integer)
-function rub(laugh integer)
-function quill(tiny integer)
-function nutty(punch integer)
-function excellent(dance integer)
-function exultant(wicked integer)
-function possess(direction integer)
-function cause(stop integer)
-function provide(obese integer)
-function stormy(jumpy integer)
-function throne(increase integer)
-function brush(present integer)
-function girls(changeable integer)
-function makeshift(cable integer)
-function rambunctious(upbeat integer)
-function sedate(nest integer)
-function art(giraffe integer)
-function naive(market integer)
-function wax(selfish integer)
-function penitent(subsequent integer)
-function spooky(tired integer)
-function tricky(gate integer)
-function straight(incompetent integer)
-function bizarre(transport integer)
-function apparel(cut integer)
-function salty(round integer)
-function noiseless(hand integer)
-function ignore(arch integer)
-function care(tremble integer)
-function mountainous(stocking integer)
-function leather(claim integer)
-function territory(trite integer)
-function tender(finger integer)
-function range(addicted integer)
-function guide(excellent integer)
-function ruthless(pump integer)
-function neat(many integer)
-function question(burly integer)
-function imported(unkempt integer)
-function decisive(clear integer)
-function vast(crash integer)
-function integererest(three integer)
-function suit(edge integer)
-function aboriginal(troubled integer)
-function heal(illinformed integer)
-function raspy(frightening integer)
-function thinkable(plug integer)
-function narrow(separate integer)
-function petite(weak integer)
-function likeable(ask integer)
-function gamy(curly integer)
-function spoon(scare integer)
-function periodic(oatmeal integer)
-function damage(fit integer)
-function last(enter integer)
-function discover(puzzling integer)
-function channel(history integer)
-function wild(point integer)
-function texture(subdued integer)
-function scrawny(airplane integer)
-function question(tiger integer)
-function lame(verdant integer)
-function nebulous(narrow integer)
-function perpetual(wine integer)
-function horses(box integer)
-function wellmade(paltry integer)
-function wave(doubt integer)
-function title(object integer)
-function sea(blot integer)
-function disarm(ludicrous integer)
-function pine(wreck integer)
-function box(bashful integer)
-function thunder(innate integer)
-function loving(expand integer)
-function giddy(geese integer)
-function spot(guarantee integer)
-function truculent(smiling integer)
-function ancient(grubby integer)
-function inform(murky integer)
-function mute(attend integer)
-function pedal(frantic integer)
-function eatable(obeisant integer)
-function joyous(pot integer)
-function faithful(daughter integer)
-function books(use integer)
-function front(hesitant integer)
-function potato(leg integer)
-function questionable(screw integer)
-function fanatical(gigantic integer)
-function suspend(sincere integer)
-function remove(zephyr integer)
-function learned(bear integer)
-function tasteful(automatic integer)
-function neighborly(zany integer)
-function start(smell integer)
-function women(obnoxious integer)
-function horn(knife integer)
-function flow(abject integer)
-function mom(borrow integer)
-function sail(dress integer)
-function belief(harbor integer)
-function sneaky(blade integer)
-function domineering(beg integer)
-function taste(regret integer)
-function numberless(glossy integer)
-function record(attract integer)
-function trouble(needle integer)
-function double(mindless integer)
-function house(religion integer)
-function vengeful(island integer)
-function note(illustrious integer)
-function scarecrow(hallowed integer)
-function drink(chew integer)
-function smell(glass integer)
-function grey(money integer)
-function utter(melodic integer)
-function bounce(snakes integer)
-function untidy(alluring integer)
-function doctor(undesirable integer)
-function romantic(flag integer)
-function ghost(domineering integer)
-function bat(poke integer)
-function daily(parsimonious integer)
-function gray(complex integer)
-function bewildered(polite integer)
-function desk(sable integer)
-function clever(basket integer)
-function cars(honey integer)
-function ashamed(grotesque integer)
-function elated(rule integer)
-function invent(trick integer)
-function furry(nonchalant integer)
-function examine(venomous integer)
-function alike(allow integer)
-function overjoyed(jellyfish integer)
-function imaginary(mixed integer)
-function average(rock integer)
-function nice(cakes integer)
-function dashing(earsplitting integer)
-function infamous(measly integer)
-function customer(creditlimit integer)
-(plastic integer) returns
-(dry integer) returns
-(paint integer) returns
-(stem integer) returns
-(applaud integer) returns
-(victorious integer) returns
-(load integer) returns
-(scared integer) returns
-(wiry integer) returns
-(tame integer) returns
-(sweltering integer) returns
-(imperfect integer) returns
-(cars integer) returns
-(faithful integer) returns
-(blackandwhite integer) returns
-(enormous integer) returns
-(first integer) returns
-(wobble integer) returns
-(haunt integer) returns
-(matter integer) returns
-(cakes integer) returns
-(fearless integer) returns
-(skin integer) returns
-(rigid integer) returns
-(aloof integer) returns
-(elite integer) returns
-(bag integer) returns
-(quaint integer) returns
-(irate integer) returns
-(cross integer) returns
-(drip integer) returns
-(oatmeal integer) returns
-(large integer) returns
-(nebulous integer) returns
-(rain integer) returns
-(goofy integer) returns
-(error integer) returns
-(thundering integer) returns
-(idiotic integer) returns
-(butter integer) returns
-(sleepy integer) returns
-(possessive integer) returns
-(uppity integer) returns
-(knot integer) returns
-(little integer) returns
-(homeless integer) returns
-(introduce integer) returns
-(fill integer) returns
-(infamous integer) returns
-(pail integer) returns
-(sneeze integer) returns
-(suspend integer) returns
-(murky integer) returns
-(overconfident integer) returns
-(quickest integer) returns
-(woozy integer) returns
-(conscious integer) returns
-(cheese integer) returns
-(dust integer) returns
-(tremble integer) returns
-(boring integer) returns
-(bell integer) returns
-(glove integer) returns
-(jewel integer) returns
-(maid integer) returns
-(rabbit integer) returns
-(toes integer) returns
-(fanatical integer) returns
-(imminent integer) returns
-(combative integer) returns
-(beds integer) returns
-(cream integer) returns
-(try integer) returns
-(mark integer) returns
-(nine integer) returns
-(illinformed integer) returns
-(belligerent integer) returns
-(fail integer) returns
-(spectacular integer) returns
-(type integer) returns
-(absent integer) returns
-(servant integer) returns
-(apologise integer) returns
-(object integer) returns
-(sea integer) returns
-(calculating integer) returns
-(wild integer) returns
-(undress integer) returns
-(coach integer) returns
-(earsplitting integer) returns
-(history integer) returns
-(messy integer) returns
-(work integer) returns
-(misty integer) returns
-(ear integer) returns
-(cautious integer) returns
-(industrious integer) returns
-(eggnog integer) returns
-(shaggy integer) returns
-(clear integer) returns
-(tin integer) returns
-(hateful integer) returns
-(sense integer) returns
-(unlock integer) returns
-(cagey integer) returns
-(kaput integer) returns
-(poke integer) returns
-(lonely integer) returns
-(windy integer) returns
-(medical integer) returns
-(broad integer) returns
-(permissible integer) returns
-(rescue integer) returns
-(frail integer) returns
-(stick integer) returns
-(red integer) returns
-(befitting integer) returns
-(vest integer) returns
-(screw integer) returns
-(peace integer) returns
-(thirsty integer) returns
-(bubble integer) returns
-(interesting integer) returns
-(lace integer) returns
-(educate integer) returns
-(ossified integer) returns
-(hunt integer) returns
-(chunky integer) returns
-(sin integer) returns
-(macabre integer) returns
-(seed integer) returns
-(potato integer) returns
-(healthy integer) returns
-(peaceful integer) returns
-(painful integer) returns
-(overjoyed integer) returns
-(payment integer) returns
-(kick integer) returns
-(destruction integer) returns
-(box integer) returns
-(airport integer) returns
-(wet integer) returns
-(eminent integer) returns
-(ripe integer) returns
-(sneaky integer) returns
-(separate integer) returns
-(laugh integer) returns
-(flight integer) returns
-(sniff integer) returns
-(second integer) returns
-(parsimonious integer) returns
-(trot integer) returns
-(classy integer) returns
-(escape integer) returns
-(jump integer) returns
-(learn integer) returns
-(talented integer) returns
-(rule integer) returns
-(cap integer) returns
-(hole integer) returns
-(vigorous integer) returns
-(dislike integer) returns
-(ritzy integer) returns
-(unbiased integer) returns
-(gaping integer) returns
-(delightful integer) returns
-(jumpy integer) returns
-(assorted integer) returns
-(voice integer) returns
-(average integer) returns
-(bomb integer) returns
-(frame integer) returns
-(interrupt integer) returns
-(adaptable integer) returns
-(male integer) returns
-(start integer) returns
-(bent integer) returns
-(balance integer) returns
-(numberless integer) returns
-(wheel integer) returns
-(cloth integer) returns
-(quirky integer) returns
-(better integer) returns
-(adorable integer) returns
-(quince integer) returns
-(wealth integer) returns
-(cheat integer) returns
-(quiet integer) returns
-(friends integer) returns
-(rice integer) returns
-(note integer) returns
-(copper integer) returns
-(sticky integer) returns
-(plantation integer) returns
-(industry integer) returns
-(abject integer) returns
-(shirt integer) returns
-(therapeutic integer) returns
-(leg integer) returns
-(sudden integer) returns
-(plant integer) returns
-(hospital integer) returns
-(alert integer) returns
-(terrific integer) returns
-(claim integer) returns
-(yam integer) returns
-(shoes integer) returns
-(hot integer) returns
-(lean integer) returns
-(sip integer) returns
-(pretend integer) returns
-(please integer) returns
-(food integer) returns
-(tug integer) returns
-(bee integer) returns
-(rustic integer) returns
-(hate integer) returns
-(painstaking integer) returns
-(camera integer) returns
-(fixed integer) returns
-(card integer) returns
-(cows integer) returns
-(alive integer) returns
-(boat integer) returns
-(historical integer) returns
-(offer integer) returns
-(grotesque integer) returns
-(melt integer) returns
-(important integer) returns
-(sister integer) returns
-(actor integer) returns
-(reflective integer) returns
-(volatile integer) returns
-(screw integer) returns
-(relieved integer) returns
-(songs integer) returns
-(delay integer) returns
-(devilish integer) returns
-(grade integer) returns
-(bashful integer) returns
-(trade integer) returns
-(night integer) returns
-(babies integer) returns
-(frogs integer) returns
-(relax integer) returns
-(medical integer) returns
-(turn integer) returns
-(liquid integer) returns
-(dirt integer) returns
-(melodic integer) returns
-(domineering integer) returns
-(panoramic integer) returns
-(yellow integer) returns
-(receipt integer) returns
-(jellyfish integer) returns
-(letter integer) returns
-(wish integer) returns
-(steer integer) returns
-(ear integer) returns
-(ski integer) returns
-(utopian integer) returns
-(force integer) returns
-(jobless integer) returns
-(acceptable integer) returns
-(grouchy integer) returns
-(paltry integer) returns
-(steadfast integer) returns
-(minute integer) returns
-(cherry integer) returns
-(foamy integer) returns
-(beds integer) returns
-(insect integer) returns
-(rainy integer) returns
-(untidy integer) returns
-(heat integer) returns
-(blue integer) returns
-(wood integer) returns
-(sharp integer) returns
-(thinkable integer) returns
-(melted integer) returns
-(sophisticated integer) returns
-(ants integer) returns
-(substance integer) returns
-(guarantee integer) returns
-(enchanting integer) returns
-(mice integer) returns
-(star integer) returns
-(spoil integer) returns
-(yarn integer) returns
-(test integer) returns
-(real integer) returns
-(haircut integer) returns
-(treat integer) returns
-(flagrant integer) returns
-(blow integer) returns
-(lackadaisical integer) returns
-(poised integer) returns
-(trip integer) returns
-(accept integer) returns
-(excited integer) returns
-(potato integer) returns
-(fanatical integer) returns
-(mist integer) returns
-(deadpan integer) returns
-(delirious integer) returns
-(kindhearted integer) returns
-(muscle integer) returns
-(bright integer) returns
-(lake integer) returns
-(silent integer) returns
-(certain integer) returns
-(caring integer) returns
-(juvenile integer) returns
-(geese integer) returns
-(disastrous integer) returns
-(false integer) returns
-(crash integer) returns
-(best integer) returns
-(noiseless integer) returns
-(distance integer) returns
-(boil integer) returns
-(grey integer) returns
-(fearful integer) returns
-(friendly integer) returns
-(prepare integer) returns
-(moon integer) returns
-(tested integer) returns
-(sigh integer) returns
-(fascinated integer) returns
-(swim integer) returns
-(juicy integer) returns
-(witty integer) returns
-(hateful integer) returns
-(third integer) returns
-(glistening integer) returns
-(distribution integer) returns
-(window integer) returns
-(learn integer) returns
-(subdued integer) returns
-(exultant integer) returns
-(homeless integer) returns
-(cause integer) returns
-(kneel integer) returns
-(tasteless integer) returns
-(communicate integer) returns
-(naive integer) returns
-(airplane integer) returns
-(amusement integer) returns
-(ghost integer) returns
-(soap integer) returns
-(property integer) returns
-(act integer) returns
-(vast integer) returns
-(ruddy integer) returns
-(invent integer) returns
-(halting integer) returns
-(tame integer) returns
-(agreeable integer) returns
-(heavenly integer) returns
-(military integer) returns
-(lame integer) returns
-(mindless integer) returns
-(snotty integer) returns
-(unkempt integer) returns
-(motion integer) returns
-(unable integer) returns
-(welltodo integer) returns
-(frighten integer) returns
-(dramatic integer) returns
-(cute integer) returns
-(excellent integer) returns
-(synonymous integer) returns
-(squirrel integer) returns
-(protect integer) returns
-(pack integer) returns
-(hand integer) returns
-(poke integer) returns
-(engine integer) returns
-(umbrella integer) returns
-(grain integer) returns
-(explain integer) returns
-(gullible integer) returns
-(earn integer) returns
-(seashore integer) returns
-(kill integer) returns
-(astonishing integer) returns
-(sparkling integer) returns
-(adaptable integer) returns
-(wilderness integer) returns
-(society integer) returns
-(worthless integer) returns
-(round integer) returns
-(unaccountable integer) returns
-(hug integer) returns
-(pedal integer) returns
-(selective integer) returns
-(robust integer) returns
-(macho integer) returns
-(sparkle integer) returns
-(glib integer) returns
-(bucket integer) returns
-(miscreant integer) returns
-(mundane integer) returns
-(necessary integer) returns
-(nine integer) returns
-(bump integer) returns
-(obsolete integer) returns
-(stocking integer) returns
-(funny integer) returns
-(approve integer) returns
-(hulking integer) returns
-(rigid integer) returns
-(mug integer) returns
-(flight integer) returns
-(brawny integer) returns
-(education integer) returns
-(way integer) returns
-(trite integer) returns
-(program integer) returns
-(puzzling integer) returns
-(brake integer) returns
-(average integer) returns
-(scattered integer) returns
-(dizzy integer) returns
-(uninterested integer) returns
-(ball integer) returns
-(thankful integer) returns
-(rare integer) returns
-(fork integer) returns
-(strange integer) returns
-(noisy integer) returns
-(chickens integer) returns
-(curious integer) returns
-(electric integer) returns
-(spray integer) returns
-(rainstorm integer) returns
-(add integer) returns
-(stamp integer) returns
-(error integer) returns
-(wrap integer) returns
-(birds integer) returns
-(authority integer) returns
-(utopian integer) returns
-(belief integer) returns
-(crawl integer) returns
-(earthy integer) returns
-(foot integer) returns
-(violent integer) returns
-(rule integer) returns
-(bat integer) returns
-(eggs integer) returns
-(fail integer) returns
-(quiver integer) returns
-(achiever integer) returns
-(woebegone integer) returns
-(heady integer) returns
-(voracious integer) returns
-(bake integer) returns
-(step integer) returns
-(rhyme integer) returns
-(vase integer) returns
-(naive integer) returns
-(terrible integer) returns
-(fold integer) returns
-(cover integer) returns
-(cross integer) returns
-(vague integer) returns
-(fowl integer) returns
-(suggest integer) returns
-(rabid integer) returns
-(imported integer) returns
-(six integer) returns
-(nebulous integer) returns
-(border integer) returns
-(gratis integer) returns
-(muddled integer) returns
-(wound integer) returns
-(experience integer) returns
-(flimsy integer) returns
-(purpose integer) returns
-(plough integer) returns
-(applaud integer) returns
-(boorish integer) returns
-(flesh integer) returns
-(huge integer) returns
-(picayune integer) returns
-(shy integer) returns
-(run integer) returns
-(smell integer) returns
-(macho integer) returns
-(trail integer) returns
-(obedient integer) returns
-(chance integer) returns
-(fold integer) returns
-(count integer) returns
-(voice integer) returns
-(zip integer) returns
-(snails integer) returns
-(aback integer) returns
-(beds integer) returns
-(alleged integer) returns
-(dear integer) returns
-(tasty integer) returns
-(magenta integer) returns
-(resonant integer) returns
-(prose integer) returns
-(pastoral integer) returns
-(invent integer) returns
-(loose integer) returns
-(listen integer) returns
-(mice integer) returns
-(line integer) returns
-(boast integer) returns
-(scribble integer) returns
-(found integer) returns
-(nostalgic integer) returns
-(thaw integer) returns
-(activity integer) returns
-(low integer) returns
-(warm integer) returns
-(night integer) returns
-(welcome integer) returns
-(park integer) returns
-(shop integer) returns
-(acoustics integer) returns
-(judge integer) returns
-(manage integer) returns
-(glass integer) returns
-(solid integer) returns
-(touch integer) returns
-(calm integer) returns
-(cover integer) returns
-(eggnog integer) returns
-(fearful integer) returns
-(plausible integer) returns
-(injure integer) returns
-(gruesome integer) returns
-(repeat integer) returns
-(van integer) returns
-(fear integer) returns
-(possessive integer) returns
-(pleasant integer) returns
-(square integer) returns
-(fixed integer) returns
-(daughter integer) returns
-(gate integer) returns
-(messy integer) returns
-(undesirable integer) returns
-(dreary integer) returns
-(short integer) returns
-(heat integer) returns
-(nondescript integer) returns
-(bathe integer) returns
-(move integer) returns
-(channel integer) returns
-(discover integer) returns
-(private integer) returns
-(word integer) returns
-(noiseless integer) returns
-(minute integer) returns
-(limping integer) returns
-(pleasure integer) returns
-(damp integer) returns
-(clear integer) returns
-(blush integer) returns
-(peep integer) returns
-(squeamish integer) returns
-(meek integer) returns
-(flowers integer) returns
-(mist integer) returns
-(trucks integer) returns
-(kill integer) returns
-(placid integer) returns
-(subsequent integer) returns
-(yummy integer) returns
-(hushed integer) returns
-(grape integer) returns
-(possible integer) returns
-(zinc integer) returns
-(birthday integer) returns
-(relieved integer) returns
-(hole integer) returns
-(hurried integer) returns
-(crowd integer) returns
-(embarrass integer) returns
-(sock integer) returns
-(coach integer) returns
-(care integer) returns
-(last integer) returns
-(fine integer) returns
-(horse integer) returns
-(flow integer) returns
-(godly integer) returns
-(scarce integer) returns
-(rifle integer) returns
-(steady integer) returns
-(recondite integer) returns
-(arrange integer) returns
-(food integer) returns
-(gray integer) returns
+function food(precede int)
+function powerful(burst int)
+function futuristic(group int)
+function hate(slave int)
+function nest(cry int)
+function refuse(quince int)
+function kindhearted(common int)
+function great(car int)
+function strong(clover int)
+function strange(error int)
+function hole(teaching int)
+function splendid(omniscient int)
+function vigorous(moan int)
+function kiss(judge int)
+function chemical(labored int)
+function smash(oatmeal int)
+function own(knowing int)
+function company(bait int)
+function square(foot int)
+function organic(elderly int)
+function pets(brick int)
+function fluffy(quarrelsome int)
+function first(punish int)
+function rain(appear int)
+function plough(march int)
+function imminent(broad int)
+function shade(place int)
+function match(nebulous int)
+function flowers(colossal int)
+function doubt(tense int)
+function zippy(curvy int)
+function skin(knowledgeable int)
+function grubby(shoe int)
+function porter(feeble int)
+function advertisement(example int)
+function spade(food int)
+function savory(difficult int)
+function trip(current int)
+function feeling(rain int)
+function chalk(pull int)
+function attractive(wrist int)
+function please(property int)
+function shirt(treatment int)
+function chilly(fly int)
+function wood(thirsty int)
+function cluttered(high int)
+function festive(evanescent int)
+function glue(memory int)
+function bucket(dysfunctional int)
+function pin(name int)
+function limit(addition int)
+function delight(slap int)
+function stale(health int)
+function shivering(frightening int)
+function knowing(giddy int)
+function neat(suppose int)
+function ahead(invite int)
+function parallel(level int)
+function lyrical(value int)
+function roll(tasteful int)
+function confused(vacation int)
+function fog(elated int)
+function hook(airport int)
+function winter(organic int)
+function distinct(fluttering int)
+function tour(robust int)
+function extrasmall(trouble int)
+function illustrious(transport int)
+function skate(army int)
+function nimble(brown int)
+function swanky(farm int)
+function rock(room int)
+function government(hilarious int)
+function smiling(smile int)
+function snobbish(dance int)
+function jagged(crash int)
+function copy(suit int)
+function bathe(crush int)
+function scale(sofa int)
+function hair(slope int)
+function lock(terrify int)
+function abounding(oceanic int)
+function purring(sheet int)
+function wren(gainful int)
+function homeless(fancy int)
+function psychotic(grateful int)
+function end(various int)
+function disgusting(dinner int)
+function damp(call int)
+function hum(loaf int)
+function snatch(paint int)
+function writer(front int)
+function cracker(rub int)
+function stretch(crack int)
+function order(puzzled int)
+function erratic(null int)
+function one(certain int)
+function safe(road int)
+function check(club int)
+function delay(absorbing int)
+function dogs(evasive int)
+function trust(arrest int)
+function desire(ground int)
+function greedy(colorful int)
+function square(spicy int)
+function market(steep int)
+function snake(wrench int)
+function lowly(inconclusive int)
+function deserted(stupid int)
+function minute(fresh int)
+function opposite(rhyme int)
+function creepy(dull int)
+function cheap(slow int)
+function store(mist int)
+function memorise(pin int)
+function breathe(sea int)
+function various(death int)
+function trade(obey int)
+function guess(angle int)
+function bright(land int)
+function credit(abiding int)
+function space(year int)
+function dispensable(fallacious int)
+function place(waggish int)
+function hilarious(highfalutin int)
+function stop(knife int)
+function religion(acceptable int)
+function tremendous(synonymous int)
+function quickest(drown int)
+function efficacious(behavior int)
+function tawdry(long int)
+function troubled(store int)
+function female(sloppy int)
+function sable(bite int)
+function oranges(lamentable int)
+function economic(follow int)
+function flowery(suggest int)
+function effect(mass int)
+function capable(lunch int)
+function draconian(morning int)
+function tick(bikes int)
+function hot(expensive int)
+function cast(puffy int)
+function level(screeching int)
+function vivacious(pipe int)
+function kittens(walk int)
+function bee(longterm int)
+function self(thaw int)
+function plant(things int)
+function anger(ablaze int)
+function cultured(history int)
+function bushes(degree int)
+function kitty(blush int)
+function steady(sun int)
+function clear(shade int)
+function deeply(launch int)
+function nutty(cute int)
+function gleaming(mysterious int)
+function stretch(poised int)
+function amusing(change int)
+function nappy(abundant int)
+function scary(grubby int)
+function stupid(cheerful int)
+function hungry(damp int)
+function unruly(clean int)
+function crook(sable int)
+function cows(cast int)
+function inexpensive(wait int)
+function object(apologise int)
+function acoustics(invention int)
+function throat(remember int)
+function fang(settle int)
+function spooky(rescue int)
+function tense(magenta int)
+function pull(balance int)
+function chess(alcoholic int)
+function decisive(coil int)
+function develop(ocean int)
+function lovely(squirrel int)
+function suck(worry int)
+function underwear(team int)
+function disillusioned(work int)
+function cars(inject int)
+function ignorant(letter int)
+function demonic(blink int)
+function suppose(mere int)
+function worried(daffy int)
+function place(silly int)
+function possible(itch int)
+function veil(icy int)
+function care(voracious int)
+function flaky(belong int)
+function rhythm(provide int)
+function picayune(longing int)
+function handy(water int)
+function extralarge(wicked int)
+function habitual(ajar int)
+function flippant(useful int)
+function cream(offer int)
+function part(rest int)
+function brainy(embarrassed int)
+function measure(confuse int)
+function creator(preserve int)
+function aboard(wonder int)
+function toothpaste(multiply int)
+function muddled(achiever int)
+function gaze(march int)
+function untidy(hour int)
+function spark(close int)
+function truck(judicious int)
+function shiny(calculating int)
+function faded(arrange int)
+function market(aberrant int)
+function face(promise int)
+function amount(normal int)
+function enchanted(likeable int)
+function fancy(clover int)
+function instruct(vessel int)
+function property(invite int)
+function crash(grey int)
+function delightful(greedy int)
+function leather(division int)
+function nation(inconclusive int)
+function bulb(ship int)
+function inquisitive(dull int)
+function shade(drain int)
+function square(appliance int)
+function army(soggy int)
+function zinc(move int)
+function walk(zephyr int)
+function stream(paper int)
+function level(subdued int)
+function servant(order int)
+function scrub(spotted int)
+function peck(ask int)
+function sincere(unwritten int)
+function stale(boil int)
+function support(jealous int)
+function pin(evasive int)
+function talented(lazy int)
+function trashy(rabbits int)
+function cow(wiry int)
+function available(letter int)
+function stereotyped(blush int)
+function coil(cough int)
+function bury(argue int)
+function billowy(field int)
+function classy(repulsive int)
+function short(horse int)
+function boy(tap int)
+function agonizing(ripe int)
+function kindhearted(stamp int)
+function maniacal(boundless int)
+function tricky(magenta int)
+function vessel(luxuriant int)
+function spiritual(dispensable int)
+function board(waste int)
+function responsible(agreeable int)
+function heartbreaking(aback int)
+function industrious(functional int)
+function pink(skillful int)
+function rock(cautious int)
+function note(water int)
+function whip(woebegone int)
+function anxious(frogs int)
+function profuse(trip int)
+function education(surprise int)
+function apologise(suppose int)
+function swing(whistle int)
+function wasteful(view int)
+function tickle(sudden int)
+function governor(perform int)
+function doubtful(eminent int)
+function accidental(rest int)
+function sad(mountain int)
+function kettle(halting int)
+function powder(quizzical int)
+function use(replace int)
+function disgusted(consist int)
+function kick(excite int)
+function placid(line int)
+function cast(immense int)
+function true(afternoon int)
+function committee(servant int)
+function racial(snakes int)
+function lock(bat int)
+function modern(need int)
+function brief(dogs int)
+function guarded(condition int)
+function stocking(houses int)
+function last(wrench int)
+function zephyr(ablaze int)
+function abhorrent(fetch int)
+function tray(flock int)
+function whispering(radiate int)
+function soggy(sore int)
+function abrupt(bury int)
+function mark(balance int)
+function quilt(rice int)
+function unhealthy(grab int)
+function thread(pest int)
+function sparkle(country int)
+function pretend(cat int)
+function mountain(tacit int)
+function impolite(minister int)
+function strong(wriggle int)
+function adaptable(cable int)
+function radiate(defiant int)
+function pan(broad int)
+function fat(carpenter int)
+function yard(space int)
+function dress(dirt int)
+function unaccountable(cheat int)
+function aspiring(dream int)
+function cycle(futuristic int)
+function sound(available int)
+function change(furniture int)
+function record(activity int)
+function harbor(decorate int)
+function oven(staking int)
+function use(industrious int)
+function unadvised(mend int)
+function team(hollow int)
+function nasty(winter int)
+function income(flesh int)
+function actually(level int)
+function drunk(scarce int)
+function hate(hot int)
+function full(earn int)
+function kind(trouble int)
+function irate(boast int)
+function lively(tremendous int)
+function scary(ad int)
+function owe(natural int)
+function inform(help int)
+function winter(verse int)
+function picayune(bone int)
+function fortunate(deliver int)
+function backend(volcano int)
+function effect(curved int)
+function pie(hapless int)
+function staking(ignore int)
+function regret(annoying int)
+function mindless(elegant int)
+function society(yielding int)
+function line(noisy int)
+function encouraging(nonstop int)
+function star(pen int)
+function victorious(unruly int)
+function meddle(string int)
+function exotic(spicy int)
+function plausible(tired int)
+function gullible(stiff int)
+function reflect(perpetual int)
+function lunchroom(psychotic int)
+function faint(bead int)
+function pick(wellgroomed int)
+function boundless(right int)
+function front(straw int)
+function library(comfortable int)
+function arithmetic(snobbish int)
+function divide(plane int)
+function moon(jump int)
+function bat(concerned int)
+function pop(moor int)
+function uppity(ice int)
+function drum(planes int)
+function woozy(bubble int)
+function bikes(flight int)
+function plastic(interest int)
+function destroy(abject int)
+function future(breathe int)
+function locket(mere int)
+function camp(ducks int)
+function eyes(acoustic int)
+function long(drag int)
+function learned(godly int)
+function neck(plain int)
+function blind(lean int)
+function wholesale(savory int)
+function agree(yellow int)
+function enormous(automatic int)
+function invite(dress int)
+function wire(wicked int)
+function act(illinformed int)
+function woebegone(various int)
+function afterthought(pencil int)
+function angry(fairies int)
+function icicle(even int)
+function river(haunt int)
+function draconian(shallow int)
+function balance(lively int)
+function recondite(neat int)
+function divergent(new int)
+function allow(common int)
+function lethal(canvas int)
+function kill(mug int)
+function brake(whole int)
+function cloudy(board int)
+function squirrel(analyse int)
+function truck(glib int)
+function seal(kitty int)
+function volleyball(grease int)
+function roomy(alcoholic int)
+function hug(boot int)
+function curved(girls int)
+function open(economic int)
+function gaze(dolls int)
+function physical(ski int)
+function pump(expert int)
+function glue(illfated int)
+function agreeable(stereotyped int)
+function tremble(romantic int)
+function four(shade int)
+function enjoy(pan int)
+function heady(amount int)
+function vanish(equable int)
+function shivering(quizzical int)
+function fit(drown int)
+function button(snails int)
+function match(threatening int)
+function scrape(spill int)
+function natural(thunder int)
+function cherries(bleach int)
+function talented(eyes int)
+function quarrelsome(learn int)
+function brown(beds int)
+function spell(superficial int)
+function slave(grouchy int)
+function consist(fill int)
+function pull(consist int)
+function pest(null int)
+function system(snore int)
+function trot(imagine int)
+function tug(cough int)
+function fetch(pest int)
+function wine(protect int)
+function placid(ducks int)
+function legs(talk int)
+function public(probable int)
+function iron(arrive int)
+function young(division int)
+function confess(vessel int)
+function pigs(mere int)
+function festive(unarmed int)
+function economic(exultant int)
+function recess(pencil int)
+function addicted(command int)
+function manage(aspiring int)
+function sniff(bury int)
+function instinctive(dead int)
+function rely(cold int)
+function elastic(annoying int)
+function typical(offbeat int)
+function waves(divide int)
+function waiting(bizarre int)
+function cattle(cover int)
+function shake(letter int)
+function zoom(racial int)
+function material(pack int)
+function blade(stroke int)
+function rub(laugh int)
+function quill(tiny int)
+function nutty(punch int)
+function excellent(dance int)
+function exultant(wicked int)
+function possess(direction int)
+function cause(stop int)
+function provide(obese int)
+function stormy(jumpy int)
+function throne(increase int)
+function brush(present int)
+function girls(changeable int)
+function makeshift(cable int)
+function rambunctious(upbeat int)
+function sedate(nest int)
+function art(giraffe int)
+function naive(market int)
+function wax(selfish int)
+function penitent(subsequent int)
+function spooky(tired int)
+function tricky(gate int)
+function straight(incompetent int)
+function bizarre(transport int)
+function apparel(cut int)
+function salty(round int)
+function noiseless(hand int)
+function ignore(arch int)
+function care(tremble int)
+function mountainous(stocking int)
+function leather(claim int)
+function territory(trite int)
+function tender(finger int)
+function range(addicted int)
+function guide(excellent int)
+function ruthless(pump int)
+function neat(many int)
+function question(burly int)
+function imported(unkempt int)
+function decisive(clear int)
+function vast(crash int)
+function rest(three int)
+function suit(edge int)
+function aboriginal(troubled int)
+function heal(illinformed int)
+function raspy(frightening int)
+function thinkable(plug int)
+function narrow(separate int)
+function petite(weak int)
+function likeable(ask int)
+function gamy(curly int)
+function spoon(scare int)
+function periodic(oatmeal int)
+function damage(fit int)
+function last(enter int)
+function discover(puzzling int)
+function channel(history int)
+function wild(point int)
+function texture(subdued int)
+function scrawny(airplane int)
+function question(tiger int)
+function lame(verdant int)
+function nebulous(narrow int)
+function perpetual(wine int)
+function horses(box int)
+function wellmade(paltry int)
+function wave(doubt int)
+function title(object int)
+function sea(blot int)
+function disarm(ludicrous int)
+function pine(wreck int)
+function box(bashful int)
+function thunder(innate int)
+function loving(expand int)
+function giddy(geese int)
+function spot(guarantee int)
+function truculent(smiling int)
+function ancient(grubby int)
+function inform(murky int)
+function mute(attend int)
+function pedal(frantic int)
+function eatable(obeisant int)
+function joyous(pot int)
+function faithful(daughter int)
+function books(use int)
+function front(hesitant int)
+function potato(leg int)
+function questionable(screw int)
+function fanatical(gigantic int)
+function suspend(sincere int)
+function remove(zephyr int)
+function learned(bear int)
+function tasteful(automatic int)
+function neighborly(zany int)
+function start(smell int)
+function women(obnoxious int)
+function horn(knife int)
+function flow(abject int)
+function mom(borrow int)
+function sail(dress int)
+function belief(harbor int)
+function sneaky(blade int)
+function domineering(beg int)
+function taste(regret int)
+function numberless(glossy int)
+function record(attract int)
+function trouble(needle int)
+function double(mindless int)
+function house(religion int)
+function vengeful(island int)
+function note(illustrious int)
+function scarecrow(hallowed int)
+function drink(chew int)
+function smell(glass int)
+function grey(money int)
+function utter(melodic int)
+function bounce(snakes int)
+function untidy(alluring int)
+function doctor(undesirable int)
+function romantic(flag int)
+function ghost(domineering int)
+function bat(poke int)
+function daily(parsimonious int)
+function gray(complex int)
+function bewildered(polite int)
+function desk(sable int)
+function clever(basket int)
+function cars(honey int)
+function ashamed(grotesque int)
+function elated(rule int)
+function invent(trick int)
+function furry(nonchalant int)
+function examine(venomous int)
+function alike(allow int)
+function overjoyed(jellyfish int)
+function imaginary(mixed int)
+function average(rock int)
+function nice(cakes int)
+function dashing(earsplitting int)
+function infamous(measly int)
+function customer(creditlimit int)
+(plastic int) returns
+(dry int) returns
+(paint int) returns
+(stem int) returns
+(applaud int) returns
+(victorious int) returns
+(load int) returns
+(scared int) returns
+(wiry int) returns
+(tame int) returns
+(sweltering int) returns
+(imperfect int) returns
+(cars int) returns
+(faithful int) returns
+(blackandwhite int) returns
+(enormous int) returns
+(first int) returns
+(wobble int) returns
+(haunt int) returns
+(matter int) returns
+(cakes int) returns
+(fearless int) returns
+(skin int) returns
+(rigid int) returns
+(aloof int) returns
+(elite int) returns
+(bag int) returns
+(quaint int) returns
+(irate int) returns
+(cross int) returns
+(drip int) returns
+(oatmeal int) returns
+(large int) returns
+(nebulous int) returns
+(rain int) returns
+(goofy int) returns
+(error int) returns
+(thundering int) returns
+(idiotic int) returns
+(butter int) returns
+(sleepy int) returns
+(possessive int) returns
+(uppity int) returns
+(knot int) returns
+(little int) returns
+(homeless int) returns
+(introduce int) returns
+(fill int) returns
+(infamous int) returns
+(pail int) returns
+(sneeze int) returns
+(suspend int) returns
+(murky int) returns
+(overconfident int) returns
+(quickest int) returns
+(woozy int) returns
+(conscious int) returns
+(cheese int) returns
+(dust int) returns
+(tremble int) returns
+(boring int) returns
+(bell int) returns
+(glove int) returns
+(jewel int) returns
+(maid int) returns
+(rabbit int) returns
+(toes int) returns
+(fanatical int) returns
+(imminent int) returns
+(combative int) returns
+(beds int) returns
+(cream int) returns
+(try int) returns
+(mark int) returns
+(nine int) returns
+(illinformed int) returns
+(belligerent int) returns
+(fail int) returns
+(spectacular int) returns
+(type int) returns
+(absent int) returns
+(servant int) returns
+(apologise int) returns
+(object int) returns
+(sea int) returns
+(calculating int) returns
+(wild int) returns
+(undress int) returns
+(coach int) returns
+(earsplitting int) returns
+(history int) returns
+(messy int) returns
+(work int) returns
+(misty int) returns
+(ear int) returns
+(cautious int) returns
+(industrious int) returns
+(eggnog int) returns
+(shaggy int) returns
+(clear int) returns
+(tin int) returns
+(hateful int) returns
+(sense int) returns
+(unlock int) returns
+(cagey int) returns
+(kaput int) returns
+(poke int) returns
+(lonely int) returns
+(windy int) returns
+(medical int) returns
+(broad int) returns
+(permissible int) returns
+(rescue int) returns
+(frail int) returns
+(stick int) returns
+(red int) returns
+(befitting int) returns
+(vest int) returns
+(screw int) returns
+(peace int) returns
+(thirsty int) returns
+(bubble int) returns
+(interesting int) returns
+(lace int) returns
+(educate int) returns
+(ossified int) returns
+(hunt int) returns
+(chunky int) returns
+(sin int) returns
+(macabre int) returns
+(seed int) returns
+(potato int) returns
+(healthy int) returns
+(peaceful int) returns
+(painful int) returns
+(overjoyed int) returns
+(payment int) returns
+(kick int) returns
+(destruction int) returns
+(box int) returns
+(airport int) returns
+(wet int) returns
+(eminent int) returns
+(ripe int) returns
+(sneaky int) returns
+(separate int) returns
+(laugh int) returns
+(flight int) returns
+(sniff int) returns
+(second int) returns
+(parsimonious int) returns
+(trot int) returns
+(classy int) returns
+(escape int) returns
+(jump int) returns
+(learn int) returns
+(talented int) returns
+(rule int) returns
+(cap int) returns
+(hole int) returns
+(vigorous int) returns
+(dislike int) returns
+(ritzy int) returns
+(unbiased int) returns
+(gaping int) returns
+(delightful int) returns
+(jumpy int) returns
+(assorted int) returns
+(voice int) returns
+(average int) returns
+(bomb int) returns
+(frame int) returns
+(interrupt int) returns
+(adaptable int) returns
+(male int) returns
+(start int) returns
+(bent int) returns
+(balance int) returns
+(numberless int) returns
+(wheel int) returns
+(cloth int) returns
+(quirky int) returns
+(better int) returns
+(adorable int) returns
+(quince int) returns
+(wealth int) returns
+(cheat int) returns
+(quiet int) returns
+(friends int) returns
+(rice int) returns
+(note int) returns
+(copper int) returns
+(sticky int) returns
+(plantation int) returns
+(industry int) returns
+(abject int) returns
+(shirt int) returns
+(therapeutic int) returns
+(leg int) returns
+(sudden int) returns
+(plant int) returns
+(hospital int) returns
+(alert int) returns
+(terrific int) returns
+(claim int) returns
+(yam int) returns
+(shoes int) returns
+(hot int) returns
+(lean int) returns
+(sip int) returns
+(pretend int) returns
+(please int) returns
+(food int) returns
+(tug int) returns
+(bee int) returns
+(rustic int) returns
+(hate int) returns
+(painstaking int) returns
+(camera int) returns
+(fixed int) returns
+(card int) returns
+(cows int) returns
+(alive int) returns
+(boat int) returns
+(historical int) returns
+(offer int) returns
+(grotesque int) returns
+(melt int) returns
+(important int) returns
+(sister int) returns
+(actor int) returns
+(reflective int) returns
+(volatile int) returns
+(screw int) returns
+(relieved int) returns
+(songs int) returns
+(delay int) returns
+(devilish int) returns
+(grade int) returns
+(bashful int) returns
+(trade int) returns
+(night int) returns
+(babies int) returns
+(frogs int) returns
+(relax int) returns
+(medical int) returns
+(turn int) returns
+(liquid int) returns
+(dirt int) returns
+(melodic int) returns
+(domineering int) returns
+(panoramic int) returns
+(yellow int) returns
+(receipt int) returns
+(jellyfish int) returns
+(letter int) returns
+(wish int) returns
+(steer int) returns
+(ear int) returns
+(ski int) returns
+(utopian int) returns
+(force int) returns
+(jobless int) returns
+(acceptable int) returns
+(grouchy int) returns
+(paltry int) returns
+(steadfast int) returns
+(minute int) returns
+(cherry int) returns
+(foamy int) returns
+(beds int) returns
+(insect int) returns
+(rainy int) returns
+(untidy int) returns
+(heat int) returns
+(blue int) returns
+(wood int) returns
+(sharp int) returns
+(thinkable int) returns
+(melted int) returns
+(sophisticated int) returns
+(ants int) returns
+(substance int) returns
+(guarantee int) returns
+(enchanting int) returns
+(mice int) returns
+(star int) returns
+(spoil int) returns
+(yarn int) returns
+(test int) returns
+(real int) returns
+(haircut int) returns
+(treat int) returns
+(flagrant int) returns
+(blow int) returns
+(lackadaisical int) returns
+(poised int) returns
+(trip int) returns
+(accept int) returns
+(excited int) returns
+(potato int) returns
+(fanatical int) returns
+(mist int) returns
+(deadpan int) returns
+(delirious int) returns
+(kindhearted int) returns
+(muscle int) returns
+(bright int) returns
+(lake int) returns
+(silent int) returns
+(certain int) returns
+(caring int) returns
+(juvenile int) returns
+(geese int) returns
+(disastrous int) returns
+(false int) returns
+(crash int) returns
+(best int) returns
+(noiseless int) returns
+(distance int) returns
+(boil int) returns
+(grey int) returns
+(fearful int) returns
+(friendly int) returns
+(prepare int) returns
+(moon int) returns
+(tested int) returns
+(sigh int) returns
+(fascinated int) returns
+(swim int) returns
+(juicy int) returns
+(witty int) returns
+(hateful int) returns
+(third int) returns
+(glistening int) returns
+(distribution int) returns
+(window int) returns
+(learn int) returns
+(subdued int) returns
+(exultant int) returns
+(homeless int) returns
+(cause int) returns
+(kneel int) returns
+(tasteless int) returns
+(communicate int) returns
+(naive int) returns
+(airplane int) returns
+(amusement int) returns
+(ghost int) returns
+(soap int) returns
+(property int) returns
+(act int) returns
+(vast int) returns
+(ruddy int) returns
+(invent int) returns
+(halting int) returns
+(tame int) returns
+(agreeable int) returns
+(heavenly int) returns
+(military int) returns
+(lame int) returns
+(mindless int) returns
+(snotty int) returns
+(unkempt int) returns
+(motion int) returns
+(unable int) returns
+(welltodo int) returns
+(frighten int) returns
+(dramatic int) returns
+(cute int) returns
+(excellent int) returns
+(synonymous int) returns
+(squirrel int) returns
+(protect int) returns
+(pack int) returns
+(hand int) returns
+(poke int) returns
+(engine int) returns
+(umbrella int) returns
+(grain int) returns
+(explain int) returns
+(gullible int) returns
+(earn int) returns
+(seashore int) returns
+(kill int) returns
+(astonishing int) returns
+(sparkling int) returns
+(adaptable int) returns
+(wilderness int) returns
+(society int) returns
+(worthless int) returns
+(round int) returns
+(unaccountable int) returns
+(hug int) returns
+(pedal int) returns
+(selective int) returns
+(robust int) returns
+(macho int) returns
+(sparkle int) returns
+(glib int) returns
+(bucket int) returns
+(miscreant int) returns
+(mundane int) returns
+(necessary int) returns
+(nine int) returns
+(bump int) returns
+(obsolete int) returns
+(stocking int) returns
+(funny int) returns
+(approve int) returns
+(hulking int) returns
+(rigid int) returns
+(mug int) returns
+(flight int) returns
+(brawny int) returns
+(education int) returns
+(way int) returns
+(trite int) returns
+(program int) returns
+(puzzling int) returns
+(brake int) returns
+(average int) returns
+(scattered int) returns
+(dizzy int) returns
+(uninterested int) returns
+(ball int) returns
+(thankful int) returns
+(rare int) returns
+(fork int) returns
+(strange int) returns
+(noisy int) returns
+(chickens int) returns
+(curious int) returns
+(electric int) returns
+(spray int) returns
+(rainstorm int) returns
+(add int) returns
+(stamp int) returns
+(error int) returns
+(wrap int) returns
+(birds int) returns
+(authority int) returns
+(utopian int) returns
+(belief int) returns
+(crawl int) returns
+(earthy int) returns
+(foot int) returns
+(violent int) returns
+(rule int) returns
+(bat int) returns
+(eggs int) returns
+(fail int) returns
+(quiver int) returns
+(achiever int) returns
+(woebegone int) returns
+(heady int) returns
+(voracious int) returns
+(bake int) returns
+(step int) returns
+(rhyme int) returns
+(vase int) returns
+(naive int) returns
+(terrible int) returns
+(fold int) returns
+(cover int) returns
+(cross int) returns
+(vague int) returns
+(fowl int) returns
+(suggest int) returns
+(rabid int) returns
+(imported int) returns
+(six int) returns
+(nebulous int) returns
+(border int) returns
+(gratis int) returns
+(muddled int) returns
+(wound int) returns
+(experience int) returns
+(flimsy int) returns
+(purpose int) returns
+(plough int) returns
+(applaud int) returns
+(boorish int) returns
+(flesh int) returns
+(huge int) returns
+(picayune int) returns
+(shy int) returns
+(run int) returns
+(smell int) returns
+(macho int) returns
+(trail int) returns
+(obedient int) returns
+(chance int) returns
+(fold int) returns
+(count int) returns
+(voice int) returns
+(zip int) returns
+(snails int) returns
+(aback int) returns
+(beds int) returns
+(alleged int) returns
+(dear int) returns
+(tasty int) returns
+(magenta int) returns
+(resonant int) returns
+(prose int) returns
+(pastoral int) returns
+(invent int) returns
+(loose int) returns
+(listen int) returns
+(mice int) returns
+(line int) returns
+(boast int) returns
+(scribble int) returns
+(found int) returns
+(nostalgic int) returns
+(thaw int) returns
+(activity int) returns
+(low int) returns
+(warm int) returns
+(night int) returns
+(welcome int) returns
+(park int) returns
+(shop int) returns
+(acoustics int) returns
+(judge int) returns
+(manage int) returns
+(glass int) returns
+(solid int) returns
+(touch int) returns
+(calm int) returns
+(cover int) returns
+(eggnog int) returns
+(fearful int) returns
+(plausible int) returns
+(injure int) returns
+(gruesome int) returns
+(repeat int) returns
+(van int) returns
+(fear int) returns
+(possessive int) returns
+(pleasant int) returns
+(square int) returns
+(fixed int) returns
+(daughter int) returns
+(gate int) returns
+(messy int) returns
+(undesirable int) returns
+(dreary int) returns
+(short int) returns
+(heat int) returns
+(nondescript int) returns
+(bathe int) returns
+(move int) returns
+(channel int) returns
+(discover int) returns
+(private int) returns
+(word int) returns
+(noiseless int) returns
+(minute int) returns
+(limping int) returns
+(pleasure int) returns
+(damp int) returns
+(clear int) returns
+(blush int) returns
+(peep int) returns
+(squeamish int) returns
+(meek int) returns
+(flowers int) returns
+(mist int) returns
+(trucks int) returns
+(kill int) returns
+(placid int) returns
+(subsequent int) returns
+(yummy int) returns
+(hushed int) returns
+(grape int) returns
+(possible int) returns
+(zinc int) returns
+(birthday int) returns
+(relieved int) returns
+(hole int) returns
+(hurried int) returns
+(crowd int) returns
+(embarrass int) returns
+(sock int) returns
+(coach int) returns
+(care int) returns
+(last int) returns
+(fine int) returns
+(horse int) returns
+(flow int) returns
+(godly int) returns
+(scarce int) returns
+(rifle int) returns
+(steady int) returns
+(recondite int) returns
+(arrange int) returns
+(food int) returns
+(gray int) returns
 return(cushion)
 return(coil)
 return(sheep)
@@ -9263,206 +9263,206 @@ return(unite)
 return(foregoing)
 return(juicy)
 return(thaw)
-(living integer) returns
-(jam integer) returns
-(invention integer) returns
-(sheet integer) returns
-(queen integer) returns
-(education integer) returns
-(guarantee integer) returns
-(overwrought integer) returns
-(ruin integer) returns
-(gullible integer) returns
-(ghost integer) returns
-(future integer) returns
-(ragged integer) returns
-(satisfy integer) returns
-(bathe integer) returns
-(violet integer) returns
-(smell integer) returns
-(question integer) returns
-(thought integer) returns
-(fallacious integer) returns
-(insidious integer) returns
-(precede integer) returns
-(kick integer) returns
-(fear integer) returns
-(soap integer) returns
-(early integer) returns
-(clam integer) returns
-(depressed integer) returns
-(cart integer) returns
-(coherent integer) returns
-(table integer) returns
-(fail integer) returns
-(winter integer) returns
-(bone integer) returns
-(alarm integer) returns
-(repulsive integer) returns
-(cooing integer) returns
-(hate integer) returns
-(extrasmall integer) returns
-(half integer) returns
-(smooth integer) returns
-(drown integer) returns
-(panicky integer) returns
-(scratch integer) returns
-(receipt integer) returns
-(waste integer) returns
-(health integer) returns
-(start integer) returns
-(flagrant integer) returns
-(ski integer) returns
-(quiet integer) returns
-(open integer) returns
-(wish integer) returns
-(doctor integer) returns
-(bed integer) returns
-(dusty integer) returns
-(maddening integer) returns
-(use integer) returns
-(psychedelic integer) returns
-(nippy integer) returns
-(toothsome integer) returns
-(crabby integer) returns
-(wren integer) returns
-(petite integer) returns
-(shade integer) returns
-(painful integer) returns
-(territory integer) returns
-(previous integer) returns
-(mend integer) returns
-(anger integer) returns
-(call integer) returns
-(ethereal integer) returns
-(feigned integer) returns
-(tender integer) returns
-(vast integer) returns
-(leg integer) returns
-(pin integer) returns
-(trouble integer) returns
-(efficient integer) returns
-(pen integer) returns
-(disastrous integer) returns
-(chase integer) returns
-(note integer) returns
-(country integer) returns
-(canvas integer) returns
-(disarm integer) returns
-(government integer) returns
-(name integer) returns
-(point integer) returns
-(cheese integer) returns
-(riddle integer) returns
-(request integer) returns
-(grandmother integer) returns
-(secondhand integer) returns
-(scare integer) returns
-(bang integer) returns
-(ugliest integer) returns
-(thing integer) returns
-(spray integer) returns
-(test integer) returns
-(obedient integer) returns
-(cub integer) returns
-(bushes integer) returns
-(whirl integer) returns
-(lunchroom integer) returns
-(enthusiastic integer) returns
-(love integer) returns
-(rhetorical integer) returns
-(optimal integer) returns
-(crash integer) returns
-(crime integer) returns
-(robin integer) returns
-(melodic integer) returns
-(shrug integer) returns
-(approval integer) returns
-(silver integer) returns
-(land integer) returns
-(eminent integer) returns
-(torpid integer) returns
-(work integer) returns
-(sin integer) returns
-(complete integer) returns
-(jail integer) returns
-(disturbed integer) returns
-(malicious integer) returns
-(curve integer) returns
-(super integer) returns
-(lip integer) returns
-(nutty integer) returns
-(rambunctious integer) returns
-(stop integer) returns
-(plain integer) returns
-(plane integer) returns
-(poised integer) returns
-(friends integer) returns
-(grandfather integer) returns
-(purple integer) returns
-(balance integer) returns
-(wonderful integer) returns
-(brawny integer) returns
-(guide integer) returns
-(respect integer) returns
-(languid integer) returns
-(face integer) returns
-(basket integer) returns
-(gusty integer) returns
-(panoramic integer) returns
-(suck integer) returns
-(connect integer) returns
-(scrub integer) returns
-(smash integer) returns
-(truck integer) returns
-(gifted integer) returns
-(obese integer) returns
-(erect integer) returns
-(reply integer) returns
-(goofy integer) returns
-(entertain integer) returns
-(evanescent integer) returns
-(miscreant integer) returns
-(spurious integer) returns
-(sassy integer) returns
-(coil integer) returns
-(yarn integer) returns
-(quiver integer) returns
-(knowledgeable integer) returns
-(known integer) returns
-(camera integer) returns
-(wire integer) returns
-(one integer) returns
-(dull integer) returns
-(irritate integer) returns
-(observation integer) returns
-(reign integer) returns
-(quilt integer) returns
-(kind integer) returns
-(delicious integer) returns
-(ad integer) returns
-(empty integer) returns
-(bright integer) returns
-(nose integer) returns
-(memory integer) returns
-(card integer) returns
-(geese integer) returns
-(touch integer) returns
-(exclusive integer) returns
-(explode integer) returns
-(mushy integer) returns
-(puny integer) returns
-(scared integer) returns
-(powder integer) returns
-(pretend integer) returns
-(wild integer) returns
-(chicken integer) returns
-(cat integer) returns
-(broad integer) returns
-(oil integer) returns
-(abrasive integer) returns
-(alive integer) returns
-(animal integer) returns
+(living int) returns
+(jam int) returns
+(invention int) returns
+(sheet int) returns
+(queen int) returns
+(education int) returns
+(guarantee int) returns
+(overwrought int) returns
+(ruin int) returns
+(gullible int) returns
+(ghost int) returns
+(future int) returns
+(ragged int) returns
+(satisfy int) returns
+(bathe int) returns
+(violet int) returns
+(smell int) returns
+(question int) returns
+(thought int) returns
+(fallacious int) returns
+(insidious int) returns
+(precede int) returns
+(kick int) returns
+(fear int) returns
+(soap int) returns
+(early int) returns
+(clam int) returns
+(depressed int) returns
+(cart int) returns
+(coherent int) returns
+(table int) returns
+(fail int) returns
+(winter int) returns
+(bone int) returns
+(alarm int) returns
+(repulsive int) returns
+(cooing int) returns
+(hate int) returns
+(extrasmall int) returns
+(half int) returns
+(smooth int) returns
+(drown int) returns
+(panicky int) returns
+(scratch int) returns
+(receipt int) returns
+(waste int) returns
+(health int) returns
+(start int) returns
+(flagrant int) returns
+(ski int) returns
+(quiet int) returns
+(open int) returns
+(wish int) returns
+(doctor int) returns
+(bed int) returns
+(dusty int) returns
+(maddening int) returns
+(use int) returns
+(psychedelic int) returns
+(nippy int) returns
+(toothsome int) returns
+(crabby int) returns
+(wren int) returns
+(petite int) returns
+(shade int) returns
+(painful int) returns
+(territory int) returns
+(previous int) returns
+(mend int) returns
+(anger int) returns
+(call int) returns
+(ethereal int) returns
+(feigned int) returns
+(tender int) returns
+(vast int) returns
+(leg int) returns
+(pin int) returns
+(trouble int) returns
+(efficient int) returns
+(pen int) returns
+(disastrous int) returns
+(chase int) returns
+(note int) returns
+(country int) returns
+(canvas int) returns
+(disarm int) returns
+(government int) returns
+(name int) returns
+(point int) returns
+(cheese int) returns
+(riddle int) returns
+(request int) returns
+(grandmother int) returns
+(secondhand int) returns
+(scare int) returns
+(bang int) returns
+(ugliest int) returns
+(thing int) returns
+(spray int) returns
+(test int) returns
+(obedient int) returns
+(cub int) returns
+(bushes int) returns
+(whirl int) returns
+(lunchroom int) returns
+(enthusiastic int) returns
+(love int) returns
+(rhetorical int) returns
+(optimal int) returns
+(crash int) returns
+(crime int) returns
+(robin int) returns
+(melodic int) returns
+(shrug int) returns
+(approval int) returns
+(silver int) returns
+(land int) returns
+(eminent int) returns
+(torpid int) returns
+(work int) returns
+(sin int) returns
+(complete int) returns
+(jail int) returns
+(disturbed int) returns
+(malicious int) returns
+(curve int) returns
+(super int) returns
+(lip int) returns
+(nutty int) returns
+(rambunctious int) returns
+(stop int) returns
+(plain int) returns
+(plane int) returns
+(poised int) returns
+(friends int) returns
+(grandfather int) returns
+(purple int) returns
+(balance int) returns
+(wonderful int) returns
+(brawny int) returns
+(guide int) returns
+(respect int) returns
+(languid int) returns
+(face int) returns
+(basket int) returns
+(gusty int) returns
+(panoramic int) returns
+(suck int) returns
+(connect int) returns
+(scrub int) returns
+(smash int) returns
+(truck int) returns
+(gifted int) returns
+(obese int) returns
+(erect int) returns
+(reply int) returns
+(goofy int) returns
+(entertain int) returns
+(evanescent int) returns
+(miscreant int) returns
+(spurious int) returns
+(sassy int) returns
+(coil int) returns
+(yarn int) returns
+(quiver int) returns
+(knowledgeable int) returns
+(known int) returns
+(camera int) returns
+(wire int) returns
+(one int) returns
+(dull int) returns
+(irritate int) returns
+(observation int) returns
+(reign int) returns
+(quilt int) returns
+(kind int) returns
+(delicious int) returns
+(ad int) returns
+(empty int) returns
+(bright int) returns
+(nose int) returns
+(memory int) returns
+(card int) returns
+(geese int) returns
+(touch int) returns
+(exclusive int) returns
+(explode int) returns
+(mushy int) returns
+(puny int) returns
+(scared int) returns
+(powder int) returns
+(pretend int) returns
+(wild int) returns
+(chicken int) returns
+(cat int) returns
+(broad int) returns
+(oil int) returns
+(abrasive int) returns
+(alive int) returns
+(animal int) returns
 if lock > 1
 if absorbing > 2
 if shade > 3

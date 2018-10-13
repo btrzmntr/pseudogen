@@ -2276,7 +2276,7 @@ select all columns from table called pour where program is less than or equal to
 select all columns from table called peck where low is less than or equal to 177
 select all columns from table called unknown where slow is less than or equal to 178
 select all columns from table called doctor where wandering is less than or equal to 179
-select all columns from table called wonder where replace is less than or equal to 180
+select all columns from table called wonder where place is less than or equal to 180
 select all columns from table called keen where puffy is less than or equal to 181
 select all columns from table called uncle where luxuriant is less than or equal to 182
 select all columns from table called dance where past is less than or equal to 183
@@ -3074,7 +3074,7 @@ delete all lines from table called blackandwhite where public is equal to 76
 delete all lines from table called aware where request is equal to 77
 delete all lines from table called bleach where dust is equal to 78
 delete all lines from table called twist where daffy is equal to 79
-delete all lines from table called replace where books is equal to 80
+delete all lines from table called place where books is equal to 80
 delete all lines from table called wash where silly is equal to 81
 delete all lines from table called seal where rake is equal to 82
 delete all lines from table called playground where offbeat is equal to 83
@@ -3832,7 +3832,7 @@ on table called pump update the value of brass to 331 where reflect is equal to 
 on table called pocket update the value of sound to 332 where nest is equal to 1660
 on table called zephyr update the value of whimsical to 333 where apparatus is equal to 1665
 on table called snore update the value of placid to 334 where jog is equal to 1670
-on table called measure update the value of replace to 335 where slap is equal to 1675
+on table called measure update the value of place to 335 where slap is equal to 1675
 on table called short update the value of untidy to 336 where imperfect is equal to 1680
 on table called feeble update the value of flawless to 337 where selection is equal to 1685
 on table called holiday update the value of frequent to 338 where sidewalk is equal to 1690
@@ -7097,7 +7097,7 @@ declare a variable called jaded of type set of characters
 declare a variable called blushing of type set of characters
 declare a variable called activity of type set of characters
 declare a variable called chemical of type set of characters
-declare a variable called replace of type set of characters
+declare a variable called place of type set of characters
 declare a variable called inquisitive of type set of characters
 declare a variable called pencil of type set of characters
 declare a variable called chin of type set of characters
@@ -7539,7 +7539,7 @@ a function called accidental witch receives an integer rest as input parameter
 a function called sad witch receives an integer mountain as input parameter
 a function called kettle witch receives an integer halting as input parameter
 a function called powder witch receives an integer quizzical as input parameter
-a function called use witch receives an integer replace as input parameter
+a function called use witch receives an integer place as input parameter
 a function called disgusted witch receives an integer consist as input parameter
 a function called kick witch receives an integer excite as input parameter
 a function called placid witch receives an integer line as input parameter
@@ -10539,3 +10539,24 @@ replace the characters abaft by protect in the string hook
 replace the characters switch by sail in the string disapprove
 replace the characters sparkling by wicked in the string example
 replace the characters fertile by judge in the string flavor
+replace the characters ajar by horn in the string drain
+replace the characters trip by harmony in the string dreary
+replace the characters agreeable by lowly in the string tough
+replace the characters pie by line in the string offend
+replace the characters relation by anger in the string shut
+replace the characters shake by clap in the string vigorous
+replace the characters society by silent in the string pine
+replace the characters internal by knowing in the string annoyed
+replace the characters spell by sore in the string ashamed
+replace the characters plants by nutritious in the string frantic
+replace the characters panoramic by film in the string boot
+replace the characters alive by deceive in the string lunch
+replace the characters flowers by cry in the string fierce
+replace the characters can by hobbies in the string homely
+replace the characters recondite by great in the string doubt
+replace the characters bleach by squalid in the string lowly
+replace the characters sweater by jagged in the string warm
+replace the characters feigned by shaggy in the string wash
+replace the characters beneficial by wonderful in the string overconfident
+replace the characters mighty by sail in the string kneel
+replace the characters

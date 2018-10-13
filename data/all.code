@@ -2276,7 +2276,7 @@ select * from pour where program <= 176
 select * from peck where low <= 177
 select * from unknown where slow <= 178
 select * from doctor where wandering <= 179
-select * from wonder where replace <= 180
+select * from wonder where place <= 180
 select * from keen where puffy <= 181
 select * from uncle where luxuriant <= 182
 select * from dance where past <= 183
@@ -3074,7 +3074,7 @@ delete from blackandwhite where public = 76
 delete from aware where request = 77
 delete from bleach where dust = 78
 delete from twist where daffy = 79
-delete from replace where books = 80
+delete from place where books = 80
 delete from wash where silly = 81
 delete from seal where rake = 82
 delete from playground where offbeat = 83
@@ -3832,7 +3832,7 @@ update pump set brass = 331 where reflect = 1655
 update pocket set sound = 332 where nest = 1660
 update zephyr set whimsical = 333 where apparatus = 1665
 update snore set placid = 334 where jog = 1670
-update measure set replace = 335 where slap = 1675
+update measure set place = 335 where slap = 1675
 update short set untidy = 336 where imperfect = 1680
 update feeble set flawless = 337 where selection = 1685
 update holiday set frequent = 338 where sidewalk = 1690
@@ -7097,7 +7097,7 @@ declare jaded varchar(10)
 declare blushing varchar(10)
 declare activity varchar(10)
 declare chemical varchar(10)
-declare replace varchar(10)
+declare place varchar(10)
 declare inquisitive varchar(10)
 declare pencil varchar(10)
 declare chin varchar(10)
@@ -7539,7 +7539,7 @@ function accidental(rest int)
 function sad(mountain int)
 function kettle(halting int)
 function powder(quizzical int)
-function use(replace int)
+function use(place int)
 function disgusted(consist int)
 function kick(excite int)
 function placid(line int)
@@ -10539,3 +10539,24 @@ replace(hook, 'abaft', 'protect')
 replace(disapprove, 'switch', 'sail')
 replace(example, 'sparkling', 'wicked')
 replace(flavor, 'fertile', 'judge')
+replace(drain, 'ajar', 'horn')
+replace(dreary, 'trip', 'harmony')
+replace(tough, 'agreeable', 'lowly')
+replace(offend, 'pie', 'line')
+replace(shut, 'relation', 'anger')
+replace(vigorous, 'shake', 'clap')
+replace(pine, 'society', 'silent')
+replace(annoyed, 'internal', 'knowing')
+replace(ashamed, 'spell', 'sore')
+replace(frantic, 'plants', 'nutritious')
+replace(boot, 'panoramic', 'film')
+replace(lunch, 'alive', 'deceive')
+replace(fierce, 'flowers', 'cry')
+replace(homely, 'can', 'hobbies')
+replace(doubt, 'recondite', 'great')
+replace(lowly, 'bleach', 'squalid')
+replace(warm, 'sweater', 'jagged')
+replace(wash, 'feigned', 'shaggy')
+replace(overconfident, 'beneficial', 'wonderful')
+replace(kneel, 'mighty', 'sail')
+replace(

@@ -10963,43 +10963,53 @@ set guttural = 'common'
 set basket = 'rock'
 set oldfashioned = 'elfin'
 set register = 'vip'
-create procedure cowardly @tame int
-create procedure cemetery @appear int
-create procedure kill @plastic int
-create procedure home @note int
-create procedure four @double int
-create procedure clean @boat int
-create procedure magnificent @bat int
-create procedure watery @drain int
-create procedure slip @probable int
-create procedure design @elderly int
-create procedure pest @near int
-create procedure hunt @smile int
-create procedure like @amuck int
-create procedure disagree @wool int
-create procedure unsuitable @melted int
-create procedure gratis @seed int
-create procedure grieving @crash int
-create procedure check @cooperative int
-create procedure ground @gratis int
-create procedure word @hurried int
-create procedure dependent @profit int
-create procedure iron @freezing int
-create procedure dear @peep int
-create procedure end @abounding int
-create procedure corn @telephone int
-create procedure rifle @sound int
-create procedure devilish @known int
-create procedure connect @mighty int
-create procedure amount @coil int
-create procedure nine @filthy int
-create procedure exclusive @disturbed int
-create procedure rigid @whole int
-create procedure grey @stew int
-create procedure magic @test int
-create procedure doubtful @muddle int
-create procedure cannon @somber int
-create procedure industry @purring int
-create procedure forgetful @chess int
-create procedure water @green int
-create procedure stick @careful int
+create procedure cowardly @tame int as
+create procedure cemetery @appear int as
+create procedure kill @plastic int as
+create procedure home @note int as
+create procedure four @double int as
+create procedure clean @boat int as
+create procedure magnificent @bat int as
+create procedure watery @drain int as
+create procedure slip @probable int as
+create procedure design @elderly int as
+create procedure pest @near int as
+create procedure hunt @smile int as
+create procedure like @amuck int as
+create procedure disagree @wool int as
+create procedure unsuitable @melted int as
+create procedure gratis @seed int as
+create procedure grieving @crash int as
+create procedure check @cooperative int as
+create procedure ground @gratis int as
+create procedure word @hurried int as
+create procedure dependent @profit int as
+create procedure iron @freezing int as
+create procedure dear @peep int as
+create procedure end @abounding int as
+create procedure corn @telephone int as
+create procedure rifle @sound int as
+create procedure devilish @known int as
+create procedure connect @mighty int as
+create procedure amount @coil int as
+create procedure nine @filthy int as
+create procedure exclusive @disturbed int as
+create procedure rigid @whole int as
+create procedure grey @stew int as
+create procedure magic @test int as
+create procedure doubtful @muddle int as
+create procedure cannon @somber int as
+create procedure industry @purring int as
+create procedure forgetful @chess int as
+create procedure water @green int as
+create procedure stick @careful int as
+select far = count(*) from wing where physical = 1
+select useful = count(*) from fly where impartial = 2
+select calendar = count(*) from desire where polish = 3
+select head = count(*) from straight where silk = 4
+select live = count(*) from light where plucky = 5
+select cast = count(*) from regret where handsome = 6
+select hook = count(*) from square where mean = 7
+select town = count(*) from can where zipper = 8
+select zany = count(*) from instruct where amuse = 9
+select floor = count(*) from barbarous where secret = 10

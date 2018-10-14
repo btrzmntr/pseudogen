@@ -11003,3 +11003,13 @@ create a procedure called industry which receives an integer purring as input pa
 create a procedure called forgetful which receives an integer chess as input parameter
 create a procedure called water which receives an integer green as input parameter
 create a procedure called stick which receives an integer careful as input parameter
+select line count from table called wing where physical is equal to 1 and assign this value to far
+select line count from table called fly where impartial is equal to 2 and assign this value to useful
+select line count from table called desire where polish is equal to 3 and assign this value to calendar
+select line count from table called straight where silk is equal to 4 and assign this value to head
+select line count from table called light where plucky is equal to 5 and assign this value to live
+select line count from table called regret where handsome is equal to 6 and assign this value to cast
+select line count from table called square where mean is equal to 7 and assign this value to hook
+select line count from table called can where zipper is equal to 8 and assign this value to town
+select line count from table called instruct where amuse is equal to 9 and assign this value to zany
+select line count from table called barbarous where secret is equal to 10 and assign this value to floor

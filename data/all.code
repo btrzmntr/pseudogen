@@ -11029,8 +11029,8 @@ dbo.f_exercise(@fry)
 dbo.f_signal(@peep)
 dbo.f_earthy(@dog)
 dbo.f_diligent(@stomach)
-dbo.f_ill-fated(@giraffe)
-dbo.f_decision(@extra-large)
+dbo.f_illfated(@giraffe)
+dbo.f_decision(@extralarge)
 dbo.f_mailbox(@equal)
 dbo.f_servant(@mix)
 dbo.f_country(@trousers)
@@ -11053,7 +11053,7 @@ dbo.f_exist(@orange)
 dbo.f_paint(@mug)
 dbo.f_exotic(@woman)
 dbo.f_push(@group)
-dbo.f_blue-eyed(@follow)
+dbo.f_blueeyed(@follow)
 dbo.f_perform(@lock)
 dbo.f_common(@kneel)
 dbo.f_elbow(@trees)
@@ -11113,3 +11113,103 @@ dbo.f_clap(@cheer)
 dbo.f_fine(@square)
 dbo.f_nod(@tramp)
 dbo.f_quilt(@curtain)
+if dbo.f_wish(@cow) > 1
+if dbo.f_laugh(@suffer) > 1.5
+if dbo.f_sweltering(@abrasive) > 2
+if dbo.f_obscene(@pretty) > 1.6
+if dbo.f_voyage(@disapprove) > 3
+if dbo.f_consist(@quaint) > 1.7
+if dbo.f_debonair(@neat) > 4
+if dbo.f_dusty(@earsplitting) > 1.8
+if dbo.f_agreement(@obtain) > 5
+if dbo.f_secretary(@escape) > 1.9
+if dbo.f_previous(@coach) > 6
+if dbo.f_damage(@drain) > 1.10
+if dbo.f_bless(@cough) > 7
+if dbo.f_changeable(@name) > 1.11
+if dbo.f_mine(@halting) > 8
+if dbo.f_cause(@stitch) > 1.12
+if dbo.f_fairies(@baby) > 9
+if dbo.f_liquid(@mice) > 1.13
+if dbo.f_highpitched(@men) > 10
+if dbo.f_impolite(@touch) > 1.14
+if dbo.f_past(@awesome) > 11
+if dbo.f_concentrate(@womanly) > 1.15
+if dbo.f_half(@acidic) > 12
+if dbo.f_year(@stain) > 1.16
+if dbo.f_pet(@real) > 13
+if dbo.f_spoon(@afternoon) > 1.17
+if dbo.f_calm(@fog) > 14
+if dbo.f_simplistic(@scent) > 1.18
+if dbo.f_land(@wrap) > 15
+if dbo.f_lonely(@note) > 1.19
+if dbo.f_unequal(@use) > 16
+if dbo.f_queue(@fry) > 1.20
+if dbo.f_spade(@reproduce) > 17
+if dbo.f_form(@taste) > 1.21
+if dbo.f_morning(@wild) > 18
+if dbo.f_chemical(@wind) > 1.22
+if dbo.f_flesh(@straight) > 19
+if dbo.f_wilderness(@wipe) > 1.23
+if dbo.f_substance(@demonic) > 20
+if dbo.f_delight(@permit) > 1.24
+if dbo.f_lumber(@pencil) > 21
+if dbo.f_bright(@system) > 1.25
+if dbo.f_strong(@needle) > 22
+if dbo.f_smoke(@toe) > 1.26
+if dbo.f_corn(@eyes) > 23
+if dbo.f_redundant(@division) > 1.27
+if dbo.f_underwear(@aboriginal) > 24
+if dbo.f_harmony(@fly) > 1.28
+if dbo.f_throne(@sack) > 25
+if dbo.f_phone(@pick) > 1.29
+if dbo.f_shoe(@sound) > 26
+if dbo.f_flagrant(@elated) > 1.30
+if dbo.f_monkey(@attract) > 27
+if dbo.f_unpack(@gratis) > 1.31
+if dbo.f_incredible(@shoe) > 28
+if dbo.f_sparkle(@test) > 1.32
+if dbo.f_talk(@dust) > 29
+if dbo.f_sad(@awake) > 1.33
+if dbo.f_crawl(@trap) > 30
+if dbo.f_pop(@tedious) > 1.34
+if dbo.f_violet(@event) > 31
+if dbo.f_daughter(@gun) > 1.35
+if dbo.f_stare(@outgoing) > 32
+if dbo.f_refuse(@army) > 1.36
+if dbo.f_friends(@grain) > 33
+if dbo.f_fear(@cheer) > 1.37
+if dbo.f_closed(@change) > 34
+if dbo.f_yell(@daffy) > 1.38
+if dbo.f_walk(@tense) > 35
+if dbo.f_successful(@gray) > 1.39
+if dbo.f_phobic(@vanish) > 36
+if dbo.f_abrasive(@colossal) > 1.40
+if dbo.f_quilt(@level) > 37
+if dbo.f_drunk(@wary) > 1.41
+if dbo.f_kneel(@hard) > 38
+if dbo.f_produce(@infamous) > 1.42
+if dbo.f_tiger(@arch) > 39
+if dbo.f_disagreeable(@sack) > 1.43
+if dbo.f_curve(@ray) > 40
+if dbo.f_puny(@wasteful) > 1.44
+if dbo.f_treatment(@rain) > 41
+if dbo.f_enjoy(@toothsome) > 1.45
+if dbo.f_beautiful(@melted) > 42
+if dbo.f_psychedelic(@unused) > 1.46
+if dbo.f_light(@treat) > 43
+if dbo.f_frame(@plucky) > 1.47
+if dbo.f_load(@sincere) > 44
+if dbo.f_giraffe(@bloody) > 1.48
+if dbo.f_scarecrow(@tame) > 45
+if dbo.f_twig(@abandoned) > 1.49
+if dbo.f_shut(@spoon) > 46
+if dbo.f_umbrella(@receptive) > 1.50
+if dbo.f_fuel(@please) > 47
+if dbo.f_eggnog(@copy) > 1.51
+if dbo.f_worried(@queue) > 48
+if dbo.f_polite(@witty) > 1.52
+if dbo.f_vein(@bolt) > 49
+if dbo.f_business(@leg) > 1.53
+if dbo.f_lock(@finger) > 50
+if dbo.f_shop(@fretful) > 1.54

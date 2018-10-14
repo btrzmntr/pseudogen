@@ -7237,8 +7237,7 @@ create function use
 create function spade
 create function bubble
 create function chin
-table users
-function users
+function teste
 elseif
 elseif
 elseif

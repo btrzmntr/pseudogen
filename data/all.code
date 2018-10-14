@@ -9712,7 +9712,7 @@ set lopsided = 42
 set wave = 43
 set offbeat = 44
 set jaded = 45
-set long-term = 46
+set longterm = 46
 set lumber = 47
 set moor = 48
 set needless = 49
@@ -10208,7 +10208,7 @@ set effect
 set living
 set rambunctious
 set squeeze
-set extra-large
+set extralarge
 set fork
 set tree
 set learn
@@ -10250,7 +10250,7 @@ set plants = ossified
 set glow = grade
 set pedal = trip
 set range = hungry
-set coil = well-to-do
+set coil = welltodo
 set trains = futuristic
 set abiding = box
 set point = pop
@@ -10301,7 +10301,7 @@ set squeamish = exercise
 set cure = adorable
 set basin = advertisement
 set pricey = pen
-set smoke = black-and-white
+set smoke = blackandwhite
 set dramatic = whirl
 set arrest = nest
 set rotten = chicken
@@ -10550,7 +10550,7 @@ create procedure burst @end varchar(10) as
 create procedure cultured @stupendous varchar(10) as
 create procedure control @dream varchar(10) as
 create procedure continue @belief varchar(10) as
-create procedure wool @well-to-do varchar(10) as
+create procedure wool @welltodo varchar(10) as
 create procedure realise @finger varchar(10) as
 create procedure cushion @beg varchar(10) as
 create procedure seed @channel varchar(10) as
@@ -11013,3 +11013,203 @@ select hook = count(*) from square where mean = 7
 select town = count(*) from can where zipper = 8
 select zany = count(*) from instruct where amuse = 9
 select floor = count(*) from barbarous where secret = 10
+update alcoholic set hurried = 'exchange' where furtive = 5
+update compete set scary = 'harm' where dull = 10
+update huge set brake = 'want' where cloth = 15
+update label set pizzas = 'peck' where collar = 20
+update cheap set snatch = 'suspect' where balance = 25
+update insect set cheer = 'powerful' where request = 30
+update late set victorious = 'fat' where bulb = 35
+update sturdy set dinosaurs = 'screeching' where apathetic = 40
+update gusty set punish = 'sound' where heat = 45
+update heavy set tearful = 'messy' where machine = 50
+update aboriginal set distinct = 'telephone' where crowded = 55
+update sparkling set water = 'entertain' where observation = 60
+update accept set tame = 'battle' where befitting = 65
+update cattle set example = 'disgusting' where remain = 70
+update bang set poke = 'fluffy' where astonishing = 75
+update eager set tricky = 'better' where obey = 80
+update sour set party = 'bait' where overconfident = 85
+update cough set puncture = 'wilderness' where roll = 90
+update strap set good = 'kiss' where crib = 95
+update powerful set steep = 'dust' where train = 100
+update waste set fruit = 'fear' where deranged = 105
+update motion set boiling = 'corn' where test = 110
+update second set last = 'profuse' where accurate = 115
+update picture set huge = 'past' where request = 120
+update sign set tender = 'accidental' where dare = 125
+update mug set eminent = 'joke' where arm = 130
+update bottle set sparkling = 'shade' where business = 135
+update boast set smelly = 'neat' where bitter = 140
+update sedate set barbarous = 'pail' where size = 145
+update hum set high = 'machine' where juice = 150
+update instinctive set offbeat = 'grin' where tomatoes = 155
+update wait set snails = 'crack' where lacking = 160
+update frogs set scribble = 'aboard' where educate = 165
+update husky set activity = 'son' where tail = 170
+update whimsical set mice = 'shame' where film = 175
+update spade set freezing = 'root' where decision = 180
+update fail set milky = 'stage' where friend = 185
+update clean set vacation = 'decay' where annoying = 190
+update unique set nifty = 'post' where apparel = 195
+update concern set touch = 'launch' where rich = 200
+update vivacious set adventurous = 'clean' where dry = 205
+update unbecoming set literate = 'hand' where compete = 210
+update cruel set ice = 'youthful' where infamous = 215
+update dashing set unwieldy = 'sleet' where cherry = 220
+update wise set degree = 'sound' where step = 225
+update sore set representative = 'stimulating' where giant = 230
+update crazy set hurt = 'elbow' where stale = 235
+update brave set blush = 'end' where ill = 240
+update materialistic set tiger = 'like' where teeny = 245
+update command set dusty = 'fallacious' where festive = 250
+update representative set spotted = 'diligent' where ruthless = 255
+update fuel set alike = 'axiomatic' where silver = 260
+update murky set secret = 'hall' where premium = 265
+update treatment set entertain = 'extend' where reminiscent = 270
+update seed set acid = 'forgetful' where debonair = 275
+update gamy set handle = 'welcome' where moan = 280
+update magnificent set mug = 'painstaking' where island = 285
+update frame set wicked = 'unhealthy' where lackadaisical = 290
+update dad set actually = 'preach' where sudden = 295
+update advise set determined = 'ordinary' where rail = 300
+update taste set sweet = 'bike' where worried = 305
+update hissing set intelligent = 'unarmed' where crabby = 310
+update time set fearful = 'weary' where carriage = 315
+update reward set touch = 'paper' where real = 320
+update reason set voice = 'jail' where confess = 325
+update sisters set uncle = 'warm' where suspend = 330
+update puzzled set quiet = 'thaw' where trouble = 335
+update car set silent = 'guide' where account = 340
+update juice set gray = 'foregoing' where vivacious = 345
+update snow set tumble = 'permit' where flippant = 350
+update mine set wanting = 'attach' where bubble = 355
+update habitual set charming = 'addicted' where park = 360
+update disastrous set books = 'sack' where poor = 365
+update rate set outrageous = 'girls' where thunder = 370
+update uncle set beg = 'vague' where pocket = 375
+update general set seat = 'sleep' where hulking = 380
+update pretend set tooth = 'rainstorm' where wall = 385
+update snails set approve = 'talented' where fancy = 390
+update mist set wool = 'desire' where activity = 395
+update continue set ludicrous = 'class' where nice = 400
+update shape set cluttered = 'sort' where perform = 405
+update animated set harbor = 'faithful' where country = 410
+update functional set meaty = 'drip' where mere = 415
+update burly set scream = 'introduce' where gifted = 420
+update return set replace = 'camera' where circle = 425
+update aloof set bleach = 'inject' where hands = 430
+update mass set obtainable = 'arrive' where absorbing = 435
+update white set tangible = 'bustling' where place = 440
+update windy set hate = 'degree' where aromatic = 445
+update obsolete set abandoned = 'regular' where excite = 450
+update marvelous set wriggle = 'stretch' where design = 455
+update flowers set color = 'innocent' where abhorrent = 460
+update smash set iron = 'work' where force = 465
+update cooing set soothe = 'puny' where snake = 470
+update invincible set things = 'birds' where strange = 475
+update loose set grip = 'amuck' where curvy = 480
+update premium set obsequious = 'muscle' where wary = 485
+update miniature set ugliest = 'sparkle' where pickle = 490
+update carve set ladybug = 'check' where guarantee = 495
+update ossified set luxuriant = 'depressed' where powder = 500
+update muscle set wait = 'magical' where furtive = @distance
+update maid set puffy = 'roll' where dull = @grip
+update admit set launch = 'kitty' where cloth = @toothsome
+update decay set arrange = 'ultra' where collar = @rod
+update clean set quarter = 'thundering' where balance = @shame
+update cattle set porter = 'sleepy' where request = @garrulous
+update bear set parcel = 'public' where bulb = @acidic
+update add set equal = 'produce' where apathetic = @reflect
+update sticks set buzz = 'guarded' where heat = @callous
+update grotesque set quiet = 'winter' where machine = @actor
+update zipper set false = 'fowl' where crowded = @sloppy
+update breath set sad = 'languid' where observation = @soap
+update drain set sock = 'care' where befitting = @uttermost
+update hot set pollution = 'curved' where remain = @trail
+update stay set skip = 'hurt' where astonishing = @hug
+update doll set carriage = 'permissible' where obey = @zipper
+update jellyfish set brake = 'blind' where overconfident = @fork
+update nice set complete = 'tempt' where roll = @happen
+update calm set dolls = 'guarantee' where crib = @serious
+update rule set dusty = 'crooked' where train = @quiet
+update scrape set grab = 'venomous' where deranged = @tire
+update sordid set helpful = 'kindhearted' where test = @change
+update wire set cautious = 'erratic' where accurate = @ultra
+update addicted set wonderful = 'detailed' where request = @cub
+update unequal set creepy = 'perpetual' where dare = @answer
+update nostalgic set hungry = 'wail' where arm = @bustling
+update uninterested set exclusive = 'collect' where business = @babies
+update bridge set sisters = 'riddle' where bitter = @shade
+update grip set silent = 'wonderful' where size = @brush
+update crush set protect = 'pump' where juice = @laugh
+update sweltering set invincible = 'first' where tomatoes = @coherent
+update tricky set relieved = 'kiss' where lacking = @month
+update toys set hill = 'load' where educate = @burst
+update merciful set wrathful = 'stupendous' where tail = @remind
+update market set glamorous = 'stop' where film = @maniacal
+update bruise set whisper = 'jam' where decision = @lame
+update wary set available = 'rainstorm' where friend = @pointless
+update repair set harsh = 'trousers' where annoying = @tiny
+update cautious set meek = 'crack' where apparel = @placid
+update unbiased set cactus = 'rail' where rich = @heady
+update sprout set far = 'program' where dry = @jog
+update battle set slow = 'lewd' where compete = @knock
+update scattered set camera = 'purple' where infamous = @stage
+update first set automatic = 'calculator' where cherry = @shallow
+update stone set inexpensive = 'secret' where step = @scrape
+update makeshift set curved = 'melted' where giant = @tawdry
+update abstracted set lame = 'travel' where stale = @dysfunctional
+update sassy set maniacal = 'square' where ill = @deer
+update cloistered set wail = 'team' where teeny = @fence
+update exclusive set brief = 'sparkle' where festive = @bucket
+update wish set recognise = 'protest' where ruthless = @naive
+update check set throne = 'feigned' where silver = @gratis
+update breezy set kettle = 'puncture' where premium = @swim
+update cabbage set ambitious = 'marble' where reminiscent = @necessary
+update strap set rice = 'save' where debonair = @temper
+update abandoned set abashed = 'statuesque' where moan = @pest
+update reminiscent set brash = 'inquisitive' where island = @spiffy
+update alike set harmony = 'imperfect' where lackadaisical = @insidious
+update wreck set disappear = 'contain' where sudden = @towering
+update interrupt set massive = 'dashing' where rail = @edge
+update church set try = 'basin' where worried = @anger
+update smell set cow = 'shame' where crabby = @loutish
+update abundant set suit = 'redundant' where carriage = @boring
+update moon set steep = 'shoe' where real = @fire
+update deceive set continue = 'incandescent' where confess = @encouraging
+update draconian set internal = 'toothpaste' where suspend = @thick
+update toad set whistle = 'detail' where trouble = @kill
+update slip set balance = 'string' where account = @disillusioned
+update governor set curly = 'brother' where vivacious = @support
+update damaged set tease = 'sidewalk' where flippant = @spray
+update wobble set obtainable = 'woman' where bubble = @type
+update hill set nappy = 'wall' where park = @lock
+update outstanding set squeak = 'caption' where poor = @tap
+update one set zany = 'war' where thunder = @crawl
+update flawless set chickens = 'steam' where pocket = @acoustic
+update eye set hug = 'twist' where hulking = @nerve
+update train set ban = 'warn' where wall = @sable
+update halting set garrulous = 'elastic' where fancy = @didactic
+update snakes set nut = 'silk' where activity = @inform
+update animated set expand = 'daily' where nice = @awesome
+update skin set bizarre = 'condemned' where perform = @dry
+update various set flowers = 'blood' where country = @belong
+update realise set mammoth = 'head' where mere = @scattered
+update pop set plant = 'holiday' where gifted = @bike
+update puny set flame = 'moor' where circle = @malicious
+update tough set shut = 'agree' where hands = @weight
+update vivacious set detail = 'prefer' where absorbing = @dirt
+update tap set roomy = 'macho' where place = @noise
+update fly set humorous = 'cabbage' where aromatic = @wellmade
+update thread set ray = 'space' where excite = @quack
+update river set condition = 'writer' where design = @foregoing
+update debonair set writer = 'circle' where abhorrent = @near
+update trace set measly = 'squeal' where force = @nervous
+update science set old = 'cherry' where snake = @gun
+update uttermost set sick = 'even' where strange = @march
+update reading set familiar = 'curious' where curvy = @day
+update fluttering set rigid = 'current' where wary = @scarf
+update judicious set crack = 'wander' where pickle = @zephyr
+update nut set shop = 'vein' where guarantee = @freezing
+update horse set steady = 'high' where powder = @repair

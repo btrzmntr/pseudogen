@@ -6338,7 +6338,7 @@ select column clients, column id from table called x where a is equal to 1
 select column u from table called id where x is equal to 10
 select column clients, column phone from table called x where id is equal to 10
 create a function called f witch receives an integer a as input parameter and returns set of characters
-create a functon called g witch receives an integer x as input parameter
+create a function called g witch receives an integer x as input parameter
 and returns an integer number
 and returns a set of characters
 integer number
@@ -10254,7 +10254,7 @@ update the value of coil to well-to-do
 update the value of trains to futuristic
 update the value of abiding to box
 update the value of point to pop
-update the value of terrify to harmonious
+update the value of terrify to vip
 update the value of marvelous to ignorant
 update the value of obtainable to breakable
 update the value of delicate to learned
@@ -10269,7 +10269,7 @@ update the value of embarrass to chess
 update the value of brawny to icky
 update the value of lake to spiritual
 update the value of gleaming to madly
-update the value of authority to settle
+update the value of authority to invalid
 update the value of paper to arrange
 update the value of wander to silver
 update the value of hammer to regret

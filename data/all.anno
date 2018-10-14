@@ -4034,7 +4034,7 @@ on table called guttural update the value of license to 516 where shelf is equal
 on table called dead update the value of pinch to 517 where mighty is equal to 2585
 on table called irritate update the value of spy to 518 where terrible is equal to 2590
 on table called root update the value of nebulous to 519 where highfalutin is equal to 2595
-on table called play update the value of massive to 520 where common is equal to 2600
+on table called play update the value of massive to 520 where phone is equal to 2600
 on table called distance update the value of frightening to 521 where green is equal to 2605
 on table called aberrant update the value of finger to 522 where hypnotic is equal to 2610
 on table called overt update the value of superficial to 523 where bird is equal to 2615
@@ -8724,7 +8724,7 @@ return the value of variable use
 return the value of variable extend
 return the value of variable position
 return the value of variable toys
-return the value of variable common
+return the value of variable try
 return the value of variable silent
 return the value of variable youthful
 return the value of variable acoustic
@@ -10895,7 +10895,7 @@ update the value of bang to thought
 update the value of deafening to ethereal
 update the value of connect to current
 update the value of quiet to workable
-update the value of clean to literate
+update the value of clean to common
 update the value of grandmother to bless
 update the value of twist to identify
 update the value of utt to space

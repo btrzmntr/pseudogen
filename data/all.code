@@ -2201,7 +2201,7 @@ select * from sparkling where teeny <= 101
 select * from sharp where distance <= 102
 select * from polite where wellmade <= 103
 select * from paddle where rinse <= 104
-select * from coil where literate <= 105
+select * from coil where  <= 105
 select * from excited where gaping <= 106
 select * from eager where knot <= 107
 select * from grandfather where trail <= 108
@@ -3745,7 +3745,7 @@ update friends set luxuriant = 244 where box = 1220
 update orange set boundless = 245 where silly = 1225
 update grate set pig = 246 where coil = 1230
 update inexpensive set labored = 247 where hysterical = 1235
-update obtainable set foolish = 248 where literate = 1240
+update obtainable set foolish = 248 where  = 1240
 update railway set enchanted = 249 where blush = 1245
 update fit set symptomatic = 250 where mouth = 1250
 update expert set wish = 251 where stare = 1255
@@ -4034,7 +4034,7 @@ update guttural set license = 516 where shelf = 2580
 update dead set pinch = 517 where mighty = 2585
 update irritate set spy = 518 where terrible = 2590
 update root set nebulous = 519 where highfalutin = 2595
-update play set massive = 520 where common = 2600
+update play set massive = 520 where phone = 2600
 update distance set frightening = 521 where green = 2605
 update aberrant set finger = 522 where hypnotic = 2610
 update overt set superficial = 523 where bird = 2615
@@ -8724,7 +8724,7 @@ return(use)
 return(extend)
 return(position)
 return(toys)
-return(common)
+return(try)
 return(silent)
 return(youthful)
 return(acoustic)

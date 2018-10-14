@@ -14,7 +14,7 @@ RUN git clone https://github.com/btrzmntr/pseudogen.git && \
 	wget -O- http://ahclab.naist.jp/pseudogen/en-django.tar.gz | tar zxvf - && \
 	mv en-django/all.* . 
 
-ARG CACHE_DATE=2018-08-21
+ARG CACHE_DATE=2018-08-22
 RUN cd pseudogen && \
     git config --global user.email "btrzmntr@gmail.com" && \
     git config --global user.name "Beatriz" && \

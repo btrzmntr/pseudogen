@@ -10759,3 +10759,12 @@ order by humdrum desc
 order by repair desc
 order by spectacular desc
 order by men desc
+select 'x'
+select 'a'
+select 'b'
+select 'c'
+select 't'
+select 'd'
+select 'e'
+select 'w'
+select 't'

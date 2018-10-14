@@ -10447,28 +10447,28 @@ update the value of hall to tent
 update the value of even to toad
 update the value of burst to famous
 update the value of bashful to gold
-select line count from table called car and assign this value to x
-select line count from table called car and assign this value to teste
-select line count from table called car and assign this value to a
-select line count from table called car and assign this value to b
-select line count from table called car and assign this value to c
-select line count from table called car and assign this value to d
-select line count from table called car and assign this value to e
-select line count from table called car and assign this value to f
-select line count from table called car and assign this value to g
-select line count from table called car and assign this value to h
-select line count from table called car and assign this value to i
-line count
-select line count from table called poison where material is equal to 1 and assign this value to drum
-select line count from table called twist where count is equal to 2 and assign this value to fancy
-select line count from table called girls where coal is equal to 3 and assign this value to disagree
-select line count from table called monkey where reach is equal to 4 and assign this value to reading
-select line count from table called breath where quiet is equal to 5 and assign this value to look
-select line count from table called meeting where witty is equal to 6 and assign this value to secretary
-select line count from table called seal where contain is equal to 7 and assign this value to teaching
-select line count from table called memorise where salt is equal to 8 and assign this value to messy
-select line count from table called story where upset is equal to 9 and assign this value to experience
-select line count from table called talk where tangy is equal to 10 and assign this value to quill
+select lines count from table called car and assign this value to x
+select lines count from table called car and assign this value to teste
+select lines count from table called car and assign this value to a
+select lines count from table called car and assign this value to b
+select lines count from table called car and assign this value to c
+select lines count from table called car and assign this value to d
+select lines count from table called car and assign this value to e
+select lines count from table called car and assign this value to f
+select lines count from table called car and assign this value to g
+select lines count from table called car and assign this value to h
+select lines count from table called car and assign this value to i
+lines count
+select lines count from table called poison where material is equal to 1 and assign this value to drum
+select lines count from table called twist where count is equal to 2 and assign this value to fancy
+select lines count from table called girls where coal is equal to 3 and assign this value to disagree
+select lines count from table called monkey where reach is equal to 4 and assign this value to reading
+select lines count from table called breath where quiet is equal to 5 and assign this value to look
+select lines count from table called meeting where witty is equal to 6 and assign this value to secretary
+select lines count from table called seal where contain is equal to 7 and assign this value to teaching
+select lines count from table called memorise where salt is equal to 8 and assign this value to messy
+select lines count from table called story where upset is equal to 9 and assign this value to experience
+select lines count from table called talk where tangy is equal to 10 and assign this value to quill
 select column control, column decisive, column cheap from table called ray
 select column look, column spoon, column warlike from table called heap
 select column vast, column dizzy, column amusing from table called weather

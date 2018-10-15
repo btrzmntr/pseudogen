@@ -813,7 +813,7 @@ select * from satisfying
 select * from board
 select * from hesitant
 select * from dirty
-select * from 
+select * from vague
 select * from box
 select * from hammer
 select * from plane
@@ -2101,7 +2101,7 @@ select * from satisfying where nifty <= 1
 select * from board where enormous <= 2
 select * from hesitant where amount <= 3
 select * from dirty where shop <= 4
-select * from where wail <= 5
+select * from vague where wail <= 5
 select * from box where answer <= 6
 select * from hammer where crook <= 7
 select * from plane where permit <= 8
@@ -3068,7 +3068,7 @@ delete from accidental where secret = 70
 delete from last where nappy = 71
 delete from distinct where horse = 72
 delete from grey where profuse = 73
-delete from suffer where = 74
+delete from suffer where vague = 74
 delete from key where pine = 75
 delete from blackandwhite where public = 76
 delete from aware where request = 77
@@ -11634,103 +11634,3 @@ if dbo.f_throat(@harbor) = 970
 if dbo.f_check(@wool) = 980
 if dbo.f_escape(@fool) = 990
 if dbo.f_legs(@sparkle) = 1000
-exec p_library(@rifle)
-exec p_tame(@cough)
-exec p_sleep(@frightened)
-exec p_whip(@paste)
-exec p_dangerous(@swift)
-exec p_medical(@play)
-exec p_amused(@letters)
-exec p_capricious(@agreement)
-exec p_useless(@abortive)
-exec p_approval(@spiky)
-exec p_deadpan(@challenge)
-exec p_punch(@curve)
-exec p_undesirable(@beg)
-exec p_ablaze(@guiltless)
-exec p_flow(@peace)
-exec p_elite(@town)
-exec p_difficult(@type)
-exec p_sack(@fierce)
-exec p_zippy(@clear)
-exec p_fireman(@pickle)
-exec p_punishment(@jewel)
-exec p_square(@corn)
-exec p_discussion(@light)
-exec p_type(@modern)
-exec p_mine(@cowardly)
-exec p_wave(@ocean)
-exec p_disappear(@abhorrent)
-exec p_employ(@questionable)
-exec p_superb(@spare)
-exec p_bridge(@hushed)
-exec p_phone(@baseball)
-exec p_lamentable(@wax)
-exec p_consider(@wrap)
-exec p_locket(@ablaze)
-exec p_dress(@fold)
-exec p_damaging(@dust)
-exec p_acoustic(@incredible)
-exec p_spooky(@terrible)
-exec p_sack(@cakes)
-exec p_bright(@compete)
-exec p_axiomatic(@error)
-exec p_top(@strengthen)
-exec p_sprout(@taste)
-exec p_gaudy(@jar)
-exec p_rifle(@cagey)
-exec p_bulb(@battle)
-exec p_mark(@payment)
-exec p_class(@company)
-exec p_nostalgic(@teeny-tiny)
-exec p_hallowed(@jealous)
-exec p_yawn(@trains)
-exec p_notebook(@freezing)
-exec p_cracker(@mark)
-exec p_squealing(@difficult)
-exec p_invite(@energetic)
-exec p_title(@scrawny)
-exec p_lighten(@applaud)
-exec p_cloth(@prick)
-exec p_gusty(@muddled)
-exec p_fanatical(@demonic)
-exec p_able(@curious)
-exec p_cattle(@tease)
-exec p_chalk(@steep)
-exec p_lean(@selfish)
-exec p_thundering(@toys)
-exec p_preach(@building)
-exec p_untidy(@rude)
-exec p_shock(@trade)
-exec p_hat(@amuse)
-exec p_bell(@abounding)
-exec p_horrible(@frantic)
-exec p_hunt(@neck)
-exec p_agonizing(@abrupt)
-exec p_record(@excite)
-exec p_cast(@elderly)
-exec p_pie(@pen)
-exec p_wash(@report)
-exec p_absorbing(@bottle)
-exec p_exist(@thank)
-exec p_warn(@bashful)
-exec p_steel(@nice)
-exec p_potato(@plate)
-exec p_vacation(@funny)
-exec p_insurance(@driving)
-exec p_jealous(@whistle)
-exec p_small(@connect)
-exec p_expensive(@attractive)
-exec p_tacit(@good)
-exec p_efficient(@depend)
-exec p_sheet(@railway)
-exec p_switch(@shock)
-exec p_babies(@snore)
-exec p_repair(@guide)
-exec p_automatic(@stupid)
-exec p_trot(@heartbreaking)
-exec p_rush(@sticks)
-exec p_statuesque(@license)
-exec p_noxious(@silent)
-exec p_sound(@soap)
-exec p_waste(@rotten)

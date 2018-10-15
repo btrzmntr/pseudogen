@@ -6462,7 +6462,7 @@ create a function called striped which receives an integer spiffy as input param
 create a function called orange which receives an integer nutty as input parameter and returns set of characters
 create a function called attempt which receives an integer visit as input parameter and returns set of characters
 create a function called weak which receives an integer poised as input parameter and returns set of characters
-create a function called count which receives an integer teaching as input parameter and returns set of characters
+create a function called jaded which receives an integer teaching as input parameter and returns set of characters
 create a function called can which receives an integer interrupt as input parameter and returns set of characters
 create a function called mess which receives an integer mountainous as input parameter and returns set of characters
 create a function called assorted which receives an integer merciful as input parameter and returns set of characters
@@ -8357,7 +8357,7 @@ which receives an integer trail as input parameter and returns
 which receives an integer obedient as input parameter and returns
 which receives an integer chance as input parameter and returns
 which receives an integer fold as input parameter and returns
-which receives an integer count as input parameter and returns
+which receives an integer macho as input parameter and returns
 which receives an integer voice as input parameter and returns
 which receives an integer zip as input parameter and returns
 which receives an integer snails as input parameter and returns
@@ -10460,7 +10460,7 @@ select lines count from table called car and assign this value to h
 select lines count from table called car and assign this value to i
 lines count
 select lines count from table called poison where material is equal to 1 and assign this value to drum
-select lines count from table called twist where count is equal to 2 and assign this value to fancy
+select lines count from table called twist where test is equal to 2 and assign this value to fancy
 select lines count from table called girls where coal is equal to 3 and assign this value to disagree
 select lines count from table called monkey where reach is equal to 4 and assign this value to reading
 select lines count from table called breath where quiet is equal to 5 and assign this value to look

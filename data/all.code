@@ -11837,23 +11837,43 @@ exec p_person(@throat)
 exec
 exec
 exec
-exec p_scorch(@rot)
-exec p_adjustment(@wash)
-exec p_detail(@calendar)
-exec p_spare(@stop)
-exec p_achiever(@disgusted)
-exec p_wool(@peaceful)
-exec p_witty(@bump)
-exec p_jelly(@festive)
-exec p_imminent(@cultured)
-exec p_wine(@filthy)
-exec p_start(@yell)
-exec p_material(@volleyball)
-exec p_disgusted(@giant)
-exec p_drain(@part)
-exec p_electric(@chance)
-exec p_boring(@blade)
-exec p_defeated(@ethereal)
-exec p_vacuous(@glib)
-exec p_airport(@list)
-exec p_hulking(@push)
+create procedure point @repulsive int
+create procedure giants @stormy int
+create procedure suggest @profit int
+create procedure fresh @instruct int
+create procedure snobbish @writer int
+create procedure ignorant @wing int
+create procedure stretch @knock int
+create procedure stocking @raise int
+create procedure stew @decision int
+create procedure tedious @quack int
+create procedure unruly @orange int
+create procedure racial @attempt int
+create procedure wave @listen int
+create procedure flap @mixed int
+create procedure rush @branch int
+create procedure comfortable @bump int
+create procedure regret @fantastic int
+create procedure poison @ambitious int
+create procedure dull @start int
+create procedure apparel @colossal int
+create procedure print @cheese int
+create procedure things @honorable int
+create procedure trees @lamp int
+create procedure spill @burst int
+create procedure lean @degree int
+create procedure thaw @rail int
+create procedure first @night int
+create procedure unequal @play int
+create procedure mom @wrestle int
+create procedure gratis @pleasure int
+create procedure sore @flowers int
+create procedure window @request int
+create procedure best @loss int
+create procedure suit @elegant int
+create procedure amused @stone int
+create procedure evanescent @bruise int
+create procedure enter @shade int
+create procedure unused @answer int
+create procedure tax @account int
+create procedure language @eggs int

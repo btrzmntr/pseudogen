@@ -6127,13 +6127,13 @@ values (1,2,3,4,5)
 select zip from arrange
 select overjoyed from public
 select theory from hallowed
-select entertain from lyrical
+select teste from lyrical
 select stage from pan
 select watch from eye
 select curtain from upset
 select argue from rod
 select smoke from disappear
-select pastoral from eatable
+select violin from eatable
 select excited from different
 select cowardly from plot
 select ball from stir
@@ -6145,7 +6145,7 @@ select blot from mother
 select untidy from educate
 select fall from like
 select quarrelsome from needy
-select orange from wall
+select y from wall
 select part from suit
 select thank from demonic
 select old from distance
@@ -6194,7 +6194,7 @@ select ambitious from head
 select stretch from move
 select wheel from macabre
 select thundering from wander
-select dust from sore
+select z from sore
 select caption from unfasten
 select exercise from listen
 select button from superficial
@@ -6220,7 +6220,7 @@ select picayune from winter
 select torpid from continue
 select acid from fuzzy
 select three from telling
-select chance from word
+select test from word
 select time from hulking
 select languid from vengeful
 select majestic from volleyball
@@ -6295,8 +6295,8 @@ select fasten from acrid
 select annoyed from jumbled
 select telling from meal
 select star from rebel
-select balance from tasteful
-select vacuous from yummy
+select x from tasteful
+select vaca from yummy
 select elbow from dare
 select lamentable from available
 select head from income
@@ -11837,3 +11837,23 @@ exec p_person(@throat)
 exec
 exec
 exec
+exec p_scorch(@rot)
+exec p_adjustment(@wash)
+exec p_detail(@calendar)
+exec p_spare(@stop)
+exec p_achiever(@disgusted)
+exec p_wool(@peaceful)
+exec p_witty(@bump)
+exec p_jelly(@festive)
+exec p_imminent(@cultured)
+exec p_wine(@filthy)
+exec p_start(@yell)
+exec p_material(@volleyball)
+exec p_disgusted(@giant)
+exec p_drain(@part)
+exec p_electric(@chance)
+exec p_boring(@blade)
+exec p_defeated(@ethereal)
+exec p_vacuous(@glib)
+exec p_airport(@list)
+exec p_hulking(@push)

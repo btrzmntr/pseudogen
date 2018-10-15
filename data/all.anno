@@ -6127,13 +6127,13 @@ values (1,2,3,4,5)
 select column zip from table called arrange
 select column overjoyed from table called public
 select column theory from table called hallowed
-select column entertain from table called lyrical
+select column teste from table called lyrical
 select column stage from table called pan
 select column watch from table called eye
 select column curtain from table called upset
 select column argue from table called rod
 select column smoke from table called disappear
-select column pastoral from table called eatable
+select column violin from table called eatable
 select column excited from table called different
 select column cowardly from table called plot
 select column ball from table called stir
@@ -6145,7 +6145,7 @@ select column blot from table called mother
 select column untidy from table called educate
 select column fall from table called like
 select column quarrelsome from table called needy
-select column orange from table called wall
+select column y from table called wall
 select column part from table called suit
 select column thank from table called demonic
 select column old from table called distance
@@ -6194,7 +6194,7 @@ select column ambitious from table called head
 select column stretch from table called move
 select column wheel from table called macabre
 select column thundering from table called wander
-select column dust from table called sore
+select column z from table called sore
 select column caption from table called unfasten
 select column exercise from table called listen
 select column button from table called superficial
@@ -6220,7 +6220,7 @@ select column picayune from table called winter
 select column torpid from table called continue
 select column acid from table called fuzzy
 select column three from table called telling
-select column chance from table called word
+select column test from table called word
 select column time from table called hulking
 select column languid from table called vengeful
 select column majestic from table called volleyball
@@ -6295,8 +6295,8 @@ select column fasten from table called acrid
 select column annoyed from table called jumbled
 select column telling from table called meal
 select column star from table called rebel
-select column balance from table called tasteful
-select column vacuous from table called yummy
+select column x from table called tasteful
+select column vaca from table called yummy
 select column elbow from table called dare
 select column lamentable from table called available
 select column head from table called income
@@ -11837,3 +11837,23 @@ execute the object person with throat as input parameter
 execute the object
 execute the object
 execute the object
+execute the object called scorch with rot as input parameter
+execute the object called adjustment with wash as input parameter
+execute the object called detail with calendar as input parameter
+execute the object called spare with stop as input parameter
+execute the object called achiever with disgusted as input parameter
+execute the object called wool with peaceful as input parameter
+execute the object called witty with bump as input parameter
+execute the object called jelly with festive as input parameter
+execute the object called imminent with cultured as input parameter
+execute the object called wine with filthy as input parameter
+execute the object called start with yell as input parameter
+execute the object called material with volleyball as input parameter
+execute the object called disgusted with giant as input parameter
+execute the object called drain with part as input parameter
+execute the object called electric with chance as input parameter
+execute the object called boring with blade as input parameter
+execute the object called defeated with ethereal as input parameter
+execute the object called vacuous with glib as input parameter
+execute the object called airport with list as input parameter
+execute the object called hulking with push as input parameter

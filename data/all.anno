@@ -11340,7 +11340,7 @@ select line count from table called adjoining where shaky is equal to 23 and ass
 select line count from table called bite where aromatic is equal to 24 and assign this value to queen
 select line count from table called cut where water is equal to 25 and assign this value to mice
 select line count from table called crush where lace is equal to 26 and assign this value to compete
-select line count from table called connect where blue-eyed is equal to 27 and assign this value to old
+select line count from table called connect where blueeyed is equal to 27 and assign this value to old
 select line count from table called island where jumpy is equal to 28 and assign this value to same
 select line count from table called coordinated where pretty is equal to 29 and assign this value to strip
 select line count from table called shoe where peaceful is equal to 30 and assign this value to tasteful
@@ -11476,9 +11476,9 @@ execute the procedure called strange with voiceless as input parameter
 execute the procedure called miniature with gorgeous as input parameter
 execute the procedure called trust with bake as input parameter
 execute the procedure called check with elastic as input parameter
-execute the procedure called worm with extra-small as input parameter
+execute the procedure called worm with extrasmall as input parameter
 execute the procedure called erect with telephone as input parameter
-execute the procedure called well-off with inquisitive as input parameter
+execute the procedure called welloff with inquisitive as input parameter
 execute the procedure called tin with depressed as input parameter
 execute the procedure called kick with knowing as input parameter
 execute the procedure called science with zany as input parameter
@@ -11506,7 +11506,7 @@ select line count from table called seed where fancy is equal to 9 and assign th
 select line count from table called torpid where defeated is equal to 10 and assign this value to lazy
 select line count from table called evanescent where edge is equal to 11 and assign this value to absent
 select line count from table called powerful where suggestion is equal to 12 and assign this value to soothe
-select line count from table called calm where fallacious is equal to 13 and assign this value to well-groomed
+select line count from table called calm where fallacious is equal to 13 and assign this value to wellgroomed
 select line count from table called abandoned where disillusioned is equal to 14 and assign this value to ludicrous
 select line count from table called structure where behave is equal to 15 and assign this value to toe
 select line count from table called man where gigantic is equal to 16 and assign this value to point
@@ -11534,3 +11534,203 @@ select line count from table called political where equal is equal to 37 and ass
 select line count from table called dynamic where six is equal to 38 and assign this value to obese
 select line count from table called force where support is equal to 39 and assign this value to determined
 select line count from table called succinct where road is equal to 40 and assign this value to waste
+if the execution of the function f_elite with giddy as input parameter is greater than 10
+if the execution of the function f_toad with close as input parameter is greater than 20
+if the execution of the function f_corn with literate as input parameter is greater than 30
+if the execution of the function f_wanting with arrive as input parameter is greater than 40
+if the execution of the function f_gusty with box as input parameter is greater than 50
+if the execution of the function f_tranquil with whistle as input parameter is greater than 60
+if the execution of the function f_industrious with typical as input parameter is greater than 70
+if the execution of the function f_boorish with root as input parameter is greater than 80
+if the execution of the function f_leather with irritate as input parameter is greater than 90
+if the execution of the function f_motionless with cracker as input parameter is greater than 100
+if the execution of the function f_ship with tense as input parameter is greater than 110
+if the execution of the function f_handsomely with shiver as input parameter is greater than 120
+if the execution of the function f_boy with tricky as input parameter is greater than 130
+if the execution of the function f_living with pine as input parameter is greater than 140
+if the execution of the function f_hour with scent as input parameter is greater than 150
+if the execution of the function f_enjoy with uptight as input parameter is greater than 160
+if the execution of the function f_sharp with well-to-do as input parameter is greater than 170
+if the execution of the function f_amuse with capricious as input parameter is greater than 180
+if the execution of the function f_pink with house as input parameter is greater than 190
+if the execution of the function f_lazy with bashful as input parameter is greater than 200
+if the execution of the function f_internal with gray as input parameter is greater than 210
+if the execution of the function f_skin with juicy as input parameter is greater than 220
+if the execution of the function f_alert with plants as input parameter is greater than 230
+if the execution of the function f_extra-large with rob as input parameter is greater than 240
+if the execution of the function f_smart with vessel as input parameter is greater than 250
+if the execution of the function f_inform with yard as input parameter is greater than 260
+if the execution of the function f_mug with infamous as input parameter is greater than 270
+if the execution of the function f_judicious with scratch as input parameter is greater than 280
+if the execution of the function f_tasteful with numerous as input parameter is greater than 290
+if the execution of the function f_screeching with sheet as input parameter is greater than 300
+if the execution of the function f_cars with smell as input parameter is greater than 310
+if the execution of the function f_nail with quaint as input parameter is greater than 320
+if the execution of the function f_apologise with start as input parameter is greater than 330
+if the execution of the function f_screw with labored as input parameter is greater than 340
+if the execution of the function f_whine with books as input parameter is greater than 350
+if the execution of the function f_five with unsuitable as input parameter is greater than 360
+if the execution of the function f_broken with glass as input parameter is greater than 370
+if the execution of the function f_trouble with long as input parameter is greater than 380
+if the execution of the function f_ancient with parched as input parameter is greater than 390
+if the execution of the function f_fretful with halting as input parameter is greater than 400
+if the execution of the function f_redundant with smile as input parameter is greater than 410
+if the execution of the function f_dinosaurs with cart as input parameter is greater than 420
+if the execution of the function f_frail with wound as input parameter is greater than 430
+if the execution of the function f_petite with question as input parameter is greater than 440
+if the execution of the function f_refuse with scary as input parameter is greater than 450
+if the execution of the function f_obscene with quiver as input parameter is greater than 460
+if the execution of the function f_cynical with loutish as input parameter is greater than 470
+if the execution of the function f_press with behave as input parameter is greater than 480
+if the execution of the function f_whisper with suppose as input parameter is greater than 490
+if the execution of the function f_gray with prickly as input parameter is greater than 500
+if the execution of the function f_white with crack as input parameter is greater than 510
+if the execution of the function f_park with macho as input parameter is greater than 520
+if the execution of the function f_moaning with massive as input parameter is greater than 530
+if the execution of the function f_knock with quack as input parameter is greater than 540
+if the execution of the function f_beautiful with faded as input parameter is greater than 550
+if the execution of the function f_cream with dead as input parameter is greater than 560
+if the execution of the function f_mixed with flat as input parameter is greater than 570
+if the execution of the function f_dapper with zoo as input parameter is greater than 580
+if the execution of the function f_plucky with creator as input parameter is greater than 590
+if the execution of the function f_work with observant as input parameter is greater than 600
+if the execution of the function f_juice with slimy as input parameter is greater than 610
+if the execution of the function f_kitty with shallow as input parameter is greater than 620
+if the execution of the function f_exotic with building as input parameter is greater than 630
+if the execution of the function f_cart with shy as input parameter is greater than 640
+if the execution of the function f_idea with intelligent as input parameter is greater than 650
+if the execution of the function f_business with place as input parameter is greater than 660
+if the execution of the function f_complex with obedient as input parameter is greater than 670
+if the execution of the function f_cat with guttural as input parameter is greater than 680
+if the execution of the function f_remarkable with extend as input parameter is greater than 690
+if the execution of the function f_tie with ultra as input parameter is greater than 700
+if the execution of the function f_waggish with insect as input parameter is greater than 710
+if the execution of the function f_fang with comparison as input parameter is greater than 720
+if the execution of the function f_shrill with ill-informed as input parameter is greater than 730
+if the execution of the function f_magical with bushes as input parameter is greater than 740
+if the execution of the function f_squeeze with class as input parameter is greater than 750
+if the execution of the function f_cent with paste as input parameter is greater than 760
+if the execution of the function f_reason with sneeze as input parameter is greater than 770
+if the execution of the function f_puncture with spray as input parameter is greater than 780
+if the execution of the function f_stretch with rampant as input parameter is greater than 790
+if the execution of the function f_uptight with placid as input parameter is greater than 800
+if the execution of the function f_cracker with trip as input parameter is greater than 810
+if the execution of the function f_regret with stocking as input parameter is greater than 820
+if the execution of the function f_substantial with creature as input parameter is greater than 830
+if the execution of the function f_obtainable with precious as input parameter is greater than 840
+if the execution of the function f_snatch with perform as input parameter is greater than 850
+if the execution of the function f_introduce with wash as input parameter is greater than 860
+if the execution of the function f_lethal with whirl as input parameter is greater than 870
+if the execution of the function f_longing with blot as input parameter is greater than 880
+if the execution of the function f_wriggle with try as input parameter is greater than 890
+if the execution of the function f_lumpy with pedal as input parameter is greater than 900
+if the execution of the function f_tire with arrogant as input parameter is greater than 910
+if the execution of the function f_meek with heavenly as input parameter is greater than 920
+if the execution of the function f_scrub with water as input parameter is greater than 930
+if the execution of the function f_water with camp as input parameter is greater than 940
+if the execution of the function f_smash with disgusting as input parameter is greater than 950
+if the execution of the function f_toothpaste with tail as input parameter is greater than 960
+if the execution of the function f_throat with harbor as input parameter is greater than 970
+if the execution of the function f_check with wool as input parameter is greater than 980
+if the execution of the function f_escape with fool as input parameter is greater than 990
+if the execution of the function f_legs with sparkle as input parameter is greater than 1000
+execute the procedure called library with rifle as input parameter
+execute the procedure called tame with cough as input parameter
+execute the procedure called sleep with frightened as input parameter
+execute the procedure called whip with paste as input parameter
+execute the procedure called dangerous with swift as input parameter
+execute the procedure called medical with play as input parameter
+execute the procedure called amused with letters as input parameter
+execute the procedure called capricious with agreement as input parameter
+execute the procedure called useless with abortive as input parameter
+execute the procedure called approval with spiky as input parameter
+execute the procedure called deadpan with challenge as input parameter
+execute the procedure called punch with curve as input parameter
+execute the procedure called undesirable with beg as input parameter
+execute the procedure called ablaze with guiltless as input parameter
+execute the procedure called flow with peace as input parameter
+execute the procedure called elite with town as input parameter
+execute the procedure called difficult with type as input parameter
+execute the procedure called sack with fierce as input parameter
+execute the procedure called zippy with clear as input parameter
+execute the procedure called fireman with pickle as input parameter
+execute the procedure called punishment with jewel as input parameter
+execute the procedure called square with corn as input parameter
+execute the procedure called discussion with light as input parameter
+execute the procedure called type with modern as input parameter
+execute the procedure called mine with cowardly as input parameter
+execute the procedure called wave with ocean as input parameter
+execute the procedure called disappear with abhorrent as input parameter
+execute the procedure called employ with questionable as input parameter
+execute the procedure called superb with spare as input parameter
+execute the procedure called bridge with hushed as input parameter
+execute the procedure called phone with baseball as input parameter
+execute the procedure called lamentable with wax as input parameter
+execute the procedure called consider with wrap as input parameter
+execute the procedure called locket with ablaze as input parameter
+execute the procedure called dress with fold as input parameter
+execute the procedure called damaging with dust as input parameter
+execute the procedure called acoustic with incredible as input parameter
+execute the procedure called spooky with terrible as input parameter
+execute the procedure called sack with cakes as input parameter
+execute the procedure called bright with compete as input parameter
+execute the procedure called axiomatic with error as input parameter
+execute the procedure called top with strengthen as input parameter
+execute the procedure called sprout with taste as input parameter
+execute the procedure called gaudy with jar as input parameter
+execute the procedure called rifle with cagey as input parameter
+execute the procedure called bulb with battle as input parameter
+execute the procedure called mark with payment as input parameter
+execute the procedure called class with company as input parameter
+execute the procedure called nostalgic with teeny-tiny as input parameter
+execute the procedure called hallowed with jealous as input parameter
+execute the procedure called yawn with trains as input parameter
+execute the procedure called notebook with freezing as input parameter
+execute the procedure called cracker with mark as input parameter
+execute the procedure called squealing with difficult as input parameter
+execute the procedure called invite with energetic as input parameter
+execute the procedure called title with scrawny as input parameter
+execute the procedure called lighten with applaud as input parameter
+execute the procedure called cloth with prick as input parameter
+execute the procedure called gusty with muddled as input parameter
+execute the procedure called fanatical with demonic as input parameter
+execute the procedure called able with curious as input parameter
+execute the procedure called cattle with tease as input parameter
+execute the procedure called chalk with steep as input parameter
+execute the procedure called lean with selfish as input parameter
+execute the procedure called thundering with toys as input parameter
+execute the procedure called preach with building as input parameter
+execute the procedure called untidy with rude as input parameter
+execute the procedure called shock with trade as input parameter
+execute the procedure called hat with amuse as input parameter
+execute the procedure called bell with abounding as input parameter
+execute the procedure called horrible with frantic as input parameter
+execute the procedure called hunt with neck as input parameter
+execute the procedure called agonizing with abrupt as input parameter
+execute the procedure called record with excite as input parameter
+execute the procedure called cast with elderly as input parameter
+execute the procedure called pie with pen as input parameter
+execute the procedure called wash with report as input parameter
+execute the procedure called absorbing with bottle as input parameter
+execute the procedure called exist with thank as input parameter
+execute the procedure called warn with bashful as input parameter
+execute the procedure called steel with nice as input parameter
+execute the procedure called potato with plate as input parameter
+execute the procedure called vacation with funny as input parameter
+execute the procedure called insurance with driving as input parameter
+execute the procedure called jealous with whistle as input parameter
+execute the procedure called small with connect as input parameter
+execute the procedure called expensive with attractive as input parameter
+execute the procedure called tacit with good as input parameter
+execute the procedure called efficient with depend as input parameter
+execute the procedure called sheet with railway as input parameter
+execute the procedure called switch with shock as input parameter
+execute the procedure called babies with snore as input parameter
+execute the procedure called repair with guide as input parameter
+execute the procedure called automatic with stupid as input parameter
+execute the procedure called trot with heartbreaking as input parameter
+execute the procedure called rush with sticks as input parameter
+execute the procedure called statuesque with license as input parameter
+execute the procedure called noxious with silent as input parameter
+execute the procedure called sound with soap as input parameter
+execute the procedure called waste with rotten as input parameter

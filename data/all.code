@@ -11533,4 +11533,204 @@ select wonder = count(*) from crabby where hallowed = 36
 select robust = count(*) from political where equal = 37
 select obese = count(*) from dynamic where six = 38
 select determined = count(*) from force where support = 39
-select waste = count(*) from succinct where road = 40   
+select waste = count(*) from succinct where road = 40
+if dbo.f_elite(@giddy) = 10
+if dbo.f_toad(@close) = 20
+if dbo.f_corn(@literate) = 30
+if dbo.f_wanting(@arrive) = 40
+if dbo.f_gusty(@box) = 50
+if dbo.f_tranquil(@whistle) = 60
+if dbo.f_industrious(@typical) = 70
+if dbo.f_boorish(@root) = 80
+if dbo.f_leather(@irritate) = 90
+if dbo.f_motionless(@cracker) = 100
+if dbo.f_ship(@tense) = 110
+if dbo.f_handsomely(@shiver) = 120
+if dbo.f_boy(@tricky) = 130
+if dbo.f_living(@pine) = 140
+if dbo.f_hour(@scent) = 150
+if dbo.f_enjoy(@uptight) = 160
+if dbo.f_sharp(@well-to-do) = 170
+if dbo.f_amuse(@capricious) = 180
+if dbo.f_pink(@house) = 190
+if dbo.f_lazy(@bashful) = 200
+if dbo.f_internal(@gray) = 210
+if dbo.f_skin(@juicy) = 220
+if dbo.f_alert(@plants) = 230
+if dbo.f_extra-large(@rob) = 240
+if dbo.f_smart(@vessel) = 250
+if dbo.f_inform(@yard) = 260
+if dbo.f_mug(@infamous) = 270
+if dbo.f_judicious(@scratch) = 280
+if dbo.f_tasteful(@numerous) = 290
+if dbo.f_screeching(@sheet) = 300
+if dbo.f_cars(@smell) = 310
+if dbo.f_nail(@quaint) = 320
+if dbo.f_apologise(@start) = 330
+if dbo.f_screw(@labored) = 340
+if dbo.f_whine(@books) = 350
+if dbo.f_five(@unsuitable) = 360
+if dbo.f_broken(@glass) = 370
+if dbo.f_trouble(@long) = 380
+if dbo.f_ancient(@parched) = 390
+if dbo.f_fretful(@halting) = 400
+if dbo.f_redundant(@smile) = 410
+if dbo.f_dinosaurs(@cart) = 420
+if dbo.f_frail(@wound) = 430
+if dbo.f_petite(@question) = 440
+if dbo.f_refuse(@scary) = 450
+if dbo.f_obscene(@quiver) = 460
+if dbo.f_cynical(@loutish) = 470
+if dbo.f_press(@behave) = 480
+if dbo.f_whisper(@suppose) = 490
+if dbo.f_gray(@prickly) = 500
+if dbo.f_white(@crack) = 510
+if dbo.f_park(@macho) = 520
+if dbo.f_moaning(@massive) = 530
+if dbo.f_knock(@quack) = 540
+if dbo.f_beautiful(@faded) = 550
+if dbo.f_cream(@dead) = 560
+if dbo.f_mixed(@flat) = 570
+if dbo.f_dapper(@zoo) = 580
+if dbo.f_plucky(@creator) = 590
+if dbo.f_work(@observant) = 600
+if dbo.f_juice(@slimy) = 610
+if dbo.f_kitty(@shallow) = 620
+if dbo.f_exotic(@building) = 630
+if dbo.f_cart(@shy) = 640
+if dbo.f_idea(@intelligent) = 650
+if dbo.f_business(@place) = 660
+if dbo.f_complex(@obedient) = 670
+if dbo.f_cat(@guttural) = 680
+if dbo.f_remarkable(@extend) = 690
+if dbo.f_tie(@ultra) = 700
+if dbo.f_waggish(@insect) = 710
+if dbo.f_fang(@comparison) = 720
+if dbo.f_shrill(@ill-informed) = 730
+if dbo.f_magical(@bushes) = 740
+if dbo.f_squeeze(@class) = 750
+if dbo.f_cent(@paste) = 760
+if dbo.f_reason(@sneeze) = 770
+if dbo.f_puncture(@spray) = 780
+if dbo.f_stretch(@rampant) = 790
+if dbo.f_uptight(@placid) = 800
+if dbo.f_cracker(@trip) = 810
+if dbo.f_regret(@stocking) = 820
+if dbo.f_substantial(@creature) = 830
+if dbo.f_obtainable(@precious) = 840
+if dbo.f_snatch(@perform) = 850
+if dbo.f_introduce(@wash) = 860
+if dbo.f_lethal(@whirl) = 870
+if dbo.f_longing(@blot) = 880
+if dbo.f_wriggle(@try) = 890
+if dbo.f_lumpy(@pedal) = 900
+if dbo.f_tire(@arrogant) = 910
+if dbo.f_meek(@heavenly) = 920
+if dbo.f_scrub(@water) = 930
+if dbo.f_water(@camp) = 940
+if dbo.f_smash(@disgusting) = 950
+if dbo.f_toothpaste(@tail) = 960
+if dbo.f_throat(@harbor) = 970
+if dbo.f_check(@wool) = 980
+if dbo.f_escape(@fool) = 990
+if dbo.f_legs(@sparkle) = 1000
+exec p_library(@rifle)
+exec p_tame(@cough)
+exec p_sleep(@frightened)
+exec p_whip(@paste)
+exec p_dangerous(@swift)
+exec p_medical(@play)
+exec p_amused(@letters)
+exec p_capricious(@agreement)
+exec p_useless(@abortive)
+exec p_approval(@spiky)
+exec p_deadpan(@challenge)
+exec p_punch(@curve)
+exec p_undesirable(@beg)
+exec p_ablaze(@guiltless)
+exec p_flow(@peace)
+exec p_elite(@town)
+exec p_difficult(@type)
+exec p_sack(@fierce)
+exec p_zippy(@clear)
+exec p_fireman(@pickle)
+exec p_punishment(@jewel)
+exec p_square(@corn)
+exec p_discussion(@light)
+exec p_type(@modern)
+exec p_mine(@cowardly)
+exec p_wave(@ocean)
+exec p_disappear(@abhorrent)
+exec p_employ(@questionable)
+exec p_superb(@spare)
+exec p_bridge(@hushed)
+exec p_phone(@baseball)
+exec p_lamentable(@wax)
+exec p_consider(@wrap)
+exec p_locket(@ablaze)
+exec p_dress(@fold)
+exec p_damaging(@dust)
+exec p_acoustic(@incredible)
+exec p_spooky(@terrible)
+exec p_sack(@cakes)
+exec p_bright(@compete)
+exec p_axiomatic(@error)
+exec p_top(@strengthen)
+exec p_sprout(@taste)
+exec p_gaudy(@jar)
+exec p_rifle(@cagey)
+exec p_bulb(@battle)
+exec p_mark(@payment)
+exec p_class(@company)
+exec p_nostalgic(@teeny-tiny)
+exec p_hallowed(@jealous)
+exec p_yawn(@trains)
+exec p_notebook(@freezing)
+exec p_cracker(@mark)
+exec p_squealing(@difficult)
+exec p_invite(@energetic)
+exec p_title(@scrawny)
+exec p_lighten(@applaud)
+exec p_cloth(@prick)
+exec p_gusty(@muddled)
+exec p_fanatical(@demonic)
+exec p_able(@curious)
+exec p_cattle(@tease)
+exec p_chalk(@steep)
+exec p_lean(@selfish)
+exec p_thundering(@toys)
+exec p_preach(@building)
+exec p_untidy(@rude)
+exec p_shock(@trade)
+exec p_hat(@amuse)
+exec p_bell(@abounding)
+exec p_horrible(@frantic)
+exec p_hunt(@neck)
+exec p_agonizing(@abrupt)
+exec p_record(@excite)
+exec p_cast(@elderly)
+exec p_pie(@pen)
+exec p_wash(@report)
+exec p_absorbing(@bottle)
+exec p_exist(@thank)
+exec p_warn(@bashful)
+exec p_steel(@nice)
+exec p_potato(@plate)
+exec p_vacation(@funny)
+exec p_insurance(@driving)
+exec p_jealous(@whistle)
+exec p_small(@connect)
+exec p_expensive(@attractive)
+exec p_tacit(@good)
+exec p_efficient(@depend)
+exec p_sheet(@railway)
+exec p_switch(@shock)
+exec p_babies(@snore)
+exec p_repair(@guide)
+exec p_automatic(@stupid)
+exec p_trot(@heartbreaking)
+exec p_rush(@sticks)
+exec p_statuesque(@license)
+exec p_noxious(@silent)
+exec p_sound(@soap)
+exec p_waste(@rotten)

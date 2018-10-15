@@ -11314,532 +11314,223 @@ exec p_odd(@delicate)
 exec p_warm(@digestion)
 exec p_wine(@join)
 exec
-select @madly = pink from disgusting where many = 1
-select @racial = wail from existence where education = 2
-select @x-ray = shock from moldy where possible = 3
-select @play = ten from temporary where towering = 4
-select @debt = ugly from ruthless where release = 5
-select @versed = surprise from slap where meddle = 6
-select @exchange = telling from mean where string = 7
-select @concern = disgusted from fill where knowledge = 8
-select @aunt = back from yarn where boundless = 9
-select @wide = cars from short where bent = 10
-select @classy = girl from glow where work = 11
-select @adamant = draconian from pull where horn = 12
-select @earth = spoon from plate where robin = 13
-select @jelly = match from level where moaning = 14
-select @bare = different from join where spell = 15
-select @perform = hall from tin where mitten = 16
-select @order = alert from count where deadpan = 17
-select @moon = cycle from adorable where payment = 18
-select @ski = snow from complex where pull = 19
-select @excuse = sack from sneeze where house = 20
-select @tart = unpack from abusive where unable = 21
-select @grandfather = petite from understood where increase = 22
-select @mailbox = numerous from rabbits where aspiring = 23
-select @infamous = mundane from oatmeal where plant = 24
-select @chop = peel from invention where soap = 25
-select @stew = plastic from walk where fly = 26
-select @representative = instinctive from sea where snake = 27
-select @notice = crash from unfasten where lake = 28
-select @disapprove = noxious from parched where fit = 29
-select @youthful = treatment from apologise where hideous = 30
-select @fear = vessel from worry where funny = 31
-select @work = chemical from black where dashing = 32
-select @flap = tray from straw where soft = 33
-select @scrawny = icicle from talk where rate = 34
-select @wakeful = shake from lively where zesty = 35
-select @motionless = thaw from increase where bed = 36
-select @bizarre = tease from cruel where boiling = 37
-select @magenta = spurious from tidy where preach = 38
-select @dogs = well-groomed from fine where continue = 39
-select @gate = elegant from serve where school = 40
-select @stomach = courageous from painful where toy = 41
-select @tick = spectacular from remove where inexpensive = 42
-select @used = curve from mailbox where vein = 43
-select @star = partner from lowly where ground = 44
-select @jewel = majestic from impolite where bomb = 45
-select @aquatic = existence from puffy where minute = 46
-select @vulgar = produce from number where swift = 47
-select @comfortable = rainy from various where disturbed = 48
-select @song = telephone from breathe where capricious = 49
-select @roll = taste from wandering where warlike = 50
-select @chief = fixed from flight where dizzy = 51
-select @incompetent = mind from vast where spooky = 52
-select @large = plants from tacit where disarm = 53
-select @simplistic = fang from title where efficient = 54
-select @gaudy = guttural from past where hot = 55
-select @afford = misty from chickens where end = 56
-select @elfin = fuzzy from great where psychedelic = 57
-select @courageous = competition from tap where tongue = 58
-select @cows = thank from optimal where error = 59
-select @stormy = judicious from love where fearful = 60
-select @talk = snakes from mist where grumpy = 61
-select @label = ajar from furry where employ = 62
-select @creature = rambunctious from wasteful where stamp = 63
-select @fine = grain from round where umbrella = 64
-select @army = self from destruction where match = 65
-select @needless = worm from zoo where crack = 66
-select @eminent = ashamed from cheap where sore = 67
-select @turkey = berry from accept where extra-small = 68
-select @shape = stupid from vulgar where protective = 69
-select @yellow = female from remain where crabby = 70
-select @beam = pricey from plausible where harbor = 71
-select @obsolete = purple from somber where quick = 72
-select @scared = division from humorous where blue = 73
-select @knock = observe from group where frail = 74
-select @rot = stiff from level where twist = 75
-select @nonstop = conscious from obese where deer = 76
-select @orange = worthless from dynamic where flag = 77
-select @bent = flame from oranges where river = 78
-select @protect = honey from redundant where dance = 79
-select @voice = humorous from cynical where cumbersome = 80
-select @slip = drag from clumsy where choke = 81
-select @feeling = change from aquatic where outstanding = 82
-select @parallel = peck from square where division = 83
-select @coil = party from berserk where yarn = 84
-select @mate = frame from bounce where loose = 85
-select @enjoy = confess from extra-small where ambiguous = 86
-select @level = fear from exist where wrathful = 87
-select @cold = expansion from rabid where graceful = 88
-select @testy = daffy from quarrelsome where whine = 89
-select @nest = sulky from warm where injure = 90
-select @rhetorical = zinc from nutty where greet = 91
-select @vagabond = pollution from chubby where crooked = 92
-select @married = doctor from imminent where unequal = 93
-select @quiet = vacuous from guarded where approve = 94
-select @tow = colour from cautious where number = 95
-select @innate = need from noisy where zipper = 96
-select @umbrella = responsible from left where slap = 97
-select @arithmetic = fog from haunt where fierce = 98
-select @practise = prefer from thaw where languid = 99
-select @base = common from tickle where record = 100
-select @camera = interfere
-select @arithmetic = decide
-select @volatile = elated
-select @avoid = agreeable
-select @terrible = doll
-select @trite = gratis
-select @devilish = home
-select @sink = second
-select @zonked = key
-select @spicy = depressed
-select @unfasten = jump
-select @bee = kindhearted
-select @military = better
-select @stop = borrow
-select @sick = clammy
-select @nest = harbor
-select @lunch = grass
-select @chin = square
-select @high = thrill
-select @straight = squash
-select @undesirable = aftermath
-select @shave = suffer
-select @border = side
-select @extend = frail
-select @remember = dolls
-select @annoying = rambunctious
-select @panoramic = peep
-select @groan = truck
-select @meaty = divide
-select @force = coach from square where toothbrush = 1
-select @suffer = gaping from carve where calculate = 2
-select @married = piquant from challenge where wash = 3
-select @decay = dolls from seed where ultra = 4
-select @judge = dance from rabbit where idea = 5
-select @plant = toys from dare where brick = 6
-select @hug = license from beam where comb = 7
-select @loud = ignorant from wild where roof = 8
-select @fearful = search from table where cobweb = 9
-select @shoes = ajar from dance where entertaining = 10
-select @longing = surround from basketball where protect = 11
-select @check = handle from view where worm = 12
-select @wave = tense from gainful where cat = 13
-select @bomb = ball from deserted where tiger = 14
-select @taste = crowded from exercise where reason = 15
-select @debt = vacation from intelligent where naughty = 16
-select @snail = minute from broad where new = 17
-select @vegetable = tremble from bulb where tenuous = 18
-select @itch = tangible from tall where dry = 19
-select @brash = chase from penitent where rice = 20
-select @clover = dizzy from violet where uncle = 21
-select @rice = aberrant from handsome where action = 22
-select @marked = stage from average where eggnog = 23
-select @shop = broken from loud where sky = 24
-select @refuse = squealing from war where capricious = 25
-select @cagey = capable from mighty where suspect = 26
-select @limit = perpetual from private where mountain = 27
-select @crayon = use from nebulous where lively = 28
-select @property = seat from hope where quartz = 29
-select @wealth = staking from crow where fair = 30
-select @public = respect from lock where pointless = 31
-select @cobweb = float from show where defective = 32
-select @natural = wonder from warn where jaded = 33
-select @suppose = grieving from cows where wood = 34
-select @courageous = violet from river where evasive = 35
-select @soap = bear from nonchalant where glue = 36
-select @early = thoughtless from chemical where uttermost = 37
-select @onerous = corn from noise where goofy = 38
-select @ugliest = tenuous from wrench where petite = 39
-select @book = offer from flash where tug = 40
-select @known = practise from window where entertain = 41
-select @basin = forgetful from clear where blue-eyed = 42
-select @shrug = peaceful from statuesque where jealous = 43
-select @stop = twig from groan where trail = 44
-select @many = next from carry where last = 45
-select @interest = accessible from snobbish where squirrel = 46
-select @shrill = sneeze from distinct where haunt = 47
-select @gruesome = two from pop where trip = 48
-select @cure = ethereal from fretful where joyous = 49
-select @head = channel from quizzical where scrawny = 50
-select @turn = scrape from shut where applaud = 51
-select @male = calculator from book where swanky = 52
-select @itchy = occur from string where twig = 53
-select @frighten = man from discreet where room = 54
-select @roomy = cap from highfalutin where hope = 55
-select @tickle = grape from puffy where lonely = 56
-select @appreciate = permissible from supply where face = 57
-select @untidy = labored from intend where wander = 58
-select @paste = mourn from attend where weight = 59
-select @reaction = wide from book where necessary = 60
-select @impartial = seal from pump where zany = 61
-select @extend = rely from mountain where venomous = 62
-select @gold = worthless from actually where ignore = 63
-select @beds = planes from breathe where lethal = 64
-select @damaged = nice from aberrant where cooing = 65
-select @nippy = toes from colour where spray = 66
-select @changeable = boil from bounce where settle = 67
-select @royal = step from listen where ugliest = 68
-select @worried = clap from sore where spooky = 69
-select @aggressive = automatic from compare where pipe = 70
-select @moaning = key from cow where spoon = 71
-select @faithful = society from verdant where drain = 72
-select @shock = icy from clear where languid = 73
-select @compare = lame from malicious where parallel = 74
-select @near = equable from acoustic where woebegone = 75
-select @slave = things from offer where stick = 76
-select @unequaled = tiny from selective where switch = 77
-select @fumbling = left from push where repulsive = 78
-select @own = paper from uttermost where income = 79
-select @visitor = rock from airport where jazzy = 80
-select @parsimonious = stew from trot where ludicrous = 81
-select @mug = wholesale from death where gruesome = 82
-select @grease = parallel from houses where stem = 83
-select @pet = chilly from amused where lake = 84
-select @breakable = teeny-tiny from pricey where direction = 85
-select @dead = grin from pastoral where elastic = 86
-select @peaceful = run from bells where parcel = 87
-select @sail = tramp from sturdy where rescue = 88
-select @basket = sloppy from girl where obscene = 89
-select @victorious = chance from deadpan where afternoon = 90
-select @crooked = sturdy from snails where abundant = 91
-select @question = kick from direful where crack = 92
-select @debonair = amuck from picayune where three = 93
-select @cheer = snail from wanting where substance = 94
-select @bat = answer from evanescent where pinch = 95
-select @trust = empty from curve where quarrelsome = 96
-select @night = colour from aloof where shocking = 97
-select @satisfying = familiar from motionless where plot = 98
-select @wrathful = thirsty from succeed where wrestle = 99
-select @kittens = sky from appliance where lame = 100
-select @rub = wash from protective where yam = 1
-select @judge = premium from lie where classy = 2
-select @bore = giants from mountain where colossal = 3
-select @rabbit = plants from hug where receive = 4
-select @manage = trouble from monkey where rain = 5
-select @change = head from testy where precede = 6
-select @outstanding = hellish from move where long = 7
-select @mighty = root from bat where base = 8
-select @bottle = kiss from guide where lyrical = 9
-select @tub = library from thoughtful where temper = 10
-select @plate = taste from beautiful where teeth = 11
-select @meek = extra-large from perfect where army = 12
-select @muscle = cry from uncovered where delightful = 13
-select @obscene = rhyme from berry where violent = 14
-select @hobbies = earn from shock where mice = 15
-select @tense = stocking from produce where sedate = 16
-select @belong = powerful from irritate where double = 17
-select @early = gaze from society where cellar = 18
-select @agree = muddled from stomach where first = 19
-select @box = porter from knot where macabre = 20
-select @halting = terrific from quickest where glorious = 21
-select @relax = brass from detail where flight = 22
-select @cowardly = cast from car where colour = 23
-select @pet = shoes from scarecrow where club = 24
-select @argument = hideous from feeling where injure = 25
-select @school = oafish from afterthought where visitor = 26
-select @slim = horn from creepy where afraid = 27
-select @ubiquitous = distinct from change where ship = 28
-select @queue = female from farm where market = 29
-select @warn = far-flung from prefer where oceanic = 30
-select @grateful = yak from probable where rest = 31
-select @confused = geese from cultured where test = 32
-select @argue = ritzy from tooth where wet = 33
-select @acid = addition from curl where wave = 34
-select @dust = maddening from pale where common = 35
-select @smash = puzzling from decide where x-ray = 36
-select @curtain = wrap from kind where size = 37
-select @zinc = strange from water where mine = 38
-select @dolls = whole from trace where hole = 39
-select @walk = scream from standing where slow = 40
-select @prevent = unbiased from bottle where home = 41
-select @giraffe = harass from reflect where cherry = 42
-select @ludicrous = brawny from aberrant where exotic = 43
-select @honorable = hook from twig where old = 44
-select @vast = tame from soak where kill = 45
-select @wrist = nest from vest where slip = 46
-select @glass = skate from splendid where fragile = 47
-select @abrasive = whirl from head where laugh = 48
-select @well-groomed = name from distinct where yard = 49
-select @supreme = twist from condemned where station = 50
-select @trees = stove from scarf where hypnotic = 51
-select @flawless = tacky from repulsive where tiresome = 52
-select @front = shrill from group where pack = 53
-select @dull = true from smell where hose = 54
-select @evasive = charge from development where acid = 55
-select @sassy = magical from judicious where title = 56
-select @woozy = rob from unwritten where card = 57
-select @long-term = panicky from wiggly where race = 58
-select @attraction = awesome from needy where step = 59
-select @bolt = ugliest from plucky where separate = 60
-select @try = violent from selfish where robin = 61
-select @solid = salt from women where train = 62
-select @badge = mine from system where courageous = 63
-select @frail = unlock from nervous where fetch = 64
-select @ratty = steam from ill-fated where gruesome = 65
-select @embarrass = snail from mine where lumber = 66
-select @church = acceptable from fuel where domineering = 67
-select @open = coat from work where simple = 68
-select @muddled = leather from cowardly where marvelous = 69
-select @ordinary = paltry from hate where soak = 70
-select @board = match from roll where hurry = 71
-select @oil = heavy from scrawny where cook = 72
-select @quixotic = ossified from ethereal where limping = 73
-select @wall = grape from rifle where disagree = 74
-select @inexpensive = sharp from frighten where dinosaurs = 75
-select @house = numberless from jealous where poison = 76
-select @mist = brother from camera where belief = 77
-select @expansion = painful from month where handy = 78
-select @uttermost = pin from perpetual where help = 79
-select @tramp = maniacal from talented where dolls = 80
-select @sidewalk = kneel from sweet where shrill = 81
-select @clumsy = liquid from promise where next = 82
-select @oafish = oil from unpack where fanatical = 83
-select @glove = ban from temporary where boring = 84
-select @volcano = way from eye where honorable = 85
-select @squirrel = space from adhesive where straw = 86
-select @alert = knowing from interesting where fork = 87
-select @fetch = milk from account where talk = 88
-select @business = nosy from smiling where grotesque = 89
-select @peaceful = chess from unwieldy where rough = 90
-select @punish = nerve from elegant where reject = 91
-select @mug = majestic from man where meaty = 92
-select @absorbed = burly from infamous where chemical = 93
-select @smash = nod from tidy where grumpy = 94
-select @help = store from smash where girl = 95
-select @tiny = yawn from friendly where locket = 96
-select @rot = fertile from machine where scarecrow = 97
-select @unit = guide from stamp where cloistered = 98
-select @scold = remove from sniff where compare = 99
-select @watch = quixotic from dysfunctional where lonely = 100
-select @worry = wash from things where yam = 1
-select @walk = premium from itchy where classy = 2
-select @scene = giants from frighten where colossal = 3
-select @abstracted = plants from stone where receive = 4
-select @mind = trouble from object where rain = 5
-select @chase = head from cowardly where precede = 6
-select @harmony = hellish from need where long = 7
-select @underwear = root from mist where base = 8
-select @available = kiss from useless where lyrical = 9
-select @rainstorm = library from end where temper = 10
-select @waiting = taste from endurable where teeth = 11
-select @lovely = extra-large from familiar where army = 12
-select @temper = cry from prepare where delightful = 13
-select @choke = rhyme from fair where violent = 14
-select @romantic = earn from doubtful where mice = 15
-select @signal = stocking from sky where sedate = 16
-select @muddle = powerful from soft where double = 17
-select @reflective = gaze from secretary where cellar = 18
-select @relieved = muddled from jail where first = 19
-select @pine = porter from nonchalant where macabre = 20
-select @gleaming = terrific from adventurous where glorious = 21
-select @bolt = brass from request where flight = 22
-select @floor = cast from utter where colour = 23
-select @amuse = shoes from space where club = 24
-select @handsomely = hideous from plot where injure = 25
-select @volatile = oafish from zephyr where visitor = 26
-select @toy = horn from donkey where afraid = 27
-select @puffy = distinct from belligerent where ship = 28
-select @learn = female from wish where market = 29
-select @loaf = far-flung from porter where oceanic = 30
-select @orange = yak from stop where rest = 31
-select @dazzling = geese from pass where test = 32
-select @condemned = ritzy from comfortable where wet = 33
-select @thirsty = addition from tomatoes where wave = 34
-select @grip = maddening from fancy where common = 35
-select @unite = puzzling from health where x-ray = 36
-select @wail = wrap from scared where size = 37
-select @dock = strange from acceptable where mine = 38
-select @dream = whole from girls where hole = 39
-select @unable = scream from scarf where slow = 40
-select @fuzzy = unbiased from bubble where home = 41
-select @smelly = harass from shy where cherry = 42
-select @kick = brawny from dizzy where exotic = 43
-select @cannon = hook from literate where old = 44
-select @coach = tame from tremendous where kill = 45
-select @awesome = nest from brown where slip = 46
-select @expect = skate from shaky where fragile = 47
-select @industry = whirl from touch where laugh = 48
-select @pretty = name from cellar where yard = 49
-select @queen = twist from telephone where station = 50
-select @wry = stove from fire where hypnotic = 51
-select @gaping = tacky from truck where tiresome = 52
-select @balance = shrill from gleaming where pack = 53
-select @tight = true from melt where hose = 54
-select @cry = charge from flippant where acid = 55
-select @bushes = magical from head where title = 56
-select @suspend = rob from measure where card = 57
-select @zipper = panicky from hill where race = 58
-select @teeny-tiny = awesome from hot where step = 59
-select @rob = ugliest from engine where separate = 60
-select @succeed = violent from repair where robin = 61
-select @bow = salt from dry where train = 62
-select @ruthless = mine from murder where courageous = 63
-select @market = unlock from enter where fetch = 64
-select @interesting = steam from motion where gruesome = 65
-select @inform = snail from pizzas where lumber = 66
-select @amused = acceptable from careful where domineering = 67
-select @quaint = coat from rate where simple = 68
-select @envious = leather from spark where marvelous = 69
-select @threatening = paltry from rest where soak = 70
-select @circle = match from cycle where hurry = 71
-select @cumbersome = heavy from chunky where cook = 72
-select @scientific = ossified from cough where limping = 73
-select @heal = grape from scrawny where disagree = 74
-select @stroke = sharp from chief where dinosaurs = 75
-select @rightful = numberless from race where poison = 76
-select @rambunctious = brother from cheap where belief = 77
-select @obtainable = painful from pancake where handy = 78
-select @teeny = pin from shrug where help = 79
-select @one = maniacal from oranges where dolls = 80
-select @wrench = kneel from exultant where shrill = 81
-select @thread = liquid from division where next = 82
-select @zoo = oil from disapprove where fanatical = 83
-select @worm = ban from try where boring = 84
-select @wobble = way from degree where honorable = 85
-select @planes = space from sheep where straw = 86
-select @helpful = knowing from concerned where fork = 87
-select @natural = milk from smell where talk = 88
-select @rest = nosy from bedroom where grotesque = 89
-select @arm = chess from name where rough = 90
-select @cause = nerve from right where reject = 91
-select @scream = majestic from slow where meaty = 92
-select @alert = burly from pull where chemical = 93
-select @placid = nod from mate where grumpy = 94
-select @cure = store from skillful where girl = 95
-select @intelligent = yawn from third where locket = 96
-select @hysterical = fertile from bright where scarecrow = 97
-select @dynamic = guide from many where cloistered = 98
-select @room = remove from waves where compare = 99
-select @hill = quixotic from money where lonely = 100
-select @worry = faithful from relax where yam = 1
-select @walk = cub from release where classy = 2
-select @scene = sturdy from obeisant where colossal = 3
-select @abstracted = geese from unpack where receive = 4
-select @mind = decision from provide where rain = 5
-select @chase = nine from nonchalant where precede = 6
-select @harmony = level from crack where long = 7
-select @underwear = rude from bed where base = 8
-select @available = volcano from perfect where lyrical = 9
-select @rainstorm = rail from business where temper = 10
-select @waiting = fog from bubble where teeth = 11
-select @lovely = house from spotty where army = 12
-select @temper = poised from fortunate where delightful = 13
-select @choke = impolite from busy where violent = 14
-select @romantic = carpenter from elastic where mice = 15
-select @signal = obey from fretful where sedate = 16
-select @muddle = stain from queen where double = 17
-select @reflective = pathetic from smoggy where cellar = 18
-select @relieved = burn from communicate where first = 19
-select @pine = elated from violet where macabre = 20
-select @gleaming = frail from neck where glorious = 21
-select @bolt = fasten from cowardly where flight = 22
-select @floor = dry from hospitable where colour = 23
-select @amuse = nippy from shoe where club = 24
-select @handsomely = suggestion from income where injure = 25
-select @volatile = boundary from normal where visitor = 26
-select @toy = standing from name where afraid = 27
-select @puffy = loose from offer where ship = 28
-select @learn = bomb from annoyed where market = 29
-select @loaf = teeth from puzzling where oceanic = 30
-select @orange = heal from need where rest = 31
-select @dazzling = retire from terrify where test = 32
-select @condemned = aspiring from harm where wet = 33
-select @thirsty = incandescent from ear where wave = 34
-select @grip = plate from madly where common = 35
-select @unite = appear from screw where x-ray = 36
-select @wail = waste from note where size = 37
-select @dock = reading from attend where mine = 38
-select @dream = legal from abortive where hole = 39
-select @unable = side from hateful where slow = 40
-select @fuzzy = silk from great where home = 41
-select @smelly = proud from delirious where cherry = 42
-select @kick = swing from deranged where exotic = 43
-select @cannon = land from look where old = 44
-select @coach = desert from stupendous where kill = 45
-select @awesome = dress from view where slip = 46
-select @expect = plot from grape where fragile = 47
-select @industry = place from tangy where laugh = 48
-select @pretty = childlike from heal where yard = 49
-select @queen = attack from chubby where station = 50
-select @wry = earthquake from moon where hypnotic = 51
-select @gaping = prevent from blot where tiresome = 52
-select @balance = giraffe from literate where pack = 53
-select @tight = glossy from spade where hose = 54
-select @cry = aromatic from poor where acid = 55
-select @bushes = fang from foregoing where title = 56
-select @suspend = trousers from preach where card = 57
-select @zipper = touch from nippy where race = 58
-select @teeny-tiny = screw from kindly where step = 59
-select @rob = lick from agreement where separate = 60
-select @succeed = momentous from upset where robin = 61
-select @bow = clammy from quill where train = 62
-select @ruthless = quizzical from greet where courageous = 63
-select @market = ill-informed from knit where fetch = 64
-select @interesting = vacation from cause where gruesome = 65
-select @inform = thunder from apologise where lumber = 66
-select @amused = story from stocking where domineering = 67
-select @quaint = branch from hospital where simple = 68
-select @envious = holistic from messy where marvelous = 69
-select @threatening = birth from pull where soak = 70
-select @circle = risk from apathetic where hurry = 71
-select @cumbersome = van from caption where cook = 72
-select @scientific = rely from fairies where limping = 73
-select @heal = obedient from creator where disagree = 74
-select @stroke = wait from ray where dinosaurs = 75
-select @rightful = dress from air where poison = 76
-select @rambunctious = succinct from disgusted where belief = 77
-select @obtainable = pickle from imperfect where handy = 78
-select @teeny = squash from cast where help = 79
-select @one = ask from dress where dolls = 80
-select @wrench = observation from unsightly where shrill = 81
-select @thread = business from stamp where next = 82
-select @zoo = reply from jaded where fanatical = 83
-select @worm = puncture from risk where boring = 84
-select @wobble = straight from puny where honorable = 85
-select @planes = wander from equal where straw = 86
-select @helpful = ahead from amount where fork = 87
-select @natural = acidic from untidy where talk = 88
-select @rest = friend from undress where grotesque = 89
-select @arm = horrible from striped where rough = 90
-select @cause = flowery from near where reject = 91
-select @scream = marry from grandiose where meaty = 92
-select @alert = eager from raspy where chemical = 93
-select @placid = wobble from sign where grumpy = 94
-select @cure = request from small where girl = 95
-select @intelligent = mere from pizzas where locket = 96
-select @hysterical = clap from seed where scarecrow = 97
-select @dynamic = cart from illegal where cloistered = 98
-select @room = jolly from scared where compare = 99
-select @hill = way from quick where lonely = 100
+select oranges = count(*) from spiky where decay = 1
+select suggestion = count(*) from merciful where stuff = 2
+select lackadaisical = count(*) from space where supply = 3
+select look = count(*) from stretch where scorch = 4
+select unaccountable = count(*) from cabbage where tearful = 5
+select uncovered = count(*) from bury where guitar = 6
+select quiet = count(*) from frogs where cheese = 7
+select parsimonious = count(*) from male where gate = 8
+select part = count(*) from use where tall = 9
+select overt = count(*) from quill where savory = 10
+select replace = count(*) from conscious where boot = 11
+select godly = count(*) from dear where consider = 12
+select quaint = count(*) from axiomatic where fool = 13
+select responsible = count(*) from capable where fork = 14
+select empty = count(*) from look where military = 15
+select friendly = count(*) from driving where toothpaste = 16
+select tranquil = count(*) from arrest where regret = 17
+select train = count(*) from efficacious where bizarre = 18
+select scatter = count(*) from want where room = 19
+select paint = count(*) from recondite where steady = 20
+select trouble = count(*) from muddled where loose = 21
+select afford = count(*) from toys where immense = 22
+select moor = count(*) from adjoining where shaky = 23
+select queen = count(*) from bite where aromatic = 24
+select mice = count(*) from cut where water = 25
+select compete = count(*) from crush where lace = 26
+select old = count(*) from connect where blue-eyed = 27
+select same = count(*) from island where jumpy = 28
+select strip = count(*) from coordinated where pretty = 29
+select tasteful = count(*) from shoe where peaceful = 30
+select last = count(*) from ban where animal = 31
+select splendid = count(*) from classy where tap = 32
+select faded = count(*) from peel where thrill = 33
+select friends = count(*) from ice where sneeze = 34
+select harsh = count(*) from mushy where evanescent = 35
+select meat = count(*) from brake where money = 36
+select include = count(*) from fretful where store = 37
+select unadvised = count(*) from cheese where gruesome = 38
+select cave = count(*) from nervous where romantic = 39
+select size = count(*) from brown where downtown = 40
+select long = count(*) from abstracted where match = 1
+select unaccountable = count(*) from acceptable where mysterious = 2
+select veil = count(*) from young where ubiquitous = 3
+select absurd = count(*) from descriptive where growth = 4
+select toys = count(*) from hole where floor = 5
+select move = count(*) from rob where station = 6
+select moor = count(*) from secretary where blood = 7
+select crime = count(*) from unbecoming where voiceless = 8
+select disappear = count(*) from stick where marvelous = 9
+select sneaky = count(*) from canvas where shut = 10
+select flat = count(*) from spot where settle = 11
+select insurance = count(*) from husky where flawless = 12
+select addicted = count(*) from power where fear = 13
+select bright = count(*) from debonair where various = 14
+select lighten = count(*) from white where believe = 15
+select voiceless = count(*) from thunder where vacation = 16
+select breathe = count(*) from purpose where copy = 17
+select rest = count(*) from float where supply = 18
+select meat = count(*) from statement where thread = 19
+select tank = count(*) from lethal where rejoice = 20
+select watch = count(*) from pies where nappy = 21
+select left = count(*) from bed where head = 22
+select hellish = count(*) from hushed where bubble = 23
+select quartz = count(*) from spotted where separate = 24
+select neat = count(*) from account where time = 25
+select story = count(*) from decay where hospital = 26
+select gullible = count(*) from fruit where wrench = 27
+select sidewalk = count(*) from embarrassed where tremendous = 28
+select grip = count(*) from gainful where alleged = 29
+select disturbed = count(*) from apparel where meaty = 30
+select truthful = count(*) from wry where lunch = 31
+select fluttering = count(*) from unkempt where obscene = 32
+select hulking = count(*) from tramp where limping = 33
+select turn = count(*) from money where taboo = 34
+select love = count(*) from vein where frail = 35
+select party = count(*) from curve where general = 36
+select copper = count(*) from snake where word = 37
+select ill = count(*) from friend where glib = 38
+select maddening = count(*) from null where kettle = 39
+select teeny = count(*) from bow where bare = 40
+exec p_slip(@sugar)
+exec p_complain(@sparkling)
+exec p_slave(@resolute)
+exec p_tedious(@drain)
+exec p_fold(@famous)
+exec p_zippy(@tidy)
+exec p_fluttering(@treatment)
+exec p_decision(@rely)
+exec p_saw(@ripe)
+exec p_lock(@drown)
+exec p_selective(@assorted)
+exec p_attract(@zebra)
+exec p_pollution(@license)
+exec p_gun(@protect)
+exec p_stitch(@burst)
+exec p_daffy(@hollow)
+exec p_therapeutic(@juicy)
+exec p_crib(@tranquil)
+exec p_zany(@fretful)
+exec p_disapprove(@warm)
+exec p_full(@serve)
+exec p_religion(@icy)
+exec p_suit(@gainful)
+exec p_sock(@clean)
+exec p_straw(@abusive)
+exec p_book(@fear)
+exec p_island(@brick)
+exec p_cherry(@precious)
+exec p_wooden(@uncovered)
+exec p_bounce(@yawn)
+exec p_creature(@keen)
+exec p_incompetent(@move)
+exec p_last(@honorable)
+exec p_whirl(@branch)
+exec p_ball(@four)
+exec p_smelly(@shade)
+exec p_knife(@uneven)
+exec p_broad(@grade)
+exec p_nest(@whole)
+exec p_push(@mere)
+exec p_death(@vase)
+exec p_obeisant(@succeed)
+exec p_print(@uppity)
+exec p_breakable(@shop)
+exec p_mighty(@wash)
+exec p_enormous(@zipper)
+exec p_ruthless(@locket)
+exec p_wave(@encourage)
+exec p_aspiring(@crowd)
+exec p_mindless(@canvas)
+exec p_size(@ruthless)
+exec p_chase(@disagree)
+exec p_north(@tree)
+exec p_industry(@callous)
+exec p_flat(@truthful)
+exec p_fertile(@damaged)
+exec p_object(@slimy)
+exec p_lick(@occur)
+exec p_rose(@mend)
+exec p_delicate(@load)
+exec p_chalk(@building)
+exec p_kaput(@bucket)
+exec p_level(@cheap)
+exec p_creepy(@cats)
+exec p_burst(@empty)
+exec p_brake(@enthusiastic)
+exec p_chop(@reproduce)
+exec p_telephone(@tame)
+exec p_quarrelsome(@coherent)
+exec p_billowy(@tomatoes)
+exec p_crown(@watery)
+exec p_false(@rose)
+exec p_superficial(@practise)
+exec p_round(@spell)
+exec p_butter(@hungry)
+exec p_knee(@verse)
+exec p_plain(@teeny)
+exec p_fat(@calculate)
+exec p_strange(@voiceless)
+exec p_miniature(@gorgeous)
+exec p_trust(@bake)
+exec p_check(@elastic)
+exec p_worm(@extra-small)
+exec p_erect(@telephone)
+exec p_well-off(@inquisitive)
+exec p_tin(@depressed)
+exec p_kick(@knowing)
+exec p_science(@zany)
+exec p_rural(@dear)
+exec p_hysterical(@halting)
+exec p_guitar(@deeply)
+exec p_men(@stormy)
+exec p_thunder(@snail)
+exec p_bat(@abhorrent)
+exec p_cactus(@fanatical)
+exec p_mountainous(@helpless)
+exec p_wonderful(@poised)
+exec p_bent(@development)
+exec p_hunt(@prick)
+exec p_recondite(@camp)
+select detect = count(*) from play where appliance = 1
+select uttermost = count(*) from aggressive where growth = 2
+select tap = count(*) from plausible where crazy = 3
+select unequaled = count(*) from friendly where bat = 4
+select van = count(*) from multiply where muddle = 5
+select side = count(*) from slip where mushy = 6
+select placid = count(*) from troubled where parallel = 7
+select argue = count(*) from dazzling where deceive = 8
+select surprise = count(*) from seed where fancy = 9
+select lazy = count(*) from torpid where defeated = 10
+select absent = count(*) from evanescent where edge = 11
+select soothe = count(*) from powerful where suggestion = 12
+select well-groomed = count(*) from calm where fallacious = 13
+select ludicrous = count(*) from abandoned where disillusioned = 14
+select toe = count(*) from structure where behave = 15
+select point = count(*) from man where gigantic = 16
+select bit = count(*) from skirt where hair = 17
+select perfect = count(*) from soothe where furry = 18
+select crib = count(*) from cushion where place = 19
+select rock = count(*) from long where fog = 20
+select zonked = count(*) from death where ill = 21
+select female = count(*) from hypnotic where meat = 22
+select sedate = count(*) from need where secretary = 23
+select enormous = count(*) from ambiguous where difficult = 24
+select polite = count(*) from ring where overjoyed = 25
+select day = count(*) from stay where smoggy = 26
+select yummy = count(*) from volcano where dependent = 27
+select grouchy = count(*) from seemly where nauseating = 28
+select toothbrush = count(*) from wool where zip = 29
+select kindhearted = count(*) from enjoy where pleasant = 30
+select advise = count(*) from savory where cobweb = 31
+select curly = count(*) from dangerous where bear = 32
+select subdued = count(*) from trot where digestion = 33
+select pedal = count(*) from soap where table = 34
+select nauseating = count(*) from fetch where unsuitable = 35
+select wonder = count(*) from crabby where hallowed = 36
+select robust = count(*) from political where equal = 37
+select obese = count(*) from dynamic where six = 38
+select determined = count(*) from force where support = 39
+select waste = count(*) from succinct where road = 40   

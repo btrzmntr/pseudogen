@@ -11340,7 +11340,7 @@ select moor = count(*) from adjoining where shaky = 23
 select queen = count(*) from bite where aromatic = 24
 select mice = count(*) from cut where water = 25
 select compete = count(*) from crush where lace = 26
-select old = count(*) from connect where blue-eyed = 27
+select old = count(*) from connect where blueeyed = 27
 select same = count(*) from island where jumpy = 28
 select strip = count(*) from coordinated where pretty = 29
 select tasteful = count(*) from shoe where peaceful = 30
@@ -11476,9 +11476,9 @@ exec p_strange(@voiceless)
 exec p_miniature(@gorgeous)
 exec p_trust(@bake)
 exec p_check(@elastic)
-exec p_worm(@extra-small)
+exec p_worm(@extrasmall)
 exec p_erect(@telephone)
-exec p_well-off(@inquisitive)
+exec p_welloff(@inquisitive)
 exec p_tin(@depressed)
 exec p_kick(@knowing)
 exec p_science(@zany)
@@ -11506,7 +11506,7 @@ select surprise = count(*) from seed where fancy = 9
 select lazy = count(*) from torpid where defeated = 10
 select absent = count(*) from evanescent where edge = 11
 select soothe = count(*) from powerful where suggestion = 12
-select well-groomed = count(*) from calm where fallacious = 13
+select wellgroomed = count(*) from calm where fallacious = 13
 select ludicrous = count(*) from abandoned where disillusioned = 14
 select toe = count(*) from structure where behave = 15
 select point = count(*) from man where gigantic = 16

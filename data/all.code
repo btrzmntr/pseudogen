@@ -12037,3 +12037,9 @@ create procedure deep @cap int
 create procedure adventurous @bead int
 create procedure physical @supreme int
 create procedure feigned @walk int
+table002his
+qtycon
+tablecon
+conid
+dbo.F_verifyContracts
+exec p_giveDiscount

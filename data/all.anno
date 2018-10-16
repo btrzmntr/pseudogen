@@ -12037,3 +12037,9 @@ create a procedure called deep which receives an integer cap as input parameter
 create a procedure called adventurous which receives an integer bead as input parameter
 create a procedure called physical which receives an integer supreme as input parameter
 create a procedure called feigned which receives an integer walk as input parameter
+history table
+contracts quantity
+contract table
+client id   
+which Verify contracts quantity
+which Give a discount to a client

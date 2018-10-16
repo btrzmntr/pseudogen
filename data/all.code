@@ -12043,3 +12043,9 @@ tablecon
 conid
 dbo.F_verifyContracts
 exec p_giveDiscount
+table002his
+qtycon
+tablecon
+conid
+dbo.F_verifyContracts
+exec p_giveDiscount
